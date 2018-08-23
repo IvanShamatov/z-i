@@ -244,7 +244,6 @@
 94-237-35-44.fi-hel1.host.upcloud.com
 94-237-35-45.fi-hel1.host.upcloud.com
 94-237-39-73.fi-hel1.host.upcloud.com
-94-237-46-137.nl-ams1.host.upcloud.com
 94-237-51-137.uk-lon1.host.upcloud.com
 9435bf.olimp6b96.top
 94689a.olimpe24a.top
@@ -308,6 +307,7 @@ angelbags.ru
 anime-tracker.tech
 avsabc.xyz
 azartlive.com
+azpvip.com
 aztraf.in
 b1fecf.olimp876c.site
 b2f150.olimp58e7.top
@@ -991,7 +991,6 @@ trudyaroslavl.com
 trutor.pl
 tttbet.site
 tushkan-net.club
-tusovkann.com
 tut-mp3.ru
 tylerspitehouse.com
 ukip168.webcannon.com
