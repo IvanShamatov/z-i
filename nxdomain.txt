@@ -246,6 +246,7 @@
 94-237-35-44.fi-hel1.host.upcloud.com
 94-237-35-45.fi-hel1.host.upcloud.com
 94-237-39-73.fi-hel1.host.upcloud.com
+94-237-46-137.nl-ams1.host.upcloud.com
 94-237-51-137.uk-lon1.host.upcloud.com
 9435bf.olimp6b96.top
 95847a.olimp656f.top
@@ -951,7 +952,6 @@ sp1040.com
 sp1051.com
 space.rucdn.pw
 spishy-ru.ru
-spisok.ladyhappy.ru
 sport-1x-bet.com
 sporthd.net
 sporting1122.com
