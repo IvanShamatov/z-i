@@ -37,6 +37,7 @@
 163-172-51-187.rev.poneytelecom.eu
 163-172-51-75.rev.poneytelecom.eu
 163-172-55-20.rev.poneytelecom.eu
+163-172-55-58.rev.poneytelecom.eu
 163-172-55-65.rev.poneytelecom.eu
 165182.olimp656f.top
 1698fa225768062b22.c2ef25.e3b227af32e4d25d50.xyz
@@ -824,7 +825,6 @@ orenburg-indi.ru
 pasportkup.com
 pass2dok.com
 ph.net.space.rucdn.pw
-pharmacology-m.top
 photocodeathome.info
 pickfilm.unblocked2.eu
 piratbit.ru
@@ -854,6 +854,7 @@ r9.hdrezka-online.ru
 rabota77wow.ru
 rabota7wow.ru
 registratsiya1.ru
+registratsiya2.ru
 research.url.net.space.rucdn.pw
 resheba.ru
 rider-play.com
@@ -964,7 +965,6 @@ tebe-diplom.com
 telegram.works
 test1.plusminus1.com
 test2.plusminus1.com
-test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
@@ -1281,6 +1281,7 @@ zerkalo646.ru
 zerkalobuk.xyz
 zerkalodesign.xyz
 zerkaloworld.xyz
+zerkalsfon.ru
 zerx.tv
 zhivago.biz
 znakomstvo.cz
