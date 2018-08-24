@@ -94,6 +94,7 @@
 212-129-20-177.rev.poneytelecom.eu
 212-129-24-110.rev.poneytelecom.eu
 212-129-26-218.rev.poneytelecom.eu
+212-129-31-111.rev.poneytelecom.eu
 212-129-57-108.rev.poneytelecom.eu
 2137ef.olimp98b4.top
 216802.olimp1958.top
@@ -661,12 +662,10 @@ m.100bkwb.com
 m.200windgoldbk.com
 m.202goldwndbt.com
 m.bkwbgold.com
-m.bkwndbt11.com
 m.mp3-tut.biz
 m.windgoldbk.com
 m.wndbt.com
 m.wndbt100.com
-m.wndbtbk10.com
 m10.300kbit.pw
 m10.mp3-tut.biz
 m11.mp3-tut.biz
@@ -982,6 +981,7 @@ tankodrop.ru
 tchaykovsky.info
 tebe-diplom.com
 telegram.works
+test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
