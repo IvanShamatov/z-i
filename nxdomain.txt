@@ -251,6 +251,7 @@
 94-237-35-44.fi-hel1.host.upcloud.com
 94-237-35-45.fi-hel1.host.upcloud.com
 94-237-39-73.fi-hel1.host.upcloud.com
+94-237-46-137.nl-ams1.host.upcloud.com
 94-237-51-137.uk-lon1.host.upcloud.com
 9435bf.olimp6b96.top
 94689a.olimpe24a.top
@@ -400,7 +401,6 @@ cheetah.aussiewebhost.com.au
 cherepovets.xxxrus.org
 chita.xxxrus.org
 chpokkypiski.ru
-citiklad.com
 cloud-ptr183.tavu.io
 cms.vds2.cll.su
 company.ph.net.space.rucdn.pw
