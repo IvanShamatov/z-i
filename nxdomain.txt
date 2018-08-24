@@ -521,7 +521,6 @@ gdzv.ru
 gembu.host
 gidonlines.ru
 go-marafon-9e65.win
-go-marafon-b495.win
 go-marafon-d77f.win
 go-marafon-ff6b.win
 goldenshara5-net.freeproxy.fun
@@ -689,10 +688,7 @@ m8.mp3-tut.biz
 m9.mp3-tut.biz
 mail.torrent.by
 main-tracker.site
-marafon-bk-63f0.win
-marafon-bk-f006.win
 marafon-mirror-7edd.win
-marafon-mirror-fdd.win
 marafonbk.website
 marathon-bet.website
 media-rs.info
@@ -1268,8 +1264,6 @@ zenitom.win
 zenitop.win
 zenitwer.win
 zerkalakantor.website
-zerkalo-marafon-2b90.win
-zerkalo-marafon-fb31.win
 zerkalo-rutor.su
 zerkalo473.ru
 zerkalo487.ru
