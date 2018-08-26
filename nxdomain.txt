@@ -875,7 +875,6 @@ nnm-torrent.gq
 nnmclub-new.gq
 nontor-club.ml
 nontor-club.tk
-nontorclub.ga
 nontorclub.gq
 novokuznetsk.xxxrus.org
 nyx.bouwsoft.be
