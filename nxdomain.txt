@@ -644,6 +644,7 @@ himki.damdiplom.com
 host.eucloud101.net
 host157.megaoffer.net
 host84.hot-offer.org
+ifima.ru
 ifinansy.ru
 igdz.ru
 iiibet.ru
@@ -1081,7 +1082,6 @@ stalin.biz.black
 stavropol.damdiplom.com
 stephchemstore.com
 strongpharm1.com
-stroyudo.com
 superbotanik.ru
 sx1530.com
 syktyvkar.damdiplom.com
