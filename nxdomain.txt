@@ -956,7 +956,6 @@ rkngov.top
 rmeventos2.com.br
 rostov-na-donu.damdiplom.com
 rostov.poluchiprava.com
-roylrc.biz
 rs-24.biz
 ru.adleon1.com
 ru.adleon10.com
@@ -1104,9 +1103,6 @@ tankodrop.ru
 tchaykovsky.info
 teagur.ru
 telegram.works
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
@@ -1348,7 +1344,6 @@ www.pleer.net
 www.podsek.ru
 www.prokinozal.ru
 www.resheba.ru
-www.roylrc.biz
 www.rs-24.biz
 www.rufilm.tv
 www.rus-rutor.info
