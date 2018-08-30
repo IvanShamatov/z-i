@@ -701,7 +701,6 @@ kinogo.realty
 kinogo.rip
 kinogo.su
 kinogo1.online
-kinogofilm.tk
 kinogohd1080.net
 kinogohd720.ru
 kinogotv.ru
@@ -1106,6 +1105,9 @@ tankodrop.ru
 tchaykovsky.info
 teagur.ru
 telegram.works
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
