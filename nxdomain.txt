@@ -1196,7 +1196,6 @@ wap.betcity-24.top
 wap.betcity-bk.top
 wap.betcityru2.top
 wap.betsbc-24.top
-wap.betsbc2.top
 wap.google.comuk.top
 wap.rus-betcity.top
 waplib.org
@@ -1287,7 +1286,6 @@ www.betcity-24.top
 www.betcity-bk.top
 www.betcityru2.top
 www.betsbc-24.top
-www.betsbc2.top
 www.bk1x-520.com
 www.bkfonbet39.online
 www.bo-tan.ru
@@ -1325,6 +1323,7 @@ www.ikino.su
 www.karaokevideo.ru
 www.karaopa.ru
 www.kinino.ru
+www.kino-online.top
 www.kino-serialu.ru
 www.kino777.ru
 www.kinobomz.tv
