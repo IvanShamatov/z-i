@@ -994,7 +994,6 @@ ru.leon771.com
 ru.leon7up.com
 ru.leonandroid.com
 ru.leonb52.com
-ru.leonconnect.com
 ru.leonfanta.com
 ru.leongood.com
 ru.leonhod.com
@@ -1005,7 +1004,6 @@ ru.leonmix.com
 ru.leonnuvip9.com
 ru.leonnvvip5.com
 ru.leonpepsi.com
-ru.leonpochta.com
 ru.leonrobin.com
 ru.leonrossia.com
 ru.leonrun.com
