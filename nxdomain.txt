@@ -299,6 +299,7 @@
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-35-44.fi-hel1.host.upcloud.com
 94-237-35-45.fi-hel1.host.upcloud.com
+94-237-37-210.fi-hel1.host.upcloud.com
 94-237-39-73.fi-hel1.host.upcloud.com
 9435bf.olimp6b96.top
 94689a.olimpe24a.top
@@ -522,6 +523,7 @@ daddf0b1adb8560edc.c2ef25.db534bb0cc17aa05bc.xyz
 damdiplom.com
 danaru.eighbour11.com
 dark.kino.pub
+darvin-rc.biz
 dc8ad8.olimpfc65.top
 dchomelessplan.com
 dd05a2.olimpb138.top
