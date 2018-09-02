@@ -311,6 +311,7 @@
 94-237-37-210.fi-hel1.host.upcloud.com
 94-237-39-73.fi-hel1.host.upcloud.com
 94-237-46-65.nl-ams1.host.upcloud.com
+94-237-49-188.uk-lon1.host.upcloud.com
 9435bf.olimp6b96.top
 94689a.olimpe24a.top
 95847a.olimp656f.top
@@ -860,7 +861,6 @@ mobdnep.pw
 mobi-slots.ru
 moshchnyj-magnit-moskva.com
 mostbet.cm
-mostbet.ug
 mp-01.smartdirectroute.net
 mp-02.smartdirectroute.net
 mp-03.smartdirectroute.net
