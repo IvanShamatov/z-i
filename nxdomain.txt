@@ -39,6 +39,7 @@
 163-172-105-67.rev.poneytelecom.eu
 163-172-105-68.rev.poneytelecom.eu
 163-172-106-86.rev.poneytelecom.eu
+163-172-113-210.rev.poneytelecom.eu
 163-172-114-46.rev.poneytelecom.eu
 163-172-120-220.rev.poneytelecom.eu
 163-172-33-137.rev.poneytelecom.eu
@@ -556,6 +557,7 @@ diplomru.pro
 diploms-tut-perm.ru
 diploms74.com
 diplomysrf.ru
+doghunter.to
 dok911.ru
 dom-10.ru
 dom-filmov.ru
