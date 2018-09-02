@@ -52,7 +52,6 @@
 1698fa225768062b22.c2ef25.e3b227af32e4d25d50.xyz
 177040.olimp27fe.top
 18.members.linode.com
-185-26-49-219.fi-hel1.host.upcloud.com
 1877helpline.com
 1918a8.olimpa88c.site
 1ac83b.olimp9b55.gdn
@@ -136,11 +135,13 @@
 212-129-19-40.rev.poneytelecom.eu
 212-129-20-177.rev.poneytelecom.eu
 212-129-24-110.rev.poneytelecom.eu
+212-129-24-202.rev.poneytelecom.eu
 212-129-26-159.rev.poneytelecom.eu
 212-129-26-218.rev.poneytelecom.eu
 212-129-27-61.rev.poneytelecom.eu
 212-129-31-111.rev.poneytelecom.eu
 212-129-57-108.rev.poneytelecom.eu
+212-129-57-71.rev.poneytelecom.eu
 212-129-59-89.rev.poneytelecom.eu
 2137ef.olimp98b4.top
 216802.olimp1958.top
@@ -747,6 +748,7 @@ kinorom.com
 kinosklad-live.ru
 kinovips.me
 kinozal.cc
+kinozal.pro
 kinozz.tv
 kolomna.damdiplom.com
 komywifi.ru
