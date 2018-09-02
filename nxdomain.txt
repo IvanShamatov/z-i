@@ -136,6 +136,7 @@
 212-129-19-40.rev.poneytelecom.eu
 212-129-20-177.rev.poneytelecom.eu
 212-129-24-110.rev.poneytelecom.eu
+212-129-26-159.rev.poneytelecom.eu
 212-129-26-218.rev.poneytelecom.eu
 212-129-27-61.rev.poneytelecom.eu
 212-129-31-111.rev.poneytelecom.eu
