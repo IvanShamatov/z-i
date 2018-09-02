@@ -279,6 +279,7 @@
 82a644f28b1eceef63.c2ef25.e3b227af32e4d25d50.xyz
 82cecd.olimpfc65.top
 83-136-248-179.uk-lon1.host.upcloud.com
+83-136-253-222.uk-lon1.host.upcloud.com
 831c45741b2b0a85d3.c2ef25.0387bbb3a413b5c52e.xyz
 837c1c.olimp786f.top
 83a755.olimp58e7.top
@@ -315,7 +316,6 @@
 94-237-37-210.fi-hel1.host.upcloud.com
 94-237-39-73.fi-hel1.host.upcloud.com
 94-237-46-65.nl-ams1.host.upcloud.com
-94-237-49-188.uk-lon1.host.upcloud.com
 9435bf.olimp6b96.top
 94689a.olimpe24a.top
 95847a.olimp656f.top
@@ -1165,6 +1165,8 @@ teagur.ru
 tekwondo.ru
 tele-go.net
 telegram.works
+test1.plusminus1.com
+test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
@@ -1365,6 +1367,7 @@ www.films-one.ru
 www.films-skorpik.com
 www.fonbet114.vip
 www.fonbet82.vip
+www.fonbet83.vip
 www.fonbet86.vip
 www.fonbet88.vip
 www.fonbet90.vip
