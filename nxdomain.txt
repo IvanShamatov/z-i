@@ -1117,7 +1117,6 @@ serge-tobaccolife.website
 serial-z.online
 serialhit.tv
 serials.cdn-x.ru
-serials.hackflix.ru
 serials.themoviebay.ru
 service.rkngov.top
 sevastopol.damdiplom.com
@@ -1170,8 +1169,6 @@ teagur.ru
 tekwondo.ru
 tele-go.net
 telegram.works
-test1.plusminus1.com
-test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
