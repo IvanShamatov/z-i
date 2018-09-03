@@ -317,7 +317,6 @@
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-35-44.fi-hel1.host.upcloud.com
 94-237-35-45.fi-hel1.host.upcloud.com
-94-237-37-210.fi-hel1.host.upcloud.com
 94-237-39-73.fi-hel1.host.upcloud.com
 94-237-46-65.nl-ams1.host.upcloud.com
 9435bf.olimp6b96.top
@@ -559,6 +558,7 @@ df0431.olimpfc65.top
 dfmotors.ru
 diplomru.pro
 diploms-tut-perm.ru
+diploms177.com
 diploms74.com
 diplomysrf.ru
 dok911.ru
@@ -666,6 +666,7 @@ gdzb.ru
 gdzpop.com
 geishy.info
 gembu.host
+gentle.club
 gidonline.pro
 gidonlines.ru
 gmslots777.xyz
@@ -1168,6 +1169,8 @@ teagur.ru
 tekwondo.ru
 tele-go.net
 telegram.works
+test1.plusminus1.com
+test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
