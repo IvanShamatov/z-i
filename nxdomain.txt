@@ -408,8 +408,8 @@
 94-237-26-135.de-fra1.host.upcloud.com
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-28-227.de-fra1.host.upcloud.com
+94-237-45-159.nl-ams1.host.upcloud.com
 94-237-45-173.nl-ams1.host.upcloud.com
-94-237-45-48.nl-ams1.host.upcloud.com
 94-237-46-137.nl-ams1.host.upcloud.com
 94-237-46-50.nl-ams1.host.upcloud.com
 94-237-46-65.nl-ams1.host.upcloud.com
@@ -791,6 +791,7 @@ fonbet7.space
 fonbet70.com
 fonbet71.vip
 fonbet72.com
+fonbet74.com
 fonbet75.com
 fonbet76.com
 fonbet78.com
@@ -1005,6 +1006,7 @@ mail.torrent.by
 main-tracker.site
 main.magnit-na-schetchik.su
 marathonbetru.space
+massivebet.net
 matchreg.ru
 medblanks.info
 media-rs.info
@@ -1583,6 +1585,7 @@ www.agency-secret.ru
 www.akhbarsham.info
 www.alconights.site
 www.allserials.tv
+www.amatureteen.club
 www.anamvseravno.ru
 www.anime-tracker.tech
 www.avtomatixxx.com
