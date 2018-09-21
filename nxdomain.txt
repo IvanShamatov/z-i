@@ -411,7 +411,6 @@
 94-237-26-135.de-fra1.host.upcloud.com
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-28-227.de-fra1.host.upcloud.com
-94-237-45-159.nl-ams1.host.upcloud.com
 94-237-45-173.nl-ams1.host.upcloud.com
 94-237-46-137.nl-ams1.host.upcloud.com
 94-237-46-50.nl-ams1.host.upcloud.com
@@ -636,6 +635,7 @@ cdc680.olimp9b55.gdn
 ce124a.olimp58e7.top
 cf1337.olimp1960.top
 cf80b4f745d72e31c2.c2ef25.6c21b7e8561c55c684.xyz
+charismabijou.ru
 cheetah.aussiewebhost.com.au
 cloud-ptr183.tavu.io
 cloud1.cloud.local
@@ -997,7 +997,6 @@ magnet34.ru
 mail-merge.denticulately.com
 mail.torrent.by
 main-tracker.site
-main.magnit-na-schetchik.su
 marathonbetru.space
 massivebet.net
 matchreg.ru
@@ -1158,7 +1157,6 @@ probukmeker1.com
 prokinozal.ru
 prostitutki-barnaula.veryhotly.ru
 prostitutki-bryanska.sexytricks.ru
-prostitutki-chity.sexy-tricks.ru
 prostitutki-kazani.sexytricks.ru
 prostitutki-novokuznecka.sexytricks.ru
 prostitutki-omska.sexytricks.ru
@@ -1252,6 +1250,8 @@ registratsiya65.ru
 registratsiya75.ru
 registratsiya78.ru
 registratsiya81.ru
+registratsiya83.ru
+registratsiya84.ru
 research.url.net.space.rucdn.pw
 resheba.ru
 rkngov.top
@@ -1371,7 +1371,6 @@ superbotanik.ru
 sx1530.com
 tel240918.com
 test1.plusminus1.com
-test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
