@@ -534,7 +534,10 @@ betcity-play.space
 betcity-rate.space
 betcity-sport.top
 betcity-stavki.club
+betcity-zerkalo1.ru
+betcity-zerkalo3.ru
 betcity-zerkalo4.ru
+betcity-zerkalo5.ru
 betcity2.ru
 betcity24.top
 betcity333.space
@@ -853,7 +856,6 @@ kino-go.org
 kino-hd1080.ru
 kino-krad.online
 kino-lives.ru
-kino-netu.ru
 kino-online.top
 kino-profi.org
 kino-rip.eu
@@ -1719,7 +1721,6 @@ www.kinogo-online.net
 www.kinokrad.ru
 www.kupi-sk.ru
 www.kupit-diplms.com
-www.kupit-spravku.org
 www.lifefilm.info
 www.listock.ru.onion.gold
 www.lithub.ru
