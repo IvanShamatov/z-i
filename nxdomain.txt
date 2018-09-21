@@ -431,7 +431,6 @@
 94-237-51-190.uk-lon1.host.upcloud.com
 94-237-8-223.fi-hel2.host.upcloud.com
 94-237-81-76.de-fra1.host.upcloud.com
-94-237-86-139.de-fra1.host.upcloud.com
 94-237-86-179.de-fra1.host.upcloud.com
 9435bf.olimp6b96.top
 94689a.olimpe24a.top
@@ -476,7 +475,6 @@ af48eb.olimpef97.site
 af7a7a.olimpd9f7.top
 afcf01.olimp1a50.top
 agrosmart.com.ua
-alcodostavka.info
 alkomagnit.info
 allserials.tv
 anamvseravno.ru
@@ -844,7 +842,6 @@ iiibet.ru
 iilliii.ru
 ikino.su
 indi-kursk.ru
-ingushetiyaru.org
 intimkirov.com
 irmanioradze.ru
 islamumma.net
