@@ -263,6 +263,7 @@
 50e9289a2f8ed569c5.c2ef25.6c21b7e8561c55c684.xyz
 51-15-155-59.rev.poneytelecom.eu
 51-15-157-205.rev.poneytelecom.eu
+51-15-157-216.rev.poneytelecom.eu
 5112017.org
 5135a9.olimp786f.top
 5136ee.olimp1897.top
@@ -404,8 +405,6 @@
 925e40.olimp3043.top
 939245.olimp1958.top
 93a69b.olimp12da.top
-94-237-10-12.fi-hel2.host.upcloud.com
-94-237-10-13.fi-hel2.host.upcloud.com
 94-237-10-178.fi-hel2.host.upcloud.com
 94-237-10-230.fi-hel2.host.upcloud.com
 94-237-26-135.de-fra1.host.upcloud.com
