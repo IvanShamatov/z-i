@@ -159,6 +159,8 @@
 20.300kbit.pw
 203556.olimpd7c0.top
 205716.olimp876c.site
+209-50-54-128.us-chi1.host.upcloud.com
+209-50-54-226.us-chi1.host.upcloud.com
 212-129-0-191.rev.poneytelecom.eu
 212-129-0-193.rev.poneytelecom.eu
 212-129-16-85.rev.poneytelecom.eu
@@ -851,7 +853,6 @@ go-az-mob-go.xyz
 go4slots.com
 goldazartwins.com
 goldenshara.net
-goldwndbt.com
 goodkino.net
 google.comuk.top
 gorilaz.24biz.bz
