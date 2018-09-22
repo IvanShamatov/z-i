@@ -1113,6 +1113,7 @@ new.pari-matchbk8.com
 new.parimatchbk1.com
 new.parimatchbk5.com
 new.winline180.com
+new.winline200.com
 news.bkparimatch3.com
 news.bkparimatch6.com
 news.bkparimatch7.com
@@ -1325,7 +1326,6 @@ server.dastko.com
 service.rkngov.top
 sffs992.com
 shamarc.ms.
-shlupka-tv.com
 skachat-torrent.org
 skilltools.org
 slavaangel.com
