@@ -1303,7 +1303,6 @@ rutor.onion.lu
 rutor2.pl
 rutorrents.ml
 rutracker-in.info
-rutracker-pro.ml
 rutracker-pro.org
 rutracker-pro.tk
 s.mogoyun.com
