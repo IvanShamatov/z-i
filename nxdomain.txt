@@ -417,7 +417,6 @@
 94-237-26-135.de-fra1.host.upcloud.com
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-28-227.de-fra1.host.upcloud.com
-94-237-45-151.nl-ams1.host.upcloud.com
 94-237-46-137.nl-ams1.host.upcloud.com
 94-237-46-50.nl-ams1.host.upcloud.com
 94-237-46-65.nl-ams1.host.upcloud.com
@@ -887,6 +886,7 @@ jjjbet.site
 jm.24biz.bz
 joycasinozerkalo.com
 k.fb2.online
+kama-udochka.com
 karaokevideo.ru
 karaopa.ru
 karavanrc.24biz.bz
