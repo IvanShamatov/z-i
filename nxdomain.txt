@@ -416,6 +416,7 @@
 94-237-26-135.de-fra1.host.upcloud.com
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-28-227.de-fra1.host.upcloud.com
+94-237-45-151.nl-ams1.host.upcloud.com
 94-237-46-137.nl-ams1.host.upcloud.com
 94-237-46-50.nl-ams1.host.upcloud.com
 94-237-46-65.nl-ams1.host.upcloud.com
