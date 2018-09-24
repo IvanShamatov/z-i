@@ -1376,7 +1376,6 @@ rutor2.pl
 rutorrents.ml
 rutracker-in.info
 rutracker-pro.org
-rutracker-pro.tk
 s.mogoyun.com
 s268.24biz.bz
 s61.fastsrv.com
@@ -1384,6 +1383,7 @@ salescoupon.net
 saving-music.com
 saving-music.ru
 secretstore.24biz.bz
+seedbanda.cc
 serial-z.online
 serialhit.tv
 serials.cdn-x.ru
