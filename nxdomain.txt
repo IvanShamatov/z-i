@@ -1114,8 +1114,10 @@ mostpartbest.com
 mostpartmoney.com
 mostpartpic.com
 mp-01.smartdirectroute.club
+mp-02.fbmetrix.club
 mp-02.smartdirectroute.club
 mp-03.smartdirectroute.club
+mp-04.fbmetrix.club
 mp-04.smartdirectroute.club
 mp-05.smartdirectroute.club
 mp3.open.az
