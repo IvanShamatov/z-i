@@ -420,7 +420,6 @@
 94-237-26-135.de-fra1.host.upcloud.com
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-28-227.de-fra1.host.upcloud.com
-94-237-44-147.nl-ams1.host.upcloud.com
 94-237-46-137.nl-ams1.host.upcloud.com
 94-237-46-50.nl-ams1.host.upcloud.com
 94-237-46-65.nl-ams1.host.upcloud.com
@@ -766,6 +765,7 @@ efd076.olimp9b55.gdn
 ekibastos.ru
 electrostop.ru
 ero-storu-svetlana.com
+eteenbeep.com
 europacaz.com
 expertcazino.com
 f0658f.olimp31d2.top
