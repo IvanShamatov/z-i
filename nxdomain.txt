@@ -494,7 +494,6 @@ appz1.me
 appz6.me
 appz8.me
 arizonaslots.net
-artesc.su
 aushka.24biz.bz
 avsabc.xyz
 avtomaty-online.biz
@@ -1016,6 +1015,9 @@ m.pari-matchbet9.com
 m.pari-matchbk4.com
 m.pari-matchbk5.com
 m.pari-matchbk8.com
+m.parimatchbets2.com
+m.parimatchbets4.com
+m.parimatchbets9.com
 m.parimatchbk1.com
 m.parimatchbk5.com
 m.zenitak.win
@@ -1187,6 +1189,7 @@ new.pari-matchbet9.com
 new.pari-matchbk4.com
 new.pari-matchbk5.com
 new.pari-matchbk8.com
+new.parimatchbets2.com
 new.parimatchbets4.com
 new.parimatchbets9.com
 new.parimatchbk1.com
@@ -1202,6 +1205,9 @@ news.pari-matchbet9.com
 news.pari-matchbk4.com
 news.pari-matchbk5.com
 news.pari-matchbk8.com
+news.parimatchbets2.com
+news.parimatchbets4.com
+news.parimatchbets9.com
 news.parimatchbk1.com
 newsviaje10.com.br
 niceshop.24biz.bz
@@ -1381,6 +1387,7 @@ ru.leon403.com
 ru.leon404.com
 ru.leon405.com
 ru.leon406.com
+ru.leon407.com
 ru.leon409.com
 ru.leongala.com
 ru.leonokno.com
@@ -1493,6 +1500,8 @@ start.pari-matchbet9.com
 start.pari-matchbk4.com
 start.pari-matchbk5.com
 start.pari-matchbk8.com
+start.parimatchbets2.com
+start.parimatchbets4.com
 start.parimatchbets9.com
 start.parimatchbk1.com
 start.parimatchbk5.com
@@ -1885,7 +1894,6 @@ www.kupit-diplms.com
 www.kupit-skorost.ru
 www.lifefilm.info
 www.lithub.ru
-www.livingofftips.com
 www.lovekino.tv
 www.magnetfox.com
 www.megaserial.net
@@ -2005,6 +2013,8 @@ www2.pari-matchbet9.com
 www2.pari-matchbk4.com
 www2.pari-matchbk5.com
 www2.pari-matchbk8.com
+www2.parimatchbets2.com
+www2.parimatchbets4.com
 www2.parimatchbets9.com
 www2.parimatchbk1.com
 www2.parimatchbk5.com
