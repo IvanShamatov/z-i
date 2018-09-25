@@ -1070,6 +1070,7 @@ medblanks.info
 media-rs.info
 media-rus.info
 media-tracker.info
+medical-kazan.com
 medical-rostov.com
 megaserial.net
 melbbeting.space
@@ -1352,6 +1353,7 @@ ru.leon365.net
 ru.leon392.com
 ru.leon393.com
 ru.leon394.com
+ru.leon395.com
 ru.leon396.com
 ru.leon402.com
 ru.leon404.com
