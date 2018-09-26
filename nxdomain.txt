@@ -447,6 +447,7 @@
 94-237-50-82.uk-lon1.host.upcloud.com
 94-237-51-137.uk-lon1.host.upcloud.com
 94-237-51-190.uk-lon1.host.upcloud.com
+94-237-81-76.de-fra1.host.upcloud.com
 9435bf.olimp6b96.top
 94689a.olimpe24a.top
 95847a.olimp656f.top
@@ -870,7 +871,6 @@ ftp.online-bigcinema.net
 ftporno.com
 fwd2frank.me
 gagarin-rc.com
-gavana999.ru
 gdzb.ru
 gembu.host
 ghuraba.host
@@ -1544,7 +1544,6 @@ superbkweb.club
 superbkzone.club
 superbotanik.ru
 sx1530.com
-test1.plusminus1.com
 test2.plusminus1.com
 test3.plusminus1.com
 tg.yadda.club
@@ -1861,6 +1860,7 @@ www.bs-13.com
 www.casinoslotv.com
 www.casinowilds.com
 www.cityclubcasino.com
+www.creditin.ru
 www.diploma-ufa.com
 www.diplomwuz.com
 www.dok911.ru
@@ -1923,7 +1923,6 @@ www.kinogo-online.net
 www.kinokrad.ru
 www.kupi-sk.ru
 www.kupit-diplms.com
-www.kupit-skorost.ru
 www.lifefilm.info
 www.lithub.ru
 www.lovekino.tv
@@ -1993,7 +1992,6 @@ www.vmusice.net
 www.vsfilm.ru
 www.vulcan-casino.com
 www.vulcan-club-online.com
-www.vulcanplay.com
 www.winall24.gr
 www.wood-film.ru
 www.ww.xrutor.org
