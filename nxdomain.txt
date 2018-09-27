@@ -274,7 +274,6 @@
 4torrents.net
 50.300kbit.pw
 5010cf.olimpe24a.top
-50e9289a2f8ed569c5.c2ef25.6c21b7e8561c55c684.xyz
 51-15-155-59.rev.poneytelecom.eu
 51-15-156-251.rev.poneytelecom.eu
 51-15-157-205.rev.poneytelecom.eu
@@ -434,7 +433,6 @@
 94-237-26-135.de-fra1.host.upcloud.com
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-28-227.de-fra1.host.upcloud.com
-94-237-46-137.nl-ams1.host.upcloud.com
 94-237-48-108.uk-lon1.host.upcloud.com
 94-237-48-132.uk-lon1.host.upcloud.com
 94-237-48-184.uk-lon1.host.upcloud.com
@@ -1001,7 +999,6 @@ klukvashop.24biz.bz
 knigivsem.com
 kordonivkakino.net
 krollrc.24biz.bz
-kupi-sk.ru
 kupit-diplms.com
 kupit-diplom-1.com
 kupit-diplom-sevastopol.kupit-diplom.com.ua
@@ -1866,6 +1863,7 @@ www.creditin.ru
 www.diploma-ufa.com
 www.diplomwuz.com
 www.dok911.ru
+www.doki777.com
 www.dokymentalnoe.ru
 www.dom-filmov.ru
 www.ekibastos.ru
