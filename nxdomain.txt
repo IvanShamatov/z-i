@@ -1559,7 +1559,6 @@ torrent9.name
 torrentdownloads.com.pl
 torrentsget.net
 tour38.24biz.bz
-trahen.net
 tribogatirya.24biz.bz
 trudsaratov.net
 trutor.pl
@@ -1920,7 +1919,6 @@ www.kinogo-net-co.ru
 www.kinogo-online.com
 www.kinogo-online.net
 www.kinokrad.ru
-www.kupi-sk.ru
 www.kupit-diplms.com
 www.lifefilm.info
 www.lithub.ru
