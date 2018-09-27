@@ -1098,7 +1098,6 @@ media-tracker.info
 medical-chel.com
 medical-kazan.com
 medical-omsk.com
-medical-rostov.com
 medical-ufa.com
 medical-vrn.com
 megaserial.net
@@ -1240,6 +1239,7 @@ news.parimatchbets7.com
 news.parimatchbets9.com
 news.parimatchbk1.com
 newsviaje10.com.br
+newzerkalo.sportstavki.space
 niceshop.24biz.bz
 nichesi.ru
 nimfomanki.club
@@ -1510,6 +1510,7 @@ spishy-ru.ru
 sport-1x-bet.com
 sport.betbookmaker.space
 sport.marathonbetru.space
+sport.sportstavki.space
 sporting1122.com
 sportkontora.website
 sportsxbet6.com
