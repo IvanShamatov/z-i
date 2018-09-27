@@ -179,6 +179,7 @@
 212-129-26-218.rev.poneytelecom.eu
 212-129-27-61.rev.poneytelecom.eu
 212-129-31-111.rev.poneytelecom.eu
+212-129-43-49.rev.poneytelecom.eu
 212-129-47-224.rev.poneytelecom.eu
 212-129-47-225.rev.poneytelecom.eu
 212-129-50-144.rev.poneytelecom.eu
@@ -1545,8 +1546,6 @@ superbkweb.club
 superbkzone.club
 superbotanik.ru
 sx1530.com
-test2.plusminus1.com
-test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
