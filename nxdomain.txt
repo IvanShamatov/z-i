@@ -660,7 +660,6 @@ bla.world
 black-d.24biz.bz
 blackstarrc.24biz.bz
 blackzerkalo.com
-blyadi-msk.com
 bmuzon.ru
 bo-tan.ru
 board.v.ua
@@ -931,7 +930,6 @@ inetdomrabota.ru
 intimmoscow.me
 islamumma.net
 isomer.24biz.bz
-isomer24.com
 jackpotcitycasin.com
 jjjbet.site
 jm.24biz.bz
@@ -1007,6 +1005,7 @@ kinozz.tv
 klukvashop.24biz.bz
 knigivsem.com
 kordonivkakino.net
+krddpl.ru
 krollrc.24biz.bz
 kupit-diplms.com
 kupit-diplom-1.com
@@ -1559,6 +1558,8 @@ superbkweb.club
 superbkzone.club
 superbotanik.ru
 sx1530.com
+test1.plusminus1.com
+test2.plusminus1.com
 test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
