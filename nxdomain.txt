@@ -442,6 +442,7 @@
 94-237-26-135.de-fra1.host.upcloud.com
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-28-227.de-fra1.host.upcloud.com
+94-237-46-137.nl-ams1.host.upcloud.com
 94-237-46-50.nl-ams1.host.upcloud.com
 94-237-48-108.uk-lon1.host.upcloud.com
 94-237-48-132.uk-lon1.host.upcloud.com
@@ -1437,6 +1438,7 @@ ru.leon405.com
 ru.leon406.com
 ru.leon407.com
 ru.leon409.com
+ru.leonfair.com
 ru.leongala.com
 ru.leonip.com
 ru.leonokno.com
@@ -1618,6 +1620,7 @@ url.net.space.rucdn.pw
 v-roger.24biz.bz
 vakivus.ru
 vczxdm.pmptrainingnow.com
+velcam4.casino
 vin.bkr03.ru
 vin.bkr04.ru
 vin.bkr05.ru
