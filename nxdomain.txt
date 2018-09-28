@@ -919,6 +919,7 @@ hentailust.tv
 host.eucloud101.net
 host157.megaoffer.net
 host84.hot-offer.org
+hydra.rent
 hydra2web.wf
 igdz.ru
 igratavtomaty.ru
