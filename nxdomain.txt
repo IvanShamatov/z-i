@@ -444,7 +444,6 @@
 94-237-26-135.de-fra1.host.upcloud.com
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-28-227.de-fra1.host.upcloud.com
-94-237-44-123.nl-ams1.host.upcloud.com
 94-237-46-137.nl-ams1.host.upcloud.com
 94-237-46-50.nl-ams1.host.upcloud.com
 94-237-48-108.uk-lon1.host.upcloud.com
@@ -559,6 +558,7 @@ bartrc.24biz.bz
 baskino.movie
 bbetplay.xyz
 bbrc.24biz.bz
+bc13.biz
 bc70179ee0101fc15a.c2ef25.4f42f3b6338a06de4c.xyz
 bcb7a4.olimp6753.top
 bcbe74.olimp1958.top
@@ -1535,6 +1535,7 @@ slavaangel.com
 slavaangel.ru
 slotobarzerkalo.com
 slotozalzerkalo.com
+slots-v.one
 slotvcasino.space
 slotvcasino.top
 slotvcasino.xyz
