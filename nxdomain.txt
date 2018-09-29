@@ -1480,6 +1480,7 @@ ru.leonx5.com
 ru.leonx6.com
 ru.leonxxx.com
 ru.mp3-tut.biz
+ru.swleon28.com
 ru.swleonacs.com
 ru.swleonbets.com
 ru.turkiston.info
@@ -1487,9 +1488,11 @@ ru.vipleonnvip3.com
 ru.viplleonur.com
 ru1.mp3-tut.biz
 ru1.primemusic.club
+ru1.rumuzfan.ru
 ru10.mp3-tut.biz
 ru12.xmusic.name
 ru2.mp3-tut.biz
+ru2.rumuzfan.ru
 ru3.mp3-tut.biz
 ru4.mp3-tut.biz
 ru5.mp3-tut.biz
@@ -1611,9 +1614,6 @@ superbkweb.club
 superbkzone.club
 superbotanik.ru
 sx1530.com
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
