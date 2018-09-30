@@ -293,6 +293,8 @@
 51-15-157-229.rev.poneytelecom.eu
 51-15-158-1.rev.poneytelecom.eu
 51-15-159-209.rev.poneytelecom.eu
+51-158-20-212.rev.poneytelecom.eu
+51-158-21-22.rev.poneytelecom.eu
 51-158-21-228.rev.poneytelecom.eu
 51-158-23-164.rev.poneytelecom.eu
 51-158-27-60.rev.poneytelecom.eu
@@ -1765,6 +1767,7 @@ wap.google.comuk.top
 waplib.org
 web-films.su
 web.google.comuk.top
+web1.hippynet.co.uk
 windgoldbk.com
 wndbt.com
 wndbtbk10.com
