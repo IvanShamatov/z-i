@@ -477,6 +477,7 @@
 94-237-50-82.uk-lon1.host.upcloud.com
 94-237-51-137.uk-lon1.host.upcloud.com
 94-237-51-190.uk-lon1.host.upcloud.com
+94-237-52-166.uk-lon1.host.upcloud.com
 94-237-80-169.de-fra1.host.upcloud.com
 94-237-81-76.de-fra1.host.upcloud.com
 9435bf.olimp6b96.top
