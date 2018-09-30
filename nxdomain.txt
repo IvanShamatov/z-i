@@ -296,7 +296,9 @@
 51-158-20-212.rev.poneytelecom.eu
 51-158-21-22.rev.poneytelecom.eu
 51-158-21-228.rev.poneytelecom.eu
+51-158-22-114.rev.poneytelecom.eu
 51-158-23-164.rev.poneytelecom.eu
+51-158-27-26.rev.poneytelecom.eu
 51-158-27-60.rev.poneytelecom.eu
 5112017.org
 5135a9.olimp786f.top
@@ -1697,6 +1699,7 @@ trutor.pl
 tttbet.site
 tut-mp3.ru
 tyt.fonbetstavkisport.website
+uk2-infra.vps.net
 ukip168.webcannon.com
 upd-42vcx8bct.dd9c8d009cde58905f2d.xyz
 upd-5bqhyg39.c59671d45c62eec556f2.xyz
