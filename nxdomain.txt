@@ -301,7 +301,9 @@
 51-158-22-119.rev.poneytelecom.eu
 51-158-23-164.rev.poneytelecom.eu
 51-158-24-64.rev.poneytelecom.eu
+51-158-25-162.rev.poneytelecom.eu
 51-158-26-145.rev.poneytelecom.eu
+51-158-26-179.rev.poneytelecom.eu
 51-158-27-26.rev.poneytelecom.eu
 51-158-27-60.rev.poneytelecom.eu
 5112017.org
