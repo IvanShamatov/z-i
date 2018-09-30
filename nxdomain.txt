@@ -298,6 +298,7 @@
 51-158-21-228.rev.poneytelecom.eu
 51-158-22-114.rev.poneytelecom.eu
 51-158-23-164.rev.poneytelecom.eu
+51-158-24-64.rev.poneytelecom.eu
 51-158-27-26.rev.poneytelecom.eu
 51-158-27-60.rev.poneytelecom.eu
 5112017.org
@@ -471,6 +472,7 @@
 94-237-50-82.uk-lon1.host.upcloud.com
 94-237-51-137.uk-lon1.host.upcloud.com
 94-237-51-190.uk-lon1.host.upcloud.com
+94-237-52-145.uk-lon1.host.upcloud.com
 94-237-81-76.de-fra1.host.upcloud.com
 9435bf.olimp6b96.top
 94689a.olimpe24a.top
@@ -1681,6 +1683,7 @@ superbkweb.club
 superbkzone.club
 superbotanik.ru
 sx1530.com
+syssarcosis.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
