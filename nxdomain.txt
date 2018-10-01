@@ -467,7 +467,6 @@
 94-237-28-227.de-fra1.host.upcloud.com
 94-237-40-110.nl-ams1.host.upcloud.com
 94-237-46-137.nl-ams1.host.upcloud.com
-94-237-46-65.nl-ams1.host.upcloud.com
 94-237-48-108.uk-lon1.host.upcloud.com
 94-237-48-132.uk-lon1.host.upcloud.com
 94-237-48-184.uk-lon1.host.upcloud.com
@@ -480,7 +479,6 @@
 94-237-50-82.uk-lon1.host.upcloud.com
 94-237-51-137.uk-lon1.host.upcloud.com
 94-237-51-190.uk-lon1.host.upcloud.com
-94-237-81-76.de-fra1.host.upcloud.com
 9435bf.olimp6b96.top
 94689a.olimpe24a.top
 95847a.olimp656f.top
@@ -1005,6 +1003,7 @@ gorilaz.24biz.bz
 gos-diplom24.com
 grand.24biz.bz
 grandz.casinoplatonist.com
+gurochan.ch
 hd-720.club
 hd-kinogo.ru
 hdrezka.re
@@ -1296,8 +1295,10 @@ mostmorebet.com
 mostpartbest.com
 mostpartmoney.com
 mostpartpic.com
+mostpek.com
 mostqat.com
 mostric.com
+mostriw.com
 mosttri.com
 mostzki.com
 mp-01.fbmetrix.club
@@ -2130,6 +2131,7 @@ www.goldenstormcasino.com
 www.goldslotvoyager.com
 www.goodkino.biz
 www.gos-diplom24.com
+www.gurochan.ch
 www.hdkinohit.com
 www.i-thai.ru
 www.igdz.ru
