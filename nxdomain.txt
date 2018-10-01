@@ -1664,7 +1664,6 @@ samara.documentshop.ru
 sar.sexskazka.com
 saratov.documentshop.ru
 saratov.sexzanoza.com
-saving-music.com
 saving-music.ru
 secretstore.24biz.bz
 seedbanda.cc
@@ -1769,6 +1768,7 @@ torrentsget.net
 tour38.24biz.bz
 trudknizhka.info
 trudkrd.com
+trudovayaknischka.com
 trudrostov.com
 trudsaratov.com
 truduvoistazh.net
@@ -2229,6 +2229,7 @@ www.the-cinema.ru
 www.topasnew.ru
 www.torrentdownloads.net.pl
 www.torrentsget.net
+www.trudovayaknischka.com
 www.tut-mp3.ru
 www.videoporevo.com
 www.vk-sound.ru
