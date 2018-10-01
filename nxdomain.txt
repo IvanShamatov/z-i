@@ -481,7 +481,6 @@
 94-237-51-137.uk-lon1.host.upcloud.com
 94-237-51-190.uk-lon1.host.upcloud.com
 94-237-81-76.de-fra1.host.upcloud.com
-94-237-85-144.de-fra1.host.upcloud.com
 9435bf.olimp6b96.top
 94689a.olimpe24a.top
 95847a.olimp656f.top
@@ -1034,6 +1033,7 @@ jm.24biz.bz
 joycasinozerkalo.com
 k.fb2.online
 kaazl.info
+kanna-biz.com
 karaokevideo.ru
 karaopa.ru
 karavanrc.24biz.bz
