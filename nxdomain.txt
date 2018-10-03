@@ -456,6 +456,7 @@
 94-237-46-137.nl-ams1.host.upcloud.com
 94-237-51-137.uk-lon1.host.upcloud.com
 94-237-51-190.uk-lon1.host.upcloud.com
+94-237-51-91.uk-lon1.host.upcloud.com
 9435bf.olimp6b96.top
 94689a.olimpe24a.top
 95847a.olimp656f.top
@@ -718,6 +719,7 @@ chronos.bouwsoft.be
 cloud-ptr183.tavu.io
 cloud1.cloud.local
 cloudust.info
+clubniko.com
 cmk58.ru
 company.ph.net.space.rucdn.pw
 comuk.top
@@ -1044,7 +1046,6 @@ kinousers.ru
 kinovips.me
 kinozal.pro
 kinozz.tv
-knigivsem.com
 kordonivkakino.net
 krddpl.ru
 kupit-diplomi.pro
@@ -1472,12 +1473,10 @@ rucasinopro.ru
 rucdn.pw
 rus-betcity.top
 rus-media-org.info
-rus-porn-0.gdn
 rus-pro.xyz
 rus-rutor.info
 ruscasino24.ru
 ruspart.org
-ruspoker.club
 russ-torrents.xyz
 russkoe-pornorusskoe.i-d-e.ru
 russparty.org
@@ -1564,6 +1563,7 @@ superbotanik.ru
 sx1530.com
 syssarcosis.com
 tecavuz.info
+test2.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
@@ -1765,7 +1765,6 @@ www.azino-777-russia.win
 www.azino777-demo.win
 www.azino777-win.win
 www.azino777bonus.win
-www.b29c.com
 www.bcbets.space
 www.belmassa.biz
 www.betadonis146.com
