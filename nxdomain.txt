@@ -400,7 +400,6 @@
 94-237-26-135.de-fra1.host.upcloud.com
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-28-227.de-fra1.host.upcloud.com
-94-237-46-137.nl-ams1.host.upcloud.com
 94-237-51-137.uk-lon1.host.upcloud.com
 94-237-51-190.uk-lon1.host.upcloud.com
 94-237-51-91.uk-lon1.host.upcloud.com
@@ -884,7 +883,6 @@ gembu.host
 ghuraba.host
 gidonlines.ru
 go-az-mob-go.xyz
-go4slots.com
 goldazartwins.com
 goldenshara.net
 goldmedications.com
@@ -1281,17 +1279,10 @@ redirect9.olimp11.life
 registratsiya111.ru
 registratsiya43.ru
 registratsiya46.ru
-registratsiya48.ru
 registratsiya51.ru
-registratsiya52.ru
-registratsiya53.ru
 registratsiya57.ru
 registratsiya62.ru
 registratsiya63.ru
-registratsiya75.ru
-registratsiya77.ru
-registratsiya78.ru
-registratsiya81.ru
 registratsiya82.ru
 registratsiya83.ru
 registratsiya84.ru
@@ -1304,7 +1295,6 @@ rmeventos2.com.br
 roscompozor.ru
 ru.adleon67.com
 ru.adleonrb.com
-ru.betleon24online.com
 ru.leon392.com
 ru.leon393.com
 ru.leon394.com
@@ -1321,7 +1311,6 @@ ru.leonokno.com
 ru.leonprof.com
 ru.leonround.com
 ru.leonsafe.com
-ru.leonsportline.com
 ru.leontotal.com
 ru.leonx5.com
 ru.leonx6.com
@@ -1332,7 +1321,6 @@ ru.swleon28.com
 ru.swleonacs.com
 ru.swleonban.com
 ru.turkiston.info
-ru.vipleonnvip3.com
 ru1.mp3-tut.biz
 ru1.primemusic.club
 ru1.rumuzfan.ru
@@ -1684,7 +1672,6 @@ www.fonbet82.com
 www.fonbet83.com
 www.fonbet84.com
 www.fonbet85.com
-www.fonbet86.com
 www.fonbet87.com
 www.fonbet89.com
 www.fonbet91.com
@@ -1892,7 +1879,6 @@ zerkalo-rutor.su
 zerkalo.betobzor.website
 zerkalo390.ru
 zerkalo397.ru
-zerkalo976.ru
 zerkalovbkbet.ru
 zerx.tv
 zerxfilm.ru
