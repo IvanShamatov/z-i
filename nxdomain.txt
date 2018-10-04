@@ -235,6 +235,7 @@
 51-15-157-253.rev.poneytelecom.eu
 51-15-158-1.rev.poneytelecom.eu
 51-15-159-209.rev.poneytelecom.eu
+51-158-20-13.rev.poneytelecom.eu
 51-158-20-212.rev.poneytelecom.eu
 51-158-21-22.rev.poneytelecom.eu
 51-158-21-228.rev.poneytelecom.eu
@@ -245,6 +246,7 @@
 51-158-25-162.rev.poneytelecom.eu
 51-158-26-145.rev.poneytelecom.eu
 51-158-26-179.rev.poneytelecom.eu
+51-158-26-203.rev.poneytelecom.eu
 51-158-27-26.rev.poneytelecom.eu
 51-158-27-60.rev.poneytelecom.eu
 5112017.org
@@ -342,6 +344,7 @@
 7df3ab.olimp27fe.top
 7tor.cc
 802560.olimp656f.top
+812.is
 81bf09.olimp786f.top
 81fadd.olimpb138.top
 822a33.olimp27fe.top
@@ -375,7 +378,6 @@
 87f4f3b3ae3f8cc10f.c2ef25.e3b227af32e4d25d50.xyz
 881297.olimp1960.top
 887e3c.olimp3043.top
-888.mircasino24.ru
 895fba.olimp12da.top
 897962.olimp1a50.top
 8b5b71.olimpfc65.top
@@ -710,6 +712,7 @@ dokymentalnoe.ru
 dom-filmov.ru
 domknig.me
 donkools.com
+dostavka.google.812.is
 dostup-bk.space
 dostup-zerkalo.ru
 dostup.sportbet.space
@@ -1408,7 +1411,6 @@ vulkangold.biz
 vvvbet.site
 vyhvat.ru
 w.jackpotcitycasin.com
-wap.2betsbc.space
 wap.bcbets.space
 wap.betcity365.space
 wap.betcitybk.space
@@ -1416,7 +1418,6 @@ wap.betsbc-play.space
 wap.betsbc333.space
 wap.betsc-bk.space
 wap.bkbet.space
-wap.bkbetcity.space
 wap.google.comuk.top
 wap.linktobetcity.space
 web-films.su
@@ -1482,7 +1483,6 @@ www.1-x520.com
 www.19970001.com
 www.1x-sport-bk2.com
 www.1x-sport-bk3.com
-www.2betsbc.space
 www.4torrents.net
 www.5112017.org
 www.520-1xbk.com
@@ -1503,14 +1503,12 @@ www.betadonis146.com
 www.betadonis147.com
 www.betadonis148.com
 www.betcity365.space
-www.betcitybk.space
 www.betsbc-play.space
 www.betsbc333.space
 www.betsc-bk.space
 www.bigcinema.to
 www.bk1x-520.com
 www.bkbet.space
-www.bkbetcity.space
 www.bkwinline12.com
 www.bo-tan.ru
 www.board.v.ua
@@ -1617,6 +1615,7 @@ www.rap-game.ru
 www.resheba.ru
 www.rufilm.tv
 www.rus-rutor.info
+www.rusvulcanplay.ru
 www.saving-music.ru
 www.see-me.ru
 www.serial-z.online
