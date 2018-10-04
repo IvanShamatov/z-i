@@ -140,6 +140,8 @@
 212-129-57-71.rev.poneytelecom.eu
 212-129-59-89.rev.poneytelecom.eu
 212-83-141-137.rev.poneytelecom.eu
+212-83-147-123.rev.poneytelecom.eu
+212-83-150-199.rev.poneytelecom.eu
 212-83-161-209.rev.poneytelecom.eu
 212-83-163-222.rev.poneytelecom.eu
 212-83-164-193.rev.poneytelecom.eu
@@ -236,9 +238,11 @@
 51-15-157-253.rev.poneytelecom.eu
 51-15-158-1.rev.poneytelecom.eu
 51-15-159-209.rev.poneytelecom.eu
+51-15-159-218.rev.poneytelecom.eu
 51-158-20-13.rev.poneytelecom.eu
 51-158-20-212.rev.poneytelecom.eu
 51-158-21-22.rev.poneytelecom.eu
+51-158-21-226.rev.poneytelecom.eu
 51-158-21-228.rev.poneytelecom.eu
 51-158-22-114.rev.poneytelecom.eu
 51-158-22-119.rev.poneytelecom.eu
@@ -248,6 +252,7 @@
 51-158-26-145.rev.poneytelecom.eu
 51-158-26-179.rev.poneytelecom.eu
 51-158-26-203.rev.poneytelecom.eu
+51-158-26-96.rev.poneytelecom.eu
 51-158-27-26.rev.poneytelecom.eu
 51-158-27-60.rev.poneytelecom.eu
 5112017.org
@@ -406,6 +411,7 @@
 94-237-26-135.de-fra1.host.upcloud.com
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-28-227.de-fra1.host.upcloud.com
+94-237-46-105.nl-ams1.host.upcloud.com
 94-237-48-132.uk-lon1.host.upcloud.com
 94-237-48-184.uk-lon1.host.upcloud.com
 94-237-49-188.uk-lon1.host.upcloud.com
@@ -536,7 +542,6 @@ bet.bkleon4.ru
 bet1-x4.com
 bet4x443.com
 betbookmaker.space
-betcities.site
 betcity-24.top
 betcity-bet.top
 betcity-bk.top
@@ -550,12 +555,6 @@ betcity24.top
 betcity333.space
 betcity365.space
 betcitybk.space
-betcitycity.site
-betcitycity.website
-betcityhome.site
-betcityhomes.site
-betcitypro.site
-betcitypros.site
 betcityru2.top
 betkontora.space
 betsbc-24.top
@@ -593,7 +592,6 @@ bkleon1.su
 bkleon3.ru
 bkleon4.ru
 bkleon5.ru
-bklink.xyz
 bkqq.ru
 bkr01.ru
 bkr02.ru
@@ -608,9 +606,6 @@ bkrlb2.pw
 bkrlb3.pw
 bkrlb4.pw
 bkrlb5.pw
-bksite.site
-bksites.site
-bksites.website
 bkwndbt11.com
 bla.world
 bmuzon.ru
@@ -643,7 +638,6 @@ ca6143.olimpe24a.top
 caen.mybrandserver.com
 casino-cash-flow.ru
 casino-cash-flow.su
-casinofrank.club
 casinoinnet.com
 cc53bd.olimpcc44.top
 cdc680.olimp9b55.gdn
@@ -811,8 +805,6 @@ films.themoviebay.ru
 fitzu2.info
 fix-own.lady-fei.ru
 flibusta.space
-fonbestbet.site
-fonbestbet.website
 fonbet-41ece.tk
 fonbet-5baee.tk
 fonbet-d3659.tk
@@ -856,12 +848,7 @@ fonbet92.com
 fonbet93.com
 fonbet94.com
 fonbet95.com
-fonbeting.xyz
-fonbetnow.site
-fonbetpro.site
-fonbetpros.site
 fonbetrus.ru
-fonbets.site
 fonbetsportrus.ru
 forex-ny.info
 forum.nihonomaru.net
@@ -870,14 +857,12 @@ freekaraoke.ru
 freemp3.uz.cx
 freetorrmd.ru
 ftp.online-bigcinema.net
-fubet.site
 garantcash.com
 gdzb.ru
 gembu.host
 ghuraba.host
 gidonlines.ru
 go-az-mob-go.xyz
-goldazartwins.com
 goldenshara.net
 goldmedications.com
 goodkino.net
@@ -982,7 +967,6 @@ leg-service.ru
 lekon-farm.ru
 leo.bkrlb2.pw
 leo.bkrlb4.pw
-leobeting.xyz
 leonbetkon.xyz
 leonbets1.su
 leonbets4a.ru
@@ -1013,6 +997,7 @@ lxbet.mobi
 m-spravka.com
 m.2018windb.com
 m.mp3-tut.biz
+m.ventdechange.com
 m10.300kbit.pw
 m10.mp3-tut.biz
 m11.mp3-tut.biz
@@ -1026,6 +1011,7 @@ m17.mp3-tut.biz
 m178.mangosalads.com
 m18.mp3-tut.biz
 m19.mp3-tut.biz
+m2.applezcall.com
 m2.mp3-tut.biz
 m20.300kbit.pw
 m20.mp3-tut.biz
@@ -1053,6 +1039,7 @@ mail.torrent.by
 main-tracker.site
 market.paynepublicrelations.com
 marketnn24.biz
+mdslots.mobi
 medfarms.net
 media-rs.info
 media-rus.info
@@ -1063,7 +1050,6 @@ medperm.net
 medsprav.info
 megajack.biz
 megaserial.net
-melbbeting.space
 minuskaraoke.ru
 miraxanet.com
 mirror.olimpmirror.life
@@ -1081,13 +1067,11 @@ mobdkem.pw
 mobdnep.pw
 mobecl.xyz
 mobile.bkwinline12.com
-mobilebeting.xyz
 mobilemc.ru
 moskva-prostitutki.com
 mostkoc.com
 mostlef.com
 mostneq.com
-mostpartmoney.com
 mostpek.com
 mostqop.com
 mostriw.com
@@ -1146,7 +1130,6 @@ nnmclub-new.gq
 nnvdpl.ru
 not-joy.manichki.ru
 novinki-kino.club
-nowbk.xyz
 np.nptrans.com.br
 nyx.bouwsoft.be
 o.kino.pub
@@ -1180,7 +1163,6 @@ pornosikis.life
 portalmetaeducacao.com.br
 porto2013.com.br
 posthotel.info
-pro-bukmeker2.ru
 probukmeker2.com
 prokinozal.ru
 prostitutki-chity.in-fei.ru
@@ -1193,11 +1175,14 @@ prostitutkipyatigorska365.men
 psn-pirate.com
 q.dosugpoisk.com
 r1.hdrezka-online.ru
+r1.marvarid.su
 r1.mp3bor.info
 r2.hdrezka-online.ru
 r2.mp3bor.info
+r2.topmuzon.info
 r20.greencherryz.com
 r3.hdrezka-online.ru
+r3.topmuzon.info
 r4.hdrezka-online.ru
 r5.hdrezka-online.ru
 r6.hdrezka-online.ru
@@ -1216,20 +1201,9 @@ rmeventos2.com.br
 roscompozor.ru
 ru.adleon67.com
 ru.adleonrb.com
-ru.leon392.com
-ru.leon393.com
-ru.leon394.com
-ru.leon395.com
-ru.leon396.com
-ru.leon406.com
-ru.leon409.com
 ru.leonfair.com
 ru.leonfair.org
 ru.leonip.com
-ru.leonokno.com
-ru.leonround.com
-ru.leonsafe.com
-ru.leontotal.com
 ru.leonx5.com
 ru.leonx6.com
 ru.leonxxx.com
@@ -1330,6 +1304,8 @@ sx1530.com
 syssarcosis.com
 taxnal.com
 tecavuz.info
+test2.plusminus1.com
+test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
@@ -1355,6 +1331,7 @@ trydovaya.com
 tttbet.site
 tut-mp3.ru
 uk2-infra.vps.net
+ukip157.webcannon.com
 ukip168.webcannon.com
 upd-42vcx8bct.dd9c8d009cde58905f2d.xyz
 upd-5bqhyg39.c59671d45c62eec556f2.xyz
@@ -1522,7 +1499,6 @@ www.filmask.ru
 www.filmku.ru
 www.films-one.ru
 www.films-skorpik.com
-www.fonbestbet.site
 www.fonbet73.vip
 www.fonbet74.vip
 www.fonbet75.vip
@@ -1537,11 +1513,8 @@ www.fonbet92.com
 www.fonbet93.com
 www.fonbet94.com
 www.fonbet95.com
-www.fonbetpros.site
-www.fonbets.site
 www.freekaraoke.ru
 www.freetorrmd.ru
-www.fubet.site
 www.game.casinoplay-online.com
 www.gdz-free.com
 www.goodkino.biz
@@ -1549,7 +1522,6 @@ www.gurochan.ch
 www.hdkinohit.com
 www.igdz.ru
 www.ikino.su
-www.intralot.it
 www.karaokevideo.ru
 www.karaopa.ru
 www.kinino.ru
