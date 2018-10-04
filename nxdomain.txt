@@ -115,6 +115,7 @@
 20.300kbit.pw
 203556.olimpd7c0.top
 205716.olimp876c.site
+209-50-54-128.us-chi1.host.upcloud.com
 212-129-0-191.rev.poneytelecom.eu
 212-129-0-193.rev.poneytelecom.eu
 212-129-16-85.rev.poneytelecom.eu
@@ -400,6 +401,9 @@
 94-237-26-135.de-fra1.host.upcloud.com
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-28-227.de-fra1.host.upcloud.com
+94-237-48-132.uk-lon1.host.upcloud.com
+94-237-48-184.uk-lon1.host.upcloud.com
+94-237-49-28.uk-lon1.host.upcloud.com
 94-237-51-137.uk-lon1.host.upcloud.com
 94-237-51-190.uk-lon1.host.upcloud.com
 94-237-51-91.uk-lon1.host.upcloud.com
@@ -534,7 +538,6 @@ betcity-stavki.club
 betcity-zerkalo1.ru
 betcity-zerkalo2.ru
 betcity-zerkalo3.ru
-betcity-zerkalo4.ru
 betcity-zerkalo5.ru
 betcity.site
 betcity2.ru
@@ -578,7 +581,6 @@ bk-fonbet15.ru
 bk-fonbet16.ru
 bk-fonbet17.ru
 bk-fonbet18.ru
-bk-fonbet20.ru
 bk-fonbet21.ru
 bk-fonbet23.ru
 bk-parimatch-24.website
@@ -992,7 +994,6 @@ leonbetkon.xyz
 leonbets1.su
 leonbets4a.ru
 leonbets5a.ru
-leonbets6a.ru
 leonbetshome.xyz
 leonbetshub.xyz
 leonbetsnow.xyz
@@ -1225,8 +1226,6 @@ rabota7wow.ru
 rap-game.ru
 reddit.flychanchangiair.com
 registratsiya111.ru
-registratsiya83.ru
-registratsiya84.ru
 registratsiya85.ru
 registratsiya99.ru
 research.url.net.space.rucdn.pw
@@ -1350,8 +1349,6 @@ st.officeverse.com
 stabets.com
 stavka.betsport.space
 stavki.betobzor.website
-superbkhome.club
-superbkzone.club
 superbotanik.ru
 sx1530.com
 syssarcosis.com
@@ -1359,6 +1356,7 @@ taxnal.com
 tecavuz.info
 test1.plusminus1.com
 test2.plusminus1.com
+test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
@@ -1415,6 +1413,7 @@ vin.bkr08.ru
 vin.bkr09.ru
 vin.bkr10.ru
 vip4354.com
+vitalya-bro.club
 vk-sound.ru
 vlcrime.net
 vmusice.net
@@ -1549,8 +1548,6 @@ www.allserials.tv
 www.anamvseravno.ru
 www.anime-tracker.tech
 www.azart-cash.ru
-www.azino-777-777rublei.win
-www.azino777-win.win
 www.bcbets.space
 www.belmassa.biz
 www.best-passport.su
@@ -1608,6 +1605,7 @@ www.fonbets.site
 www.freekaraoke.ru
 www.freetorrmd.ru
 www.fubet.site
+www.game.casinoplay-online.com
 www.gdz-free.com
 www.goldslotvoyager.com
 www.goodkino.biz
@@ -1660,7 +1658,6 @@ www.nichesi.ru
 www.nihonomaru.net
 www.online-freebee.net
 www.oreanda-casino.com
-www.paritwin.club
 www.pas2doc.com
 www.piratbit.ru
 www.pleer.com
