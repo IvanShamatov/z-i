@@ -240,6 +240,7 @@
 51-15-159-209.rev.poneytelecom.eu
 51-15-159-218.rev.poneytelecom.eu
 51-158-20-13.rev.poneytelecom.eu
+51-158-20-134.rev.poneytelecom.eu
 51-158-20-212.rev.poneytelecom.eu
 51-158-21-22.rev.poneytelecom.eu
 51-158-21-226.rev.poneytelecom.eu
@@ -701,6 +702,7 @@ doc-ufa.com
 doc-volgograd.com
 doctormig.com
 doctorsar.info
+doghunter.to
 dok911.ru
 doki777.com
 dokument-pro.com
@@ -963,7 +965,9 @@ kinousers.ru
 kinovips.me
 kinozal.pro
 kinozz.tv
+kirov.diplomkknam.com
 kordonivkakino.net
+kursk.diplomkknam.com
 l1uxury039.com
 leg-service.ru
 lekon-farm.ru
@@ -1146,6 +1150,8 @@ onlainfilmix.com
 online.babkino.pro
 orda1313.info
 oreanda-casino.com
+orel.diplomkknam.com
+orenburg.diplomkknam.com
 p177.bellaluxz.com
 p19.bellaluxz.com
 pari-match-24.xyz
@@ -1488,7 +1494,6 @@ www.board.v.ua
 www.bookgdz.ru
 www.boxwind.com
 www.buhlo24.com
-www.casino-cash-flow.ru
 www.creditin.ru
 www.dok911.ru
 www.doki777.com
