@@ -94,7 +94,6 @@
 1x-all-sport.com
 1x-sport-bk7.com
 1x-turkey3.com
-1x-turkey5.com
 1x1515.com
 1x1521.com
 1x1523.com
@@ -157,7 +156,6 @@
 22e9bc.olimp1897.top
 2446b8.olimp6301.site
 24defb.olimp876c.site
-24stavki.livestavki.space
 258a4e.olimp31d2.top
 25b641.olimp4859.top
 25c95e.olimp656f.top
@@ -414,6 +412,7 @@
 94-237-26-135.de-fra1.host.upcloud.com
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-28-227.de-fra1.host.upcloud.com
+94-237-39-96.fi-hel1.host.upcloud.com
 94-237-46-105.nl-ams1.host.upcloud.com
 94-237-48-132.uk-lon1.host.upcloud.com
 94-237-48-184.uk-lon1.host.upcloud.com
@@ -541,12 +540,12 @@ bengaltube.com
 beritasae.info
 best-muzom.ru
 best-passport.su
+bestdosug.info
 bestgame.kz
 bestmuzon.cc
 bet.bkleon4.ru
 bet1-x4.com
 bet4x443.com
-betbookmaker.space
 betcity-24.top
 betcity-bet.top
 betcity-bk.top
@@ -714,7 +713,6 @@ donkools.com
 dostavka.google.812.is
 dostup-bk.space
 dostup-zerkalo.ru
-dostup.sportbet.space
 dosug-rostov.biz
 dosug1.com
 dosugpoisk.com
@@ -1125,7 +1123,6 @@ near-cup.manichki.ru
 net.space.rucdn.pw
 new-rutor.ga
 new-rutor.ru
-new.bk-dostup.website
 new.bkwinline12.com
 newobzor.betkontora.space
 newsviaje10.com.br
@@ -1274,6 +1271,7 @@ s61.fastsrv.com
 saint-barth.ru
 salescoupon.net
 samara.documentshop.ru
+samdosug.info
 saratov.documentshop.ru
 saving-music.ru
 sc.24bz.biz
@@ -1301,7 +1299,6 @@ space.rucdn.pw
 spb-dostavka.com
 spishy-ru.ru
 sport-1x-bet.com
-sport.betbookmaker.space
 sport.sportstavki.space
 sporting1122.com
 sportkontora.website
@@ -1485,6 +1482,7 @@ www.azart-cash.ru
 www.bcbets.space
 www.belmassa.biz
 www.best-passport.su
+www.bestdosug.info
 www.betadonis146.com
 www.betadonis147.com
 www.betadonis148.com
