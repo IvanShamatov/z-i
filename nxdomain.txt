@@ -426,6 +426,7 @@
 94-237-51-137.uk-lon1.host.upcloud.com
 94-237-51-190.uk-lon1.host.upcloud.com
 94-237-51-91.uk-lon1.host.upcloud.com
+94-237-87-30.de-fra1.host.upcloud.com
 94-237-9-200.fi-hel2.host.upcloud.com
 9435bf.olimp6b96.top
 94689a.olimpe24a.top
@@ -1141,6 +1142,8 @@ o.kino.pub
 o.kino.vodka
 obzorbk.space
 ogo24biz.biz
+old.fonbet-a6d6e.com
+old.fonbet-e6599.com
 olimpblock.com
 ololo-fm-search.ru
 omsdpl.ru
@@ -1580,7 +1583,6 @@ www.pleer.com
 www.pleer.net
 www.porno-azbyka.online
 www.prokinozal.ru
-www.raeuchermischungen-blog.eu
 www.rap-game.ru
 www.rdiploms.com
 www.resheba.ru
