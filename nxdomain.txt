@@ -418,6 +418,7 @@
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-28-227.de-fra1.host.upcloud.com
 94-237-39-96.fi-hel1.host.upcloud.com
+94-237-40-210.nl-ams1.host.upcloud.com
 94-237-46-105.nl-ams1.host.upcloud.com
 94-237-48-132.uk-lon1.host.upcloud.com
 94-237-48-184.uk-lon1.host.upcloud.com
@@ -1200,6 +1201,7 @@ pleer.com
 pleer.net
 porno-911.net
 pornobab.net
+pornoebay.com
 pornosikis.life
 portalmetaeducacao.com.br
 porto2013.com.br
