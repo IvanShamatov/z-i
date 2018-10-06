@@ -421,6 +421,7 @@
 94-237-40-210.nl-ams1.host.upcloud.com
 94-237-44-147.nl-ams1.host.upcloud.com
 94-237-46-105.nl-ams1.host.upcloud.com
+94-237-46-137.nl-ams1.host.upcloud.com
 94-237-48-132.uk-lon1.host.upcloud.com
 94-237-48-184.uk-lon1.host.upcloud.com
 94-237-49-151.uk-lon1.host.upcloud.com
@@ -1330,6 +1331,7 @@ sexufa.club
 sffs992.com
 shajtanshop.com
 shamarc.ms.
+sitiklad.pro
 skachat-torrent.org
 slavaangel.com
 slavaangel.ru
