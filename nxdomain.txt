@@ -152,6 +152,7 @@
 212-83-150-199.rev.poneytelecom.eu
 212-83-158-15.rev.poneytelecom.eu
 212-83-161-209.rev.poneytelecom.eu
+212-83-162-3.rev.poneytelecom.eu
 212-83-163-222.rev.poneytelecom.eu
 212-83-164-193.rev.poneytelecom.eu
 212-83-164-237.rev.poneytelecom.eu
@@ -266,6 +267,7 @@
 51-158-26-96.rev.poneytelecom.eu
 51-158-27-26.rev.poneytelecom.eu
 51-158-27-60.rev.poneytelecom.eu
+51-158-27-63.rev.poneytelecom.eu
 5112017.org
 5135a9.olimp786f.top
 5136ee.olimp1897.top
@@ -1654,6 +1656,7 @@ www.kinogo-net-co.ru
 www.kinogo-online.com
 www.kinogo-online.net
 www.kinokrad.ru
+www.kinostok.org
 www.leonbetsonline.xyz
 www.leonbetstech.xyz
 www.lifefilm.info
