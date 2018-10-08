@@ -143,6 +143,7 @@
 212-129-57-71.rev.poneytelecom.eu
 212-129-59-89.rev.poneytelecom.eu
 212-83-135-185.rev.poneytelecom.eu
+212-83-140-10.rev.poneytelecom.eu
 212-83-141-137.rev.poneytelecom.eu
 212-83-144-173.rev.poneytelecom.eu
 212-83-144-195.rev.poneytelecom.eu
@@ -1101,6 +1102,7 @@ m22.mp3-tut.biz
 m221.applezcall.com
 m23.mp3-tut.biz
 m231.applezcall.com
+m3.applezcall.com
 m3.mp3-tut.biz
 m30.300kbit.pw
 m34.meritnation.net.in
