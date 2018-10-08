@@ -142,6 +142,7 @@
 212-129-57-108.rev.poneytelecom.eu
 212-129-57-71.rev.poneytelecom.eu
 212-129-59-89.rev.poneytelecom.eu
+212-83-135-185.rev.poneytelecom.eu
 212-83-141-137.rev.poneytelecom.eu
 212-83-144-173.rev.poneytelecom.eu
 212-83-144-195.rev.poneytelecom.eu
@@ -424,6 +425,7 @@
 94-237-26-135.de-fra1.host.upcloud.com
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-28-227.de-fra1.host.upcloud.com
+94-237-39-129.fi-hel1.upcloud.host
 94-237-39-96.fi-hel1.host.upcloud.com
 94-237-40-210.nl-ams1.host.upcloud.com
 94-237-44-147.nl-ams1.host.upcloud.com
@@ -1407,7 +1409,6 @@ syssarcosis.com
 taxnal.com
 tecavuz.info
 telego24.com
-test2.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
