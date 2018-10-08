@@ -300,6 +300,7 @@
 604ka.ru
 62-210-13-125.rev.poneytelecom.eu
 62-210-196-26.rev.poneytelecom.eu
+62-210-24-238.rev.poneytelecom.eu
 62-210-5-61.rev.poneytelecom.eu
 62-210-6-80.rev.poneytelecom.eu
 62-210-7-161.rev.poneytelecom.eu
@@ -430,7 +431,6 @@
 94-237-26-135.de-fra1.host.upcloud.com
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-28-227.de-fra1.host.upcloud.com
-94-237-39-129.fi-hel1.upcloud.host
 94-237-39-96.fi-hel1.host.upcloud.com
 94-237-40-210.nl-ams1.host.upcloud.com
 94-237-44-147.nl-ams1.host.upcloud.com
@@ -1427,9 +1427,6 @@ syssarcosis.com
 taxnal.com
 tecavuz.info
 telego24.com
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
@@ -1607,6 +1604,7 @@ www.board.v.ua
 www.bookgdz.ru
 www.boxwind.com
 www.buhlo24.com
+www.diplom78.com
 www.dok911.ru
 www.dokymentalnoe.ru
 www.dom-filmov.ru
