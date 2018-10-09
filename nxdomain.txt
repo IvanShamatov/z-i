@@ -681,7 +681,6 @@ cheetah.aussiewebhost.com.au
 chillhouse.ru
 chita.diplomkknam.com
 chronos.bouwsoft.be
-clickny.ru
 cloud-ptr183.tavu.io
 cloud1.cloud.local
 club-frank.com
@@ -790,7 +789,6 @@ ekbdiplom.com
 ekibastos.ru
 en.pfslots.com
 etamedya.xyz
-explodder.ru
 f0658f.olimp31d2.top
 f15cae.olimp9cf3.top
 f16b9d.olimpd9f7.top
@@ -1137,7 +1135,6 @@ mostriw.com
 mostseb.com
 mostuxx.com
 mostzew.com
-mp3-my.ru
 mp3.open.az
 mp3.uz.cx
 mp3pulse.su
@@ -1365,6 +1362,9 @@ sx1530.com
 syssarcosis.com
 taxnal.com
 telego24.com
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
