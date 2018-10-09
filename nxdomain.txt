@@ -455,7 +455,6 @@
 94-237-51-137.uk-lon1.host.upcloud.com
 94-237-51-190.uk-lon1.host.upcloud.com
 94-237-51-91.uk-lon1.host.upcloud.com
-94-237-52-43.uk-lon1.upcloud.host
 94-237-87-30.de-fra1.host.upcloud.com
 94-237-9-200.fi-hel2.host.upcloud.com
 9435bf.olimp6b96.top
@@ -1582,7 +1581,6 @@ www.abonenty-chast1.pw
 www.abonenty-chast2.pw
 www.abonenty-chast3.pw
 www.abooks.zone
-www.acemodeling.com
 www.aivis.tv
 www.akhbarsham.info
 www.allserials.tv
