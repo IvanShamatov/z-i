@@ -447,6 +447,7 @@
 94-237-49-201.uk-lon1.host.upcloud.com
 94-237-49-232.uk-lon1.host.upcloud.com
 94-237-49-28.uk-lon1.host.upcloud.com
+94-237-49-60.uk-lon1.upcloud.host
 94-237-50-106.uk-lon1.host.upcloud.com
 94-237-50-193.uk-lon1.host.upcloud.com
 94-237-50-82.uk-lon1.host.upcloud.com
@@ -934,7 +935,6 @@ ghuraba.host
 gidonlines.ru
 go-az-mob-go.xyz
 goldenshara.net
-goldmedications.com
 good-weed.biz-24.biz
 goodkino.net
 goodndfl.net
@@ -1506,7 +1506,6 @@ vsepropoker2.ru
 vsfilm.ru
 vtore.info
 vtore24.info
-vulkangold.biz
 vvvbet.site
 vyhvat.ru
 w.jackpotcitycasin.com
@@ -1600,7 +1599,6 @@ www.allserials.tv
 www.anamvseravno.ru
 www.anime-tracker.tech
 www.ati-diplomi.com
-www.azart-cash.ru
 www.baltbet365.co
 www.baltgame24.co
 www.baltsport24.co
