@@ -747,7 +747,6 @@ dok911.ru
 dokument-pro.com
 dokymentalnoe.ru
 dom-filmov.ru
-domknig.me
 donkools.com
 dostavka-piva.net
 dostavka.google.812.is
@@ -912,6 +911,8 @@ gembu.host
 ghuraba.host
 gidonlines.ru
 go-az-mob-go.xyz
+gofaka.com
+gofaka.com.
 goldenshara.net
 goodkino.net
 goodndfl.net
@@ -943,7 +944,6 @@ jjjbet.site
 jm-24.biz
 k-k.city
 k.fb2.online
-kanna-biz.com
 karaokevideo.ru
 karaopa.ru
 kazan-dosug.com
@@ -1271,7 +1271,6 @@ resheba.ru
 rkngov.top
 rmeventos2.com.br
 roscompozor.ru
-ru.adleon67.com
 ru.leon600.com
 ru.mp3-tut.biz
 ru.pfslots.com
@@ -1429,6 +1428,7 @@ vkanistrah.net
 vlcrime.net
 vmamy.com
 vmusice.net
+vodka.alcohol.spb.ru
 vps.winsignia.com
 vps1d.azehosting-servers.net
 vps2.helpmego.to
@@ -1571,7 +1571,9 @@ www.fonbets3.space
 www.freekaraoke.ru
 www.freetorrmd.ru
 www.gdz-free.com
+www.gdzv.ru
 www.gidonline.club
+www.gofaka.com
 www.goodkino.biz
 www.goznak-diplom.com
 www.gurochan.ch
