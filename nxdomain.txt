@@ -435,6 +435,7 @@
 94-237-26-135.de-fra1.host.upcloud.com
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-28-227.de-fra1.host.upcloud.com
+94-237-34-78.fi-hel1.host.upcloud.com
 94-237-39-96.fi-hel1.host.upcloud.com
 94-237-40-210.nl-ams1.host.upcloud.com
 94-237-44-147.nl-ams1.host.upcloud.com
@@ -689,6 +690,7 @@ clubniko.com
 cnem24.biz
 company.ph.net.space.rucdn.pw
 comuk.top
+crimefog.com
 crystalslot.club
 current.web.google.comuk.top
 customer.thn2.vmhaus.com
@@ -741,7 +743,6 @@ doc-ufa.com
 doc-volgograd.com
 doctormig.com
 dok911.ru
-dokument-pro.com
 dokymentalnoe.ru
 dom-filmov.ru
 donkools.com
@@ -924,6 +925,7 @@ hoiantourviet.com
 host.eucloud101.net
 host157.megaoffer.net
 host84.hot-offer.org
+i.prostitutki-1.com
 igdz.ru
 igrovye-avtomaty-online.com
 iiibet.ru
@@ -1122,8 +1124,6 @@ mobdnep.pw
 mobecl.xyz
 moipasport.info
 moskva-prostitutki.com
-mostkoc.com
-mostlef.com
 mostqop.com
 mostseb.com
 mostuxx.com
@@ -1339,7 +1339,6 @@ sovietcinema.ru
 sp1040.com
 sp1051.com
 space.rucdn.pw
-spb-dostavka.com
 spishy-ru.ru
 sport-1x-bet.com
 sporting1122.com
@@ -1357,6 +1356,9 @@ sx1530.com
 syssarcosis.com
 taxnal.com
 telego24.com
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
@@ -1754,5 +1756,4 @@ zerxfilm.ru
 zhiteli.info
 zodiaccasno.com
 zombie-legal.com
-zovets2.ru
 zrelye-prostitutki.ru
