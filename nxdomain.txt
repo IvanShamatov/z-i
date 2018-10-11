@@ -374,7 +374,6 @@
 7tor.cc
 802560.olimp656f.top
 80cea1.olimp9cf3.top
-812.is
 81bf09.olimp786f.top
 81fadd.olimpb138.top
 822a33.olimp27fe.top
@@ -741,7 +740,6 @@ dokymentalnoe.ru
 dom-filmov.ru
 donkools.com
 dostavka-piva.net
-dostavka.google.812.is
 dostup-zerkalo.ru
 e24f43.olimpa88c.site
 e25eeb.olimpd9f7.top
@@ -880,10 +878,12 @@ fonbet94.com
 fonbet95.com
 fonbetrus.ru
 fonbetsportrus.ru
+forexbeginner.ru
 freekaraoke.ru
 freemp3.uz.cx
 freetorrmd.ru
 ftp.online-bigcinema.net
+gaiters.turbe.ru
 games.pampercasino.com
 gdzb.ru
 gembu.host
@@ -918,6 +918,7 @@ ikino.su
 intimsamara.com
 islamumma.net
 ivanfader.ru
+izobilie889.ru
 jackpotcitycasin.com
 jjjbet.site
 jm-24.biz
@@ -944,7 +945,6 @@ kino-ttek.ru
 kino777.ru
 kinobomz.tv
 kinofestival.net
-kinogo-film.cc
 kinogo-film.ru
 kinogo-full.club
 kinogo-hd.mobi
@@ -1128,6 +1128,7 @@ nbsaratov.com
 net.space.rucdn.pw
 new-rutor.ga
 new-rutor.ru
+new.betexplorer.com
 newsviaje10.com.br
 newvulkanonline.com
 nichesi.ru
@@ -1312,6 +1313,9 @@ sweet-stuff.ru
 sx1530.com
 syssarcosis.com
 taxnal.com
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
@@ -1481,12 +1485,14 @@ www.bo-tan.ru
 www.board.v.ua
 www.bookgdz.ru
 www.cinema-hd.tv
+www.dev.bec0de.com
 www.diplom-russia.com
 www.diplom78.com
 www.dok911.ru
 www.dokymentalnoe.ru
 www.dom-filmov.ru
 www.dostavka-piva.net
+www.ebtub.net
 www.ekibastos.ru
 www.euroki.net
 www.fail-zona.ru
@@ -1562,7 +1568,6 @@ www.resheba.ru
 www.ru-diploms.com
 www.rufilm.tv
 www.rus-rutor.info
-www.rusvulcanplay.ru
 www.saving-music.ru
 www.serial-z.online
 www.serial.wiki
