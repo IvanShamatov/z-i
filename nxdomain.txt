@@ -528,6 +528,7 @@ api-xbet.com
 appz1.me
 appz6.me
 appz8.me
+armdip.ru
 avsabc.xyz
 avto.avtobro.xyz
 avtobro.xyz
@@ -803,7 +804,6 @@ fa-slots.com
 fa7b84.olimp1897.top
 fail-zona.ru
 faraonplay9.com
-fashion-brand-mania.com
 fast-smtp.ru
 fb-metrix.info
 fb2.online
@@ -1324,9 +1324,6 @@ sx1530.com
 syssarcosis.com
 taxnal.com
 telego24.com
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
