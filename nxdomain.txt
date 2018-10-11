@@ -580,7 +580,6 @@ bengaltube.com
 bespredelu.net
 best-muzom.ru
 bestdosug.info
-bestgame.kz
 bestmuzon.cc
 bet.bkleon4.ru
 bet1-x4.com
@@ -1078,6 +1077,7 @@ mail-merge.denticulately.com
 mail.torrent.by
 main-tracker.site
 marathon-vhod.website
+maxi-tor.tk
 mdslots.mobi
 media-rs.info
 media-rus.info
@@ -1322,6 +1322,8 @@ sx1530.com
 syssarcosis.com
 taxnal.com
 telego24.com
+test2.plusminus1.com
+test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
