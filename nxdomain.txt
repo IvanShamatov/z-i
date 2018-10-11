@@ -111,7 +111,6 @@
 1xsportt.mobi
 1xspot.com
 1xsprot.pw
-1xsprts.pw
 1xwport.com
 20.300kbit.pw
 203556.olimpd7c0.top
@@ -736,7 +735,6 @@ devkit8.cleardevgroup.com
 df0431.olimpfc65.top
 dfc.koteeq.me
 dip-rf.ru
-dipl-ufa.ru
 dok911.ru
 dokymentalnoe.ru
 dom-filmov.ru
@@ -1075,7 +1073,6 @@ mail-merge.denticulately.com
 mail.torrent.by
 main-tracker.site
 marathon-vhod.website
-maxi-tor.tk
 mdslots.mobi
 media-rs.info
 media-rus.info
@@ -1320,6 +1317,9 @@ sweet-stuff.ru
 sx1530.com
 syssarcosis.com
 taxnal.com
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
