@@ -1202,6 +1202,7 @@ net.space.rucdn.pw
 new-rutor.ga
 new-rutor.ru
 new.betexplorer.com
+new.onlinehockey.win
 newsviaje10.com.br
 newvulkanonline.com
 nichesi.ru
@@ -1288,6 +1289,8 @@ ru-bk110.ru
 ru.adleonlime.com
 ru.adleonlink.com
 ru.leon600.com
+ru.leonigg.com
+ru.leonmain.com
 ru.mp3-tut.biz
 ru.pf-slot.com
 ru.pfslot.com
@@ -1299,6 +1302,7 @@ ru.swleonrec.com
 ru.turkiston.info
 ru.vipdleonk9.com
 ru.vipleonluser3.com
+ru.vippleona7.com
 ru1.mp3-tut.biz
 ru1.primemusic.club
 ru1.rumuzfan.ru
@@ -1397,9 +1401,6 @@ sweatkiski.ru
 sweet-stuff.ru
 sx1530.com
 syssarcosis.com
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
