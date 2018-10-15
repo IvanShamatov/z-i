@@ -985,6 +985,7 @@ gembu.host
 ghuraba.host
 gidonline.pro
 gidonlines.ru
+giggl-shop.biz
 go-az-mob-go.xyz
 go.youwin.com
 gofaka.com
@@ -1441,9 +1442,6 @@ sweatkiski.ru
 sweet-stuff.ru
 sx1530.com
 syssarcosis.com
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
