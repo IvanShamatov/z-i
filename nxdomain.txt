@@ -1540,6 +1540,7 @@ wap.betcity-online.space
 wap.betcitysite.space
 wap.betsbc-web.space
 wap.google.comuk.top
+waplib.me
 wcvw.krotov.info
 web-films.su
 web.google.comuk.top
@@ -1752,6 +1753,7 @@ www.xxxjournal.ru
 www.yabeda.org
 www.youngmodelclub.com
 www.yourcinema.tv
+www.zamuti.cc
 www.zaycev-tut.ru
 www1.myzuka.me
 www1.pesnitytvse.ru
