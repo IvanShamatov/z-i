@@ -919,7 +919,6 @@ flibusta.space
 fon-bet.moscow
 fon1.space
 fon2.space
-fonbet-1.info
 fonbet-1.moscow
 fonbet-41ece.tk
 fonbet-5baee.tk
@@ -1072,7 +1071,6 @@ kinogo.realty
 kinogo.rip
 kinogo.rocks
 kinogo.su
-kinogofilm.ml
 kinogofilm.tk
 kinogohd1080.net
 kinogotv.ru
@@ -1453,6 +1451,9 @@ sweatkiski.ru
 sweet-stuff.ru
 sx1530.com
 syssarcosis.com
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
