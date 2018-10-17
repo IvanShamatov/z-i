@@ -333,6 +333,7 @@
 658c20c0a5e1ef5684.c2ef25.e3b227af32e4d25d50.xyz
 65fc0a.olimp6b96.top
 6674fd.olimp9cf3.top
+67547d.olimp656f.top
 6885d4.olimp4859.top
 690bcd.olimp3043.top
 69657d.olimp58e7.top
@@ -1462,7 +1463,6 @@ slots-v.co
 slotsv.co
 smartdirectroute.net
 smotret-kinogo.ru
-sokol24.ml
 sovietcinema.ru
 sp1040.com
 sp1051.com
@@ -1482,9 +1482,11 @@ stavkabk1.website
 stavkabk2.website
 stavki24bet.website
 superbotanik.ru
-sweatkiski.ru
 sx1530.com
 syssarcosis.com
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
@@ -1502,6 +1504,7 @@ trutor.pl
 tttbet.site
 tut-mp3.ru
 twistcasino.org
+ugar.su
 uk2-infra.vps.net
 ukip157.webcannon.com
 ukip168.webcannon.com
@@ -1693,7 +1696,6 @@ www.freetorrmd.ru
 www.gdz-free.com
 www.gdzv.ru
 www.goodkino.biz
-www.helpdiplom.com
 www.idh.one
 www.igdz.ru
 www.igrovye-avtomaty-online.com
@@ -1760,7 +1762,6 @@ www.service.rkngov.top
 www.skachat-torrent.org
 www.slavaangel.com
 www.slavaangel.ru
-www.sokol24.ml
 www.sovietcinema.ru
 www.spishy-ru.ru
 www.spravka-help.org.
@@ -1771,6 +1772,7 @@ www.the-cinema.ru
 www.topasnew.ru
 www.torrentsget.net
 www.tut-mp3.ru
+www.ugar.su
 www.velkam4.co
 www.vk-sound.ru
 www.vmusice.net
