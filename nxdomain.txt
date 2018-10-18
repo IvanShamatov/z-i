@@ -120,6 +120,7 @@
 209-50-54-128.us-chi1.host.upcloud.com
 209-50-54-226.us-chi1.host.upcloud.com
 209-50-58-252.us-chi1.host.upcloud.com
+20fonbk.space
 212-129-0-191.rev.poneytelecom.eu
 212-129-0-193.rev.poneytelecom.eu
 212-129-16-85.rev.poneytelecom.eu
@@ -457,6 +458,8 @@
 94-237-40-210.nl-ams1.host.upcloud.com
 94-237-44-147.nl-ams1.host.upcloud.com
 94-237-44-244.nl-ams1.host.upcloud.com
+94-237-45-173.nl-ams1.host.upcloud.com
+94-237-45-48.nl-ams1.host.upcloud.com
 94-237-46-105.nl-ams1.host.upcloud.com
 94-237-46-137.nl-ams1.host.upcloud.com
 94-237-48-132.uk-lon1.host.upcloud.com
@@ -474,6 +477,7 @@
 94-237-51-190.uk-lon1.host.upcloud.com
 94-237-51-91.uk-lon1.host.upcloud.com
 94-237-52-145.uk-lon1.host.upcloud.com
+94-237-52-71.uk-lon1.host.upcloud.com
 94-237-84-116.de-fra1.host.upcloud.com
 94-237-84-215.de-fra1.host.upcloud.com
 94-237-85-144.de-fra1.host.upcloud.com
@@ -672,10 +676,7 @@ betcity-play.space
 betcity-rate.space
 betcity-sport.top
 betcity-stavki.club
-betcity-zerkalo10.ru
 betcity-zerkalo7.ru
-betcity-zerkalo8.ru
-betcity-zerkalo9.ru
 betcity.space
 betcity24.top
 betcity333.space
@@ -1003,10 +1004,12 @@ fonbet94.com
 fonbet95.com
 fonbetrus.ru
 fonbetsportrus.ru
+frank-bestgames.com
 frank-slots.com
 frankbestgaming.com
 frankclubvip.com
 frankgiftclub.com
+franknewgames.com
 frankpremiergames.com
 frankpremium.com
 freebet-1.space
@@ -1452,6 +1455,7 @@ s.mogoyun.com
 s61.fastsrv.com
 salescoupon.net
 saving-music.ru
+sekas.tv
 semimi.az
 serial-z.online
 serial.wiki
@@ -1498,6 +1502,7 @@ sx1530.com
 syssarcosis.com
 test1.plusminus1.com
 test2.plusminus1.com
+test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
