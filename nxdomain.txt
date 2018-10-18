@@ -455,6 +455,7 @@
 94-237-10-12.fi-hel2.host.upcloud.com
 94-237-10-13.fi-hel2.host.upcloud.com
 94-237-10-178.fi-hel2.host.upcloud.com
+94-237-10-230.fi-hel2.host.upcloud.com
 94-237-26-135.de-fra1.host.upcloud.com
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-28-227.de-fra1.host.upcloud.com
