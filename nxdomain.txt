@@ -725,9 +725,7 @@ bigcinema-tv.info
 biz.black
 bk-fon29.xyz
 bk-fonbet.moscow
-bk-fonbet25.ru
 bk-fonbet26.ru
-bk-fonbet28.ru
 bk1x-520.com
 bk1x520.com
 bkbet-1.website
@@ -1552,6 +1550,9 @@ stavki24bet.website
 superbotanik.ru
 sx1530.com
 syssarcosis.com
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
