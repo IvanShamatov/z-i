@@ -1472,7 +1472,6 @@ ru.mp3-tut.biz
 ru.swleon37.com
 ru.swleoncas.com
 ru.swleonplus.com
-ru.swleonrec.com
 ru.turkiston.info
 ru.vipdleonk9.com
 ru.vippleona7.com
@@ -1660,7 +1659,6 @@ wap.google.comuk.top
 wap.sitebetcity.space
 wap.web-betcity.space
 waplib.me
-wcvw.krotov.info
 web-betcity.space
 web-films.su
 web.google.comuk.top
@@ -1777,6 +1775,7 @@ www.dev.bec0de.com
 www.diplom-russia.com
 www.diplom74chel.com
 www.diplomius.com
+www.diploms-nn.com
 www.diploms-online.net
 www.diploms-originals.com
 www.diplomsx.com
@@ -1863,6 +1862,7 @@ www.pravahelp.org
 www.prokinozal.ru
 www.rap-game.ru
 www.resheba.ru
+www.rfdiplomsa.com
 www.rudiploms.com
 www.rufilm.tv
 www.rus-rutor.info
