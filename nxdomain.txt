@@ -488,6 +488,7 @@
 94-237-49-201.uk-lon1.host.upcloud.com
 94-237-49-232.uk-lon1.host.upcloud.com
 94-237-49-28.uk-lon1.host.upcloud.com
+94-237-49-60.uk-lon1.upcloud.host
 94-237-50-106.uk-lon1.host.upcloud.com
 94-237-50-193.uk-lon1.host.upcloud.com
 94-237-50-82.uk-lon1.host.upcloud.com
@@ -590,7 +591,6 @@ aiva24biz.cf
 alcodostavka1.ru
 alkobar-24.ru
 alkonadom.su
-allserials.tv
 allvolcanoclubs.com
 anamvseravno.ru
 anime-tracker.tech
