@@ -1225,7 +1225,6 @@ kursk.nuzhnyprava.biz
 kursk.spravami.com
 l1uxury039.com
 ladies-day.ru
-legalizerc.biz
 leninsk-kuznetskiy.nuzhnyprava.biz
 leo.bkrlb2.pw
 leo.bkrlb4.pw
@@ -1583,6 +1582,7 @@ rutor.onion.lu
 rutor2.pl
 rutorg.ga
 rutorg.gq
+rutorg.ml
 rutorinfo.org
 rutorrents.ml
 rutors.ml
@@ -1922,7 +1922,6 @@ www.kinosklad-anime.ru
 www.kinosklad-online.ru
 www.kinostok.org
 www.kupit-legalku.tk
-www.legalizerc.biz
 www.lifefilm.info
 www.lithub.ru
 www.lybiotechnology.com
@@ -2040,6 +2039,7 @@ zarutor.ru
 zaycev-ru.ru
 zaycev-tut.me
 zaycev-tut.ru
+zekov.net
 zenitai.win
 zenitas.top
 zenitas.win
