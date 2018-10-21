@@ -1176,7 +1176,6 @@ kinobum.club
 kinofestival.net
 kinogo-film.ru
 kinogo-hd.mobi
-kinogo-hd.net
 kinogo-hdonline.net
 kinogo-net-co.ru
 kinogo-net-hd.ru
@@ -1664,6 +1663,9 @@ syssarcosis.com
 t0r4.ml
 t0r4.tk
 telezion.ru
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 tgmvc.ru
@@ -1922,7 +1924,6 @@ www.kino-trap.com
 www.kino777.ru
 www.kinobomz.tv
 www.kinofestival.net
-www.kinogo-hd.net
 www.kinogo-net-co.ru
 www.kinogo-online.com
 www.kinogo-online.net
