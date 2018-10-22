@@ -1537,7 +1537,6 @@ ru.leon417.com
 ru.leon418.com
 ru.leonarmy.com
 ru.leondiff.com
-ru.leonfort.com
 ru.leonigg.com
 ru.leonjohn.com
 ru.leonmain.com
@@ -1548,7 +1547,6 @@ ru.leontxt.com
 ru.leonwelcome.com
 ru.mansionpoker.com
 ru.mp3-tut.biz
-ru.swleon37.com
 ru.swleoncas.com
 ru.swleonplus.com
 ru.turkiston.info
@@ -1683,6 +1681,7 @@ tomsk.spravami.com
 topasnew.ru
 topmuz.net
 torrent9.name
+torrentdownload.com.pl
 torrentdownload.net.pl
 torrentsget.net
 track.kg
@@ -2002,6 +2001,7 @@ www.sweet-models.top
 www.the-cinema.ru
 www.the-spravka.ru
 www.topasnew.ru
+www.torrentdownload.com.pl
 www.torrentdownload.net.pl
 www.torrentsget.net
 www.tut-mp3.ru
