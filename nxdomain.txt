@@ -97,7 +97,6 @@
 1kinogo.club
 1kssport.com
 1nnm-club.ga
-1parimatch.space
 1rutor.org
 1sx521.com
 1sx522.com
@@ -614,10 +613,6 @@ astrakhan.spravami.com
 avsabc.xyz
 avtobro.xyz
 azart-play.net
-azartday.com
-azartgood.com
-azartmay.com
-azartmonth.com
 azartone.com
 azino-777-demo.win
 azino-777-otzivi.win
@@ -711,7 +706,6 @@ betcity-sport.top
 betcity-stavki.club
 betcity-web2.space
 betcity-yeyr.space
-betcity.space
 betcity24.top
 betcity333.space
 betcity365.space
@@ -720,8 +714,6 @@ betcityru2.top
 betcitysite.space
 betcitywww.space
 betkontora.space
-betleon5.space
-betleon6.website
 betleon7.website
 betprognoz.info
 bets.foninbet.club
@@ -747,14 +739,9 @@ bigrc.vip
 bk-fon29.xyz
 bk1x-520.com
 bk1x520.com
-bkbet-1.website
-bkbet-11.website
-bkbet-5.website
-bkbet-7.website
 bkbet.space
 bkbetcity.space
 bkbetcity2.top
-bkfon-13.website
 bkfonbet56.online
 bkfonbet57.online
 bkfonbet58.online
@@ -899,7 +886,6 @@ dom-orge.ru
 donkools.com
 dostup-zerkalo.ru
 dosugnn.biz
-dosugrostov.online
 driftall.com
 driftbets.com
 driftgogo.com
@@ -997,7 +983,6 @@ fix-it-prof.ru
 flibusta.space
 fonbet-41ece.tk
 fonbet-5baee.tk
-fonbet-bk4.website
 fonbet-d3659.tk
 fonbet-dd6f2.tk
 fonbet-lives1.website
@@ -1082,12 +1067,6 @@ frankgiftclub.com
 franknewgames.com
 frankpremiergames.com
 frankpremium.com
-freebet-1.space
-freebet-2.space
-freebet-4.space
-freebet-5.space
-freebet-6.space
-freebet-7.space
 freekaraoke.ru
 freemp3.uz.cx
 freetorrmd.ru
@@ -1156,7 +1135,6 @@ karaokevideo.ru
 karaopa.ru
 kavkazpress.org
 kazan.nuzhnyprava.biz
-kazino-otzyvy.info
 kemerovo.nuzhnyprava.biz
 kerch.nuzhnyprava.biz
 khilafa.org
@@ -1244,7 +1222,6 @@ leonbets5a.ru
 leonbets7a.ru
 leonbets9.xyz
 leonbetsos.info
-leonbk10.website
 leonbook8.space
 leondostup41.xyz
 lifefilm.info
@@ -1422,7 +1399,6 @@ omsk.spravami.com
 onion.gs
 onlainfilmix.com
 online.babkino.pro
-onlineslots555.com
 openshara.ru
 orda1313.info
 orenburg.nuzhnyprava.biz
@@ -1628,7 +1604,6 @@ spb-v.ru
 spektr-bt.ru
 spishy-ru.ru
 sport-1x-bet.com
-sport7bet.website
 sporting1122.com
 sportkontora.website
 sportsxbet6.com
@@ -1636,9 +1611,6 @@ sportsxbet9.com
 ssocks.cf
 sssbet.site
 st.officeverse.com
-stavkabk1.website
-stavkabk2.website
-stavki24bet.website
 stavkifon31.xyz
 superbotanik.ru
 sx1530.com
@@ -1845,7 +1817,6 @@ www.board.v.ua
 www.boleen.ru
 www.bookgdz.ru
 www.castelred.com
-www.chell.win
 www.cinema-hd.tv
 www.dev.bec0de.com
 www.diplom-cena.com
@@ -2086,10 +2057,7 @@ zerkalo-bet894.ru
 zerkalo-bets107.ru
 zerkalo-kazino.ru
 zerkalo-rutor.su
-zerkalo228.website
-zerkalo560.website
-zerkalo738.website
-zerkalo782.website
+zerkalo763.ru
 zerx.tv
 zerxfilm.ru
 zhiteli.info
