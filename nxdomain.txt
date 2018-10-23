@@ -132,6 +132,8 @@
 209-50-52-82.us-chi1.host.upcloud.com
 209-50-54-128.us-chi1.host.upcloud.com
 209-50-54-226.us-chi1.host.upcloud.com
+209-50-56-123.us-chi1.host.upcloud.com
+209-50-57-105.us-chi1.host.upcloud.com
 209-50-58-252.us-chi1.host.upcloud.com
 20fonbk.space
 212-129-0-191.rev.poneytelecom.eu
@@ -444,6 +446,7 @@
 897962.olimp1a50.top
 8b5b71.olimpfc65.top
 8bcac2.olimpe24a.top
+8betsleon.xyz
 8d0535.olimp161f.top
 8d6f84.olimp6753.top
 8dd05b.olimp1958.top
@@ -509,6 +512,7 @@
 94-237-84-215.de-fra1.host.upcloud.com
 94-237-85-104.de-fra1.host.upcloud.com
 94-237-85-144.de-fra1.host.upcloud.com
+94-237-85-248.de-fra1.host.upcloud.com
 94-237-86-117.de-fra1.host.upcloud.com
 94-237-86-141.de-fra1.host.upcloud.com
 94-237-86-179.de-fra1.host.upcloud.com
@@ -598,7 +602,6 @@ agrosmart.com.ua
 alcodostavka1.ru
 alkonadom.su
 alkonadom72.ru
-allvolcanoclubs.com
 anamvseravno.ru
 anime-tracker.tech
 antiq-fetishes.net
@@ -704,6 +707,8 @@ betcity-24.top
 betcity-bet.top
 betcity-bk.top
 betcity-buk.top
+betcity-live3.website
+betcity-live4.website
 betcity-online.space
 betcity-play.space
 betcity-rate.space
@@ -825,7 +830,6 @@ cartoonxsex.info
 casino-boom.online
 casino-profit.site
 casinoadmiral.club
-casinokbs.me
 casinokbs.net
 cc53bd.olimpcc44.top
 cd2490.olimp161f.top
@@ -1009,11 +1013,13 @@ fonbet-lives1.website
 fonbet-lives4.website
 fonbet-lives5.website
 fonbet-zer.website
+fonbet10.website
 fonbet100.com
 fonbet101.com
 fonbet102.com
 fonbet103.com
 fonbet104.com
+fonbet12.website
 fonbet3.com
 fonbet3.website
 fonbet35.website
@@ -1021,6 +1027,7 @@ fonbet36.website
 fonbet37.website
 fonbet39.website
 fonbet4.website
+fonbet40.xyz
 fonbet582.website
 fonbet59.com
 fonbet62.vip
@@ -1060,6 +1067,7 @@ fonbet87.vip
 fonbet88.vip
 fonbet89.com
 fonbet89.vip
+fonbet9.website
 fonbet90.com
 fonbet90.vip
 fonbet91.com
@@ -1171,7 +1179,6 @@ kinino.ru
 kino-coin.online
 kino-go.org
 kino-hd1080.ru
-kino-krad.online
 kino-lives.ru
 kino-online.top
 kino-profi.org
@@ -1248,9 +1255,11 @@ leonbets11.xyz
 leonbets4a.ru
 leonbets5a.ru
 leonbets7a.ru
+leonbets9.xyz
 leonbetsos.info
 leonbk10.website
 leonbook8.space
+leondostup41.xyz
 lifefilm.info
 ligastavoc.ru
 ligcontatoenvio.com.br
@@ -1405,7 +1414,6 @@ nebante1win.ml
 net.space.rucdn.pw
 new-rutor.ga
 new-rutor.ru
-new.onlinehockey.win
 newsviaje10.com.br
 nichesi.ru
 nnm-club.name
@@ -1427,7 +1435,6 @@ omsk.spravami.com
 onion.gs
 onlainfilmix.com
 online.babkino.pro
-onlinehockey.win
 onlineslots555.com
 openshara.ru
 orda1313.info
@@ -1439,6 +1446,8 @@ otdel-72.ru
 p177.bellaluxz.com
 p19.bellaluxz.com
 parimatch-live5.space
+parimatch25.website
+parimatch29.website
 parimatch3.xyz
 parimatch4.xyz
 parimatch5.xyz
@@ -1485,7 +1494,6 @@ proadvisor.ru
 probukmeker3.com
 prokinozal.ru
 prostitutki-p.com
-prostitutkiba.ru
 prostitutkimsk.com
 prostitutkisamara63.info
 prostitutkitut.ru
@@ -1529,11 +1537,8 @@ ru.leon413.com
 ru.leon414.com
 ru.leon417.com
 ru.leon418.com
-ru.leonarmy.com
 ru.leondiff.com
-ru.leonigg.com
 ru.leonjohn.com
-ru.leonmain.com
 ru.leonmel.com
 ru.leonoffer.com
 ru.leonprisma.com
@@ -1542,9 +1547,7 @@ ru.leonwelcome.com
 ru.mansionpoker.com
 ru.mp3-tut.biz
 ru.swleoncas.com
-ru.swleonplus.com
 ru.turkiston.info
-ru.vippleona7.com
 ru1.mp3-tut.biz
 ru1.primemusic.club
 ru1.rumuzfan.ru
@@ -1819,7 +1822,6 @@ www.1xbet.agency
 www.300kbit.fm
 www.4torrents.net
 www.520-1xbk.com
-www.5medspravok.org
 www.8torrent.net
 www.abonenty-chast1.pw
 www.abonenty-chast2.pw
@@ -1982,6 +1984,7 @@ www.slavaangel.ru
 www.sovietcinema.ru
 www.spishy-ru.ru
 www.sporam.org
+www.sportmagaz.top
 www.spravka-help.org.
 www.sprut.tv
 www.stforex.ru
