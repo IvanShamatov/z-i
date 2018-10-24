@@ -1214,6 +1214,7 @@ kupitskorost.ml
 kursk.nuzhnyprava.biz
 kursk.spravami.com
 l1uxury039.com
+lamanar.ru
 league.voluszn.ru
 left.netgameonline1.com
 legalpride.vip
@@ -1272,6 +1273,7 @@ m.baltgames365.xyz
 m.fongamesbet.com
 m.foninbet.club
 m.mp3-tut.biz
+m.zeniterr.top
 m.zenitqw.top
 m.zenitxcv.top
 m.zenitzxc.top
@@ -1678,6 +1680,9 @@ sx1530.com
 syssarcosis.com
 t0r4.ml
 t0r4.tk
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.ru
@@ -2024,6 +2029,7 @@ www.yabeda.org
 www.yeghiazaryan.us
 www.yourcinema.tv
 www.zaycev-tut.ru
+www.zeniterr.top
 www.zenitqw.top
 www.zenitxcv.top
 www.zenitzxc.top
@@ -2065,9 +2071,11 @@ zekov.net
 zenitai.win
 zenitas.top
 zenitas.win
+zenitcom.top
 zenitde.win
 zenitdfg.top
 zenitds.win
+zeniterr.top
 zenitert.top
 zenitew.win
 zenitez.win
@@ -2086,7 +2094,9 @@ zenitmx.win
 zenitom.top
 zenitom.win
 zenitop.win
+zenitpio.top
 zenitpo.win
+zenitpoi.top
 zenitqw.top
 zenitqw.win
 zenitqwe.top
