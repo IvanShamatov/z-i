@@ -481,6 +481,7 @@
 94-237-44-107.nl-ams1.host.upcloud.com
 94-237-44-123.nl-ams1.host.upcloud.com
 94-237-44-147.nl-ams1.host.upcloud.com
+94-237-44-194.nl-ams1.host.upcloud.com
 94-237-44-215.nl-ams1.host.upcloud.com
 94-237-44-244.nl-ams1.host.upcloud.com
 94-237-45-105.nl-ams1.host.upcloud.com
@@ -709,7 +710,6 @@ bfa4dd.olimp12da.top
 bfd682.olimp9cf3.top
 bff718.olimp58e8.top
 bigcinema-online.info
-bigcinema-tv.com
 bigcinema-tv.info
 bigrc.vip
 bk-fon29.xyz
@@ -1190,6 +1190,7 @@ kupit-boschki.tk
 kupit-diplom-astraxan.com
 kupit-diplom-bryansk.com
 kupit-diplom-ivanovo.com
+kupit-diplom-vladivostok.com
 kupit-diplom-volgograd.com
 kupit-diplom-voronezh.com
 kupitskorost.ml
@@ -1404,6 +1405,7 @@ nebante1win.ml
 net.space.rucdn.pw
 new-rutor.ga
 new-rutor.ru
+new.c4d5b5.olimp58e8.top
 newsviaje10.com.br
 nichesi.ru
 nnm-club.name
@@ -1489,6 +1491,7 @@ rkn.zfilm-hd.space
 rkngov.top
 rmeventos2.com.br
 roscompozor.ru
+ru.adleonee.com
 ru.casinobonuscenter.com
 ru.leon410.com
 ru.leon411.com
