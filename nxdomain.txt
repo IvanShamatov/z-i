@@ -129,6 +129,7 @@
 209-50-52-82.us-chi1.host.upcloud.com
 209-50-54-128.us-chi1.host.upcloud.com
 209-50-54-226.us-chi1.host.upcloud.com
+209-50-54-86.us-chi1.host.upcloud.com
 209-50-56-123.us-chi1.host.upcloud.com
 209-50-57-105.us-chi1.host.upcloud.com
 209-50-58-252.us-chi1.host.upcloud.com
@@ -663,7 +664,6 @@ baltsport24.life
 baltsport24.live
 baltsport24.online
 baltsport24.xyz
-bankdocumentov.ru
 barnaul.spravami.com
 baskino.movie
 baskino.zone
@@ -696,6 +696,7 @@ betcity-sport.top
 betcity-stavki.club
 betcity-web2.space
 betcity-yeyr.space
+betcity-zerkalo11.ru
 betcity24.top
 betcity333.space
 betcity365.space
@@ -771,7 +772,6 @@ boleen.ru
 bonuskazino.com
 bonuspls2.ru
 bookgdz.ru
-boraz.ru
 bratsk.nuzhnyprava.biz
 brokebookmovieclub.com
 bronchickum.ru
@@ -1433,7 +1433,6 @@ porto2013.com.br
 pravahelp.org
 pret-24.biz
 proadvisor.ru
-probukmeker3.com
 prokinozal.ru
 prostitutki-p.com
 prostitutkimsk.com
