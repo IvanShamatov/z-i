@@ -505,6 +505,7 @@
 94-237-49-201.uk-lon1.host.upcloud.com
 94-237-49-232.uk-lon1.host.upcloud.com
 94-237-49-28.uk-lon1.host.upcloud.com
+94-237-49-60.uk-lon1.upcloud.host
 94-237-50-106.uk-lon1.host.upcloud.com
 94-237-50-193.uk-lon1.host.upcloud.com
 94-237-50-82.uk-lon1.host.upcloud.com
@@ -863,6 +864,7 @@ doctormedik.com
 dok911.ru
 dokymentalnoe.ru
 dom-filmov.ru
+domdoc.net
 donkools.com
 dostup-zerkalo.ru
 driftmany.com
@@ -1095,6 +1097,7 @@ jiteli.info
 jjjbet.site
 jm24.bz
 k.fb2.online
+kaef.biz
 karaokevideo.ru
 karaopa.ru
 kavkazpress.org
@@ -1386,7 +1389,6 @@ mww.mp3-tut.biz
 mwy.mp3-tut.biz
 my-gdz.ru
 my-hit.com
-myhotzpic.com
 naturalworld.ru
 nb-saratov.com
 nebante1win.ml
@@ -1863,7 +1865,6 @@ www.muqawamah.net
 www.muzika-onlain.ru
 www.my-gdz.ru
 www.my-hit.com
-www.mybitcoingame.com
 www.mytoot.ru
 www.naturalworld.ru
 www.new-rutor.cf
@@ -1901,7 +1902,6 @@ www.sprut.tv
 www.stforex.ru
 www.superbotanik.ru
 www.supremerusbk.online
-www.sweet-models.top
 www.the-cinema.ru
 www.topasnew.ru
 www.torrentdownload.com.pl
