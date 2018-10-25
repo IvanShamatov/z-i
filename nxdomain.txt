@@ -1291,7 +1291,6 @@ media-rs.info
 media-rus.info
 media-tracker.info
 medikocentrum.ru
-medkniga-krasnoyarsk.ru
 medknizhki-omsk.ru
 megaserial.net
 minuskaraoke.ru
@@ -1496,6 +1495,8 @@ rkngov.top
 rmeventos2.com.br
 roscompozor.ru
 ru.adleonee.com
+ru.adleonfast.com
+ru.adleonnbn.com
 ru.casinobonuscenter.com
 ru.leon410.com
 ru.leon411.com
@@ -1596,6 +1597,7 @@ slavaangel.ru
 slot-shall.com
 slotolandia.co
 slotolandia.net
+slotolandia.org
 slotx.website
 smallteen.top
 smartdirectroute.net
@@ -2039,12 +2041,7 @@ zenitzx.win
 zenitzxc.top
 zerbk6.website
 zerkalakantor.website
-zerkalo-bet734.ru
 zerkalo-bet737.ru
-zerkalo-bet738.ru
-zerkalo-bet889.ru
-zerkalo-bet890.ru
-zerkalo-bet893.ru
 zerkalo-bk-bet6.ru
 zerkalo-bk-bet7.ru
 zerkalo-bk-bet8.ru
