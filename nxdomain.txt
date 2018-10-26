@@ -1680,6 +1680,7 @@ t0r4.ml
 t0r4.tk
 tg.yadda.club
 tginfo.yadda.club
+the-cinema.net
 the-cinema.ru
 themoviebay.ru
 thor.bouwsoft.be
