@@ -162,7 +162,6 @@
 209-50-56-123.us-chi1.host.upcloud.com
 209-50-57-105.us-chi1.host.upcloud.com
 209-50-58-252.us-chi1.host.upcloud.com
-20fonbk.space
 212-129-0-191.rev.poneytelecom.eu
 212-129-0-193.rev.poneytelecom.eu
 212-129-16-85.rev.poneytelecom.eu
@@ -260,6 +259,7 @@
 38506b.olimp3043.top
 38bc46.olimp98b4.top
 38c4cbfc1828d1aef9.c2ef25.a2341e99d0a2f2982f.xyz
+394278712976088dce.c2ef25.a2341e99d0a2f2982f.xyz
 3947c5.olimp58e7.top
 396e40.olimpef97.site
 39ed78.olimp9b55.gdn
@@ -1115,8 +1115,6 @@ fonbook37.space
 fonsport-bet.cf
 fonsport81.xyz
 fonzerkalo38.xyz
-frank-bestgames.com
-franknewgames.com
 freekaraoke.ru
 freemp3.uz.cx
 freetorrmd.ru
@@ -1125,7 +1123,6 @@ fuck.zfilm-hd.space
 fullhouse24.com
 games.fongamesbet.com
 games.foninbet.club
-gaz-mag.ru
 gdz-otlichnik.ru
 gdzb.ru
 gdzlol.club
@@ -1635,7 +1632,6 @@ salescoupon.net
 saving-music.ru
 seedbanda.shop
 seedsmarkt.me
-sekas.tv
 serial-z.online
 serial.wiki
 serialhit.tv
@@ -1748,7 +1744,6 @@ virik.ru
 vk-sound.ru
 vlcrime.net
 vmusice.net
-vmuzike.net
 vps.winsignia.com
 vps1d.azehosting-servers.net
 vps2.helpmego.to
@@ -2000,7 +1995,6 @@ www.tv-torrent.org
 www.ugar.su
 www.vk-sound.ru
 www.vmusice.net
-www.vmuzike.net
 www.vsfilm.ru
 www.vulcan-club-online.com
 www.web-betcity.space
