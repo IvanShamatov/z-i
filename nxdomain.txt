@@ -806,8 +806,6 @@ bkbets.online
 bkbonus.club
 bkbonus.site
 bkbonuses.online
-bkfonbet57.online
-bkfonbet62.online
 bkinfo3.website
 bkjhwbruwbeouwebrouiowefj.nopeer.ru
 bkleon1.su
@@ -868,7 +866,6 @@ c9cba4.olimp1958.top
 ca6143.olimpe24a.top
 caen.mybrandserver.com
 caplin24.biz
-cartoonxsex.info
 casinaz.com
 cc058a0ef73a076cf8.c2ef25.a2341e99d0a2f2982f.xyz
 cc53bd.olimpcc44.top
@@ -1561,11 +1558,15 @@ ru.leon424.com
 ru.leon425.com
 ru.leon427.com
 ru.leon428.com
+ru.leonboxing.com
 ru.leondarom.com
 ru.leonfifa.com
+ru.leonleto.com
 ru.leonmma.com
 ru.leonnhl.com
 ru.leonplan.com
+ru.leonpriz.com
+ru.leonsila.com
 ru.leonufc.com
 ru.leonvulkan.com
 ru.mansionpoker.com
@@ -1655,7 +1656,6 @@ slotx.website
 smartdirectroute.net
 smotret-kinogo.ru
 snakeas.biz
-sosista.biz
 sovietcinema.ru
 sp1040.com
 sp1051.com
@@ -1762,9 +1762,7 @@ vvvbet.site
 w1.rumuzfan.ru
 wap.betcity-yeyr.space
 wap.betsbc-sepg.space
-wap.betsbc-site3.space
 wap.google.comuk.top
-wap.web-betcity.space
 waplib.me
 web-betcity.space
 web-films.su
@@ -1846,9 +1844,7 @@ www.anime-tracker.tech
 www.atomsynth.com
 www.avtoshkola-star.com
 www.betcity-yeyr.space
-www.betcitywww.space
 www.betsbc-sepg.space
-www.betsbc-site3.space
 www.bigcinema.to
 www.bk1x-520.com
 www.bkbonus.club
@@ -1882,15 +1878,8 @@ www.filmask.ru
 www.filmku.ru
 www.films-one.ru
 www.films-skorpik.com
-www.fonbet100.com
-www.fonbet101.com
-www.fonbet102.com
-www.fonbet103.com
-www.fonbet104.com
-www.fonbet84.vip
 www.fonbet85.vip
 www.fonbet87.vip
-www.fonbet96.com
 www.fonbet98.com
 www.fonsport-bet.cf
 www.freekaraoke.ru
@@ -1950,7 +1939,6 @@ www.olimpda.info
 www.onion.fm
 www.online-freebee.net
 www.onpoker.ru
-www.original-diploms.com
 www.parilive.info
 www.permxxx.com
 www.piratbit.ru
@@ -1969,7 +1957,6 @@ www.serial-z.online
 www.serial.wiki
 www.serialhit.tv
 www.service.rkngov.top
-www.sitebetcity.space
 www.slavaangel.com
 www.slavaangel.ru
 www.sovietcinema.ru
@@ -1991,7 +1978,6 @@ www.vk-sound.ru
 www.vmusice.net
 www.vsfilm.ru
 www.vulcan-club-online.com
-www.web-betcity.space
 www.winbizcasino.com
 www.wood-film.ru
 www.ww.xrutor.org
@@ -2006,7 +1992,6 @@ www.zaycev-tut.ru
 www.zbpro.top
 www.zeniterr.top
 www.zenitknj.top
-www.zenitqw.top
 www.zenitxcv.top
 www.zenitzxc.top
 www.zerkalo503.ru
@@ -2103,6 +2088,7 @@ zerkalo763.ru
 zerkalo764.ru
 zerkalo768.ru
 zerkalo944.ru
+zerkalo975.ru
 zerx.tv
 zerxfilm.ru
 zhiteli.info
