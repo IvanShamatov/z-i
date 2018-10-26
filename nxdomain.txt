@@ -1154,8 +1154,6 @@ host.eucloud101.net
 host157.megaoffer.net
 host84.hot-offer.org
 hotvulkanclub.com
-hydra4jpwhfx4mst.onion.fm
-hydraruzxpnew4af.onion.fm
 hydraruzxpnew4af.onion.gs
 igdz.ru
 iiibet.ru
@@ -1560,6 +1558,7 @@ ru.leon425.com
 ru.leon427.com
 ru.leon428.com
 ru.leon429.com
+ru.leonbaza.com
 ru.leonboxing.com
 ru.leondarom.com
 ru.leonfifa.com
@@ -1705,6 +1704,7 @@ tttbet.site
 tut-mp3.ru
 tv-torrent.org
 ugar.su
+uggino.ru
 uk2-infra.vps.net
 ukip157.webcannon.com
 ukip168.webcannon.com
@@ -1859,7 +1859,6 @@ www.cozino.ru
 www.dev.bec0de.com
 www.diamondvip-casino.com
 www.diplom-cena.com
-www.diplomprofi.com
 www.doctormedik.com
 www.dok911.ru
 www.dokymentalnoe.ru
@@ -1928,7 +1927,6 @@ www.naturalworld.ru
 www.new-rutor.cf
 www.nichesi.ru
 www.olimpda.info
-www.onion.fm
 www.online-freebee.net
 www.onpoker.ru
 www.parilive.info
@@ -1941,7 +1939,6 @@ www.rap-game.ru
 www.resheba.ru
 www.rufilm.tv
 www.rus-rutor.info
-www.rusdiplom.info
 www.saving-music.ru
 www.serial-z.online
 www.serial.wiki
