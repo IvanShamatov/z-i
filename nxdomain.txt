@@ -752,6 +752,7 @@ betcity-buk.top
 betcity-live3.website
 betcity-live4.website
 betcity-online.space
+betcity-pdsh.space
 betcity-play.space
 betcity-rate.space
 betcity-sport.top
@@ -779,6 +780,7 @@ betsbc-play.space
 betsbc-sepg.space
 betsbc-site3.space
 betsbc-sport.space
+betsbc-vemb.space
 betsbc-web.space
 betsbc2.top
 betsbc888.top
@@ -1333,6 +1335,7 @@ media-tracker.info
 medikocentrum.ru
 medikspravochkin.ru
 megaserial.net
+melbbet.mobi
 melbsst.xyz
 melbwqy.xyz
 melejyx.xyz
@@ -1758,8 +1761,10 @@ vulkan-cazino24.com
 vulkanorigonline1.com
 vvvbet.site
 w1.rumuzfan.ru
+wap.betcity-pdsh.space
 wap.betcity-yeyr.space
 wap.betsbc-sepg.space
+wap.betsbc-vemb.space
 wap.google.comuk.top
 waplib.me
 web-betcity.space
@@ -1842,6 +1847,7 @@ www.anamvseravno.ru
 www.anime-tracker.tech
 www.atomsynth.com
 www.avtoshkola-star.com
+www.betcity-pdsh.space
 www.betcity-yeyr.space
 www.betsbc-sepg.space
 www.betsbc-vemb.space
@@ -2077,5 +2083,6 @@ zerx.tv
 zerxfilm.ru
 zhiteli.info
 zhitely.info
+zipisland.download
 zodiaccasno.com
 zrelye-prostitutki.ru
