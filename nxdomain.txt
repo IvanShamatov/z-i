@@ -1332,7 +1332,6 @@ marafon-13.website
 marvelousteen.top
 match-zerkalo.ru
 match-zerkalo1.ru
-match-zerkalo2.ru
 match-zerkalo3.ru
 match-zerkalo4.ru
 media-rs.info
@@ -1691,6 +1690,9 @@ sx1530.com
 syssarcosis.com
 t0r4.ml
 t0r4.tk
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.net
