@@ -495,6 +495,7 @@
 83-136-250-192.uk-lon1.host.upcloud.com
 83-136-251-144.uk-lon1.host.upcloud.com
 83-136-251-178.uk-lon1.host.upcloud.com
+83-136-252-124.uk-lon1.host.upcloud.com
 83-136-253-222.uk-lon1.host.upcloud.com
 83-136-255-192.uk-lon1.host.upcloud.com
 83-136-255-66.uk-lon1.host.upcloud.com
@@ -1722,6 +1723,7 @@ sx1530.com
 syssarcosis.com
 t0r4.ml
 t0r4.tk
+test1.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.net
