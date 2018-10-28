@@ -1260,6 +1260,7 @@ kupit-diplom-ivanovo.com
 kupit-diplom-kaliningrad.com
 kupit-diplom-kazan.com
 kupit-diplom-kirov.com
+kupit-diplom-krasnodar.com
 kupit-diplom-kursk.com
 kupit-diplom-vladivostok.com
 kupit-diplom-volgograd.com
