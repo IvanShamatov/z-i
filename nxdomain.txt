@@ -1254,7 +1254,9 @@ kupit-diplom-barnaul.com
 kupit-diplom-belgorod.com
 kupit-diplom-bryansk.com
 kupit-diplom-ivanovo.com
+kupit-diplom-kaliningrad.com
 kupit-diplom-kazan.com
+kupit-diplom-kirov.com
 kupit-diplom-kursk.com
 kupit-diplom-vladivostok.com
 kupit-diplom-volgograd.com
