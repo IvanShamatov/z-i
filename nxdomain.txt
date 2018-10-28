@@ -1257,10 +1257,12 @@ kupit-diplom-barnaul.com
 kupit-diplom-belgorod.com
 kupit-diplom-bryansk.com
 kupit-diplom-ivanovo.com
+kupit-diplom-izhevsk.com
 kupit-diplom-kaliningrad.com
 kupit-diplom-kazan.com
 kupit-diplom-kirov.com
 kupit-diplom-krasnodar.com
+kupit-diplom-kurgan.com
 kupit-diplom-kursk.com
 kupit-diplom-vladivostok.com
 kupit-diplom-volgograd.com
@@ -1999,6 +2001,7 @@ www.parimatchbk5.com
 www.permxxx.com
 www.piratbit.ru
 www.play2wincasino.com
+www.poebu.com
 www.pokertask.net
 www.prokinozal.ru
 www.rap-game.ru
