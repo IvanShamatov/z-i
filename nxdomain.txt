@@ -579,6 +579,7 @@
 94-237-45-105.nl-ams1.host.upcloud.com
 94-237-45-173.nl-ams1.host.upcloud.com
 94-237-45-48.nl-ams1.host.upcloud.com
+94-237-45-79.nl-ams1.host.upcloud.com
 94-237-46-105.nl-ams1.host.upcloud.com
 94-237-46-137.nl-ams1.host.upcloud.com
 94-237-46-38.nl-ams1.host.upcloud.com
@@ -1505,6 +1506,7 @@ np.nptrans.com.br
 nyx.bouwsoft.be
 o.kino.pub
 o.kino.vodka
+okvuz.net
 olimpblock.com
 ololo-fm-search.ru
 onlainfilmix.com
@@ -1586,8 +1588,6 @@ ru.adleonru.com
 ru.leon410.com
 ru.leon411.com
 ru.leon412.com
-ru.leon414.com
-ru.leon418.com
 ru.leon419.com
 ru.leon420.com
 ru.leon421.com
@@ -1688,13 +1688,11 @@ sexsmotricom.com
 sextaksa.ru
 sffs992.com
 shamarc.ms.
-shopstaff.org
 silk24.biz
 silkroadrc.biz
 sitebetcity.space
 slavaangel.com
 slavaangel.ru
-slotolandia.co
 slotolandia.net
 slotolandia.org
 slotx.website
@@ -1728,8 +1726,6 @@ sx1530.com
 syssarcosis.com
 t0r4.ml
 t0r4.tk
-test2.plusminus1.com
-test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.net
@@ -1778,6 +1774,7 @@ urislog.link
 url.net.space.rucdn.pw
 vakivus.ru
 vczxdm.pmptrainingnow.com
+vegas-kazino.com
 velkam6.co
 vhodzerkalo347.website
 vhodzerkalo824.website
@@ -1986,6 +1983,7 @@ www.mytoot.ru
 www.naturalworld.ru
 www.new-rutor.cf
 www.nichesi.ru
+www.okvuz.net
 www.olimpda.info
 www.online-freebee.net
 www.onpoker.ru
@@ -2027,7 +2025,6 @@ www.superbotanik.ru
 www.supremerusbk.online
 www.the-cinema.ru
 www.topasnew.ru
-www.torrentdownload.com.pl
 www.torrentsget.net
 www.tut-mp3.ru
 www.tv-torrent.org
