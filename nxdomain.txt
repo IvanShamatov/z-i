@@ -1058,7 +1058,6 @@ films-one.ru
 films-skorpik.com
 films.themoviebay.ru
 filter.hopto.org
-finarena.ru
 flibusta.space
 fonbet-41ece.tk
 fonbet-5baee.tk
@@ -1736,9 +1735,6 @@ sx1530.com
 syssarcosis.com
 t0r4.ml
 t0r4.tk
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.net
@@ -2048,6 +2044,7 @@ www.tut-mp3.ru
 www.tv-torrent.org
 www.ugar.su
 www.vidtorg.ru
+www.vip38.net
 www.vk-sound.ru
 www.vmusice.net
 www.vsfilm.ru
