@@ -1499,6 +1499,7 @@ nnm-club6.ml
 nnm-torrent.ga
 nnm-torrent.gq
 nnmclub-new.gq
+nomerorg.biz
 novinki-kino.club
 np.nptrans.com.br
 nyx.bouwsoft.be
@@ -1745,7 +1746,6 @@ topasnew.ru
 topmuz.net
 torrent9.name
 torrentdownload.com.pl
-torrentdownload.net.pl
 torrentsget.net
 track.kg
 trutor.pl
