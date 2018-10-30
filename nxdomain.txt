@@ -592,6 +592,7 @@
 94-237-49-232.uk-lon1.host.upcloud.com
 94-237-49-28.uk-lon1.host.upcloud.com
 94-237-50-106.uk-lon1.host.upcloud.com
+94-237-50-126.uk-lon1.host.upcloud.com
 94-237-50-193.uk-lon1.host.upcloud.com
 94-237-50-82.uk-lon1.host.upcloud.com
 94-237-51-137.uk-lon1.host.upcloud.com
