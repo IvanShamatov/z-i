@@ -574,8 +574,6 @@
 93a69b.olimp12da.top
 94-237-10-12.fi-hel2.host.upcloud.com
 94-237-10-13.fi-hel2.host.upcloud.com
-94-237-10-230.fi-hel2.host.upcloud.com
-94-237-26-135.de-fra1.host.upcloud.com
 94-237-27-145.de-fra1.host.upcloud.com
 94-237-28-227.de-fra1.host.upcloud.com
 94-237-39-96.fi-hel1.host.upcloud.com
@@ -584,7 +582,6 @@
 94-237-44-107.nl-ams1.host.upcloud.com
 94-237-44-147.nl-ams1.host.upcloud.com
 94-237-44-166.nl-ams1.host.upcloud.com
-94-237-44-194.nl-ams1.host.upcloud.com
 94-237-44-215.nl-ams1.host.upcloud.com
 94-237-44-59.nl-ams1.host.upcloud.com
 94-237-45-79.nl-ams1.host.upcloud.com
@@ -605,7 +602,6 @@
 94-237-86-141.de-fra1.host.upcloud.com
 94-237-86-179.de-fra1.host.upcloud.com
 94-237-87-30.de-fra1.host.upcloud.com
-94-237-9-200.fi-hel2.host.upcloud.com
 9435bf.olimp6b96.top
 94689a.olimpe24a.top
 95847a.olimp656f.top
@@ -1432,7 +1428,6 @@ pm-1.website
 pm-11.website
 pm-15.website
 popkispb.biz
-porhd.net
 pornopic.me
 pornotiz.info
 portalmetaeducacao.com.br
@@ -1511,9 +1506,12 @@ ru.leon426.com
 ru.leon427.com
 ru.leon428.com
 ru.leon429.com
+ru.leon430.com
 ru.leon431.com
 ru.leon433.com
 ru.leon434.com
+ru.leon435.com
+ru.leon436.com
 ru.leon437.com
 ru.leon438.com
 ru.leon439.com
@@ -1619,7 +1617,6 @@ sitebetcity.space
 skycinema.cc
 slavaangel.com
 slavaangel.ru
-slotolandia.net
 slotolandia.org
 smartdirectroute.net
 smotret-kinogo.ru
@@ -1648,8 +1645,6 @@ supremerusbk.online
 sx1530.com
 syssarcosis.com
 tailor.rpet-mo.ru
-test2.plusminus1.com
-test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.net
@@ -1662,7 +1657,6 @@ titroff.ru
 tls.zello.com
 tobaccoservice24.ru
 tobak.tw
-top-bookmaker.ru
 topasnew.ru
 topmuz.net
 topnudism.net
@@ -2059,6 +2053,5 @@ zerx.tv
 zhiteli.info
 zhitely.info
 zipisland.download
-zodiaccasno.com
 zrelye-prostitutki.ru
 zvukovorot.cc
