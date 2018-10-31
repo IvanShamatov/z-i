@@ -1401,18 +1401,13 @@ momon24.biz
 momtoyou.com
 mostfet.com
 mostfiz.com
-mostfnet.com
 mostfop.com
-mostgyw.com
 mostheq.com
 mostind.com
 mostjek.com
-mostjet.com
 mostnem.com
 mostpoq.com
 mostser.com
-mostteb.com
-mostviv.com
 mostwex.com
 mostwki.com
 mostxeh.com
@@ -1566,6 +1561,7 @@ ru.leon438.com
 ru.leon439.com
 ru.leonbaza.com
 ru.leonboxing.com
+ru.leondama.com
 ru.leondarom.com
 ru.leonduo.com
 ru.leonego.com
