@@ -192,7 +192,6 @@
 209-50-54-86.us-chi1.host.upcloud.com
 209-50-56-123.us-chi1.host.upcloud.com
 209-50-57-105.us-chi1.host.upcloud.com
-209-50-58-252.us-chi1.host.upcloud.com
 212-129-0-191.rev.poneytelecom.eu
 212-129-0-193.rev.poneytelecom.eu
 212-129-16-85.rev.poneytelecom.eu
@@ -594,10 +593,8 @@
 94-237-44-194.nl-ams1.host.upcloud.com
 94-237-44-215.nl-ams1.host.upcloud.com
 94-237-44-59.nl-ams1.host.upcloud.com
-94-237-45-105.nl-ams1.host.upcloud.com
 94-237-45-79.nl-ams1.host.upcloud.com
 94-237-46-105.nl-ams1.host.upcloud.com
-94-237-46-38.nl-ams1.host.upcloud.com
 94-237-48-132.uk-lon1.host.upcloud.com
 94-237-48-184.uk-lon1.host.upcloud.com
 94-237-49-151.uk-lon1.host.upcloud.com
@@ -612,7 +609,6 @@
 94-237-51-190.uk-lon1.host.upcloud.com
 94-237-51-91.uk-lon1.host.upcloud.com
 94-237-52-145.uk-lon1.host.upcloud.com
-94-237-80-169.de-fra1.host.upcloud.com
 94-237-81-76.de-fra1.host.upcloud.com
 94-237-84-116.de-fra1.host.upcloud.com
 94-237-85-144.de-fra1.host.upcloud.com
@@ -874,6 +870,7 @@ c9cba4.olimp1958.top
 ca6143.olimpe24a.top
 caen.mybrandserver.com
 casinaz.com
+casino.fruityvegas.com
 cc058a0ef73a076cf8.c2ef25.a2341e99d0a2f2982f.xyz
 cc53bd.olimpcc44.top
 cd2490.olimp161f.top
@@ -1452,6 +1449,7 @@ portalmetaeducacao.com.br
 porto2013.com.br
 pravamoskva.ru
 premiumfrankclub.com
+pro-bukmeker5.ru
 prokinozal.ru
 prosex76.org
 prostitutki-arhangelska.bosyava.ru
@@ -1814,6 +1812,7 @@ www.anamvseravno.ru
 www.anime-tracker.tech
 www.avtoshkola-star.com
 www.axesazino777.ru
+www.azino-777-club.ru
 www.azino-bonus.ru
 www.betcity-pdsh.space
 www.betgoldcasino.com
