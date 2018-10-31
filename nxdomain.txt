@@ -187,7 +187,6 @@
 203556.olimpd7c0.top
 205716.olimp876c.site
 209-50-52-82.us-chi1.host.upcloud.com
-209-50-54-226.us-chi1.host.upcloud.com
 209-50-54-86.us-chi1.host.upcloud.com
 209-50-56-123.us-chi1.host.upcloud.com
 209-50-57-105.us-chi1.host.upcloud.com
@@ -514,9 +513,7 @@
 83-136-250-149.uk-lon1.host.upcloud.com
 83-136-250-192.uk-lon1.host.upcloud.com
 83-136-251-144.uk-lon1.host.upcloud.com
-83-136-251-178.uk-lon1.host.upcloud.com
 83-136-253-222.uk-lon1.host.upcloud.com
-83-136-255-192.uk-lon1.host.upcloud.com
 83-136-255-66.uk-lon1.host.upcloud.com
 8312ce.olimp98b4.top
 831c45741b2b0a85d3.c2ef25.0387bbb3a413b5c52e.xyz
@@ -593,14 +590,10 @@
 94-237-45-79.nl-ams1.host.upcloud.com
 94-237-46-105.nl-ams1.host.upcloud.com
 94-237-49-151.uk-lon1.host.upcloud.com
-94-237-49-188.uk-lon1.host.upcloud.com
-94-237-49-197.uk-lon1.host.upcloud.com
-94-237-49-232.uk-lon1.host.upcloud.com
 94-237-50-106.uk-lon1.host.upcloud.com
 94-237-50-126.uk-lon1.host.upcloud.com
 94-237-50-193.uk-lon1.host.upcloud.com
 94-237-50-82.uk-lon1.host.upcloud.com
-94-237-51-190.uk-lon1.host.upcloud.com
 94-237-51-91.uk-lon1.host.upcloud.com
 94-237-52-145.uk-lon1.host.upcloud.com
 94-237-81-76.de-fra1.host.upcloud.com
@@ -751,6 +744,7 @@ bcbe74.olimp1958.top
 bcbets.space
 bd1fc71f2f.xyz
 bdff72.olimpa88c.site
+beatmp3ru.ru
 bengaltube.com
 bespredelu.net
 best-muzom.ru
@@ -778,7 +772,6 @@ betcityru2.top
 betcitysite.space
 betcitywww.space
 betkontora.space
-bets.fongamesbet.com
 betsbc-24.top
 betsbc-play.space
 betsbc-sepg.space
@@ -938,7 +931,6 @@ dok911.ru
 dokymentalnoe.ru
 dom-filmov.ru
 dom-sbita.vip
-domdoc.net
 donkools.com
 dostup-zerkalo.ru
 dosug38.net
@@ -1154,7 +1146,6 @@ igrozal.club
 iiibet.ru
 iilliii.ru
 ikino.su
-incestrasskazy.com
 islamumma.net
 jiteli.info
 jjjbet.site
@@ -1226,6 +1217,7 @@ kinovips.me
 kinozz.net
 kinozz.tv
 kladec.biz
+knigi-chitaty.ru
 kupit-diplom-astraxan.com
 kupit-diplom-barnaul.com
 kupit-diplom-belgorod.com
@@ -1315,12 +1307,12 @@ m7.mp3-tut.biz
 m8.mp3-tut.biz
 m9.applezcall.com
 m9.mp3-tut.biz
+macaroni.tbmania.ru
 mail-merge.denticulately.com
 mail.torrent.by
 main-rutor.tk
 marafon-11.website
 marafon-13.website
-marvelousteen.top
 media-rs.info
 media-rus.info
 media-tracker.info
@@ -1423,6 +1415,7 @@ ololo-fm-search.ru
 onlainfilmix.com
 online-club.info
 online.babkino.pro
+onlinecasinotop.ru
 openshara.ru
 orda1313.info
 p177.bellaluxz.com
@@ -1493,11 +1486,9 @@ r8.hdrezka-online.ru
 r9.hdrezka-online.ru
 rabota77wow.ru
 rabota7wow.ru
-racing.fongamesbet.com
 rap-game.ru
 rc-chemicals.sk
 reg-azino777.ru
-register.fongamesbet.com
 research.url.net.space.rucdn.pw
 resheba.ru
 rfdiploma.com
@@ -1606,6 +1597,7 @@ rutracker.moscow
 s.mogoyun.com
 s61.fastsrv.com
 salescoupon.net
+sample.vr-nn.ru
 saving-music.ru
 sekis72.ru
 serial-z.online
@@ -1633,6 +1625,7 @@ smartdirectroute.net
 smotret-kinogo.ru
 smotri-porevo.com
 snakeas.biz
+sos72.ru
 sovietcinema.ru
 sp1040.com
 sp1051.com
@@ -1654,6 +1647,9 @@ superbotanik.ru
 supremerusbk.online
 sx1530.com
 syssarcosis.com
+tailor.rpet-mo.ru
+test2.plusminus1.com
+test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.net
@@ -1673,6 +1669,7 @@ topnudism.net
 torrent9.name
 torrentdownload.com.pl
 torrentsget.net
+tpl-designer.ru
 track.kg
 trutor.pl
 ttrblog11.com
@@ -1818,6 +1815,7 @@ www.axesazino777.ru
 www.azino-777-casino.ru
 www.azino-777-club.ru
 www.azino-bonus.ru
+www.azino777-club.ru
 www.azino777-win.ru
 www.azino777cas.ru
 www.azino777club.ru
@@ -1978,7 +1976,6 @@ www.zagonka.ru
 www.zaycev-tut.ru
 www.zbpro.top
 www.zenitknj.top
-www.zerkalo503.ru
 www1.myzuka.me
 www1.pesnitytvse.ru
 www2.myzuka.me
@@ -1997,7 +1994,6 @@ xbet433.com
 xbetbetx.com
 xbetxbetbet12.com
 xmusic.me.uz.cx
-xn--80aeeaaebddmkf1bfnfhgftokh16ala.xn--p1ai
 xn--80aesyt.kz
 xn--90ahankqr9d.xn--80asehdb
 xn--d1ahfbogbaasi6c.xn--p1ai
@@ -2059,7 +2055,6 @@ zerkalo-bet10.website
 zerkalo-bet12.website
 zerkalo-bet8.website
 zerkalo-rutor.su
-zerkalo503.ru
 zerx.tv
 zhiteli.info
 zhitely.info
