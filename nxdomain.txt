@@ -615,7 +615,6 @@
 94-237-80-169.de-fra1.host.upcloud.com
 94-237-81-76.de-fra1.host.upcloud.com
 94-237-84-116.de-fra1.host.upcloud.com
-94-237-84-215.de-fra1.host.upcloud.com
 94-237-85-144.de-fra1.host.upcloud.com
 94-237-85-248.de-fra1.host.upcloud.com
 94-237-86-117.de-fra1.host.upcloud.com
@@ -683,7 +682,6 @@ afd62c.olimp161f.top
 agrosmart.com.ua
 air.pm-267.info
 alko78.alcohol.spb.ru
-amfetamin.ml
 anamvseravno.ru
 anime-tracker.tech
 appz1.me
@@ -944,7 +942,6 @@ diploma-line.com
 diploms-line.com
 diploms-market.com
 doc178.org
-doctormedik.com
 dok911.ru
 dokymentalnoe.ru
 dom-filmov.ru
@@ -1222,7 +1219,6 @@ kinokrada-net.ru
 kinolive.pro
 kinolive.red
 kinonew.club
-kinopesenki.ru
 kinoprofi-x.org
 kinoprofi.mobi
 kinoprofi.pw
@@ -1260,7 +1256,6 @@ kupitdiplom-kazan.com
 kupitdiplom-nizhnij-novgorod.com
 kupitdiplom-rostov.com
 kupitdiplom-saratov.com
-kupitskorost.ml
 l1uxury039.com
 leo.bkrlb2.pw
 leo.bkrlb4.pw
@@ -1374,8 +1369,6 @@ momtoyou.com
 mostheq.com
 mostjek.com
 mostnem.com
-mostwex.com
-mostzjk.com
 mp3.open.az
 mp3.uz.cx
 mp3bass.online
@@ -1457,7 +1450,6 @@ portalmetaeducacao.com.br
 porto2013.com.br
 pravamoskva.ru
 premiumfrankclub.com
-pro-buk-reviews2.ru
 prokinozal.ru
 prosex76.org
 prostitutki-arhangelska.bosyava.ru
@@ -1532,6 +1524,7 @@ ru.leon428.com
 ru.leon429.com
 ru.leon431.com
 ru.leon434.com
+ru.leon437.com
 ru.leon438.com
 ru.leon439.com
 ru.leonbaza.com
@@ -1553,7 +1546,6 @@ ru.leonuefa.com
 ru.leonufc.com
 ru.leonvulkan.com
 ru.mp3-tut.biz
-ru.reelemperor.biz
 ru.turkiston.info
 ru1.mp3-tut.biz
 ru1.primemusic.club
@@ -1717,7 +1709,6 @@ vin.bkr08.ru
 vin.bkr09.ru
 vin.bkr10.ru
 vip4354.com
-virik.ru
 vk-sound.ru
 vlcrime.net
 vmusice.net
@@ -1832,12 +1823,12 @@ www.bo-tan.ru
 www.board.v.ua
 www.bookgdz.ru
 www.cinema-hd.tv
+www.clubazino777.ru
 www.dev.bec0de.com
 www.diamondvip-casino.com
 www.diploma-line.com
 www.diploms-line.com
 www.diploms-line.com.
-www.doctormedik.com
 www.dok911.ru
 www.dokymentalnoe.ru
 www.dom-filmov.ru
@@ -2053,7 +2044,6 @@ zerkalo-bet10.website
 zerkalo-bet12.website
 zerkalo-bet8.website
 zerkalo-rutor.su
-zerkalo24bet.ru
 zerkalo503.ru
 zerx.tv
 zhiteli.info
