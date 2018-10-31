@@ -512,7 +512,6 @@
 8288e2.olimp3043.top
 82a644f28b1eceef63.c2ef25.e3b227af32e4d25d50.xyz
 82cecd.olimpfc65.top
-83-136-248-179.uk-lon1.host.upcloud.com
 83-136-250-149.uk-lon1.host.upcloud.com
 83-136-250-192.uk-lon1.host.upcloud.com
 83-136-251-144.uk-lon1.host.upcloud.com
@@ -580,7 +579,6 @@
 93a69b.olimp12da.top
 94-237-10-12.fi-hel2.host.upcloud.com
 94-237-10-13.fi-hel2.host.upcloud.com
-94-237-10-178.fi-hel2.host.upcloud.com
 94-237-10-230.fi-hel2.host.upcloud.com
 94-237-26-135.de-fra1.host.upcloud.com
 94-237-27-145.de-fra1.host.upcloud.com
@@ -599,7 +597,6 @@
 94-237-45-105.nl-ams1.host.upcloud.com
 94-237-45-79.nl-ams1.host.upcloud.com
 94-237-46-105.nl-ams1.host.upcloud.com
-94-237-46-137.nl-ams1.host.upcloud.com
 94-237-46-38.nl-ams1.host.upcloud.com
 94-237-48-132.uk-lon1.host.upcloud.com
 94-237-48-184.uk-lon1.host.upcloud.com
@@ -619,7 +616,6 @@
 94-237-81-76.de-fra1.host.upcloud.com
 94-237-84-116.de-fra1.host.upcloud.com
 94-237-84-215.de-fra1.host.upcloud.com
-94-237-85-104.de-fra1.host.upcloud.com
 94-237-85-144.de-fra1.host.upcloud.com
 94-237-85-248.de-fra1.host.upcloud.com
 94-237-86-117.de-fra1.host.upcloud.com
@@ -770,7 +766,6 @@ bespredelu.net
 best-muzom.ru
 bestleon76.website
 bestmuzon.cc
-bestrusbook.online
 bet.bkleon4.ru
 bet1-x4.com
 betcity-24.top
@@ -824,8 +819,6 @@ bk1x520.com
 bkbet.space
 bkbetcity.space
 bkbetcity2.top
-bkbets.online
-bkbonus.club
 bkinfo3.website
 bkjhwbruwbeouwebrouiowefj.nopeer.ru
 bkleon1.su
@@ -1016,6 +1009,7 @@ f92113.olimp6b96.top
 f983f8.olimp98b4.top
 f9d617.olimp1a50.top
 fa7b84.olimp1897.top
+factor.x-hobby.ru
 fad6d8.olimp6301.site
 fast-smtp.ru
 fb-metrix.info
@@ -1149,7 +1143,6 @@ go-az-mob-go.xyz
 gofaka.com.
 goldenshara.net
 google.comuk.top
-greatbonus.online
 hd-kinogo.ru
 hd.zfilm-hd.space
 hdkinohit.club
@@ -1240,7 +1233,6 @@ kinovips.me
 kinozz.net
 kinozz.tv
 kladec.biz
-konfetniy-mir.ru
 kupit-diplom-astraxan.com
 kupit-diplom-barnaul.com
 kupit-diplom-belgorod.com
@@ -1378,8 +1370,6 @@ mobdnep.pw
 mobecl.xyz
 momon24.biz
 momtoyou.com
-mostfiz.com
-mostfop.com
 mostheq.com
 mostjek.com
 mostnem.com
@@ -1590,8 +1580,6 @@ rus-betcity.top
 rus-media-org.info
 rus-pro.xyz
 rus-rutor.info
-rusbk.online
-rusbk.xyz
 rusdips.ru
 russ-torrents.xyz
 russparty.org
@@ -1648,7 +1636,6 @@ smartdirectroute.net
 smotret-kinogo.ru
 smotri-porevo.com
 snakeas.biz
-sneakers-market.ru
 sovietcinema.ru
 sp1040.com
 sp1051.com
@@ -1666,8 +1653,6 @@ ssocks.cf
 sssbet.site
 st.officeverse.com
 start.pm-267.info
-superbonus.xyz
-superbonusa.online
 superbotanik.ru
 supremerusbk.online
 sx1530.com
@@ -1836,12 +1821,10 @@ www.betgoldcasino.com
 www.betsbc-vemb.space
 www.bigcinema.to
 www.bk1x-520.com
-www.bkbonus.club
 www.bkparimatch3.com
 www.bkparimatch6.com
 www.bkparimatch7.com
 www.bkparimatch8.com
-www.bkrus.website
 www.bo-tan.com
 www.bo-tan.ru
 www.board.v.ua
@@ -2071,7 +2054,6 @@ zerkalo-bet8.website
 zerkalo-rutor.su
 zerkalo24bet.ru
 zerkalo503.ru
-zerkalo763.ru
 zerx.tv
 zhiteli.info
 zhitely.info
