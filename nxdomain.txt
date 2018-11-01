@@ -1183,6 +1183,7 @@ kupit-diplom-maxachkala.com
 kupit-diplom-novokuzneck.com
 kupit-diplom-ryazan.com
 kupit-diplom-samara.com
+kupit-diplom-tolyatti.com
 kupit-diplom-tula.com
 kupit-diplom-vladivostok.com
 kupit-diplom-volgograd.com
