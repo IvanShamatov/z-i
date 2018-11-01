@@ -1185,9 +1185,12 @@ kupit-diplom-maxachkala.com
 kupit-diplom-novokuzneck.com
 kupit-diplom-ryazan.com
 kupit-diplom-samara.com
+kupit-diplom-saratov.com
+kupit-diplom-stavropol.com
 kupit-diplom-tolyatti.com
 kupit-diplom-tula.com
 kupit-diplom-tver.com
+kupit-diplom-ulyanovsk.com
 kupit-diplom-vladivostok.com
 kupit-diplom-volgograd.com
 kupit-diplom-voronezh.com
@@ -1459,6 +1462,7 @@ ru.leon438.com
 ru.leon439.com
 ru.leonbaza.com
 ru.leonboxing.com
+ru.leonbrazil.com
 ru.leondama.com
 ru.leondarom.com
 ru.leonduo.com
@@ -1587,7 +1591,6 @@ syssarcosis.com
 tailor.rpet-mo.ru
 telego24.net
 telegram.vpn99.net
-test2.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.net
@@ -1770,7 +1773,6 @@ www.bo-tan.com
 www.bo-tan.ru
 www.board.v.ua
 www.bookgdz.ru
-www.chekispb.ru
 www.cinema-hd.tv
 www.clubazino777.ru
 www.dev.bec0de.com
