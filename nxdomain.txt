@@ -513,7 +513,6 @@
 83-136-250-149.uk-lon1.host.upcloud.com
 83-136-250-192.uk-lon1.host.upcloud.com
 83-136-251-144.uk-lon1.host.upcloud.com
-83-136-253-222.uk-lon1.host.upcloud.com
 83-136-255-66.uk-lon1.host.upcloud.com
 8312ce.olimp98b4.top
 831c45741b2b0a85d3.c2ef25.0387bbb3a413b5c52e.xyz
@@ -584,7 +583,6 @@
 94-237-44-166.nl-ams1.host.upcloud.com
 94-237-44-215.nl-ams1.host.upcloud.com
 94-237-44-59.nl-ams1.host.upcloud.com
-94-237-45-79.nl-ams1.host.upcloud.com
 94-237-46-105.nl-ams1.host.upcloud.com
 94-237-49-151.uk-lon1.host.upcloud.com
 94-237-50-106.uk-lon1.host.upcloud.com
@@ -599,7 +597,6 @@
 94-237-85-248.de-fra1.host.upcloud.com
 94-237-86-117.de-fra1.host.upcloud.com
 94-237-86-124.de-fra1.host.upcloud.com
-94-237-86-141.de-fra1.host.upcloud.com
 94-237-86-179.de-fra1.host.upcloud.com
 94-237-87-30.de-fra1.host.upcloud.com
 9435bf.olimp6b96.top
