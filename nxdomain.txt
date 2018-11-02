@@ -1505,6 +1505,7 @@ ru.leonpriz.com
 ru.leonprocess.com
 ru.leonreklama.com
 ru.leonsila.com
+ru.leonskala.com
 ru.leonstolica.com
 ru.leonuefa.com
 ru.leonufc.com
@@ -1621,6 +1622,8 @@ syssarcosis.com
 tailor.rpet-mo.ru
 telego24.net
 telegram.vpn99.net
+test1.plusminus1.com
+test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.net
