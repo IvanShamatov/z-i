@@ -695,6 +695,7 @@ betcity-online.space
 betcity-pdsh.space
 betcity-play.space
 betcity-rate.space
+betcity-rqpi.space
 betcity-sport.top
 betcity-stavki.club
 betcity-web2.space
@@ -714,11 +715,13 @@ betcitywww.space
 betkontora.space
 betsbc-24.top
 betsbc-fhqa.space
+betsbc-isal.space
 betsbc-play.space
 betsbc-sepg.space
 betsbc-site3.space
 betsbc-sport.space
 betsbc-vemb.space
+betsbc-wase.space
 betsbc-web.space
 betsbc2.top
 betsbc888.top
@@ -1502,7 +1505,6 @@ ru.leoninternet.com
 ru.leonleto.com
 ru.leonmalta.com
 ru.leonmma.com
-ru.leonnhl.com
 ru.leonoblast.com
 ru.leonolga.com
 ru.leonpepper.com
@@ -1563,6 +1565,7 @@ rutor-org.info
 rutor-portal.ru
 rutor-ru.info
 rutor-rus.info
+rutor-torrent.tk
 rutor-torrents.ru
 rutor.club
 rutor.onion.lu
@@ -1609,6 +1612,7 @@ sp1040.com
 sp1051.com
 space.rucdn.pw
 spbdpl.ru
+spbgirls.biz
 spishy-gdz.ru
 spishy-ru.ru
 sport-1x-bet.com
@@ -1630,6 +1634,9 @@ syssarcosis.com
 tailor.rpet-mo.ru
 telego24.net
 telegram.vpn99.net
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.net
@@ -1711,8 +1718,12 @@ w1.rumuzfan.ru
 wap.betcity-fzep.space
 wap.betcity-nxzn.space
 wap.betcity-pdsh.space
+wap.betcity-peyu.space
+wap.betcity-rqpi.space
 wap.betsbc-fhqa.space
+wap.betsbc-isal.space
 wap.betsbc-vemb.space
+wap.betsbc-wase.space
 wap.google.comuk.top
 waplib.me
 web-betcity.space
@@ -1780,7 +1791,6 @@ www.300kbit.fm
 www.4torrents.net
 www.520-1xbk.com
 www.555slot.in.ua
-www.77diploms.com
 www.8torrent.net
 www.abonenty-chast1.pw
 www.abonenty-chast2.pw
@@ -1803,9 +1813,12 @@ www.azino777real.ru
 www.betcity-fzep.space
 www.betcity-nxzn.space
 www.betcity-pdsh.space
+www.betcity-rqpi.space
 www.betgoldcasino.com
 www.betsbc-fhqa.space
+www.betsbc-isal.space
 www.betsbc-vemb.space
+www.betsbc-wase.space
 www.bigcinema.to
 www.bk1x-520.com
 www.bkparimatch3.com
@@ -1929,6 +1942,7 @@ www.nichesi.ru
 www.nskfei.club
 www.nudisten-welt-shop.com
 www.official-azino777.ru
+www.officialazino777.ru
 www.okvuz.net
 www.online-casinofaraon.com
 www.online-casinoplay.com
