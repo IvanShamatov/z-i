@@ -1341,7 +1341,6 @@ leontop.info
 leonvhod.website
 lifefilm.info
 ligcontatoenvio.com.br
-lineshop.ga
 linktobetcity.space
 linux92.sfwebhostin.org
 lithub.online
@@ -1897,6 +1896,7 @@ vkanistrah.org
 vlcrime.net
 vmusice.net
 voda02.ru
+vozrog.ru
 vps.winsignia.com
 vps1d.azehosting-servers.net
 vps2.helpmego.to
