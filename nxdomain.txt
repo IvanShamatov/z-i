@@ -1421,8 +1421,10 @@ media-rus.info
 media-tracker.info
 medicalchelyabinsk.com
 medicalkrasnodar.com
+medicalpiter.com
 medicalrostov.com
 medicalsaratov.com
+medicalufa.com
 medicalvrn.com
 medspravochka.com
 meelbet.mobi
