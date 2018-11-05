@@ -1402,6 +1402,7 @@ mobcal.pw
 mobcel.pw
 mobcl.pw
 mobcla.pw
+mobclb.xyz
 mobddiv.pw
 mobdfir.pw
 mobdhed.pw
@@ -1671,6 +1672,7 @@ ru.leonstolica.com
 ru.leonuefa.com
 ru.leonufc.com
 ru.leonutes.com
+ru.leonvip1.com
 ru.mp3-tut.biz
 ru.turkiston.info
 ru1.mp3-tut.biz
@@ -2195,6 +2197,7 @@ www.superbotanik.ru
 www.the-cinema.ru
 www.topasnew.ru
 www.torrentsget.net
+www.trudwork.xyz
 www.tut-mp3.ru
 www.tv-torrent.org
 www.udopro.ru
