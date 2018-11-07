@@ -183,6 +183,7 @@
 1xble.xyz
 1xbst.com
 1xciy.xyz
+1xcpg.xyz
 1xdcb.xyz
 1xeeg.xyz
 1xeiy.xyz
@@ -200,10 +201,18 @@
 1xmobdej.xyz
 1xmobdhn.xyz
 1xmobeqq.xyz
+1xmobfmu.xyz
 1xmobfzc.xyz
 1xmobgmq.xyz
 1xmobhsn.xyz
 1xmoboldooz.xyz
+1xmoboldvffi.xyz
+1xmoboldvpvb.xyz
+1xmoboldvsfu.xyz
+1xmoboldvssq.xyz
+1xmoboldvvpk.xyz
+1xmobpgs.xyz
+1xmobquc.xyz
 1xmobsrz.xyz
 1xmobvkg.xyz
 1xmobxhj.xyz
@@ -275,6 +284,7 @@
 1xspot.com
 1xsprot.pw
 1xswk.xyz
+1xtgy.xyz
 1xtitileape.xyz
 1xtitileefy.xyz
 1xtitilejwf.xyz
@@ -293,6 +303,7 @@
 1xwrj.xyz
 1xxot.xyz
 1xxport.com
+1xxzv.xyz
 1xyqr.xyz
 1xyra.xyz
 1xysf.xyz
@@ -2020,6 +2031,7 @@ rutorrents.ml
 rutors.ml
 rutracker-in.info
 rutracker.moscow
+rutracker0.org
 s.mogoyun.com
 s61.fastsrv.com
 sadism.club
