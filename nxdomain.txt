@@ -1811,7 +1811,6 @@ new.mirror01.mirrorolimp.xyz
 new.mirror02.mirrorolimp1.site
 new.mirror1.mirrorolimp1.xyz
 new.mirror1.mirrorolimp2.online
-new.onlinehockey.club
 new.winline141.com
 new.winline142.com
 new.winline143.com
