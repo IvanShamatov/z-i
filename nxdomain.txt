@@ -996,11 +996,13 @@ bigcinema-tv.info
 bioticrc-biz.ml
 bk-firstbet0.xyz
 bk-firstbet3.me
+bk-firstbet5.win
 bk-firstbet5.xyz
 bk-firstbet6.win
 bk-firstbet7.online
 bk-firstbet7.xyz
 bk-firstbet8.online
+bk-firstbet8.win
 bk-fonbet.kz
 bk-fonbet34.ru
 bk-fonbet35.ru
@@ -1316,6 +1318,7 @@ filter.hopto.org
 first-frank.com
 firstbet-bk0.me
 firstbet-bk0.win
+firstbet-bk4.online
 firstbet3-bk.win
 firstbet5-bk.me
 firstbet7-bk.win
@@ -2103,6 +2106,8 @@ rkngov.top
 rmeventos2.com.br
 roscompozor.ru
 rostov-diplomy.com
+ru.adleondraak.com
+ru.adleoneng.com
 ru.adleonex.com
 ru.adleonpab.com
 ru.adleonphone.com
