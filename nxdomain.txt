@@ -1125,6 +1125,7 @@ chem24.vip
 chronos.bouwsoft.be
 cloud-ptr183.tavu.io
 cloud1.cloud.local
+club-vulkan.org
 club-vulkan9.pro
 clubkino.ga
 company.ph.net.space.rucdn.pw
@@ -2346,6 +2347,8 @@ tabletmovie.cf
 tailor.rpet-mo.ru
 telegram.vpn99.net
 tenec.cc
+test2.plusminus1.com
+test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.net
