@@ -1069,6 +1069,7 @@ bkrlb4.pw
 bkrlb5.pw
 bkwndbt11.com
 bla.world
+blakc-d.com
 blatznak.ru
 bmuzon.ru
 bo-tan.com
@@ -2237,6 +2238,7 @@ ru.leonspectrum.com
 ru.leonsq.com
 ru.leonsto.com
 ru.leonstolica.com
+ru.leontizz.com
 ru.leonuefa.com
 ru.leonufc.com
 ru.leonutes.com
@@ -2395,6 +2397,9 @@ tabletmovie.cf
 tailor.rpet-mo.ru
 telegram.vpn99.net
 tenec.cc
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.net
