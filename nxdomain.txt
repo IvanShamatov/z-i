@@ -1672,9 +1672,7 @@ kupit-diplom-novokuzneck.com
 kupit-diplom-orenburg.com
 kupit-diplom-ryazan.com
 kupit-diplom-samara.com
-kupit-diplom-saratov.com
 kupit-diplom-ulanude.com
-kupit-diplom-ulyanovsk.com
 kupit-sol.ga
 kupit.alcohol.spb.ru
 kupitdiplom-kazan.com
@@ -1783,6 +1781,7 @@ marafon-11.website
 marafon-13.website
 marafon-zerkalo5.website
 matanga-cc.cf
+match-pari.space
 match-zerkalo.win
 match-zerkalo5.ru
 match-zerkalo6.ru
@@ -2325,7 +2324,6 @@ samara-klad.win
 sample.vr-nn.ru
 saving-music.ru
 seasontor.net
-sekis72.ru
 serial-z.online
 serial.wiki
 serialhit.tv
@@ -2693,7 +2691,6 @@ www.dokymentalnoe.ru
 www.dom-filmov.ru
 www.domashke.net
 www.easypray.info
-www.eblyatv.com
 www.ekibastos.ru
 www.ero-tuma.com
 www.eurogrand.info
@@ -3046,4 +3043,5 @@ zhitely.info
 zipisland.download
 zodiaccasno.com
 zrelye-prostitutki.ru
+zrkalo.space
 zvukovorot.cc
