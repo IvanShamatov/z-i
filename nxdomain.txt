@@ -1611,6 +1611,7 @@ kinogo.ge
 kinogo.hol.es
 kinogo.im
 kinogo.in.ua
+kinogo.legal
 kinogo.movie
 kinogo.onl
 kinogo.plus
@@ -2256,6 +2257,7 @@ ru8.mp3-tut.biz
 ru9.mp3-tut.biz
 rucasnos.com
 rucdn.pw
+ruletku.net
 ruplayforum.com
 ruporn.video
 rus-betcity.top
@@ -2755,7 +2757,6 @@ www.kpii.tk
 www.kupit-diplom-kazan.com
 www.kupit-diplom-ryazan.com
 www.kupit-diplom-samara.com
-www.kupit-diplom1.info
 www.lifefilm.info
 www.lithub.ru
 www.lolita-casino.com
