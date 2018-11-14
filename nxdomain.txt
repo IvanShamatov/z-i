@@ -1714,6 +1714,7 @@ m.windbetlive.com
 m.windbetlive07.com
 m.windbetodds.com
 m.windbetodds01.com
+m.windbksol.com
 m.windlivesports.com
 m.windlivesports09.com
 m.zenitbet104.win
@@ -2249,7 +2250,6 @@ rutor-info.org.ru
 rutor-msk.info
 rutor-net.info
 rutor-nn.info
-rutor-org.com
 rutor-org.info
 rutor-portal.ru
 rutor-ru.info
