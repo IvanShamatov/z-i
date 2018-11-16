@@ -1802,6 +1802,7 @@ match-zerkalo5.ru
 match-zerkalo6.ru
 match-zerkalo8.ru
 match-zerkalo9.ru
+maxmux.ru
 media-rs.info
 media-rus.info
 media-tracker.info
