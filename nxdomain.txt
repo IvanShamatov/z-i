@@ -1593,6 +1593,7 @@ host.eucloud101.net
 host157.megaoffer.net
 host84.hot-offer.org
 hotfrankgames.com
+hunafa.info
 hydra1117.com
 igdz.ru
 igrat-avtomaty.club
@@ -2288,6 +2289,7 @@ rossdiplomu.net
 rostov-shop.ml
 roverpl.com
 ru.1playfortuna.com
+ru.6playfortuna.com
 ru.adleondraak.com
 ru.adleoneng.com
 ru.adleonex.com
@@ -2429,7 +2431,6 @@ rutor-org.info
 rutor-portal.ru
 rutor-ru.info
 rutor-rus.info
-rutor-torrent.tk
 rutor-torrents.ru
 rutor.onion.lu
 rutor2.pl
@@ -2523,7 +2524,6 @@ tabletmovie.cf
 tailor.rpet-mo.ru
 telegram.vpn99.net
 tenec.cc
-test1.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 the-cinema.net
@@ -2912,6 +2912,7 @@ www.gofaraon.net
 www.goodkino.biz
 www.growth-hormonessupplement.com
 www.hitluck-english.com
+www.hunafa.info
 www.idope.se
 www.igdz.ru
 www.ikino.su
@@ -2933,7 +2934,6 @@ www.kinogo-net-co.ru
 www.kinogo-online.com
 www.kinokrad.ru
 www.kinomax.ws
-www.kinosklad-anime.ru
 www.kinosklad-online.ru
 www.kinozz.net
 www.konoply.pro
