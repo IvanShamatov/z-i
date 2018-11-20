@@ -1177,11 +1177,16 @@ cas.mirror.mirrorolimp1.xyz
 cas.mirror.mirrorolimp3.online
 cas.mirror.olimpmirror.site
 cas.mirror01.mirrorolimp.xyz
+cas.mirror01.olimpmirror.site
+cas.mirror02.mirrorolimp.site
 cas.mirror02.mirrorolimp1.site
 cas.mirror1.mirrorolimp1.xyz
 cas.mirror1.mirrorolimp2.online
+cas.zerkalo.mirrorolimp.online
 cas.zerkalo.mirrorolimp1.online
 cas.zerkalo.mirrorolimp2.online
+cas.zerkalo.olimpmirror.online
+cas.zerkalo02.mirrorolimp.online
 cas.zerkalo02.mirrorolimp1.online
 casadas.info
 casino.10-bests-casino.info
@@ -1935,6 +1940,7 @@ mirror.mirrorolimp1.site
 mirror.mirrorolimp1.xyz
 mirror.mirrorolimp3.online
 mirror.olimpmirror.life
+mirror.olimpmirror.site
 mirror01.mirrorolimp.xyz
 mirror02.mirrorolimp1.site
 mirror1.mirrorolimp1.xyz
@@ -1987,6 +1993,7 @@ mobnew.mirror01.mirrorolimp.xyz
 mobnew.mirror02.mirrorolimp1.site
 mobnew.mirror1.mirrorolimp1.xyz
 mobnew.mirror1.mirrorolimp2.online
+mobnew.zerkalo.mirrorolimp.online
 mobnew.zerkalo.mirrorolimp1.online
 mobnew.zerkalo.mirrorolimp2.online
 mobnew.zerkalo.olimpmirror.online
@@ -2272,7 +2279,6 @@ prostitutki-voronezha.ingirls.ru
 prostitutki-voronezha.on-sex.ru
 prostitutki-yaroslavlya.on-sex.ru
 prostitutki.es
-prostitutki.tips
 prostitutki11.bid
 prostitutki18.bid
 prostitutki25.bid
@@ -2573,7 +2579,6 @@ stavki-10.space
 stavki-mostbet.ru
 stavki-on.space
 stavki-vk.space
-strongmuscle.org
 sturmnovosti.com
 superbotanik.ru
 supmail.ru
@@ -2583,9 +2588,6 @@ syssarcosis.com
 tabletmovie.cf
 tailor.rpet-mo.ru
 telegram.vpn99.net
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tg.yadda.club
 tginfo.yadda.club
 th31lu.info
@@ -3250,6 +3252,7 @@ zerkalo-mostbet.ru
 zerkalo-online.space
 zerkalo-rutor.su
 zerkalo-vxod.space
+zerkalo.mirrorolimp.online
 zerkalo.mirrorolimp1.online
 zerkalo.mirrorolimp2.online
 zerkalo02.mirrorolimp1.online
