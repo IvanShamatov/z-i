@@ -1175,6 +1175,7 @@ caen.mybrandserver.com
 cas.mirror.mirrorolimp1.site
 cas.mirror.mirrorolimp1.xyz
 cas.mirror.mirrorolimp3.online
+cas.mirror.olimpmirror.site
 cas.mirror01.mirrorolimp.xyz
 cas.mirror02.mirrorolimp1.site
 cas.mirror1.mirrorolimp1.xyz
@@ -1289,6 +1290,7 @@ domkino.online
 donkools.com
 dostup-zerkalo.ru
 dragvader.cc
+dyfedor.cc
 e.feirest.com
 e24f43.olimpa88c.site
 e25eeb.olimpd9f7.top
@@ -1987,6 +1989,7 @@ mobnew.mirror1.mirrorolimp1.xyz
 mobnew.mirror1.mirrorolimp2.online
 mobnew.zerkalo.mirrorolimp1.online
 mobnew.zerkalo.mirrorolimp2.online
+mobnew.zerkalo.olimpmirror.online
 mobnew.zerkalo02.mirrorolimp1.online
 mostbet-bk.ru
 mostbet-bukmeker.ru
@@ -2056,6 +2059,7 @@ new-rutor.ru
 new.mirror.mirrorolimp1.site
 new.mirror.mirrorolimp1.xyz
 new.mirror.mirrorolimp3.online
+new.mirror.olimpmirror.site
 new.mirror01.mirrorolimp.xyz
 new.mirror02.mirrorolimp1.site
 new.mirror1.mirrorolimp1.xyz
@@ -3101,7 +3105,6 @@ www.videozal.net
 www.vidtorg.ru
 www.vk-sound.ru
 www.vmusice.net
-www.vodkovoz.com
 www.vsfilm.ru
 www.vulcan-club-online.com
 www.vulkanoff.com
