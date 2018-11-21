@@ -2764,7 +2764,6 @@ uris.lol
 urislog.link
 url.net.space.rucdn.pw
 usagi.klad.cc
-usrf.us
 vakivus.ru
 vczxdm.pmptrainingnow.com
 vdagestan.info
@@ -3231,7 +3230,6 @@ www.torrentsget.net
 www.tut-mp3.ru
 www.tv-torrent.org
 www.ugar.su
-www.usrf.us
 www.videozal.net
 www.vidtorg.ru
 www.vk-sound.ru
