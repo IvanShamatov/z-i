@@ -881,6 +881,7 @@ ac6fbd.olimp27fe.top
 ac7e77.olimp16e5.top
 access.baltgames24.life
 access.baltgames24.live
+access.baltgames24.online
 access.baltgames24.pro
 access.baltgames24.site
 access.baltgames24.today
@@ -888,6 +889,7 @@ access.baltgames24.xyz
 access.bbsports.club
 access.bbsports.life
 access.bbsports.live
+access.bbsports.online
 access.bbsports.pro
 access.bbsports.site
 access.bbsports.today
@@ -950,9 +952,14 @@ azino-777-demo.win
 azino-777-otzivi.win
 azino-777-play.win
 azino-777-win.win
+azino-axe-777.ru
 azino-bonus.ru
+azino-three-axes.ru
 azino-zerkalo.ru
+azino777-casino-slots.ru
 azino777-license-casino.ru
+azino777-license.ru
+azino777-online-slots.ru
 azino777-otzivi.win
 azino777-turnir.win
 azino777-zerkalo.ru
@@ -1009,7 +1016,9 @@ baltgame24.life
 baltgames.club
 baltgames.pro
 baltgames24.club
+baltgames24.life
 baltgames24.live
+baltgames24.online
 baltgames24.pro
 baltgames24.site
 baltgames24.today
@@ -1028,6 +1037,7 @@ bbetplay.xyz
 bbsports.club
 bbsports.life
 bbsports.live
+bbsports.online
 bbsports.pro
 bbsports.site
 bbsports.today
@@ -1966,7 +1976,9 @@ lukybitez.biz
 lxbet.mobi
 m.baltbet.xyz
 m.baltgames24.club
+m.baltgames24.life
 m.baltgames24.live
+m.baltgames24.online
 m.baltgames24.pro
 m.baltgames24.site
 m.baltgames24.today
@@ -1974,6 +1986,7 @@ m.baltgames24.xyz
 m.bbsports.club
 m.bbsports.life
 m.bbsports.live
+m.bbsports.online
 m.bbsports.pro
 m.bbsports.site
 m.bbsports.today
@@ -2531,12 +2544,15 @@ parizerkalo2.website
 pda.baltbet.xyz
 pda.baltgames24.life
 pda.baltgames24.live
+pda.baltgames24.online
 pda.baltgames24.pro
 pda.baltgames24.site
 pda.baltgames24.today
 pda.baltgames24.xyz
 pda.bbsports.club
+pda.bbsports.life
 pda.bbsports.live
+pda.bbsports.online
 pda.bbsports.pro
 pda.bbsports.site
 pda.bbsports.today
@@ -3009,6 +3025,7 @@ the-cinema.ru
 themoviebay.ru
 therostov.club
 thor.bouwsoft.be
+three-axes.ru
 tiguruhad.ru
 timefrankplay.com
 titroff.ru
@@ -3347,6 +3364,7 @@ www.baltbet.xyz
 www.baltgames24.club
 www.baltgames24.life
 www.baltgames24.live
+www.baltgames24.online
 www.baltgames24.pro
 www.baltgames24.site
 www.baltgames24.today
@@ -3354,6 +3372,7 @@ www.baltgames24.xyz
 www.bbsports.club
 www.bbsports.life
 www.bbsports.live
+www.bbsports.online
 www.bbsports.pro
 www.bbsports.site
 www.bbsports.today
