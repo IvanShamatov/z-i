@@ -2345,6 +2345,7 @@ matanga-cc.cf
 match-pari.space
 match-zerkalo.win
 match-zerkalo10.ru
+match-zerkalo11.ru
 match-zerkalo5.ru
 match-zerkalo6.ru
 match-zerkalo8.ru
@@ -3923,6 +3924,7 @@ www.kinokrad.ru
 www.kinomax.ws
 www.kinozz.net
 www.legal-incense.com
+www.legalhighsworld.co.uk
 www.legalrc.pro
 www.leonbet.club
 www.lifefilm.info
