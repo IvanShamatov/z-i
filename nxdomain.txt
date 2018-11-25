@@ -993,7 +993,9 @@ azino-777-play.win
 azino-777-win.win
 azino-777-zerkalo.ru
 azino-axe-777.ru
+azino-axes-bonus.ru
 azino-bonus.ru
+azino-play-777.ru
 azino-three-axes.ru
 azino-zerkalo.ru
 azino777-casino-slots.ru
@@ -1003,6 +1005,7 @@ azino777-online-slots.ru
 azino777-otzivi.win
 azino777-turnir.win
 azino777-zerkalo.ru
+azino777casino-slots.ru
 azino777getbonus.ru
 azino777win.ru
 b0449b27dc98caa7ba.c2ef25.781562c135255c8a5b.xyz
@@ -3212,11 +3215,11 @@ rutor-msk.info
 rutor-net.info
 rutor-nn.info
 rutor-org.info
+rutor-org.net
 rutor-portal.ru
 rutor-ru.info
 rutor-rus.info
 rutor-torrents.ru
-rutor-zerkalo.ru
 rutor.onion.lu
 rutor2.pl
 rutorg.ga
