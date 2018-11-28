@@ -1983,7 +1983,6 @@ kinolive.pro
 kinolive.red
 kinomaster.tv
 kinonew.club
-kinook.tv
 kinoprofi-tv.org
 kinoprofi-x.org
 kinoprofi.mobi
