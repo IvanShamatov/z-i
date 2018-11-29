@@ -2575,6 +2575,7 @@ mp3.open.az
 mp3.uz.cx
 mp3bass.online
 mp3fon.kz
+mp3myzuka.org
 mp3pulse.su
 msk-dips.com
 mta13.mixskilled.com
@@ -3107,6 +3108,7 @@ ru.leon4d.com
 ru.leonamm.com
 ru.leonbalans.com
 ru.leonbel.com
+ru.leonbor.com
 ru.leonboris.com
 ru.leonbow.com
 ru.leonboxing.com
@@ -4007,6 +4009,7 @@ www.redstarcasino06.eu
 www.redstarcasino07.eu
 www.redstarcasino09.eu
 www.redstarcasino10.eu
+www.redstarcasino12.eu
 www.redstarpoker03.eu
 www.redstarpoker04.eu
 www.resheba.ru
