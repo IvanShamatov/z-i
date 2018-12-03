@@ -2768,11 +2768,13 @@ mostdis.com
 mostfon.com
 mostnef.com
 mostnev.com
+mostpeg.com
 mostpij.com
 mostrec.com
 mostrko.com
 mostrti.com
 mostvak.com
+mostvas.com
 mostzeb.com
 mostzoq.com
 mp-02.smartdirectroute.co
@@ -3289,7 +3291,6 @@ ru.adleonscore.com
 ru.adleonsuper.com
 ru.adleonteam.com
 ru.gaminator777.com
-ru.jpg4.net
 ru.kiber-store.ru
 ru.leon37.com
 ru.leon419.com
