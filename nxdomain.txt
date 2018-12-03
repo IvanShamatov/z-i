@@ -2767,6 +2767,8 @@ mostcdi.com
 mostcyf.com
 mostdis.com
 mostfon.com
+mostger.com
+mostgyh.com
 mostloq.com
 mostnef.com
 mostnev.com
@@ -4128,7 +4130,6 @@ www.diploms177.com
 www.diplomwus.com
 www.diplomy-russian.com
 www.dok911.ru
-www.dokumir.com
 www.dokymentalnoe.ru
 www.dom-filmov.ru
 www.domashke.net
