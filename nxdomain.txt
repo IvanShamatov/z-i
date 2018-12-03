@@ -1567,7 +1567,6 @@ diplom-61.com
 diplom-moskow.net
 diplom-msk.org
 diplom-v-chelyabinske.com
-diplom-vsem.com
 diplom16.com
 diplom30.com
 diplomi63.com
@@ -2781,6 +2780,7 @@ murmansk.feirelax.com
 music-god.ru
 music.wottut.ru
 musica.uz.cx
+muslimiman.info
 mutki-24.com
 muzika-onlain.ru
 muzon.cx
@@ -4101,7 +4101,6 @@ www.dip-rnd.ru
 www.diplom-gosznak.ru
 www.diplom-moskow.net
 www.diplom-v-chelyabinske.com
-www.diplom-vsem.com
 www.diploma-msk.com
 www.diplomans.com
 www.diplomasx.com
