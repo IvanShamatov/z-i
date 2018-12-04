@@ -1999,6 +1999,7 @@ host.eucloud101.net
 host157.megaoffer.net
 host84.hot-offer.org
 hotfrankgames.com
+hotrabbit.top
 htdoc.info
 hunafa.info
 hydrarc.ru
@@ -3484,6 +3485,7 @@ rus-pro.xyz
 rus-redclub.com
 rus-rutor.info
 rusinf.info
+ruslib.net
 russ-torrents.xyz
 russianbet.club
 russianbet.site
@@ -4309,7 +4311,6 @@ www.laineshop.biz
 www.ledy66.com
 www.legal-incense.com
 www.legalhighsworld.co.uk
-www.legalrc.bz
 www.legalrc.pro
 www.leonbet.club
 www.lifefilm.info
