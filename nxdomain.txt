@@ -1209,9 +1209,11 @@ betcity-raiu.cf
 betcity-rate.space
 betcity-rqpi.space
 betcity-rqpi.tk
+betcity-ruve.space
 betcity-sport.top
 betcity-stavki.club
 betcity-tmmb.cf
+betcity-uaol.space
 betcity-umwe.tk
 betcity-vepw.tk
 betcity-vgbq.cf
@@ -3914,6 +3916,8 @@ wap.betcity-nxzn.space
 wap.betcity-pdsh.space
 wap.betcity-peyu.space
 wap.betcity-rqpi.space
+wap.betcity-ruve.space
+wap.betcity-uaol.space
 wap.betcity-ygmu.space
 wap.betcity-zcxo.space
 wap.betsbc-adep.space
@@ -4222,6 +4226,7 @@ www.betcity-peyu.tk
 www.betcity-qirf.tk
 www.betcity-rqpi.space
 www.betcity-rqpi.tk
+www.betcity-ruve.space
 www.betcity-tmmb.cf
 www.betcity-uaol.space
 www.betcity-umwe.tk
