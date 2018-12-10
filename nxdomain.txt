@@ -206,6 +206,7 @@
 1x1515.com
 1x1521.com
 1x1523.com
+1xafpi.space
 1xais.xyz
 1xaupi.space
 1xbdt.com
@@ -3753,7 +3754,6 @@ rutor-net.info
 rutor-nn.info
 rutor-org.info
 rutor-org.net
-rutor-portal.ru
 rutor-ru.info
 rutor-rus.info
 rutor-torrents.ru
