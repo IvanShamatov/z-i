@@ -920,9 +920,7 @@
 939245.olimp1958.top
 93a499.olimp9cf3.top
 93a69b.olimp12da.top
-94-237-39-129.fi-hel1.upcloud.host
 94-237-49-60.uk-lon1.upcloud.host
-94-237-52-43.uk-lon1.upcloud.host
 9435bf.olimp6b96.top
 94689a.olimpe24a.top
 94e63b.olimpd9f7.top
@@ -3066,6 +3064,7 @@ mp3myzuka.org
 mp3play.net
 mp3pulse.su
 mp3u.club
+mp3zvuk.com
 msk-diplimnik.com
 msk-dips.com
 msu-research.ru
@@ -3960,7 +3959,6 @@ syssarcosis.com
 tabletmovie.cf
 tabletmovie.net
 tailor.rpet-mo.ru
-taiphone.ru
 tambov.diplomllikee.com
 tameqshop.info
 tehnika62.ru
