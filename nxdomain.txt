@@ -1041,6 +1041,7 @@ alcotown.life
 alcovkus.moscow
 alcovozov.com
 alfaseeds.biz
+alfaseeds.me
 alicemp3.com
 alko-nadom.ru
 alkozavr.me
@@ -1617,7 +1618,6 @@ cczb.ml
 cd2490.olimp161f.top
 cdc680.olimp9b55.gdn
 cdef50.olimp31d2.top
-cdn.recentfilms.info
 cdn1.igmpromo.com
 ce124a.olimp58e7.top
 cem24.biz
@@ -2347,7 +2347,6 @@ kinogoclub.net
 kinogod.cc
 kinogofilm.tk
 kinogog.com
-kinogohd.me
 kinogohd.net
 kinogohd1080.net
 kinogohit.net
