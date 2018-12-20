@@ -2639,7 +2639,6 @@ host.eucloud101.net
 host157.megaoffer.net
 host84.hot-offer.org
 hotfrankgames.com
-hotrabbit.top
 hr-info.ru
 hsart.info
 htdoc.info
@@ -4823,7 +4822,6 @@ upd-rcrw420xokc.c59671d45c62eec556f2.xyz
 upd-uji6mp.a660d996de04720d07d8.xyz
 upd-wj4ihv6cskhdfl.c59671d45c62eec556f2.xyz
 upd-zb8nzldqh.a660d996de04720d07d8.xyz
-urban-dance.ru
 uris.lol
 urislog.link
 urist13.ru
