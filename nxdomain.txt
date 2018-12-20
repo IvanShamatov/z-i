@@ -2641,6 +2641,7 @@ host.eucloud101.net
 host157.megaoffer.net
 host84.hot-offer.org
 hotfrankgames.com
+hpgsui.travelsib.ru
 hr-info.ru
 hsart.info
 htdoc.info
@@ -4308,6 +4309,7 @@ ru.6playfortuna.com
 ru.adleonansi.com
 ru.adleoncamkoob.com
 ru.adleoncoding.com
+ru.adleondnim.com
 ru.adleondraak.com
 ru.adleoneerf.com
 ru.adleonenco.com
