@@ -6247,6 +6247,7 @@ zerkalo.mirrorolimp2.online
 zerkalo.olimpmirror.online
 zerkalo02.mirrorolimp.online
 zerkalo02.mirrorolimp1.online
+zerkalo42.ru
 zerkalo43.ru
 zerkalo49.ru
 zerkalo555.xyz
@@ -6285,3 +6286,4 @@ zport1x.com
 zrelye-prostitutki.ru
 zrkalo.space
 zstudios.ru
+zvukovoronka.ru
