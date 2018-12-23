@@ -2981,6 +2981,7 @@ kostroma.attestattutt.com
 kosyak-shop.ml
 kpii.tk
 krasnodar.prava-prosta.ru
+krasnodar.spirt-med.ru
 krasnodardiploms.com
 krasnoyarsk.dipgoodss.com
 ktunnel.info
@@ -6201,7 +6202,6 @@ zamut-24.biz
 zamut.gr
 zarutor.ru
 zaspravkou.ru
-zaya.info
 zaycev-ru.ru
 zaycev-tut.ru
 zaymuzaym.ru
@@ -6440,7 +6440,6 @@ zhitely.info
 zhyteli.info
 zodiaccasno.com
 zomzom.biz
-zorra.info
 zport1x.com
 zrelye-prostitutki.ru
 zrkalo.space
