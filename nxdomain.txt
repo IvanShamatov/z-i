@@ -1026,7 +1026,6 @@
 777slot.zone
 777slotgames.info
 777slotgames.org
-777slotmachinesgames.com
 777volcano.club
 777volcano.org
 77c9e9.olimp1897.top
@@ -2351,6 +2350,7 @@ dfc.koteeq.me
 dfly.cf
 dfxwy14.info
 dianasalon.ru
+dickey.x-hobby.ru
 didaeslilas.info
 dienos.info
 dijenostuff.info
@@ -2413,6 +2413,7 @@ downtube.info
 dpni-rus.org
 drazebetil.info
 dretulens.info
+drhousrc.com
 drhoyse-rc.com
 drhoyserc.com
 drmomblog.info
@@ -4176,6 +4177,7 @@ mostpem.com
 mostpew.com
 mostpho.com
 mostpij.com
+mostpli.com
 mostpzi.com
 mostqes.com
 mostqwo.com
@@ -5300,7 +5302,6 @@ rutor-msk.info
 rutor-net.info
 rutor-nn.info
 rutor-org.info
-rutor-org.net
 rutor-ru.info
 rutor-rus.info
 rutor-torrents.ru
