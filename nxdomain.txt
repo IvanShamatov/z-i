@@ -2369,6 +2369,7 @@ dfc.koteeq.me
 dfly.cf
 dfxwy14.info
 dianasalon.ru
+dickey.x-hobby.ru
 didaeslilas.info
 dienos.info
 dijenostuff.info
@@ -4254,6 +4255,7 @@ mp3-bit.net
 mp3-zaycev.su
 mp3.open.az
 mp3.uz.cx
+mp32.vmuzice.info
 mp3bass.org
 mp3fon.kz
 mp3indirhep.com
@@ -5299,6 +5301,7 @@ ru.swleonpom.com
 ru.swleonwork.com
 ru.turkiston.info
 ru.vipleoncer.com
+ru.vmuzice.info
 ru1.mp3-tut.biz
 ru1.primemusic.club
 ru1.rumuzfan.ru
@@ -5307,9 +5310,11 @@ ru12.xmusic.name
 ru123.iplayer.info
 ru2.mp3-tut.biz
 ru2.rumuzfan.ru
+ru2.vmuzice.info
 ru3.casinobra.me
 ru3.mp3-tut.biz
 ru3.rumuzfan.ru
+ru3.vmuzice.info
 ru4.casino.com
 ru4.mp3-tut.biz
 ru4.rumuzfan.ru
@@ -5424,6 +5429,7 @@ sffs992.com
 shama-shop.cf
 shamarc.ch
 shamarc.ms.
+shampanskoe.party
 shanaskinner.ru
 shears.dvigatelya-remont.ru
 shishki-boshki.ml
