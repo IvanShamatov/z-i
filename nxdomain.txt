@@ -2377,7 +2377,6 @@ dfc.koteeq.me
 dfly.cf
 dfxwy14.info
 dianasalon.ru
-dickey.x-hobby.ru
 didaeslilas.info
 dienos.info
 dijenostuff.info
@@ -5474,6 +5473,11 @@ shears.dvigatelya-remont.ru
 shishki-boshki.ml
 shishki-vmoskve.ml
 shiwa-shop.ml
+shiwa.market
+shiwamarket.online
+shiwastore.biz
+shiwastore.online
+shiwastuff.online
 shkolaauto.com
 shkoladriver.com
 shoe4u.info
