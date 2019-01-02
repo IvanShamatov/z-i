@@ -341,6 +341,7 @@
 1xiss.xyz
 1xjal.xyz
 1xkmc.xyz
+1xkrd.com
 1xkwf.xyz
 1xkwy.xyz
 1xlcx.xyz
@@ -4178,6 +4179,7 @@ mostcyf.com
 mostdey.com
 mostdis.com
 mostdit.com
+mostdri.com
 mosterq.com
 mostfof.com
 mostfoj.com
@@ -4221,6 +4223,7 @@ mostpem.com
 mostpew.com
 mostpho.com
 mostpij.com
+mostpke.com
 mostpli.com
 mostpzi.com
 mostqec.com
@@ -6368,6 +6371,7 @@ www.diplomy-russian.com
 www.diplomy74.com
 www.documents-hand.com
 www.docworld24.com
+www.dok-ru.biz
 www.dok911.ru
 www.dokymentalnoe.ru
 www.dom-filmov.ru
