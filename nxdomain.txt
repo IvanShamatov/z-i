@@ -3147,6 +3147,7 @@ host.eucloud101.net
 host157.megaoffer.net
 host84.hot-offer.org
 hotfrankgames.com
+hottabich.net
 hotvids.info
 hpgsui.travelsib.ru
 hpstore.info
@@ -3821,7 +3822,6 @@ medvrach.org
 medyanorm.info
 meetshah.info
 megakeys.su
-megashara.pro2web.fun
 megaslots24.com
 megatube.info
 mel2017.mobi
