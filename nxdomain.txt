@@ -5352,6 +5352,7 @@ ru.6playfortuna.com
 ru.adleonansi.com
 ru.adleonaudi.com
 ru.adleonbeats.com
+ru.adleonbmw.com
 ru.adleoncamkoob.com
 ru.adleoncoding.com
 ru.adleoncontmand.com
@@ -5778,6 +5779,7 @@ spolox.info
 sporf1x.com
 sport-1x-bet.com
 sport-ch.com
+sport-free.net
 sport-iptv.com
 sport-mostbet.ru
 sport1ks.com
