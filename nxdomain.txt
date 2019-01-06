@@ -3427,7 +3427,6 @@ kinonew.club
 kinook.tv
 kinoprofi-net.xyz
 kinoprofi-tv.org
-kinoprofi-x.org
 kinoprofi.mobi
 kinoprofi.pw
 kinoprofi.store
@@ -5367,6 +5366,7 @@ ru.adleonex.com
 ru.adleonfanman.com
 ru.adleonfun.com
 ru.adleonfunken.com
+ru.adleonipnon.com
 ru.adleonleon.com
 ru.adleonlumn.com
 ru.adleonmind.com
