@@ -2337,6 +2337,7 @@ cms.vds2.cll.su
 comedyportal.biz
 comedyportal.me
 comedyportal1.biz
+comedyportal1.xyz
 comedyportal2.me
 company.ph.net.space.rucdn.pw
 compliment-online.ru
@@ -2435,7 +2436,6 @@ dfc.koteeq.me
 dfly.cf
 dfxwy14.info
 dianasalon.ru
-dickey.x-hobby.ru
 didaeslilas.info
 dienos.info
 dijenostuff.info
@@ -3461,6 +3461,7 @@ kinokradyn.ru
 kinoleila.ru
 kinolive.pro
 kinomag.xyz
+kinoman.xyz
 kinomaster.tv
 kinonew.club
 kinook.tv
@@ -5657,6 +5658,7 @@ rutor-zerkalo.ru
 rutor.onion.lu
 rutor.site
 rutor2.pl
+rutorg.club
 rutorg.ga
 rutorg.gq
 rutorg.ml
@@ -5966,6 +5968,7 @@ tehnika62.ru
 telegram.vpn99.net
 ten-casinos.online
 teonanakatl.net
+test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
