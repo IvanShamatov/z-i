@@ -2466,7 +2466,6 @@ dfc.koteeq.me
 dfly.cf
 dfxwy14.info
 dianasalon.ru
-dickey.x-hobby.ru
 didaeslilas.info
 dienos.info
 dijenostuff.info
@@ -3450,6 +3449,7 @@ kinogo-net-co.ru
 kinogo-net-hd.ru
 kinogo-net.biz
 kinogo-onlajn.net
+kinogo-online.com
 kinogo-online.me
 kinogo-online.online
 kinogo-online.tv
@@ -6973,6 +6973,7 @@ www.kinodo.pw
 www.kinofan.club
 www.kinofestival.net
 www.kinogo-net-co.ru
+www.kinogo-online.com
 www.kinogou.ru
 www.kinokrad.ru
 www.kinomax.ws
