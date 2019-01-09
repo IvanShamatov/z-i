@@ -3210,6 +3210,7 @@ gleneagle.info
 glewlyshop.info
 glogotrip.xyz
 gmslot.biz
+gmslotsdeluxe1.net
 go-az-mob-go.xyz
 go2site1.net
 go2site5.net
@@ -4014,7 +4015,6 @@ mechaniksrc.biz
 media-rs.info
 media-rus.info
 media-tracker.info
-medicalblank.com
 medizinskaja-spravka.com
 medknigu-omsk.ru
 medknizhku-omsk.ru
@@ -5755,7 +5755,6 @@ rus-rutor.info
 ruseeds.cc
 ruseeds.tv
 rushishstuff.info
-ruslib.net
 russ-torrents.xyz
 russexgirls.com
 russianbet.club
