@@ -1328,6 +1328,7 @@ alatbantu.info
 alco-magazin.me
 alco-nsk54.ru
 alco-online24.ru
+alco-vozim.me
 alco.dostavka.bid
 alco.mobi
 alcobutik.biz
@@ -2474,7 +2475,6 @@ dfc.koteeq.me
 dfly.cf
 dfxwy14.info
 dianasalon.ru
-dickey.x-hobby.ru
 didaeslilas.info
 dienos.info
 dijenostuff.info
@@ -3439,6 +3439,7 @@ kino-720hd.ru
 kino-bezsms.com
 kino-go.org
 kino-hd1080.ru
+kino-hd720.info
 kino-online-2018.club
 kino-profi.org
 kino-rip.eu
@@ -5845,6 +5846,7 @@ rutorinfo.org
 rutors.ml
 rutorzerkalo.ru
 rutracker-in.info
+rutracker2.org
 rv9x.cf
 rx-shops.info
 ryazan-tgk.ml
