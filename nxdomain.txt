@@ -2874,7 +2874,6 @@ filmerx.ru
 filmix.live
 filmix.uk
 filmku.ru
-filmonline.online
 filmorezka.org
 films-one.ru
 films-online.net
@@ -6350,7 +6349,6 @@ stuff.legal
 stuff24.net
 stuff24.online
 stuffbesters.info
-stuffcoole.info
 stuffdark.xyz
 stuffelam.info
 stuffergood.info
