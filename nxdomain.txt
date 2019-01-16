@@ -4341,6 +4341,7 @@ media-rs.info
 media-rus.info
 media-tracker.info
 medizinskaja-spravka.com
+medknigi-samara.ru
 medknigi-voronezha.ru
 medknigu-omsk.ru
 medknizhku-omsk.ru
@@ -6585,7 +6586,6 @@ telegram.vpn99.net
 ten-casinos.online
 teonanakatl.net
 teonanakatl.pro
-test2.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
@@ -6796,7 +6796,6 @@ vitalebroado.info
 vitaminrc.biz
 vitatolkin.info
 vk-sound.ru
-vkinoshke.com
 vkmp3.info
 vlcrime.net
 vlg.sexoholic.ru
@@ -7875,7 +7874,6 @@ www.vcemkino.ru
 www.vidtorg.ru
 www.vipsteroid.net
 www.vk-sound.ru
-www.vkinoshke.com
 www.vmusice.net
 www.vsfilm.ru
 www.vulcan-club-online.com
