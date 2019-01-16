@@ -1962,6 +1962,7 @@ bibliofile.su
 bigcinema-hd.net
 bigcinema-hd.ru
 bigcinema-tv.info
+bigcinema.club
 bigcinema.kz
 bigcinema.xyz
 bighd.net
@@ -2419,6 +2420,7 @@ chelaybinsk.documentshop.ru
 chelyabinsk.diplomllikee.com
 chem--24.biz
 chilli24.biz
+chita-putany24.xyz
 chita.attestattutt.com
 chita.dipgoodss.com
 chita.diplomknams.com
@@ -2865,6 +2867,7 @@ filmario.net
 filmask.ru
 filmerx.ru
 filmix.live
+filmix.top
 filmix.uk
 filmku.ru
 filmorezka.org
@@ -3636,6 +3639,7 @@ kinoguru.ml
 kinoklips.com
 kinokong.info
 kinokong.net.ua
+kinokong.pro
 kinokong.top
 kinokrad-2018.online
 kinokrad-hd-720.ru
@@ -6330,6 +6334,8 @@ stavkyonline.com
 stavropol-putany24.info
 stormo.world
 strahovkarussia.com
+stroyattestatru.com
+stroykaattestat.com
 studia72.com
 stuf24.com
 stufaslo.info
@@ -7257,6 +7263,7 @@ www.fatrc.biz
 www.fiestacasino.ru
 www.filmario.net
 www.filmask.ru
+www.filmix.top
 www.filmku.ru
 www.films-one.ru
 www.films-online.net
@@ -7436,7 +7443,6 @@ www.myrc-store.net
 www.myvulcancasino.com
 www.n-novgorod.otsosme.com
 www.naturalworld.ru
-www.naukom.ru
 www.nfsk24.biz
 www.nichesi.ru
 www.nk-diploma.biz
@@ -7576,6 +7582,7 @@ www.sprut.tv
 www.sssr-diploms.ru
 www.stforex.ru
 www.strahovkarussia.com
+www.stroykaattestat.com
 www.superbahis566.com
 www.superbahis589.com
 www.superbetin3.com
