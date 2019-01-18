@@ -2669,7 +2669,9 @@ diplom-msk.org
 diplom-site.com
 diplom-v-chelyabinske.com
 diplom-zakaz.com
+diplom02.com
 diplom116.com
+diplom159.com
 diplom16.com
 diplom30.com
 diplom40.com
@@ -6222,6 +6224,7 @@ ru.leoncta.com
 ru.leoncyprus.com
 ru.leondama.com
 ru.leondarom.com
+ru.leondimi.com
 ru.leonduo.com
 ru.leonever.com
 ru.leonevo.com
