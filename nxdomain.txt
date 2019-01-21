@@ -2769,9 +2769,11 @@ diphhep.com
 dipl-perm1.ru
 diplom-61.com
 diplom-attestat-kupite.com
+diplom-ekaterinburg.com
 diplom-moskow.net
 diplom-msk.org
 diplom-pord.ru
+diplom-sankt-peterburg.com
 diplom-site.com
 diplom-v-chelyabinske.com
 diplom-zakaz.com
@@ -4629,6 +4631,7 @@ media-rus.info
 media-tracker.info
 medicinskie-spravki.online
 medizinskaja-spravka.com
+medkniga-70.ru
 medknigi-samara.ru
 medknigi-tumen.ru
 medknigi-voronezha.ru
@@ -6383,6 +6386,7 @@ ru.adleonsuper.com
 ru.adleonteam.com
 ru.adleonteas.com
 ru.adleontesla.com
+ru.adleonttxmix.com
 ru.adleonwave.com
 ru.adleonxela.com
 ru.admiralxxx.ru
