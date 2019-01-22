@@ -271,6 +271,7 @@
 1x-769.online
 1x-796.online
 1x-810.online
+1x-839.online
 1x-860.online
 1x-877.online
 1x-935.online
@@ -2225,6 +2226,10 @@ bk-zerkalo44.space
 bk-zerkalo64.space
 bk-zerkalo72.space
 bk-zerkalo78.space
+bk-zerkalofonbet12.space
+bk-zerkalofonbet32.space
+bk-zerkalofonbet43.space
+bk-zerkalofonbet54.space
 bk-zerkalos77.space
 bk-zerkalosite12.space
 bk-zerkalosite65.space
@@ -2293,8 +2298,11 @@ bkfonbets.website
 bkfoonbetting.space
 bkfoontt.space
 bkgumfon.space
+bkinfo119.online
+bkinfo129.online
 bkinfo147.online
 bkinfo156.online
+bkinfo160.online
 bkinfo247.website
 bkjhwbruwbeouwebrouiowefj.nopeer.ru
 bkleon1.su
@@ -2794,6 +2802,7 @@ diplom86.com
 diplomas-irkutsk.com
 diplomas-moscow.ru
 diplomas-surgut.com
+diplomaz.info
 diplomi-documenty.com
 diplomi-onlin.com
 diplomi63.com
@@ -3394,6 +3403,7 @@ fonbetonline.xyz
 fonbetopen.space
 fonbetplus.xyz
 fonbetru-bks21.space
+fonbetru-bks54.space
 fonbetrus.ru
 fonbetrus.space
 fonbetrus.xyz
@@ -4309,6 +4319,8 @@ litread.info
 little-girls.click
 live-prostitutki.ru
 live-rutor.pl
+live-zerkalos23.space
+live-zerkalos98.space
 live.bkfonsports.com
 live.bkfonsports.pro
 live.bkfonsports.xyz
@@ -4322,7 +4334,6 @@ livetv102.me
 livezerkalo12.space
 livezerkalo45.space
 livezerkalo87.space
-living-dolls.biz
 ll99.info
 lleonbets6a.ru
 lliii.ru
@@ -6849,7 +6860,6 @@ space.rucdn.pw
 spared.info
 spartac.biz
 spb-duty-free-24.ru
-spb-xxx.com
 spb.dostavka.bid
 spb.shlushki.com
 spbintim-xxx.com
@@ -7027,9 +7037,6 @@ ten-casinos.online
 ten-casinoz.online
 teonanakatl.net
 tesla72.biz
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
@@ -8781,6 +8788,7 @@ xeralerastuff.info
 xiaoling.info
 ximcity.cc
 ximik24x7.biz
+xlab.name
 xlabtv.com
 xmmx.info
 xmp3.org
@@ -8827,6 +8835,7 @@ yuganskneftgas.ru
 yuzhno-sahalinsk.live-prostitutki.ru
 yy-24.biz
 yzel.info
+zakaz-diploma.net
 zakis-azota.com
 zakladik.ru
 zakladka.pw
@@ -9005,6 +9014,7 @@ zenzi.info
 zercalo-rutor.org
 zercaloazarta.ru
 zerfonbettingd.space
+zerk-bktoto23.space
 zerk-bktoto34.space
 zerkala-mostbet.ru
 zerkala-oline.space
