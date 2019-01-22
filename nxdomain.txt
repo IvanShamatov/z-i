@@ -4261,6 +4261,7 @@ legalrc.ltd
 legalrc.one
 legalrc.pro
 legalrc.red
+legalrf.org
 legalrs.co
 legalss.biz
 legalz.ru
@@ -5179,7 +5180,6 @@ mostadi.com
 mostapx.com
 mostbec.com
 mostbek.com
-mostbet-bk.ru
 mostbet-bukmeker.ru
 mostbet-info.ru
 mostbet-online.ru
@@ -5254,6 +5254,7 @@ mostloc.com
 mostloq.com
 mostloz.com
 mostmbq.com
+mostmnq.com
 mostmou.com
 mostmyt.com
 mostnef.com
@@ -5270,6 +5271,7 @@ mostpicpart.com
 mostpij.com
 mostpke.com
 mostpli.com
+mostplm.com
 mostpzi.com
 mostqec.com
 mostqes.com
@@ -8452,7 +8454,6 @@ www.myrc-store.net
 www.myvulcancasino.com
 www.n-novgorod.otsosme.com
 www.naturalworld.ru
-www.naukom.ru
 www.new-diplomas.com
 www.nfsk24.biz
 www.nichesi.ru
