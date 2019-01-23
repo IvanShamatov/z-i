@@ -2869,6 +2869,7 @@ diplom-attestat-kupite.com
 diplom-center.com
 diplom-chelyabinsk.com
 diplom-ekaterinburg.com
+diplom-kypit-omsk.ru
 diplom-moskow.net
 diplom-msk.org
 diplom-pord.ru
@@ -3159,7 +3160,6 @@ fantasyoo.biz
 fantazi00.biz
 fapago.com
 farm-bar.ru
-farmastudent.ru
 fatrc.biz
 favorita.info
 favouriteslot.com
@@ -5478,6 +5478,7 @@ mta20.securemx.com.au
 mta9.denticulately.com
 mtftt.info
 mtorrentportal.ru
+mtp1.shadowsocks.wtf
 muczyk.info
 mudrias.cc
 multigaminator-casino.ru
@@ -6411,6 +6412,7 @@ prostokvashu.biz
 prostovip.ru
 prostovkashu.com
 prostovkashy.biz
+proxy.sensur.us
 pskov.attestattutt.com
 psn-game.club
 psn-pirate.com
@@ -8587,6 +8589,7 @@ www.myrc-store.net
 www.myvulcancasino.com
 www.n-novgorod.otsosme.com
 www.naturalworld.ru
+www.naukom.ru
 www.new-diplomas.com
 www.nfsk24.biz
 www.nichesi.ru
