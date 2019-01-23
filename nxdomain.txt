@@ -3770,7 +3770,6 @@ hd-kinogo.ru
 hd-rezka.club
 hd.clip16.com
 hd.zfilm-hd.space
-hdkino.co
 hdkinohit.net
 hdpicture.ru
 hdrezka-online.ml
@@ -5250,12 +5249,14 @@ mostger.com
 mostgff.com
 mostghe.com
 mostgho.com
+mostghv.com
 mostgig.com
 mostgjo.com
 mostgnv.com
 mostgre.com
 mostgtt.com
 mostgyh.com
+mostgyn.com
 mosthep.com
 mosthji.com
 mosthok.com
@@ -5980,7 +5981,6 @@ pirat.glogotrip.xyz
 pirat.kladokor.xyz
 pirat24.co
 piratbit.ru
-pizdec.club
 plaiboishop.biz
 plan420-msk.ml
 planstore420.ru
