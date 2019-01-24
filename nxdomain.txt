@@ -2850,7 +2850,6 @@ dfxwy14.info
 dg.dzenkino.com
 dh.dzenkino.com
 dianasalon.ru
-dickey.x-hobby.ru
 didaeslilas.info
 dienos.info
 dijenostuff.info
@@ -2868,6 +2867,7 @@ diplom-center.com
 diplom-chelyabinsk.com
 diplom-ekaterinburg.com
 diplom-kypit-omsk.ru
+diplom-kypit-samara.ru
 diplom-moskow.net
 diplom-msk.org
 diplom-pord.ru
@@ -8359,6 +8359,8 @@ www.dip-rnd.ru
 www.diphepi.ru
 www.diplom-gosznak.ru
 www.diplom-kypit-omsk.ru
+www.diplom-kypit-podolsk.ru
+www.diplom-kypit-ufa.ru
 www.diplom-moskow.net
 www.diplom-v-chelyabinske.com
 www.diplom-zakaz.com
