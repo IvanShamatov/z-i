@@ -4257,7 +4257,6 @@ kinoone.online
 kinoprofi-net.xyz
 kinoprofi-tv.org
 kinoprofi.mobi
-kinoprofi.pw
 kinoprofi.store
 kinoprofi.today
 kinoprofi.uz
@@ -4314,6 +4313,7 @@ krasnodar-dips.ru
 krasnodar.intim66.com
 krasnodar.prava-prosta.ru
 krasnodardiploms.com
+krasnodardiploms1.com
 krasnogorsk.docvuz.org
 krasnoyarsk.dipgoodss.com
 krasnoyarsk.docvuz.org
@@ -8812,6 +8812,7 @@ www.konoplevv.club
 www.konoplevv.store
 www.korona.cc
 www.krasintim.com
+www.krasnodardiploms1.com
 www.ksiva.club
 www.kubilay.info
 www.kupi-diplom.net
@@ -8882,7 +8883,6 @@ www.myrc-store.net
 www.myvulcancasino.com
 www.n-novgorod.otsosme.com
 www.naturalworld.ru
-www.naukom.ru
 www.new-diplomas.com
 www.nfsk24.biz
 www.nichesi.ru
@@ -9849,6 +9849,10 @@ zport1x.com
 zrkalo.space
 zulza.ru
 zv-fm.ru
+zvfm.su
+zvukovoronka.ru
+zz972.info
+m.ru
 zvfm.su
 zvukovoronka.ru
 zz972.info
