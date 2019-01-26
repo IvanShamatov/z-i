@@ -3937,7 +3937,6 @@ grower.biz
 grower.work
 grower.world
 gsmphone.info
-gta24.org
 gwt81.info
 gzip-proxy.ru
 hanrub.ru
