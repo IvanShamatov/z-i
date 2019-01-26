@@ -3930,6 +3930,7 @@ grower.biz
 grower.work
 grower.world
 gsmphone.info
+gta24.org
 gwt81.info
 gzip-proxy.ru
 hanrub.ru
@@ -6126,6 +6127,7 @@ onlysummer.ru
 onvids.info
 open-russia.info
 open-russia.me
+open-russia.online
 openrussia.online
 openrussia.technology
 openrussia.today
@@ -7588,9 +7590,6 @@ ten-casinoz.online
 teonanakatl.net
 terror.in.ua
 tesla72.biz
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
