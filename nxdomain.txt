@@ -6235,6 +6235,7 @@ open-russia.info
 open-russia.live
 open-russia.me
 open-russia.online
+openru.me
 openrussia.life
 openrussia.online
 openrussia.technology
@@ -9657,7 +9658,6 @@ xxxredtube.biz
 xxxteen.site
 xxzvids.info
 xynta.info
-ya-zdorov.net
 ya888ya.net
 yabeda.org
 yakutsk.docvuz.org
