@@ -4358,7 +4358,6 @@ kinogo-hd1080.net
 kinogo-hd720.cf
 kinogo-hd720.tk
 kinogo-hdonline.net
-kinogo-hdtv.net
 kinogo-net-baskino-2017.ru
 kinogo-net-co.ru
 kinogo-net-hd.ru
@@ -7498,6 +7497,7 @@ rx.dzenkino.com
 ryazan-intim.com
 ryazan-intim.info
 ryazan-tgk.ml
+ryazan.attestattuts.com
 ryazan.diplomllikee.com
 ryazan.docvuz.org
 ryazan.prostitutkifarm.info
