@@ -6332,6 +6332,7 @@ open-russia.online
 openru.club
 openru.info
 openru.life
+openru.live
 openru.me
 openru.online
 openru.today
@@ -6339,8 +6340,10 @@ openru.work
 openru.xyz
 openrus.club
 openrus.info
+openrus.live
 openrus.me
 openrus.online
+openrus.today
 openrussia.life
 openrussia.online
 openrussia.technology
@@ -6908,6 +6911,7 @@ quxian.info
 r1.hdrezka-online.ru
 r1.marvarid.su
 r1.mp3bor.info
+r2.cybbet.com
 r2.hdrezka-online.ru
 r2.marvarid.su
 r2.mp3bor.info
