@@ -1639,7 +1639,6 @@ azartplay-vipclub.club
 azartplay-vipigrax.space
 azartplay-vipslot.club
 azartplay-vipx.club
-azartplay.club
 azartplay.games
 azartplay.live
 azartplaya.com
@@ -2668,6 +2667,7 @@ btct-zerkalo56.ru
 btct-zerkalo57.ru
 btct-zerkalo58.ru
 btct-zerkalo60.ru
+btct-zerkalo61.ru
 btdb.to
 btiorsk.ru
 budda-bar.biz
