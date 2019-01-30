@@ -6330,9 +6330,15 @@ open-russia.me
 open-russia.online
 openru.club
 openru.info
+openru.life
 openru.me
+openru.online
 openru.today
 openru.xyz
+openrus.club
+openrus.info
+openrus.me
+openrus.online
 openrussia.life
 openrussia.online
 openrussia.technology
@@ -7984,6 +7990,7 @@ tvserial-online.net
 tymen.gq
 tyumen.docvuz.org
 tzso.info
+ua.cybbet.com
 uanggratis.info
 uarc.biz
 ubie.info
@@ -8240,6 +8247,7 @@ vulkanjoker.com
 vulkankasino.com
 vulkannz.com
 vulkanonlayn.xyz
+vulkanonline.com
 vulkanslotsgame.xyz
 vulkanstavki.online
 vvulkan.info
