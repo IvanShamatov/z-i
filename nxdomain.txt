@@ -5135,7 +5135,6 @@ meetshah.info
 megakeys.market
 megakeys.su
 megaonlines.net
-megapeer.torrentzmirror.org
 megaslots24.com
 megatube.info
 mehanicsrc.biz
@@ -7139,6 +7138,8 @@ ru.adleontahoe.com
 ru.adleonteam.com
 ru.adleonteas.com
 ru.adleontesla.com
+ru.adleontraffs.com
+ru.adleontrtcpp.com
 ru.adleonttxmix.com
 ru.adleonwave.com
 ru.adleonxela.com
@@ -7435,7 +7436,6 @@ rutor-torrents.ru
 rutor-zerkalo.info
 rutor-zerkalo.ru
 rutor.onion.lu
-rutor.torrentzmirror.org
 rutor2.pl
 rutor3.info
 rutor4.org
@@ -7491,6 +7491,7 @@ sardosug.com
 satork.com
 saving-music.ru
 schinousa.info
+school-70.ru
 scitalcu.ru
 season-var.cc
 seedking.eu
@@ -7904,7 +7905,6 @@ topvulcancasino.com
 torrent-lynx.ru
 torrent11.ru
 torrent9.name
-torrentdownloads.torrentzmirror.org
 torrentiz.org
 torrentsget.net
 torrentum.org
@@ -7992,7 +7992,6 @@ ukip157.webcannon.com
 ukip168.webcannon.com
 ulyanovsk.dipgoodss.com
 umnitsa-spb.ru
-underverse.torrentzmirror.org
 undguruthat.ru
 unfilteredart.ru
 univermag.biz
