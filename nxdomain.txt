@@ -1908,7 +1908,6 @@ baskino.movie
 baskino.tech
 baskino.tv
 baskinoclub.ru
-baskinonet.ru
 baza-gibdd.info
 bb7c9a.olimpd9f7.top
 bbe824.olimp31d2.top
@@ -10511,5 +10510,8 @@ zrkalo.space
 zulza.ru
 zv-fm.ru
 zvfm.su
+zvukovoronka.ru
+zz972.info
+u
 zvukovoronka.ru
 zz972.info
