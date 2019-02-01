@@ -3594,6 +3594,7 @@ filmix.pro
 filmix.top
 filmix.uk
 filmku.ru
+filmmania.ru
 filmorezka.org
 films-one.ru
 films-online.net
@@ -4586,7 +4587,6 @@ kinoni.ru
 kinook.tv
 kinoone.online
 kinoplus.net
-kinopro.co
 kinoprofi-net.xyz
 kinoprofi-tv.org
 kinoprofi.mobi
