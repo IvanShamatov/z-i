@@ -3670,6 +3670,7 @@ flo-market.ru
 floralhouse.ru
 floxy.info
 flymix.net
+fm959.net
 fmsnews.info
 fo062.info
 fo4.info
@@ -6250,6 +6251,7 @@ new-kinogo.org
 new-rutor.ga
 new.bkwinline100.com
 new.bkwinline13.com
+new.bkwinline15.com
 new.bkwinline16.com
 new.bkwinline17.com
 new.bkwinline18.com
@@ -8199,8 +8201,6 @@ teonanakatl.net
 terror.in.ua
 tesla72.biz
 test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
@@ -9269,6 +9269,7 @@ www.bkfonsports.xyz
 www.bkparimatch7.com
 www.bkwinline100.com
 www.bkwinline13.com
+www.bkwinline15.com
 www.bkwinline16.com
 www.bkwinline17.com
 www.bkwinline18.com
