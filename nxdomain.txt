@@ -4208,7 +4208,6 @@ gidonlain.in
 gidonlain.online
 gidonline-club.ru
 gidonline.im
-gidonline.online
 gidonline.site
 gidonlines.ru
 gigaserial.net
@@ -5744,13 +5743,10 @@ mobdkem.pw
 mobdnep.pw
 mobecl.xyz
 mobile.bkwinline100.com
-mobile.bkwinline13.com
 mobile.bkwinline16.com
 mobile.bkwinline18.com
 mobile.bkwinline20.com
-mobile.bkwinline40.com
 mobile.bkwinline50.com
-mobile.bkwinline60.com
 mobile.bkwinline70.com
 mobile.bkwinline8.com
 mobile.bkwinline80.com
@@ -6465,7 +6461,6 @@ nkryptor.ru
 nn.diplomllikee.com
 nndiplom.com
 nnm-club.name
-nnm-club.online
 nnm-club.tv
 nnm-club2.ml
 nnm-club6.ml
@@ -9263,6 +9258,7 @@ www.bkfonsports.xyz
 www.bkparimatch7.com
 www.bkwinline100.com
 www.bkwinline16.com
+www.bkwinline18.com
 www.bkwinline20.com
 www.bkwinline50.com
 www.bkwinline70.com
