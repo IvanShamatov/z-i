@@ -4299,7 +4299,6 @@ hd.clip16.com
 hd.zfilm-hd.space
 hdkinohit.net
 hdpicture.ru
-hdrezka-online.ml
 hdrezka.cc
 hdrezka.movie
 hdrezka2.me
@@ -7505,6 +7504,7 @@ ru.leon142.com
 ru.leon145.com
 ru.leon151.com
 ru.leon152.com
+ru.leon154.com
 ru.leon155.com
 ru.leon159.com
 ru.leon2008.com
@@ -7623,6 +7623,7 @@ ru.leonllirks.com
 ru.leonmalta.com
 ru.leonmana.com
 ru.leonmassa.com
+ru.leonmaster.com
 ru.leonmaxsize.com
 ru.leonmcbet.com
 ru.leonmcc.com
@@ -8537,6 +8538,7 @@ vulcan-bit.lv
 vulcan-bit.name
 vulcan-bit.ru
 vulcan-cazino.com
+vulcan-club.org
 vulcan-zal.ru
 vulcancasino.io
 vulcanclubzz.com
