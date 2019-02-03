@@ -335,7 +335,6 @@
 1xcpg.xyz
 1xcwy.top
 1xdda.xyz
-1xdee.xyz
 1xdidr.space
 1xdqg.xyz
 1xeeg.xyz
@@ -2665,11 +2664,13 @@ bkwinline20.com
 bkwinline4.com
 bkwinline5.com
 bkwinline50.com
+bkwinline6.com
 bkwinline7.com
 bkwinline70.com
 bkwinline8.com
 bkwinline80.com
 bkwinline9.com
+bkwinline90.com
 bkwndbt11.com
 bkzenitsport.com
 bkzenitsport.info
@@ -3026,7 +3027,6 @@ celeritasrc.biz
 celeritasrc.ru
 cem24.biz
 centrspravki.ru
-certifier.info
 cf1337.olimp1960.top
 cf682a.olimp1960.top
 cf80b4f745d72e31c2.c2ef25.6c21b7e8561c55c684.xyz
@@ -3404,7 +3404,6 @@ dzagi.info
 dzhojkazino.com
 e-romania.info
 e-saglik.info
-e-u-c.ru
 e09a44.olimpcc44.top
 e0e9e4.olimp27fe.top
 e1f967.olimp58e7.top
@@ -3622,7 +3621,6 @@ fggree.info
 fgupmo.ru
 fidtor.info
 fifa-tickets.ru
-figueira.info
 filegiver.com
 fileqelshop.info
 files-x.rip
@@ -4105,7 +4103,6 @@ fortunazerkalos65.space
 forums.asmodus.com
 fototehnica.ru
 fototo.space
-fought.info
 frank-best.com
 frank-bet.com
 frank-new-slots.com
@@ -4149,7 +4146,6 @@ fukcspeed.biz
 fun4u.biz
 funbet.site
 funkvid.info
-funnyclub.info
 furat.info
 furseal.info
 futuramarket.ru
@@ -4465,7 +4461,6 @@ k1c9.tk
 k4k4.info
 k4qo.ml
 k9rc.biz
-kaar.info
 kaktuc24.biz
 kaluga.docvuz.org
 kamasutra74.ru
@@ -5316,7 +5311,6 @@ mayalice.ru
 mbanotes.info
 mc-mania.ru
 mdma-dealer.ru
-mease.info
 meb-tlt.ru
 mebel-sts.ru
 mechanicsrc.com
@@ -5750,10 +5744,12 @@ mobile.bkwinline17.com
 mobile.bkwinline18.com
 mobile.bkwinline20.com
 mobile.bkwinline50.com
+mobile.bkwinline6.com
 mobile.bkwinline70.com
 mobile.bkwinline8.com
 mobile.bkwinline80.com
 mobile.bkwinline9.com
+mobile.bkwinline90.com
 mobile.winline102.com
 mobile.winline103.com
 mobile.winline104.com
@@ -5863,7 +5859,6 @@ moksh.info
 molochnik-rc.biz
 molot24.biz
 molot24.co
-money-spin.info
 moneyarea.online
 moneyslotmachines.net
 monrank.ru
@@ -6161,6 +6156,7 @@ music.wottut.ru
 musics.video-streems.com
 mutki-24.com
 mutki24.biz
+mutkl24.biz
 muzgitara.ru
 muzika-onlain.ru
 muzmax.net
@@ -6255,6 +6251,7 @@ new.bkwinline20.com
 new.bkwinline50.com
 new.bkwinline70.com
 new.bkwinline80.com
+new.bkwinline90.com
 new.mirror.mirrorolimp.site
 new.mirror.mirrorolimp1.site
 new.mirror.mirrorolimp1.xyz
@@ -8218,7 +8215,6 @@ thekison.com
 themoviebay.ru
 therostov.club
 theshaz.info
-theswamp.info
 think-ans.info
 thor.bouwsoft.be
 three-axes.ru
@@ -8309,6 +8305,7 @@ tumen.dipgoodss.com
 tur-tour.com
 turetocr.info
 tushkan-net.club
+tushkan-net.ru
 tushkan.me
 tushkan2.me
 tushkan3.me
@@ -9299,6 +9296,7 @@ www.bkwinline20.com
 www.bkwinline50.com
 www.bkwinline70.com
 www.bkwinline80.com
+www.bkwinline90.com
 www.bo-tan.ru
 www.board.v.ua
 www.bonuskazino.su
