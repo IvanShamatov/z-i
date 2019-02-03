@@ -2172,6 +2172,7 @@ betcity-hagn.cf
 betcity-hkso.ml
 betcity-hkso.tk
 betcity-hxar.cf
+betcity-hxar.space
 betcity-iwud.ml
 betcity-iwud.tk
 betcity-izsn.cf
@@ -2303,7 +2304,9 @@ betsbc-oyij.tk
 betsbc-oyph.space
 betsbc-play.space
 betsbc-qkaf.cf
+betsbc-qkaf.space
 betsbc-qqcp.cf
+betsbc-qqcp.space
 betsbc-qtzi.cf
 betsbc-qtzi.space
 betsbc-quyz.cf
@@ -7504,6 +7507,7 @@ ru.leon142.com
 ru.leon145.com
 ru.leon151.com
 ru.leon152.com
+ru.leon154.com
 ru.leon155.com
 ru.leon159.com
 ru.leon2008.com
@@ -8213,6 +8217,7 @@ ten-casinoz.online
 teonanakatl.net
 terror.in.ua
 tesla72.biz
+test1.plusminus1.com
 test2.plusminus1.com
 test3.plusminus1.com
 tewiqybel.info
@@ -8619,6 +8624,7 @@ wap.betcity-fmvs.space
 wap.betcity-fzep.space
 wap.betcity-gska.space
 wap.betcity-guer.space
+wap.betcity-hxar.space
 wap.betcity-lcqw.space
 wap.betcity-mqnf.space
 wap.betcity-msrx.space
@@ -8647,6 +8653,7 @@ wap.betsbc-cjsq.space
 wap.betsbc-cvqd.space
 wap.betsbc-efut.space
 wap.betsbc-ehbb.space
+wap.betsbc-eifb.space
 wap.betsbc-fhqa.space
 wap.betsbc-fvoz.space
 wap.betsbc-gljz.space
@@ -9182,6 +9189,7 @@ www.betcity-fzep.tk
 www.betcity-gska.space
 www.betcity-guer.space
 www.betcity-hkso.tk
+www.betcity-hxar.space
 www.betcity-izsn.cf
 www.betcity-lcqw.space
 www.betcity-mqnf.space
@@ -9248,6 +9256,8 @@ www.betsbc-omfy.tk
 www.betsbc-outt.space
 www.betsbc-oyij.tk
 www.betsbc-oyph.space
+www.betsbc-qqcp.space
+www.betsbc-quyz.space
 www.betsbc-riur.space
 www.betsbc-riur.tk
 www.betsbc-sitj.tk
