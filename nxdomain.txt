@@ -488,7 +488,6 @@
 1xmvz.top
 1xnact.space
 1xnrb.xyz
-1xoan.xyz
 1xomobbph.xyz
 1xomobdut.xyz
 1xomobdve.xyz
@@ -4150,6 +4149,7 @@ g0ldwbmirr.com
 g3n1u5.info
 galaxy-rc.ru
 galaxyads.info
+gamedriver.net
 gamepk.info
 games.bkfon-sport.cf
 games.bkfonsports.com
@@ -8530,6 +8530,7 @@ vsverdlovsky.ru
 vtbcash.pro
 vtore.info
 vtore24.info
+vuku.pro
 vulcan-bit.cc
 vulcan-bit.cz
 vulcan-bit.lv
@@ -10661,3 +10662,4 @@ zv-fm.ru
 zvfm.su
 zvukovoronka.ru
 zz972.info
+z972.info
