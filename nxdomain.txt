@@ -240,6 +240,7 @@
 1x-405.online
 1x-438.online
 1x-440.online
+1x-461.online
 1x-470.online
 1x-471.online
 1x-504.online
@@ -256,15 +257,18 @@
 1x-711.online
 1x-715.online
 1x-738.online
+1x-757.online
 1x-769.online
 1x-796.online
 1x-810.online
 1x-839.online
+1x-854.online
 1x-860.online
 1x-877.online
 1x-935.online
 1x-962.online
 1x-966.online
+1x-996.online
 1x-all-sport.com
 1x-best-muzon.me
 1x-bet.club
@@ -3679,6 +3683,7 @@ fon-18.online
 fon-183.online
 fon-188.online
 fon-213.online
+fon-23.online
 fon-236.online
 fon-241.online
 fon-261.online
@@ -3694,12 +3699,14 @@ fon-389.online
 fon-422.online
 fon-425.online
 fon-428.online
+fon-431.online
 fon-433.online
 fon-436.online
 fon-47.online
 fon-483.online
 fon-491.online
 fon-517.online
+fon-531.online
 fon-532.online
 fon-537.online
 fon-541.online
@@ -3742,6 +3749,7 @@ fon-922.online
 fon-923.online
 fon-949.online
 fon-953.online
+fon-969.online
 fon-977.online
 fon-980.online
 fon-997.online
@@ -3924,6 +3932,7 @@ fonbet98.com
 fonbet98.vip
 fonbet99.vip
 fonbetabkru76.space
+fonbetaktualnaya44.space
 fonbetbk1.info
 fonbetbk1.website
 fonbetbk11.xyz
@@ -8404,6 +8413,7 @@ vashmedlist.ru
 vbetcity-ovww.tk
 vcemkino.ru
 vczxdm.pmptrainingnow.com
+vecherka.in.ua
 vegas-avtomati.su
 velcam5.casino
 velcam7.casino
@@ -10662,6 +10672,4 @@ zulza.ru
 zv-fm.ru
 zvfm.su
 zvukovoronka.ru
-zz972.info
-nka.ru
 zz972.info
