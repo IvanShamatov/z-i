@@ -2703,6 +2703,7 @@ bmxnews.info
 bo-tan.ru
 board.v.ua
 bobfilm.space
+bobfilm8.top
 bobfilmtv.net
 bobfilmy.ru
 bogi.info
@@ -6215,7 +6216,6 @@ myraaileen.ru
 myrc-store.net
 na-dom54.ru
 nadengplay.com
-naekrane.xyz
 nags.info
 nahodka.docvuz.org
 nakur-msk.ml
@@ -8230,6 +8230,8 @@ ten-casinoz.online
 teonanakatl.net
 terror.in.ua
 tesla72.biz
+test1.plusminus1.com
+test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
@@ -10683,4 +10685,6 @@ zulza.ru
 zv-fm.ru
 zvfm.su
 zvukovoronka.ru
+zz972.info
+u
 zz972.info
