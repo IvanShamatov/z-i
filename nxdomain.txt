@@ -270,6 +270,7 @@
 1x-935.online
 1x-962.online
 1x-966.online
+1x-989.online
 1x-996.online
 1x-all-sport.com
 1x-best-muzon.me
@@ -3694,6 +3695,7 @@ fon-261.online
 fon-262.online
 fon-286.online
 fon-310.online
+fon-312.online
 fon-326.online
 fon-330.online
 fon-334.online
@@ -3729,6 +3731,7 @@ fon-680.online
 fon-682.online
 fon-695.online
 fon-711.online
+fon-718.online
 fon-73.online
 fon-732.online
 fon-734.online
@@ -3743,6 +3746,7 @@ fon-814.online
 fon-818.online
 fon-828.online
 fon-829.online
+fon-836.online
 fon-837.online
 fon-852.online
 fon-857.online
@@ -7781,6 +7785,7 @@ russianbet.club
 russianbet.site
 russiancasinox.xyz
 russparty.org
+russtorrents.xyz
 rustorrents.life
 rustorrents.me
 rustorrents.su
