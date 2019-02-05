@@ -2450,6 +2450,7 @@ bk-fonbet84.ru
 bk-fonbet85.ru
 bk-fonbet86.ru
 bk-fonbet87.ru
+bk-fonbet89.ru
 bk-info104.online
 bk-info107.online
 bk-info108.online
@@ -5379,6 +5380,7 @@ medspravka-tula.ru
 medspravkainfo.top
 medspravki-59.ru
 medspravki-krasnodara.ru
+medspravki-spb.com
 medspravki-volgograda.ru
 medspravku-tolyatti.ru
 medspravky-saratov.ru
@@ -6140,13 +6142,19 @@ mostzsx.com
 mostzww.com
 movie-max.su
 movierating.info
+mp-01.directsmartroute.xyz
 mp-01.smartdirectroute.info
+mp-02.directsmartroute.xyz
 mp-02.smartdirectroute.co
 mp-02.smartdirectroute.info
+mp-03.directsmartroute.xyz
 mp-03.smartdirectroute.co
 mp-03.smartdirectroute.info
+mp-04.directsmartroute.xyz
 mp-04.smartdirectroute.info
+mp-05.directsmartroute.xyz
 mp-05.smartdirectroute.info
+mp-06.directsmartroute.xyz
 mp3-bit.net
 mp3-muzyka.com
 mp3-zaycev.su
@@ -8262,8 +8270,6 @@ ten-casinoz.online
 teonanakatl.net
 terror.in.ua
 tesla72.biz
-test1.plusminus1.com
-test2.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
@@ -10583,6 +10589,7 @@ zerkalo02.mirrorolimp1.online
 zerkalo101.space
 zerkalo102.ru
 zerkalo106.website
+zerkalo108.ru
 zerkalo151.xyz
 zerkalo152.xyz
 zerkalo154.xyz
