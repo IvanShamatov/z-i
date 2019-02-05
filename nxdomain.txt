@@ -360,6 +360,7 @@
 1xinfo5.ru
 1xinfo6.ru
 1xinfo7.ru
+1xinfo8.ru
 1xipwo.space
 1xirq.com
 1xiss.xyz
@@ -10723,10 +10724,6 @@ zport1x.com
 zrkalo.space
 zulza.ru
 zv-fm.ru
-zvfm.su
-zvukovoronka.ru
-zz972.info
--fm.ru
 zvfm.su
 zvukovoronka.ru
 zz972.info
