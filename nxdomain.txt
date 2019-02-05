@@ -1903,7 +1903,6 @@ barnaul.attestattutt.com
 barnaul.docvuz.org
 barwa.info
 baskino-go.ru
-baskino-net.ru
 baskino.co.ua
 baskino.movie
 baskino.tech
@@ -4656,7 +4655,6 @@ kinokrad.tech
 kinokrad.top
 kinokrada-net.ru
 kinokradyn.ru
-kinoleila.ru
 kinolive.pro
 kinomalina.net
 kinoman.xyz
@@ -10082,7 +10080,6 @@ www.xxx24.biz
 www.yabeda.org
 www.yakutsk.docvuz.org
 www.yourussian.net
-www.yourussian.ru
 www.zagonka.ru
 www.zamut-24.biz
 www.zamut.gr
@@ -10306,7 +10303,6 @@ yosisrael.info
 yosoyperu.info
 you-bonus.ru
 youinfo.info
-yourussian.ru
 youtube-com.club
 yralclad.biz
 ytlimenshop.info
