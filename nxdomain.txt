@@ -1675,6 +1675,7 @@ ap-02.accessfonbet.xyz
 ap-03.accessfonbet.xyz
 ap-04.accessfonbet.xyz
 ap-05.accessfonbet.xyz
+api.embedstorage.net
 apkluccy.info
 app.fimann.org
 app.loenbet.com
@@ -9751,6 +9752,7 @@ www.megamagnit.com
 www.megaonlines.net
 www.mirfilmov.net
 www.mix-rc.biz
+www.mix-rc.ru
 www.mix-stuff.ru
 www.mixpromo.net
 www.mklad24.biz
