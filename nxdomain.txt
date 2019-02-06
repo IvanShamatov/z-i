@@ -1634,7 +1634,6 @@ alkotime-66.org
 all.ssio.ru
 alldiploms.net
 alldiploms1.com
-alldnp.com
 alldocspb.com
 allgims-prava.com
 allhit.org
@@ -7769,6 +7768,7 @@ ru.leonmaster.com
 ru.leonmaxsize.com
 ru.leonmcbet.com
 ru.leonmcc.com
+ru.leonmessa.com
 ru.leonmond.com
 ru.leonnevada.com
 ru.leonnotes.com
@@ -10858,4 +10858,5 @@ zulza.ru
 zv-fm.ru
 zvfm.su
 zvukovoronka.ru
+zz972.info
 zz972.info
