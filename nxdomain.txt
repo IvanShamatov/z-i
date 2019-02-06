@@ -2741,7 +2741,6 @@ bloredops.info
 bludnitsy.ru
 blueorb.info
 blupower.eqmagpro.com
-bm3.drproxy.pro
 bmuzon.ru
 bmxnews.info
 bo-tan.ru
@@ -4625,7 +4624,6 @@ kinoant.com
 kinoassorti.ru
 kinobaron.ru
 kinoblok.com
-kinobomber.com
 kinobomz.tv
 kinoclips.net
 kinocube.com
@@ -5139,7 +5137,6 @@ luchshee-casino.com
 luchshie-bukmekery.space
 lucky-games.xyz
 luckybukmeker-pro.ru
-luckycasinodeluxe.com
 luckyeldo.com
 luckyeldo.net
 luckyflash.casino
@@ -5834,6 +5831,7 @@ mirtille.info
 mise8.info
 mix-box.info
 mix-rc.biz
+mix-rc.ru
 mix-stuff.ru
 mix.kladiskatel.ru
 mixmediadigital.com
@@ -5999,7 +5997,6 @@ moresat.info
 mos-apteka.org
 moscowlowan.ru
 mospravki.ru
-mostadi.com
 mostapx.com
 mostase.com
 mostasq.com
@@ -6041,7 +6038,6 @@ mostdco.com
 mostdey.com
 mostdis.com
 mostdit.com
-mostdri.com
 mostdto.com
 mostedc.com
 mosteft.com
@@ -6050,7 +6046,6 @@ mostewr.com
 mostfco.com
 mostfdp.com
 mostfed.com
-mostfir.com
 mostfmt.com
 mostfof.com
 mostfoj.com
@@ -6072,7 +6067,6 @@ mostgff.com
 mostghe.com
 mostgho.com
 mostghv.com
-mostgig.com
 mostgjo.com
 mostgnv.com
 mostgre.com
@@ -6084,13 +6078,11 @@ mosthji.com
 mosthok.com
 mosthol.com
 mosthon.com
-mosthqe.com
 mosthtd.com
 mosthte.com
 mosthtf.com
 mosthtr.com
 mostikm.com
-mostjar.com
 mostjex.com
 mostjez.com
 mostjij.com
@@ -6106,10 +6098,8 @@ mostkel.com
 mostkfo.com
 mostkgt.com
 mostkij.com
-mostkin.com
 mostkri.com
 mostkrt.com
-mostksi.com
 mostktx.com
 mostkuh.com
 mostlandingpart.com
@@ -6139,7 +6129,6 @@ mostnne.com
 mostnwh.com
 mostpem.com
 mostpetk.com
-mostpew.com
 mostpho.com
 mostpicbet.com
 mostpicpart.com
@@ -6175,13 +6164,11 @@ mostsha.com
 mostsmc.com
 mostsnd.com
 mostsns.com
-mostsol.com
 moststn.com
 mostsx.com
 mostter.com
 mosttgb.com
 mosttgy.com
-mosttic.com
 mosttn.com
 mosttne.com
 mosttol.com
@@ -6246,10 +6233,6 @@ mp3-bit.net
 mp3-muzyka.com
 mp3-zaycev.su
 mp3.open.az
-mp31.vmuzice.info
-mp32.vmuzice.info
-mp33.vmuzice.info
-mp34.vmuzice.info
 mp3bass.org
 mp3da.su
 mp3fon.kz
@@ -7108,7 +7091,6 @@ promostbet.ru
 promotionpens.ru
 propokerpro.bid
 propokerpro.win
-proposemusic.com
 proslushka-juchki.ru
 prostigirls.ru
 prostitutki-495.com
@@ -7528,7 +7510,6 @@ rmeventos2.com.br
 rmnp.info
 rnd-dostavka.ru
 robinstapleton.com
-rohollahzam.tawanaproxy.club
 rolix1.biz
 roscompozor.ru
 rossdiplomu.net
@@ -7846,23 +7827,19 @@ ru.swleonwork.com
 ru.swleonxmas.com
 ru.turkiston.info
 ru.vipleoncer.com
-ru.vmuzice.info
 ru.winline.info
 ru1.mp3-tut.biz
 ru1.primemusic.club
 ru1.rumuzfan.ru
-ru1.vmuzice.info
 ru10.mp3-tut.biz
 ru12.xmusic.name
 ru123.iplayer.info
 ru1x-24x7.pw
 ru2.mp3-tut.biz
 ru2.rumuzfan.ru
-ru2.vmuzice.info
 ru3.casinobra.me
 ru3.mp3-tut.biz
 ru3.rumuzfan.ru
-ru3.vmuzice.info
 ru4.casino.com
 ru4.mp3-tut.biz
 ru4.rumuzfan.ru
@@ -8147,6 +8124,7 @@ sol-spaice.ml
 sologirl.info
 sooj.info
 sopsport.org
+sortmed-spb.com
 south-tlv.info
 sovietcinema.ru
 sp-sk.ru
@@ -8325,7 +8303,6 @@ subscraibe.ru
 sun-seeds.club
 superbotanik.ru
 superbstuff.info
-supercluster-2.drproxy.pro
 superslots-casino.xyz
 superted24.biz
 supertooz.info
@@ -9573,6 +9550,7 @@ www.e-romania.info
 www.easypray.info
 www.ekibastos.ru
 www.el-od.ru
+www.emporio-armani.kopii.ru
 www.est4e24.biz
 www.eurogrand.info
 www.eurograndfx.com
