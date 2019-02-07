@@ -4746,7 +4746,6 @@ kinogohd.net
 kinogohd1080.net
 kinogohit.net
 kinogold.co
-kinogonet.net
 kinogong.me
 kinogosha.ru
 kinogot.org
@@ -7855,6 +7854,7 @@ ru.leoncyprus.com
 ru.leondama.com
 ru.leondarom.com
 ru.leondimi.com
+ru.leondostup.com
 ru.leonduo.com
 ru.leonevo.com
 ru.leonfifa.com
