@@ -4408,7 +4408,6 @@ grower.biz
 grower.live
 grower.one
 grower.work
-grower.world
 gsmphone.info
 gwindwetten.com
 gwt81.info
@@ -5108,6 +5107,7 @@ leonbets7a.ru
 leonbetsaff.xyz
 leonbetszerkalo.net
 leonbetszerkalo.ru
+leonstavki555.net
 leontop.info
 leonvhod.website
 leonzerkalo.ru
@@ -8491,9 +8491,6 @@ ten-casinoz.online
 teonanakatl.net
 terror.in.ua
 tesla72.biz
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
