@@ -3032,7 +3032,6 @@ casino-e.bet
 casino-e.online
 casino-fortuna.win
 casino-free.ru
-casino-joy.ru
 casino-of-ra.com
 casino-piramida.com
 casino-top.xyz
@@ -3059,6 +3058,7 @@ casinobra.su
 casinodoma.com
 casinoforum.cf
 casinoforum.pro
+casinogame.space
 casinojackpot.club
 casinomate.info
 casinome.info
@@ -4404,6 +4404,7 @@ gptclicks.info
 gradus25.com
 gramota.info
 grand24.net
+grandx.igroman.space
 grant24.biz
 greenbarrc.com
 greenp.biz
@@ -4500,6 +4501,7 @@ igrat-nadengi.com
 igrat-vulcan-online.ru
 igrinadengi.top
 igrissimo.com
+igroman.space
 igromaniac.com
 igrovie-avtomati-besplatno.net
 igrovie-avtomati-besplatno.ru
@@ -8874,6 +8876,8 @@ vulkan-casino2.com
 vulkan-clb.com
 vulkan-clb.net
 vulkan-online.org
+vulkan-premium.club
+vulkan-premium.win
 vulkan-skachat.com
 vulkan-slots-hall.com
 vulkan-slots1.com
