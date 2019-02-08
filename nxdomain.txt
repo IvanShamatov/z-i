@@ -3273,6 +3273,7 @@ delhost.info
 delivery-spb.pro
 demo-rc2.biz
 demotiw.ru
+dengi-avtomaty.com
 dentistus.info
 derevho.in.ua
 desedinjelik.info
@@ -5812,6 +5813,7 @@ mf-642.online
 mf-645.online
 mf-650.online
 mf-658.online
+mf-663.online
 mf-670.online
 mf-676.online
 mf-679.online
@@ -8505,6 +8507,9 @@ ten-casinoz.online
 teonanakatl.net
 terror.in.ua
 tesla72.biz
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
