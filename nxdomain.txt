@@ -7764,6 +7764,7 @@ ru.1playfortuna.com
 ru.24speed.ru
 ru.6playfortuna.com
 ru.adleonansi.com
+ru.adleonaplsingle.com
 ru.adleonaudi.com
 ru.adleonbeastes.com
 ru.adleonbeats.com
@@ -8542,6 +8543,7 @@ stf24.biz
 stilen.info
 stillporn.co
 stop-meter.ru
+stopotkat.net
 stoppult.ru
 stormo.world
 strahovkarussia.com
