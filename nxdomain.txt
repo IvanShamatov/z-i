@@ -3360,6 +3360,7 @@ diplom-attestat-kupite.com
 diplom-center.com
 diplom-chelyabinsk.com
 diplom-ekaterinburg.com
+diplom-kupi-tut.com
 diplom-kypit-cheljabinsk.ru
 diplom-kypit-irkutsk.ru
 diplom-kypit-kazan.ru
@@ -7281,7 +7282,6 @@ pro-mybukmeker-otzyvy-prosport.ru
 pro-mybukmeker-otzyvy.ru
 pro.krasintim.com
 pro100azart1.pw
-procasino24.ru
 prodadim-diplom.com
 prodam-spays.rus-program.ru
 prodazha-kanabisa.rus-program.ru
@@ -8619,8 +8619,6 @@ ten-casinoz.online
 teonanakatl.net
 terror.in.ua
 tesla72.biz
-test2.plusminus1.com
-test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
@@ -9818,6 +9816,7 @@ www.dip-rnd.ru
 www.diphepi.ru
 www.diplatte.xyz
 www.diplom-gosznak.ru
+www.diplom-kupi-tut.com
 www.diplom-kypit-omsk.ru
 www.diplom-kypit-podolsk.ru
 www.diplom-kypit-ufa.ru
