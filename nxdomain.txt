@@ -4455,6 +4455,7 @@ forums.asmodus.com
 fotoqraf.info
 fototehnica.ru
 fototo.space
+fpult.ru
 frank-best.com
 frank-bet.com
 frank-free.club
@@ -4981,7 +4982,6 @@ kinogo-net-hd.ru
 kinogo-net.club
 kinogo-one.ru
 kinogo-onlajn.net
-kinogo-online.com
 kinogo-online.tv
 kinogo-onlline.info
 kinogo-ru.net
@@ -10272,7 +10272,6 @@ www.kinoclips.net
 www.kinofestival.net
 www.kinogo-2016.net
 www.kinogo-net-co.ru
-www.kinogo-online.com
 www.kinogo-ru.net
 www.kinogou.ru
 www.kinogud.tv
