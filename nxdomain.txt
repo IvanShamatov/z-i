@@ -8233,7 +8233,6 @@ refpaufh.top
 refpaukk.top
 refpauru.top
 refpavfa.top
-refpavjc.top
 refpavrc.top
 refpavwv.top
 refpawjt.top
@@ -9193,6 +9192,7 @@ stuff-24.biz
 stuff.legal
 stuff24.net
 stuff24.online
+stuff24store.net
 stuffbesters.info
 stuffdark.xyz
 stuffergood.info
@@ -11022,6 +11022,7 @@ www.strahovkarussia.com
 www.striga-studio.ru
 www.stroykaattestat.com
 www.stroyudo.net
+www.stuff24store.net
 www.superbahis566.com
 www.superbahis589.com
 www.superbetin3.com
