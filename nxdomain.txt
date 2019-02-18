@@ -8765,6 +8765,7 @@ rutor-rus.info
 rutor-torrents.ru
 rutor-zerkalo.info
 rutor-zerkalo.ru
+rutor.tech
 rutor.vip
 rutor2.pl
 rutor3.info
@@ -8839,6 +8840,7 @@ seasonvar-seriali.ru
 secret-store24.biz
 secretstore.me
 secretstore24.biz
+seedbanda.site
 seedking.eu
 seedskanabis.pro
 seedskanabis.top
