@@ -5215,7 +5215,6 @@ kino-doma.net
 kino-go.org
 kino-hd1080.ru
 kino-hd720.info
-kino-live.xyz
 kino-max.cc
 kino-pravda.com
 kino-profi.org
@@ -6672,7 +6671,6 @@ mobile.winline221.com
 mobile.winline69.com
 mobile.winlinebet1.com
 mobilnoe-kazino.space
-mobkiss.ru
 mobnew.mirror.mirrorolimp.site
 mobnew.mirror.mirrorolimp1.site
 mobnew.mirror.mirrorolimp1.xyz
@@ -9315,6 +9313,8 @@ ten-casinoz.online
 teonanakatl.net
 terror.in.ua
 tesla72.biz
+test1.plusminus1.com
+test2.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
@@ -9572,6 +9572,7 @@ video-mir.com
 videoad.info
 videodb.online
 videogaga.info
+videosexy.info
 videozal.net
 vidtorg.ru
 viho.club
@@ -11175,6 +11176,7 @@ www.vashmedlist.ru
 www.vasyatv.com
 www.vcemkino.ru
 www.veterok.tv
+www.videosexy.info
 www.videoteka.online
 www.videozal.net
 www.vidtorg.ru
