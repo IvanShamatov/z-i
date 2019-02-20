@@ -4845,7 +4845,6 @@ games.bkfonsports.pro
 games.bkfonsports.xyz
 games.fon-sport.tk
 gamesadmiral.com
-gamesmoney.top
 gamevulkanz.com
 gamezcool.net
 gaminator-online.ro
@@ -8661,6 +8660,7 @@ ru.leon554.com
 ru.leon564.com
 ru.leon574.com
 ru.leon6015.com
+ru.leon622.com
 ru.leon632.com
 ru.leon651.com
 ru.leon74.com
@@ -8724,6 +8724,7 @@ ru.leonlima.com
 ru.leonlimited.com
 ru.leonlled.com
 ru.leonllirks.com
+ru.leonlxclb.com
 ru.leonmalta.com
 ru.leonmana.com
 ru.leonmassa.com
@@ -9166,6 +9167,7 @@ sologirl.info
 sooj.info
 sopsport.org
 sortmed-spb.com
+sosochechki.net
 south-tlv.info
 sovietcinema.ru
 sp-sk.ru
