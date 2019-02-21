@@ -871,6 +871,7 @@
 24btq.biz
 24chill.biz
 24chilli.ru
+24cook.net
 24daffy.com
 24dd24.biz
 24ddd.org
@@ -7610,6 +7611,7 @@ oneshop-24.biz
 onevulkan.com
 onlaincasino.info
 onlainfilmix.com
+onlainkazinoslots.com
 onlajnavtomaty.com
 online-alkogol.ru
 online-betting.space
@@ -8890,8 +8892,10 @@ ru.leonzoloto.com
 ru.mp3-tut.biz
 ru.pfslots.net
 ru.planetofbets.com
+ru.play-fortuna3.com
 ru.popularseeds.com
 ru.swleon555.com
+ru.swleon612.com
 ru.swleon622.com
 ru.swleon645.com
 ru.swleon95.com
@@ -8962,7 +8966,6 @@ rus-media-org.info
 rus-program.ru
 rus-redclub.com
 rus-rutor.info
-rus-torrents.xyz
 rus-torrentss.xyz
 rus-torrentsss.xyz
 rus.cybbet.com
