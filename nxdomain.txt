@@ -2055,6 +2055,7 @@ b0449b27dc98caa7ba.c2ef25.a2341e99d0a2f2982f.xyz
 b086dd.olimp876c.site
 b13eed.olimp16e5.top
 b1fecf.olimp876c.site
+b22928.olimp656f.top
 b24827.olimp9cf3.top
 b26c7f.olimp58e8.top
 b2f150.olimp58e7.top
@@ -8907,6 +8908,7 @@ ru.pfslots.net
 ru.planetofbets.com
 ru.play-fortuna1.com
 ru.play-fortuna3.com
+ru.play-fortuna4.com
 ru.play-fortuna7.com
 ru.play-fortuna78j.com
 ru.play-fortuna9.com
@@ -12300,6 +12302,4 @@ zumm.info
 zv-fm.ru
 zvfm.su
 zvukovoronka.ru
-zz972.info
-ru
 zz972.info
