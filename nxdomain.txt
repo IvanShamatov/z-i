@@ -6265,6 +6265,7 @@ media-tracker.info
 mediarot-newyear.win
 medicalstart.biz
 medicinskie-spravki.online
+medik.moscow
 medizinskaja-spravka.com
 medkniga-70.ru
 medknigi-irkutsk.ru
