@@ -3786,7 +3786,6 @@ diplomaz.net
 diplomchelyabinsk.com
 diplomi-74.com
 diplomi-documenty.com
-diplomi-onlin.com
 diplomi-perm.com
 diplomi63.com
 diplomiatestat.com
@@ -6639,6 +6638,7 @@ millionb10.com
 millionb2.com
 millionb3.com
 millionb4.com
+millionb5.com
 millionb6.com
 millionb7.com
 millionb8.com
@@ -8902,6 +8902,7 @@ ru.pfslots.net
 ru.planetofbets.com
 ru.play-fortuna1.com
 ru.play-fortuna3.com
+ru.play-fortuna7.com
 ru.play-fortuna78j.com
 ru.play-fortuna9.com
 ru.play-fortuna96j.com
@@ -10841,7 +10842,6 @@ www.diploma-msk.com
 www.diplomas-moscow.ru
 www.diplomas-perm.com
 www.diplomi-documenty.com
-www.diplomi-onlin.com
 www.diplomivuzov.com
 www.diplomnovosib.com
 www.diploms-chita.com
