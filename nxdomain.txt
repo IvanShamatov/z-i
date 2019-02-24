@@ -7307,7 +7307,6 @@ nanni24rc.biz
 nany24rc.biz
 naottech.info
 narc24.biz
-narco-24.pro
 narco-akademy.biz
 narco-kz.biz
 narco24.net
@@ -9695,6 +9694,9 @@ teonanakatl.net
 teonanakatl.pro
 terror.in.ua
 tesla72.biz
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
@@ -9822,7 +9824,9 @@ tushkan-net.ru
 tushkan.eu
 tushkan.me
 tushkan2.me
+tushkan22.me
 tushkan3.me
+tushkan31.me
 tushkan4.me
 tushkan5.me
 tushkan6.me
@@ -11212,6 +11216,7 @@ www.lis31.xyz
 www.lis32.xyz
 www.lis33.xyz
 www.lisaortiz.info
+www.listock-tunnel.ga
 www.lithub.ru
 www.little-models.top
 www.livefilm.info
