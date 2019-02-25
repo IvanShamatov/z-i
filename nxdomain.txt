@@ -2980,6 +2980,7 @@ bk-info94.online
 bk-info95.online
 bk-info96.online
 bk-klub.info
+bk-leon-vxod.space
 bk-leon-zerkalo.ru
 bk-marafon-novyj.info
 bk-marafon-zerkalo.info
@@ -9698,7 +9699,6 @@ teonanakatl.net
 teonanakatl.pro
 terror.in.ua
 tesla72.biz
-test2.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
@@ -10497,6 +10497,7 @@ wwt.mp3-tut.biz
 wwu.mp3-tut.biz
 www-bobr24.biz
 www-sk24.biz
+www.02rc.biz
 www.095u-sprav.ru
 www.095u-spravka.ru
 www.095u.biz
