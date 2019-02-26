@@ -2229,6 +2229,7 @@ barnaul.docvuz.org
 bart-rc.biz
 barwa.info
 basein-spravka.ru
+bashiri.info
 baskino-go.ru
 baskino.bz
 baskino.co.ua
@@ -7891,6 +7892,7 @@ parimatch-lox.win
 parimatch-pidar.win
 parimatch-ublyudok.win
 parimatch.cf
+parimatch.ga
 parimatchsports8.com
 parimatchzerkalo1.space
 parizerkalo2.space
@@ -12127,6 +12129,7 @@ zamut.gr
 zamut24.biz
 zamutka-24.biz
 zamutka24.biz
+zapo.info
 zarutor.ru
 zaspravkou.ru
 zatrasie.info
