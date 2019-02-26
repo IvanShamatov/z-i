@@ -1015,6 +1015,7 @@
 2oh.info
 2ol.info
 2qu.info
+2qualify.info
 2redping.win
 2ri.info
 2utenka.ru
