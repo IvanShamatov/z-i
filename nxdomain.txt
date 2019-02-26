@@ -6332,6 +6332,7 @@ market-ganj.ml
 market-rc.biz
 market420.ru
 marketia.info
+markizaspb.info
 marlysestuff.info
 mart31.ru
 martinrc.biz
@@ -9278,7 +9279,6 @@ samaranb.com
 samaratrud.info
 sample.vr-nn.ru
 sampro.info
-sanbook.info
 sarat-v.biz
 saratov-medspravki.ru
 saratov.docvuz.org
@@ -10183,6 +10183,7 @@ vsverdlovsky.ru
 vtbcash.pro
 vtore.info
 vtore24.info
+vu1kanstars.site
 vuku.pro
 vulcan-bit.cc
 vulcan-bit.cz
@@ -11519,7 +11520,6 @@ www.rustrek.ru
 www.rutor.bz
 www.rutor.su
 www.samara---individualki.com
-www.sanbook.info
 www.santegra-spb.com
 www.saving-music.ru
 www.sbo2008.com
