@@ -7298,6 +7298,7 @@ mp-01.fbmetrix-2e38e.com
 mp-01.fbmetrix-41f8b.com
 mp-01.fbmetrix-7f8cc.com
 mp-01.fbmetrix-b8229.com
+mp-01.fbmetrix-d083e.com
 mp-02.directsmartroute.xyz
 mp-02.smartdirectroute.co
 mp-03.directsmartroute.xyz
@@ -10196,6 +10197,7 @@ vps2.helpmego.to
 vps7.timcuk.com
 vredy.biz
 vrn.sexoholic.ru
+vs-cash.biz
 vse-bk.ru
 vse-med-spravki.ru
 vsem-doki-plus.biz
