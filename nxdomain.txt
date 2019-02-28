@@ -1482,7 +1482,6 @@
 7mirfonbet.ru
 7rc.biz
 7rc.org
-7tor.mytorr.icu
 802560.olimp656f.top
 805025.olimp786f.top
 80cea1.olimp9cf3.top
@@ -1954,6 +1953,7 @@ ap-01.accessfonbet-58e6c.com
 ap-01.accessfonbet-710c6.com
 ap-01.accessfonbet-74b9a.com
 ap-01.accessfonbet-7e13e.com
+ap-01.accessfonbet-c1ded.com
 ap-01.accessfonbet-d1ef0.com
 ap-01.accessfonbet-f499b.com
 ap-01.accessfonbet.xyz
@@ -2939,6 +2939,7 @@ bk-fonbet98.ru
 bk-fonbet99.ru
 bk-fonbets.ru
 bk-fonbets1.ru
+bk-fonbets2.ru
 bk-info104.online
 bk-info107.online
 bk-info108.online
@@ -9280,7 +9281,6 @@ rutor-torrents.ru
 rutor-zerkalo.info
 rutor-zerkalo.ru
 rutor.bz
-rutor.mytorr.icu
 rutor.tech
 rutor.vip
 rutor2.pl
