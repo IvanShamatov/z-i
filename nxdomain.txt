@@ -1582,7 +1582,6 @@
 8fonbets.xyz
 8mfc.cf
 8torrent.net
-8tvmedia.com
 8v5r11.rollingscan.biz
 8v5r20.rollingscan.biz
 8v5r7.rollingscan.biz
@@ -2266,6 +2265,7 @@ baskino.movie
 baskino.tech
 baskino.tv
 baskinoclub.ru
+baskinos.ru
 baza-gibdd.info
 bb-777.biz
 bb7c9a.olimpd9f7.top
@@ -6381,6 +6381,7 @@ maintracker.xyz
 maisonv2.info
 maksbetslots.net
 malica.info
+mama24rc.net
 manager2.ru
 mandelshtam125.ru
 mar-ker.ru
@@ -9865,9 +9866,6 @@ teonanakatl.net
 teonanakatl.pro
 terror.in.ua
 tesla72.biz
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
@@ -11580,6 +11578,7 @@ www.pornotop.tv
 www.poysam.com
 www.prava-car.com
 www.prava-help.ru
+www.prava-vod.info
 www.prava-white.com
 www.privatrc.com
 www.pro-diplomis.com
