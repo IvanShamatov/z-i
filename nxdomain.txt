@@ -7930,7 +7930,6 @@ openrus.me
 openrus.online
 openrus.today
 openrussia.life
-openrussia.online
 openrussia.technology
 openrussia.today
 openrussia.work
@@ -10034,7 +10033,6 @@ ufadiploms1.com
 ufarasta.world
 uffuff.me
 uffuff.net
-ugar.su
 ugbz1.ru
 ugenashop.info
 uggirus.ru
@@ -10691,6 +10689,7 @@ wwr.mp3-tut.biz
 wws.mp3-tut.biz
 wwt.mp3-tut.biz
 wwu.mp3-tut.biz
+wwv.musicz.ws
 www-bobr24.biz
 www-sk24.biz
 www.02rc.biz
