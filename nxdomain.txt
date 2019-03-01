@@ -9256,6 +9256,7 @@ ru.play-fortuna4.com
 ru.play-fortuna67k.com
 ru.play-fortuna7.com
 ru.play-fortuna78j.com
+ru.play-fortuna8.com
 ru.play-fortuna9.com
 ru.play-fortuna96j.com
 ru.play-fortuna97h.com
