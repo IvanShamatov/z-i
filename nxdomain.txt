@@ -2287,6 +2287,7 @@ baskino.movie
 baskino.tech
 baskino.tv
 baskinoclub.ru
+baskinos.ru
 baskkino.ru
 basskino.net
 baza-gibdd.info
@@ -7530,6 +7531,7 @@ netentfrank.com
 neudecker.info
 nevolino.ru
 new-baskino.club
+new-baskino.ru
 new-baskino.site
 new-bobfilm.club
 new-bobfilm.net
@@ -7540,6 +7542,7 @@ new-games-only.com
 new-gidonline.ru
 new-hdrezka.site
 new-hdrezka.su
+new-ivi.ru
 new-kinogo.net
 new-kinogo.org
 new-kinogogo.ru
@@ -9949,6 +9952,9 @@ teonanakatl.net
 teonanakatl.pro
 terror.in.ua
 tesla72.biz
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
