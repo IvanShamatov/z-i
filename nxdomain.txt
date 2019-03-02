@@ -5605,7 +5605,9 @@ kazino-live.win
 kazino-onlain.co
 kazino-onlain.org
 kazino-platinum.club
+kazino-rable.win
 kazino-renev.win
+kazino-seem.win
 kazino-vulkan1.com
 kazino-xxxxx.space
 kazino.name
@@ -9030,6 +9032,8 @@ ru.casino-mate.com
 ru.cybbet.com
 ru.fortuna-slots3f1.com
 ru.fortuna-slots5e.com
+ru.fortuna-slots5t.com
+ru.fortuna-slots6es.com
 ru.fortuna-slots8w.com
 ru.fortuna-slots9w.com
 ru.fortuna-slots9y.com
@@ -9290,6 +9294,9 @@ ru.leonwool.com
 ru.leonyourbk.com
 ru.leonzoloto.com
 ru.mp3-tut.biz
+ru.pf-slots.com
+ru.pfslot1.com
+ru.pfslot2.com
 ru.pfslots.net
 ru.planetofbets.com
 ru.play-fortuna1.com
@@ -9304,7 +9311,15 @@ ru.play-fortuna8.com
 ru.play-fortuna9.com
 ru.play-fortuna96j.com
 ru.play-fortuna97h.com
+ru.play-fortunao6.com
+ru.play-fortunas6.com
+ru.playfortuna1.com
 ru.playfortuna43e.com
+ru.playfortuna4r.com
+ru.playfortuna5y.com
+ru.playfortuna7.com
+ru.playfortuna8.com
+ru.playfortuna9.com
 ru.playfortunaer4.com
 ru.playfortunah5d.com
 ru.playfortunaj65.com
@@ -9996,7 +10011,9 @@ teonanakatl.net
 teonanakatl.pro
 terror.in.ua
 tesla72.biz
+test1.plusminus1.com
 test2.plusminus1.com
+test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
