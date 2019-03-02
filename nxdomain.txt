@@ -5769,6 +5769,7 @@ kinosklad-anime.ru
 kinosklad-kino.ru
 kinosklad-live.ru
 kinosklad-online.ru
+kinosklad-serialy.ru
 kinosklad-uzhasy.ru
 kinosklad.info
 kinosklad.website
@@ -7438,6 +7439,7 @@ mta20.securemx.com.au
 mta9.denticulately.com
 mtftt.info
 mtorrentportal.ru
+mtp1.shadowsocks.wtf
 muczyk.info
 mudrias.cc
 mudvayne1.ru
