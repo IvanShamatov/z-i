@@ -6283,7 +6283,6 @@ m.bbsport.club
 m.bbsport.xyz
 m.bbsports.club
 m.bbsports.life
-m.bbsports.live
 m.bbsports.online
 m.bbsports.pro
 m.bbsports.site
@@ -7573,7 +7572,6 @@ new-diplom.com
 new-games-only.com
 new-gidonline.ru
 new-hdrezka.site
-new-hdrezka.su
 new-ivi.ru
 new-kinogo.net
 new-kinogo.org
@@ -8133,7 +8131,6 @@ pda.bbsport.club
 pda.bbsport.xyz
 pda.bbsports.club
 pda.bbsports.life
-pda.bbsports.live
 pda.bbsports.online
 pda.bbsports.pro
 pda.bbsports.site
@@ -10006,7 +10003,6 @@ teonanakatl.pro
 terror.in.ua
 tesla72.biz
 test1.plusminus1.com
-test2.plusminus1.com
 test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
@@ -11141,7 +11137,6 @@ www.bbsport.club
 www.bbsport.xyz
 www.bbsports.club
 www.bbsports.life
-www.bbsports.live
 www.bbsports.online
 www.bbsports.pro
 www.bbsports.site
