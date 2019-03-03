@@ -122,6 +122,7 @@
 100dip.ru
 100diplomas.com
 100diplomov.com
+100kazino.online
 100medspravok.biz
 101medspravka.com
 101slot.co
@@ -3357,7 +3358,6 @@ bookmeker-bk.website
 bookofra.ru
 books-reader.ru
 booksky.info
-boosttorrent.com
 borat24.biz
 borsa-store.ru
 bosbig.biz
@@ -5358,7 +5358,9 @@ hdrezka.info
 hdrezka.movie
 hdrezka.pro
 hdrezke.net
+hdrezkka.ru
 hdsportz.info
+hdvd.tv
 hdzal.net
 headsoft.kz
 heaven-24.biz
@@ -10951,6 +10953,7 @@ wwt.mp3-tut.biz
 wwu.mp3-tut.biz
 wwv.musicz.ws
 www-bobr24.biz
+www-mf24.biz
 www-sk24.biz
 www.025diploms.com
 www.02rc.biz
