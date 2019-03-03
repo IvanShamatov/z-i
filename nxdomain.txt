@@ -3999,6 +3999,7 @@ diplomas-moscow.ru
 diplomas-perm.com
 diplomas-perm.ru
 diplomas-surgut.com
+diplomas-surgut.ru
 diplomaz.info
 diplomaz.net
 diplomchelyabinsk.com
@@ -12693,7 +12694,6 @@ zerkalo-fon-bet.xyz
 zerkalo-fonbet124.ru
 zerkalo-fonbet125.ru
 zerkalo-fonbet126.ru
-zerkalo-fonbet127.ru
 zerkalo-leonbets.xyz
 zerkalo-marathonbet.xyz
 zerkalo-match80.ru
