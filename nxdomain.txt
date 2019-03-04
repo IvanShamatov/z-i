@@ -8185,6 +8185,7 @@ pandacor.biz
 pandacorp24.biz
 papaseeds.org
 parda.info
+parimatch-adres.win
 parimatch-com.space
 parimatch-lox.win
 parimatch-pidar.win
@@ -9540,7 +9541,6 @@ rus-media-org.info
 rus-program.ru
 rus-redclub.com
 rus-rutor.info
-rus-torrentss.xyz
 rus-torrentsss.xyz
 rus.cybbet.com
 rus.pokersavvyplayers.net
@@ -9570,6 +9570,7 @@ rutmlx.cc
 rutor-24.info
 rutor-biz.info
 rutor-in.info
+rutor-info.org
 rutor-info.org.ru
 rutor-msk.info
 rutor-net.info
