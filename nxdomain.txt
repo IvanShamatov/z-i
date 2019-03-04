@@ -4206,7 +4206,6 @@ dynolegal.biz
 dzagi.info
 dzhojkazino.com
 e-romania.info
-e-saglik.info
 e-u-c.ru
 e.kannabiz.name
 e09a44.olimpcc44.top
@@ -7319,6 +7318,7 @@ mostdco.com
 mostdey.com
 mostdis.com
 mostdit.com
+mostdlc.com
 mostdto.com
 mosteft.com
 mosterq.com
@@ -7390,6 +7390,7 @@ mostmbq.com
 mostmgv.com
 mostmnq.com
 mostmou.com
+mostmsg.com
 mostmtf.com
 mostmyt.com
 mostnef.com
@@ -9725,6 +9726,7 @@ sexpoputchik.ru
 sexprostitutki.ru
 sexryazan.net
 sexsib22.com
+sexsib70.com
 sexvgorode.su
 sexvid.biz
 sexvip.info
@@ -10152,7 +10154,9 @@ teonanakatl.net
 teonanakatl.pro
 terror.in.ua
 tesla72.biz
+test1.plusminus1.com
 test2.plusminus1.com
+test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
@@ -12858,6 +12862,7 @@ zerkalo-mostbet.ru
 zerkalo-obhod.website
 zerkalo-off.website
 zerkalo-parimatch.xyz
+zerkaltch.xyz
 zerkalo-rabochee.space
 zerkalo-rabotayushhee.info
 zerkalo-rutor.su
