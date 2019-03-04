@@ -5682,6 +5682,7 @@ kazino-onlain.co
 kazino-onlain.org
 kazino-platinum.club
 kazino-rable.win
+kazino-rarib.win
 kazino-renev.win
 kazino-seem.win
 kazino-sevastopol.win
@@ -7520,7 +7521,6 @@ mta20.securemx.com.au
 mta9.denticulately.com
 mtftt.info
 mtorrentportal.ru
-mtp1.shadowsocks.wtf
 muczyk.info
 mudrias.cc
 mudvayne1.ru
@@ -13049,10 +13049,6 @@ zrkalo.space
 zulza.ru
 zumm.info
 zv-fm.ru
-zvfm.su
-zvukovoronka.ru
-zz972.info
--fm.ru
 zvfm.su
 zvukovoronka.ru
 zz972.info
