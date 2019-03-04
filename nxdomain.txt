@@ -4342,6 +4342,7 @@ eshka-shop.ru
 est-4e.biz
 est4e24.biz
 etd9.info
+eu-music.info
 eurobet.club
 eurodosug.site
 europa37.biz
@@ -6017,7 +6018,6 @@ kyznec.biz
 l1uxury039.com
 laeateria.info
 laineshop.biz
-lalastars.to
 lalko.ru
 latestcasinobonuses.club
 launderettesigns.com
@@ -10131,8 +10131,6 @@ teonanakatl.net
 teonanakatl.pro
 terror.in.ua
 tesla72.biz
-test1.plusminus1.com
-test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
@@ -13051,6 +13049,10 @@ zrkalo.space
 zulza.ru
 zumm.info
 zv-fm.ru
+zvfm.su
+zvukovoronka.ru
+zz972.info
+-fm.ru
 zvfm.su
 zvukovoronka.ru
 zz972.info
