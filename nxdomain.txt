@@ -2732,7 +2732,6 @@ bets.bkfonbet.club
 bets.bkfonsports.com
 bets.bkfonsports.pro
 bets.bkfonsports.xyz
-bets.fon-sportsbet.com
 bets38.ru
 betsbc-24.top
 betsbc-adep.space
@@ -3198,10 +3197,12 @@ bkfoontt.space
 bkgumfon.space
 bki100.xyz
 bki123.xyz
+bki228.xyz
 bki232.xyz
 bki301.xyz
 bki444.xyz
 bki456.xyz
+bki475.xyz
 bki696.xyz
 bki777.xyz
 bkinfo103.xyz
