@@ -5841,7 +5841,6 @@ kinoguru.ml
 kinoguru.tv
 kinogut.tv
 kinogyd.tv
-kinohaip.online
 kinohd.pp.ua
 kinohino.com
 kinohit1.ru
@@ -6277,6 +6276,7 @@ lipetsk-intim.info
 lipetsk.prostitutki-sex.com
 lipetsk.prostitutkisex.net
 lirepa.ru
+lis10.xyz
 lis28.xyz
 lis30.xyz
 lis31.xyz
@@ -8178,7 +8178,6 @@ openru.me
 openru.online
 openru.today
 openru.work
-openru.xyz
 openrus.club
 openrus.info
 openrus.live
