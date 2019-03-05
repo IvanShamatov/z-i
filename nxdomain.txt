@@ -2542,7 +2542,6 @@ beavis.good-rc.com
 bee338.olimp1897.top
 beleviastuff.info
 belgorod.attestattutt.com
-belgorod.prava-garant.space
 belimobil.info
 belolashop.info
 bengaltube.com
@@ -3946,6 +3945,7 @@ dark-kino.net
 dark-net.biz
 dark.kino.pub
 darkiller.info
+daytidevka.ru
 dbb9f2.olimp31d2.top
 dbbbe5.olimp1a50.top
 dc0a1d.olimp27fe.top
@@ -5332,6 +5332,7 @@ goldbukmeker3.ru
 goldenshara.net
 goldenstarcasino.ru
 goldfishka-45com.win
+goldfishka-vegas.win
 goldfishka.games
 goldfishka100.net
 goldfishka2018.space
@@ -9061,7 +9062,6 @@ resheba.ru
 resident69.reisen
 resim.trendkonular.com
 respin.ru
-respublika-bashkortostan.prava-garant.space
 retiren24.info
 rf-docss.ru
 rf-pasport.com
@@ -9643,6 +9643,7 @@ rutracker7.org
 rutrah.tv
 rutreker-2018.org
 ruttorg.info
+ruza-stat.ru
 rv9x.cf
 rx-shops.info
 ryazan-intim.info
@@ -9815,6 +9816,7 @@ shop-diplom1.com
 shop-diploms.com
 shop-kazino.win
 shop.r-n-d.top
+shopkaravan.ru
 si-shop.ru
 sibdiplom.com
 sibdivo.su
@@ -13130,6 +13132,10 @@ zrkalo.space
 zulza.ru
 zumm.info
 zv-fm.ru
+zvfm.su
+zvukovoronka.ru
+zz972.info
+-fm.ru
 zvfm.su
 zvukovoronka.ru
 zz972.info
