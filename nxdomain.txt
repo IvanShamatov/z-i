@@ -5954,6 +5954,7 @@ kinoo-net.ru
 kinook.tv
 kinoparking.net
 kinopchel.biz
+kinoplus.net
 kinoprofi-net.xyz
 kinoprofi-tv.org
 kinoprofi.mobi
@@ -9332,7 +9333,6 @@ rovnaya.com
 royaldrugs.ru
 royalrc.es
 roywoodjr.info
-rs-torrent.net
 rsskino.ru
 rtt2.xyz
 rtt3.xyz
@@ -9804,7 +9804,6 @@ rufilmix.ru
 ruheight.org
 ruletka.top
 ruletku.net
-rumanda.com
 rumarijuana.net
 runjoy-24.biz
 runuatika.vienn-info.ru
@@ -12360,11 +12359,9 @@ www.rivalo109.com
 www.rivalo110.com
 www.rivalo111.com
 www.rnd-dpl.ru
-www.rs-torrent.net
 www.ru-passport.com
 www.rufilm.tv
 www.ruletkasistemy.com
-www.rumanda.com
 www.rus-rutor.info
 www.ruscup.info
 www.ruseventer.ru
@@ -13454,4 +13451,6 @@ zumm.info
 zv-fm.ru
 zvfm.su
 zvukovoronka.ru
+zz972.info
+voronka.ru
 zz972.info
