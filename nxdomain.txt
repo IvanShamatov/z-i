@@ -1748,6 +1748,7 @@ access.balt2018.com
 access.baltbet2017.club
 access.baltbet2017.info
 access.baltbet2018.club
+access.baltbet2018.info
 access.baltbet7.club
 access.baltbet7.co
 access.baltbet7.info
@@ -1755,6 +1756,7 @@ access.baltbetgame.co
 access.baltbetgame.info
 access.baltgame.com
 access.baltgame2018.com
+access.baltgame2018.info
 access.baltgame2018.online
 access.baltgame2018.xyz
 access.baltgame7.club
@@ -1797,6 +1799,7 @@ access.bbplay2017.tech
 access.bbplay2017.today
 access.bbplay2017.xyz
 access.bbplay2018.club
+access.bbplay2018.info
 access.bbplay2018.online
 access.bbsport.club
 access.bbsport.xyz
@@ -2267,6 +2270,7 @@ baltbet.xyz
 baltbet2017.club
 baltbet2017.info
 baltbet2018.club
+baltbet2018.info
 baltbet2018.online
 baltbet2018.today
 baltbet2018.xyz
@@ -2286,6 +2290,7 @@ baltbetgames.pro
 baltgame.com
 baltgame2018.club
 baltgame2018.com
+baltgame2018.info
 baltgame2018.online
 baltgame2018.xyz
 baltgame24.club
@@ -2298,6 +2303,7 @@ baltgames.club
 baltgames.pro
 baltgames2018.club
 baltgames2018.com
+baltgames2018.info
 baltgames2018.online
 baltgames2018.xyz
 baltgames24.club
@@ -2374,11 +2380,13 @@ bbplay2017.tech
 bbplay2017.today
 bbplay2017.xyz
 bbplay2018.club
+bbplay2018.info
 bbplay2018.online
 bbsport.club
 bbsport.xyz
 bbsport2018.club
 bbsport2018.com
+bbsport2018.info
 bbsport2018.xyz
 bbsports.club
 bbsports.life
@@ -4779,6 +4787,7 @@ fonbet-bk-vhod.win
 fonbet-bk-zerkalo.xyz
 fonbet-bk.xyz
 fonbet-bookmaker.space
+fonbet-cvt5412.ru
 fonbet-d3659.tk
 fonbet-dd6f2.tk
 fonbet-favorit43.space
@@ -5403,6 +5412,7 @@ goiden-orda.biz
 gojacor.info
 gojebinelin.info
 gokershop.biz
+gold-vulkan.com
 gold38.biz
 goldazart.com
 goldbukmeker3.ru
@@ -5914,6 +5924,7 @@ kinogohd1080.net
 kinogohit.net
 kinogold.co
 kinogong.me
+kinogoohd.ru
 kinogosha.ru
 kinogot.org
 kinogot.tv
@@ -6457,6 +6468,7 @@ m.baltbet.xyz
 m.baltbet2017.club
 m.baltbet2017.info
 m.baltbet2018.club
+m.baltbet2018.info
 m.baltbet2018.online
 m.baltbet2018.today
 m.baltbet2018.xyz
@@ -6468,6 +6480,7 @@ m.baltbetgame.info
 m.baltgame.com
 m.baltgame2018.club
 m.baltgame2018.com
+m.baltgame2018.info
 m.baltgame2018.online
 m.baltgame2018.xyz
 m.baltgame7.club
@@ -6475,6 +6488,7 @@ m.baltgame7.info
 m.baltgame7.today
 m.baltgames2018.club
 m.baltgames2018.com
+m.baltgames2018.info
 m.baltgames2018.online
 m.baltgames2018.xyz
 m.baltgames24.club
@@ -6513,11 +6527,13 @@ m.bbplay2017.tech
 m.bbplay2017.today
 m.bbplay2017.xyz
 m.bbplay2018.club
+m.bbplay2018.info
 m.bbplay2018.online
 m.bbsport.club
 m.bbsport.xyz
 m.bbsport2018.club
 m.bbsport2018.com
+m.bbsport2018.info
 m.bbsport2018.xyz
 m.bbsports.club
 m.bbsports.life
@@ -8460,6 +8476,7 @@ pda.baltgame7.club
 pda.baltgame7.info
 pda.baltgame7.today
 pda.baltgames2018.club
+pda.baltgames2018.info
 pda.baltgames2018.xyz
 pda.baltgames24.life
 pda.baltgames24.live
@@ -8493,10 +8510,12 @@ pda.bbplay2017.tech
 pda.bbplay2017.today
 pda.bbplay2017.xyz
 pda.bbplay2018.club
+pda.bbplay2018.info
 pda.bbplay2018.online
 pda.bbsport.club
 pda.bbsport.xyz
 pda.bbsport2018.com
+pda.bbsport2018.info
 pda.bbsports.club
 pda.bbsports.life
 pda.bbsports.online
@@ -11578,6 +11597,7 @@ www.baltbet.xyz
 www.baltbet2017.club
 www.baltbet2017.info
 www.baltbet2018.club
+www.baltbet2018.info
 www.baltbet2018.online
 www.baltbet2018.today
 www.baltbet2018.xyz
@@ -11589,6 +11609,7 @@ www.baltbetgame.info
 www.baltgame.com
 www.baltgame2018.club
 www.baltgame2018.com
+www.baltgame2018.info
 www.baltgame2018.online
 www.baltgame2018.xyz
 www.baltgame7.club
@@ -11596,6 +11617,7 @@ www.baltgame7.info
 www.baltgame7.today
 www.baltgames2018.club
 www.baltgames2018.com
+www.baltgames2018.info
 www.baltgames2018.online
 www.baltgames2018.xyz
 www.baltgames24.club
@@ -11641,11 +11663,13 @@ www.bbplay2017.tech
 www.bbplay2017.today
 www.bbplay2017.xyz
 www.bbplay2018.club
+www.bbplay2018.info
 www.bbplay2018.online
 www.bbsport.club
 www.bbsport.xyz
 www.bbsport2018.club
 www.bbsport2018.com
+www.bbsport2018.info
 www.bbsport2018.xyz
 www.bbsports.club
 www.bbsports.life
@@ -11655,6 +11679,7 @@ www.bbsports.site
 www.bbsports.today
 www.bbsports.xyz
 www.bbsports2018.club
+www.bbsports2018.info
 www.bbsports2018.online
 www.bbsports2018.xyz
 www.bekmx.com
@@ -11879,6 +11904,7 @@ www.cpravka.net
 www.cpravka077.ru
 www.crystal-shop.ru
 www.daffy-labs.biz
+www.dak57.com
 www.damntube.net
 www.danglobe.info
 www.depressant.store
