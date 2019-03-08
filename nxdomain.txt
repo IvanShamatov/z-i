@@ -1673,7 +1673,6 @@
 9kka.tk
 9se9.info
 9tm.info
-9torrent.ru
 a-d1k.biz
 a-diplomas.com
 a-diploms.com
@@ -3004,6 +3003,7 @@ bk-firstbet8.win
 bk-fon-zerkalo.win
 bk-fon.info
 bk-fon.win
+bk-fonbet-zerkalo.date
 bk-fonbet-zerkalo.info
 bk-fonbet.kz
 bk-fonbet101.ru
@@ -3196,6 +3196,7 @@ bk-info96.online
 bk-klub.info
 bk-leon-vxod.space
 bk-leon-zerkalo.ru
+bk-leon.date
 bk-marafon-novyj.info
 bk-marafon-zerkalo.info
 bk-marafon.info
@@ -5945,7 +5946,6 @@ kinogud.online
 kinogud.tv
 kinoguru.ml
 kinoguru.tv
-kinogut.net
 kinogut.tv
 kinogyd.tv
 kinohd.pp.ua
@@ -9511,6 +9511,7 @@ ru.leon184.com
 ru.leon187.com
 ru.leon188.com
 ru.leon189.com
+ru.leon194.com
 ru.leon2008.com
 ru.leon3511.com
 ru.leon37.com
@@ -10383,7 +10384,6 @@ stuf24.com
 stufaslo.info
 stufebest.info
 stufecoled.info
-stuecoled.info
 stuff-24.biz
 stuff.legal
 stuff24.net
@@ -10418,7 +10418,6 @@ surinovolan.ru
 sushifreshvrn.ru
 suwan1125.com
 svet-ekonom.ru
-svetteplo38.ru
 svidetelstvo.biz
 svoboda-tv.com
 sw24.biz
@@ -10449,7 +10448,6 @@ tapki.name
 tapki24.biz
 tasbrand.ru
 tatarsert.ru
-tatiana-taylor.ru
 taxi-26.biz
 taxicars-bratsk-irkutsk.ru
 taxobar.ru
@@ -10879,7 +10877,7 @@ vsepropoker2.club
 vsepropoker2.pw
 vsepropoker2.ru
 vsepropoker2.xyz
-vb
+vsepropoker3.club
 vsepropoker3.pw
 vsepropoker3.xyz
 vsepropoker4.pw
@@ -11091,6 +11089,7 @@ wap.google.comuk.top
 waraqat.info
 warpease.ru
 watchhd.online
+wayaway.city
 wb0dds.com
 wb2018jan.com
 wbgoldbet02.com
@@ -11988,7 +11987,6 @@ www.floresyeventos.com.mx
 www.florijncasino.com
 www.fon-sport.tk
 www.fonbet-cvt5412.ru
-www.fonbet-mnt1817.ru
 www.fonbet-ngt7621.ru
 www.fonbet-tjb2710.ru
 www.fonbet-xrt7656.ru
@@ -12311,6 +12309,7 @@ www.petrosmoke.com
 www.pharaon-play.ru
 www.pigame.net
 www.pin-upcasino3.com
+www.pin138.com
 www.piratbit.ru
 www.piterspravka.com
 www.plantfeedshop.com
@@ -12399,7 +12398,6 @@ www.ruseventer.ru
 www.russerialu.net
 www.russia-dok.com
 www.russianbet.site
-www.russkoeporno.org
 www.rustrek.ru
 www.rutor.su
 www.ruttorg.info
@@ -12611,7 +12609,6 @@ www.vulkanclub24.com
 www.vuzdiplom.com
 www.vyborg.docvuz.org
 www.walus.info
-www.webcamtube.name
 www.whobzor.top
 www.win-azino777.ru
 www.winline-bet11.com
@@ -13047,7 +13044,6 @@ zenitbet105.win
 zenitbet106.win
 zenitbet107.win
 zenitbet108.win
-znitbet108.win
 zenitbet109.win
 zenitbet110.win
 zenitbet111.win
@@ -13468,7 +13464,6 @@ zerocom.ru
 zerx.tv
 zewz.biz
 zhannabayderyakova.com
-zhenaporno.ru
 zhitely.info
 zhivago.me
 zigbet.ru
