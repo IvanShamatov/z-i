@@ -3005,6 +3005,7 @@ bk-fon.info
 bk-fon.win
 bk-fonbet-zerkalo.date
 bk-fonbet-zerkalo.info
+bk-fonbet.date
 bk-fonbet.kz
 bk-fonbet101.ru
 bk-fonbet102.ru
@@ -5045,6 +5046,7 @@ fonbetiks.ru
 fonbetiks1.ru
 fonbetiks2.ru
 fonbetiks3.ru
+fonbetiks4.ru
 fonbeting-bkru45.space
 fonbetingbkzerk11.space
 fonbetingbkzerk22.space
@@ -5917,6 +5919,7 @@ kinogo-z720.ru
 kinogo.hol.es
 kinogo.it
 kinogo.legal
+kinogo.li
 kinogo.movie
 kinogo.onl
 kinogo.plus
@@ -8278,6 +8281,7 @@ nxcamhd.info
 nxpxmp.tbsko.ru
 nycjob.info
 nyx.bouwsoft.be
+nzufa.com
 o-filme.ru
 o-q.biz
 o.kino.pub
@@ -9511,6 +9515,7 @@ ru.leon184.com
 ru.leon187.com
 ru.leon188.com
 ru.leon189.com
+ru.leon190.com
 ru.leon194.com
 ru.leon2008.com
 ru.leon3511.com
