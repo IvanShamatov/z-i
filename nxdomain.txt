@@ -1780,6 +1780,7 @@ access.baltplay2017.tech
 access.baltplay2017.today
 access.baltplay2017.xyz
 access.baltplay2018.com
+access.baltplay2018.info
 access.baltplay2018.online
 access.baltsport2018.com
 access.bbplay2017.club
@@ -4120,7 +4121,6 @@ diplomas-surgut.ru
 diplomaz.info
 diplomaz.net
 diplomchelyabinsk.com
-diplomi-74.com
 diplomi-documenty.com
 diplomi63.com
 diplomiatestat.com
@@ -6155,6 +6155,7 @@ lblux.tv
 ldshop.org
 ldshop24.biz
 learnfe.info
+ledy63.com
 ledyufa.ru
 leeet.me
 legal-market.org
@@ -6493,6 +6494,7 @@ m.baltplay2017.tech
 m.baltplay2017.today
 m.baltplay2017.xyz
 m.baltplay2018.com
+m.baltplay2018.info
 m.baltplay2018.online
 m.baltsport2018.com
 m.bbplay2017.club
@@ -8475,6 +8477,7 @@ pda.baltplay2017.tech
 pda.baltplay2017.today
 pda.baltplay2017.xyz
 pda.baltplay2018.com
+pda.baltplay2018.info
 pda.baltplay2018.online
 pda.baltsport2018.com
 pda.bbplay2017.club
@@ -8896,6 +8899,7 @@ prostitutki-voronezha.ingirls.ru
 prostitutki-vyezd.com
 prostitutki-zakaz.ru
 prostitutki.es
+prostitutki1000.ru
 prostitutki11.bid
 prostitutki18.bid
 prostitutki25.bid
