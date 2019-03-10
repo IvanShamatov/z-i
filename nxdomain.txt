@@ -2038,11 +2038,6 @@ ap-01.accessfonbet-7e13e.com
 ap-01.accessfonbet-c1ded.com
 ap-01.accessfonbet-d1ef0.com
 ap-01.accessfonbet-f499b.com
-ap-01.accessfonbet.xyz
-ap-02.accessfonbet.xyz
-ap-03.accessfonbet.xyz
-ap-04.accessfonbet.xyz
-ap-05.accessfonbet.xyz
 apa-aja.info
 apkluccy.info
 aplbets.com
@@ -5987,6 +5982,7 @@ kinogo-ru.ru
 kinogo-teatr.ru
 kinogo-z720.com
 kinogo-z720.ru
+kinogo.city
 kinogo.hol.es
 kinogo.it
 kinogo.legal
@@ -9653,6 +9649,7 @@ ru.leon057.com
 ru.leon089.com
 ru.leon098.com
 ru.leon101.com
+ru.leon1123.com
 ru.leon115.com
 ru.leon120.com
 ru.leon121.com
