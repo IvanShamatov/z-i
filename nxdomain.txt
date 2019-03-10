@@ -3674,7 +3674,6 @@ c023c4.olimpcc44.top
 c05b38.olimp1958.top
 c0a5d9.olimp4b5e.top
 c0ef60ddbeb0b3550f.c2ef25.a2341e99d0a2f2982f.xyz
-c1.kinokong.net
 c163a1.olimpd7c0.top
 c1b0aa.olimpcc44.top
 c1d737.olimp4859.top
@@ -4480,6 +4479,7 @@ ems-expo.info
 en.7playfortuna.com
 en.pfslots.net
 en.playfortunay3.com
+energy24rc.com
 enerowindb.com
 eprosper.info
 ervtyqv.tbsko.ru
@@ -9863,6 +9863,7 @@ ru.leonpoint.com
 ru.leonpole.com
 ru.leonpresent.com
 ru.leonprocess.com
+ru.leonpytest.com
 ru.leonrazz.com
 ru.leonrbcs.com
 ru.leonreklama.com
