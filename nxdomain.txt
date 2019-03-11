@@ -3486,6 +3486,7 @@ boleen.su
 bolilistru.ru
 bolnichniy178.ru
 bolnichniylist-spravki.com
+bolnichnye-listy.com
 bolnichnyspb.com
 bonbonim.info
 bongda-24h.info
@@ -5454,6 +5455,7 @@ gewhdf.info
 ggfan.info
 gharb.info
 ghuraba.host
+gibdd-spravka.com
 gid-novinki-kino.ru
 gid-online.in
 gidonlain.in
@@ -7922,6 +7924,7 @@ mp-01.fbmetrix-b2a3d.com
 mp-01.fbmetrix-b8229.com
 mp-01.fbmetrix-d083e.com
 mp-01.fbmetrix-d8387.com
+mp-01.fbmetrix-fea3f.com
 mp-02.directsmartroute.xyz
 mp-02.smartdirectroute.co
 mp-03.directsmartroute.xyz
@@ -10712,9 +10715,6 @@ teonanakatl.net
 teonanakatl.pro
 terror.in.ua
 tesla72.biz
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
