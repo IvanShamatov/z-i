@@ -2045,6 +2045,7 @@ app.fimann.net
 app.fimann.org
 app.loenbet.com
 app.monetino.biz
+app.monetino.me
 app.monetino.org
 app.shahuang88.com
 app.startcredit.me
@@ -4232,7 +4233,6 @@ docworld24.com
 dodlekshop.info
 dofiga-mp3.ru
 dogbucks.info
-doghunter.to
 dok-bank.biz
 dok911.ru
 dokikrasnoyarsk.ru
@@ -4914,6 +4914,7 @@ fonbet127.com
 fonbet128.com
 fonbet129.com
 fonbet13.com
+fonbet13.info
 fonbet13.online
 fonbet130.com
 fonbet131.com
@@ -9487,6 +9488,7 @@ rmeventos2.com.br
 rmnp.info
 rnd-dostavka.ru
 robbermagazine.ru
+rohollahzam.tawanaproxy.club
 rolix1.biz
 ronix.info
 ropslot.win
@@ -10661,9 +10663,6 @@ teonanakatl.net
 teonanakatl.pro
 terror.in.ua
 tesla72.biz
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
