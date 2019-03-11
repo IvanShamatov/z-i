@@ -6389,7 +6389,6 @@ leon.bkr02l.top
 leon.bkr03l.top
 leon.bkr04l.top
 leon.bkr05l.top
-leon.bkr06l.top
 leon.bkr11l.top
 leon.bkr12l.top
 leon.bkr14l.top
@@ -11074,7 +11073,6 @@ vn.attestattutt.com
 vo-bezdep.win777.org
 vo-slotbezdep.win777.org
 voditelskie-prava.website
-vodka-moscow.com
 vodkaspb.alcohol.spb.ru
 vodoelectronasos.ru
 voentorg.info
@@ -12925,7 +12923,6 @@ www.vipsteroid.net
 www.vitafarm.ru
 www.vk-sound.ru
 www.vmusice.net
-www.vodka-moscow.com
 www.vredy.biz
 www.vsfilm.ru
 www.vtracker.org
@@ -13875,16 +13872,6 @@ zodiaccasno.com
 zolotoyarbuz.com
 zomzom.biz
 zonaindonesia.id
-zport1x.com
-zrelye-putany.ru
-zrkalo.space
-zulza.ru
-zumm.info
-zv-fm.ru
-zvfm.su
-zvukovoronka.ru
-zz972.info
-ia.id
 zport1x.com
 zrelye-putany.ru
 zrkalo.space
