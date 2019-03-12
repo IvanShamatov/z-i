@@ -5895,7 +5895,6 @@ kamural.biz
 kamyshin.docvuz.org
 kanistra812.com
 kanna-biz.biz
-kanna-biz.org
 kannabiz.name
 kapavanrc.biz
 kapec.tv
@@ -6105,6 +6104,7 @@ kinopuh.net
 kinorab.net
 kinored.life
 kinored1.me
+kinorezka.com
 kinorix.com
 kinosite.info
 kinosklad-anime.ru
@@ -6231,6 +6231,7 @@ kupit-legalnyy-poroshok-v-izhevske.cbdc.biz
 kupit-legalnyy-poroshok-v-magnitogorske.cbdc.biz
 kupit-mef.ml
 kupit-pasport.com
+kupit-prava.org
 kupit-sk.cf
 kupit-skorosti.ru
 kupit-spays-naberezhnye-chelny.cbdc.biz
@@ -7923,6 +7924,7 @@ mp-01.fbmetrix-2e38e.com
 mp-01.fbmetrix-41f8b.com
 mp-01.fbmetrix-4e7f4.com
 mp-01.fbmetrix-7f8cc.com
+mp-01.fbmetrix-9b57b.com
 mp-01.fbmetrix-b2a3d.com
 mp-01.fbmetrix-b8229.com
 mp-01.fbmetrix-d083e.com
@@ -12580,6 +12582,7 @@ www.newyear-aff.win
 www.newyear-mara.win
 www.nfsk24.biz
 www.nichesi.ru
+www.nijierobox.com
 www.nk-diploma.biz
 www.nnmclub.gq
 www.novgorod-hot.mobi
