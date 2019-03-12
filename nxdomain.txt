@@ -1519,6 +1519,7 @@
 7df3ab.olimp27fe.top
 7e0ab3.olimp1a50.top
 7e170a.olimp4859.top
+7f0669.olimpb4cc.top
 7f87765c2ad2fa6caa.c2ef25.a2341e99d0a2f2982f.xyz
 7fc.info
 7fec1a.olimp6b96.top
@@ -4157,6 +4158,7 @@ diplom-msk.org
 diplom-nk.com
 diplom-pord.ru
 diplom-rostov-na-donu.ru
+diplom-ru.net
 diplom-sankt-peterburg.com
 diplom-site.com
 diplom-stavropol.ru
@@ -10671,7 +10673,6 @@ svet-ekonom.ru
 svetteplo38.ru
 svidetelstvo-online.info
 svidetelstvo.biz
-svoboda-tv.com
 svscomics.com
 sw24.biz
 sws.swapy.cc
