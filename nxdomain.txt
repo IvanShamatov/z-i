@@ -1827,9 +1827,7 @@ access.bbplay2017.info
 access.bbplay2017.life
 access.bbplay2017.live
 access.bbplay2017.online
-access.bbplay2017.site
 access.bbplay2017.space
-access.bbplay2017.tech
 access.bbplay2017.today
 access.bbplay2017.xyz
 access.bbplay2018.club
@@ -2439,9 +2437,7 @@ bbplay2017.life
 bbplay2017.live
 bbplay2017.online
 bbplay2017.pro
-bbplay2017.site
 bbplay2017.space
-bbplay2017.tech
 bbplay2017.today
 bbplay2017.xyz
 bbplay2018.club
@@ -2862,7 +2858,6 @@ betmosting.com
 bets.bkfonbet.club
 bets.bkfonsports.com
 bets.bkfonsports.pro
-bets.bkfonsports.xyz
 bets38.ru
 betsbc-24.top
 betsbc-adep.space
@@ -3163,6 +3158,7 @@ bk-fonbets3.ru
 bk-fonbets4.ru
 bk-fonbets5.ru
 bk-fonbets6.ru
+bk-fonbets7.ru
 bk-info-zerkalo.win
 bk-info104.online
 bk-info107.online
@@ -5477,7 +5473,6 @@ gamepk.info
 games.bkfon-sport.cf
 games.bkfonsports.com
 games.bkfonsports.pro
-games.bkfonsports.xyz
 games.fon-sport.tk
 games.fon-sportbet.tk
 games.fonsportbet.tk
@@ -6580,7 +6575,6 @@ live-zerkalos23.space
 live-zerkalos98.space
 live.bkfonsports.com
 live.bkfonsports.pro
-live.bkfonsports.xyz
 live1xbet.space
 livebk03.space
 livefonbets67.space
@@ -6711,9 +6705,7 @@ m.bbplay2017.life
 m.bbplay2017.live
 m.bbplay2017.online
 m.bbplay2017.pro
-m.bbplay2017.site
 m.bbplay2017.space
-m.bbplay2017.tech
 m.bbplay2017.today
 m.bbplay2017.xyz
 m.bbplay2018.club
@@ -6744,7 +6736,6 @@ m.betzenitsport.com
 m.bkfon-sport.cf
 m.bkfonsports.com
 m.bkfonsports.pro
-m.bkfonsports.xyz
 m.bkzenitsport.com
 m.club24vul.com
 m.fon-sport.tk
@@ -8807,9 +8798,7 @@ pda.bbplay2017.fun
 pda.bbplay2017.life
 pda.bbplay2017.live
 pda.bbplay2017.online
-pda.bbplay2017.site
 pda.bbplay2017.space
-pda.bbplay2017.tech
 pda.bbplay2017.today
 pda.bbplay2017.xyz
 pda.bbplay2018.club
@@ -9410,7 +9399,6 @@ racing.bkfon-sport.cf
 racing.bkfonbet.club
 racing.bkfonsports.com
 racing.bkfonsports.pro
-racing.bkfonsports.xyz
 racing.fon-sport.tk
 racing.fon-sportbet.tk
 racing.fonsportbet.tk
@@ -9561,7 +9549,6 @@ refpazsr.top
 refpazus.top
 register.bkfonsports.com
 register.bkfonsports.pro
-register.bkfonsports.xyz
 registraci.space
 registraciy777aavtomat.space
 registratsiya171.xyz
@@ -10458,6 +10445,7 @@ slavaangel.ru
 slimette.info
 slllot.bonuscasinoapex.win
 slllot.bonuscasinofast.win
+slllot.bonusmegacasino.win
 slllot.bonuszapcasino.win
 slot-24h.net
 slot-igrovye-avtomaty.ru
@@ -12076,9 +12064,7 @@ www.bbplay2017.life
 www.bbplay2017.live
 www.bbplay2017.online
 www.bbplay2017.pro
-www.bbplay2017.site
 www.bbplay2017.space
-www.bbplay2017.tech
 www.bbplay2017.today
 www.bbplay2017.xyz
 www.bbplay2018.club
@@ -12262,7 +12248,6 @@ www.bk1x-520.com
 www.bkfonsport.club
 www.bkfonsports.com
 www.bkfonsports.pro
-www.bkfonsports.xyz
 www.bkparimatch7.com
 www.bkwinline100.com
 www.bkwinline13.com
