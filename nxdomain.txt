@@ -1802,6 +1802,7 @@ access.baltgames2018.info
 access.baltgames2018.xyz
 access.baltgames24.life
 access.baltgames24.online
+access.baltgames24.site
 access.baltgames24.today
 access.baltgames24.xyz
 access.baltplay2017.club
@@ -2431,7 +2432,9 @@ bbplay2017.life
 bbplay2017.live
 bbplay2017.online
 bbplay2017.pro
+bbplay2017.site
 bbplay2017.space
+bbplay2017.tech
 bbplay2017.today
 bbplay2017.xyz
 bbplay2018.club
@@ -6135,7 +6138,6 @@ kinokrad-hd720.com
 kinokrad-hd720.net
 kinokrad-hd720.pro
 kinokrad-net.ru
-kinokrad-smotret.net
 kinokrad.co.ua
 kinokrad.net.ua
 kinokrad.pro
@@ -6701,7 +6703,9 @@ m.bbplay2017.life
 m.bbplay2017.live
 m.bbplay2017.online
 m.bbplay2017.pro
+m.bbplay2017.site
 m.bbplay2017.space
+m.bbplay2017.tech
 m.bbplay2017.today
 m.bbplay2017.xyz
 m.bbplay2018.club
@@ -8791,7 +8795,9 @@ pda.bbplay2017.club
 pda.bbplay2017.life
 pda.bbplay2017.live
 pda.bbplay2017.online
+pda.bbplay2017.site
 pda.bbplay2017.space
+pda.bbplay2017.tech
 pda.bbplay2017.today
 pda.bbplay2017.xyz
 pda.bbplay2018.club
@@ -12061,7 +12067,9 @@ www.bbplay2017.life
 www.bbplay2017.live
 www.bbplay2017.online
 www.bbplay2017.pro
+www.bbplay2017.site
 www.bbplay2017.space
+www.bbplay2017.tech
 www.bbplay2017.today
 www.bbplay2017.xyz
 www.bbplay2018.club
