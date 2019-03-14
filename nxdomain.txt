@@ -1812,7 +1812,6 @@ access.baltplay2018.info
 access.baltplay2018.online
 access.baltsport2018.com
 access.bbplay2017.club
-access.bbplay2017.info
 access.bbplay2017.life
 access.bbplay2017.online
 access.bbplay2017.site
@@ -4500,7 +4499,6 @@ egersheld.ru
 eiforetiki.gdn
 ejhb.info
 ekaterinburg.documentshop.ru
-ekb.l-wine.ru
 ekb.sexoholic.ru
 ekbdiploms66.com
 ekibastos.ru
@@ -13949,6 +13947,7 @@ zerkalosport.space
 zerkalossl.space
 zerkalostavkagame99.space
 zerkaloswinsa33.space
+zerkalooswinsa33.space
 zerkalototo09.space
 zerkalotu.space
 zerkalovhodi.space
