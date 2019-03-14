@@ -1035,6 +1035,7 @@
 2individualki.ru
 2jg.info
 2k2.info
+2kasary.ru
 2leon.website
 2m2.biz
 2molotka.ru
@@ -3917,7 +3918,6 @@ celeritas24.com
 celeritasrc.biz
 celeritasrc.ru
 cem24.biz
-center.hydraweb-onion.com
 cf1337.olimp1960.top
 cf682a.olimp1960.top
 cf80b4f745d72e31c2.c2ef25.6c21b7e8561c55c684.xyz
@@ -6150,6 +6150,7 @@ kinogyd.tv
 kinohino.com
 kinohit1.ru
 kinoigo.ru
+kinoknopka.top
 kinokong.net.ua
 kinokong.pro
 kinokong.top
