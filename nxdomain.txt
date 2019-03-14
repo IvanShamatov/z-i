@@ -1791,6 +1791,7 @@ access.baltgames2018.info
 access.baltgames2018.xyz
 access.baltgames24.life
 access.baltgames24.online
+access.baltgames24.pro
 access.baltgames24.site
 access.baltgames24.xyz
 access.baltplay2017.club
@@ -2352,6 +2353,7 @@ baltgames2018.xyz
 baltgames24.club
 baltgames24.life
 baltgames24.online
+baltgames24.pro
 baltgames24.site
 baltgames24.xyz
 baltgames365.life
@@ -6025,6 +6027,7 @@ kingportal.net
 kinino.club
 kinino.ru
 kino-2018.club
+kino-2018.me
 kino-720hd.ru
 kino-bezsms.com
 kino-doma.net
@@ -6678,6 +6681,7 @@ m.baltgames2018.xyz
 m.baltgames24.club
 m.baltgames24.life
 m.baltgames24.online
+m.baltgames24.pro
 m.baltgames24.site
 m.baltgames24.xyz
 m.baltplay2017.club
@@ -8761,6 +8765,7 @@ pda.baltgames2018.info
 pda.baltgames2018.xyz
 pda.baltgames24.life
 pda.baltgames24.online
+pda.baltgames24.pro
 pda.baltgames24.site
 pda.baltgames24.xyz
 pda.baltplay2017.club
@@ -10142,6 +10147,7 @@ rustor.xyz
 rustorrents.life
 rustorrents.me
 rustorrents.su
+rustracker.xyz
 rustrek.ru
 rutmix-24.biz
 rutmixcc.biz
@@ -12012,6 +12018,7 @@ www.baltgames2018.xyz
 www.baltgames24.club
 www.baltgames24.life
 www.baltgames24.online
+www.baltgames24.pro
 www.baltgames24.site
 www.baltgames24.xyz
 www.baltplay2017.club
