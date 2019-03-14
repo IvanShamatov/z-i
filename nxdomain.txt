@@ -3124,6 +3124,7 @@ bk-fonbet99.ru
 bk-fonbetn.ru
 bk-fonbetn1.ru
 bk-fonbetn2.ru
+bk-fonbetn3.ru
 bk-fonbets.ru
 bk-fonbets1.ru
 bk-fonbets2.ru
@@ -9653,6 +9654,7 @@ ru.adleonaudi.com
 ru.adleonbeastes.com
 ru.adleonbeats.com
 ru.adleonbetcom.com
+ru.adleonbetonleon.com
 ru.adleonbili.com
 ru.adleonblack.com
 ru.adleonblocks.com
@@ -10786,9 +10788,6 @@ teonanakatl.net
 teonanakatl.pro
 terror.in.ua
 tesla72.biz
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
