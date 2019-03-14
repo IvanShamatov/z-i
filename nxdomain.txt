@@ -3518,6 +3518,7 @@ bookofra.ru
 books-reader.ru
 booksky.info
 borat24.biz
+bordeli.net
 borsa-store.ru
 bosbig.biz
 boshkishishki.ru
@@ -6091,6 +6092,7 @@ kinogo-hd1080.net
 kinogo-hd720.tk
 kinogo-hdfilm.net
 kinogo-hdonline.net
+kinogo-kong.ru
 kinogo-net-baskino-2017.ru
 kinogo-net-co.ru
 kinogo-net-hd.ru
@@ -6723,7 +6725,6 @@ m.bbplay2017.life
 m.bbplay2017.online
 m.bbplay2017.pro
 m.bbplay2017.site
-m.bbplay2017.space
 m.bbplay2017.tech
 m.bbplay2017.today
 m.bbplay2017.xyz
@@ -8811,7 +8812,6 @@ pda.bbplay2017.club
 pda.bbplay2017.life
 pda.bbplay2017.online
 pda.bbplay2017.site
-pda.bbplay2017.space
 pda.bbplay2017.tech
 pda.bbplay2017.today
 pda.bbplay2017.xyz
@@ -12088,7 +12088,6 @@ www.bbplay2017.life
 www.bbplay2017.online
 www.bbplay2017.pro
 www.bbplay2017.site
-www.bbplay2017.space
 www.bbplay2017.tech
 www.bbplay2017.today
 www.bbplay2017.xyz
@@ -13998,6 +13997,12 @@ zport1x.com
 zrelye-putany.ru
 zrkalo.space
 zulza.ru
+zumm.info
+zv-fm.ru
+zvfm.su
+zvukovoronka.ru
+zz972.info
+lza.ru
 zumm.info
 zv-fm.ru
 zvfm.su
