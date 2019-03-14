@@ -1788,6 +1788,7 @@ access.baltgames2018.club
 access.baltgames2018.info
 access.baltgames2018.xyz
 access.baltgames24.life
+access.baltgames24.live
 access.baltgames24.online
 access.baltgames24.pro
 access.baltgames24.site
@@ -2351,6 +2352,7 @@ baltgames2018.online
 baltgames2018.xyz
 baltgames24.club
 baltgames24.life
+baltgames24.live
 baltgames24.online
 baltgames24.pro
 baltgames24.site
@@ -3779,6 +3781,7 @@ cas.mirror2.olimp24x7.online
 cas.zerkalo.mirrorolimp2.online
 casadas.info
 case-money.com
+cash-slot.biz
 cashinc.info
 cashsniper.ru
 casino-15.men
@@ -6103,6 +6106,7 @@ kinogo.plus
 kinogo.realty
 kinogo.rip
 kinogo.rocks
+kinogo.site
 kinogo2017-2018.club
 kinogo3.net
 kinogo720.org
@@ -6678,6 +6682,7 @@ m.baltgames2018.online
 m.baltgames2018.xyz
 m.baltgames24.club
 m.baltgames24.life
+m.baltgames24.live
 m.baltgames24.online
 m.baltgames24.pro
 m.baltgames24.site
@@ -8762,6 +8767,7 @@ pda.baltgames2018.club
 pda.baltgames2018.info
 pda.baltgames2018.xyz
 pda.baltgames24.life
+pda.baltgames24.live
 pda.baltgames24.online
 pda.baltgames24.pro
 pda.baltgames24.site
@@ -11133,6 +11139,7 @@ vitaminrc.biz
 vitatolkin.info
 vityaz-tir.ru
 vk-sound.ru
+vkanistrah-812.ru
 vkanistrah.ru
 vkino-one.ru
 vkino-tv.info
@@ -12015,6 +12022,7 @@ www.baltgames2018.online
 www.baltgames2018.xyz
 www.baltgames24.club
 www.baltgames24.life
+www.baltgames24.live
 www.baltgames24.online
 www.baltgames24.pro
 www.baltgames24.site
