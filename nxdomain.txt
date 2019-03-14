@@ -3033,6 +3033,7 @@ bizlrl.info
 bjerkas.info
 bk-1xbet-zerkalo.info
 bk-1xbet.info
+bk-adres-zerkalo.date
 bk-baltbet.com
 bk-com.info
 bk-cska.date
@@ -7291,7 +7292,6 @@ mf-493.online
 mf-502.online
 mf-504.online
 mf-512.site
-mf-514.online
 mf-515.online
 mf-517.online
 mf-526.online
@@ -13772,11 +13772,13 @@ zerkalo-parimatch.xyz
 zerkalo-rabochee.space
 zerkalo-rabotayushhee.info
 zerkalo-rutor.su
+zerkalo-sajta-novyj.date
 zerkalo-sajtov-bk.info
 zerkalo-sitebk65.space
 zerkalo-sitebk76.space
 zerkalo-sitebk87.space
 zerkalo-sitebk89.space
+zerkalo-staraya-versiya.date
 zerkalo-stavkalive.website
 zerkalo-stavkas05.space
 zerkalo-stavkas44.space
