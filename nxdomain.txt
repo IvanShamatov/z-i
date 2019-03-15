@@ -1817,7 +1817,6 @@ access.bbplay2017.online
 access.bbplay2017.site
 access.bbplay2017.space
 access.bbplay2017.tech
-access.bbplay2017.today
 access.bbplay2017.xyz
 access.bbplay2018.club
 access.bbplay2018.info
@@ -1957,7 +1956,9 @@ alcovkus.moscow
 alcozavr.me
 alehin.biz
 alfaseeds.biz
+alfaseeds.club
 alfaseeds.me
+alfaseeds.top
 aliancedt.biz
 alimoviv.ru
 aliyilmaz.info
@@ -2424,7 +2425,6 @@ bbplay2017.pro
 bbplay2017.site
 bbplay2017.space
 bbplay2017.tech
-bbplay2017.today
 bbplay2017.xyz
 bbplay2018.club
 bbplay2018.info
@@ -3066,6 +3066,7 @@ bk-fonbet109.ru
 bk-fonbet110.ru
 bk-fonbet111.ru
 bk-fonbet112.ru
+bk-fonbet117.ru
 bk-fonbet34.ru
 bk-fonbet35.ru
 bk-fonbet36.ru
@@ -6736,7 +6737,6 @@ m.bbplay2017.pro
 m.bbplay2017.site
 m.bbplay2017.space
 m.bbplay2017.tech
-m.bbplay2017.today
 m.bbplay2017.xyz
 m.bbplay2018.club
 m.bbplay2018.info
@@ -6967,6 +6967,7 @@ marketia.info
 markizaspb.info
 marlysestuff.info
 maronite.info
+marroquin.info
 mart31.ru
 martinrc.biz
 masdari.org
@@ -11038,6 +11039,7 @@ ulyanovsk.dipgoodss.com
 umbrellacor.net
 umnitsa-spb.ru
 undguruthat.ru
+une179001.info
 unfilteredart.ru
 univermag.biz
 up-money.net
