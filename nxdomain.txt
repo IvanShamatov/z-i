@@ -3135,6 +3135,7 @@ bk-fonbet99.ru
 bk-fonbetn.ru
 bk-fonbetn1.ru
 bk-fonbetn2.ru
+bk-fonbetn3.ru
 bk-fonbets.ru
 bk-fonbets1.ru
 bk-fonbets2.ru
@@ -5989,6 +5990,7 @@ kanna-biz.biz
 kannabiz.name
 kapavanrc.biz
 kapec.tv
+karaitivu.info
 karamelka24.ru
 karaokevideo.ru
 karaopa.ru
@@ -8828,7 +8830,6 @@ pda.bbplay2017.online
 pda.bbplay2017.site
 pda.bbplay2017.space
 pda.bbplay2017.tech
-pda.bbplay2017.today
 pda.bbplay2017.xyz
 pda.bbplay2018.club
 pda.bbplay2018.info
