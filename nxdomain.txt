@@ -6449,6 +6449,7 @@ legalrc.ltd
 legalrc.one
 legalrc.pro
 legalrc.red
+legalrcm.com
 legalrf.org
 legalrs.co
 legalss.biz
@@ -10219,6 +10220,7 @@ rutorg.ml
 rutorinfo.org
 rutoris.org
 rutorrent.info
+rutorrr.com
 rutors.info
 rutors.ml
 rutorzerkalo.ru
