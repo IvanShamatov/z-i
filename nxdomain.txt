@@ -291,7 +291,6 @@
 1s-buh.info
 1seasonvar.ru
 1sprt.com
-1sx521.com
 1sx522.com
 1x-141.online
 1x-147.site
@@ -1892,7 +1891,6 @@ aff-ads-newyear.win
 aff-poker.com
 afoifbrr.info
 agidellib.ru
-agrosmart.com.ua
 ailaom.info
 ain2az32.com
 ainexhost.ru
@@ -1961,6 +1959,7 @@ alehin.biz
 alfaseeds.biz
 alfaseeds.club
 alfaseeds.me
+alfaseeds.pro
 alfaseeds.top
 aliancedt.biz
 alimoviv.ru
@@ -3674,6 +3673,7 @@ bukkerstavki.space
 buklucky-topsport.ru
 bukmeker-mostbet-bk.ru
 bukmeker-mostbet-topsport.ru
+bukmeker-oficialnyj-sajt.date
 bukmeker-vxod.win
 bukmeker.digital-bet.ru
 bukmeker1x.space
@@ -9423,6 +9423,7 @@ r6.hdrezka-online.ru
 r7.hdrezka-online.ru
 r8.hdrezka-online.ru
 r9.hdrezka-online.ru
+ra-one.info
 rabitears.info
 rabochee1.website
 rabocheefonbet12.space
