@@ -3153,6 +3153,7 @@ bk-fonbet99.ru
 bk-fonbetn.ru
 bk-fonbetn1.ru
 bk-fonbetn2.ru
+bk-fonbetn5.ru
 bk-fonbets.ru
 bk-fonbets1.ru
 bk-fonbets2.ru
@@ -3718,7 +3719,6 @@ bunchmail.info
 burgstube.info
 burpeez.info
 busharm.ru
-bushnell.info
 business-obrazovanie.com
 business-obrazovanie.org
 buskino.pro
@@ -5727,6 +5727,7 @@ hd-rezka.club
 hd.clip16.com
 hd.zfilm-hd.space
 hdkinohit.net
+hdkinomix.net
 hdmego.net
 hdpicture.ru
 hdrezka.by
@@ -9992,6 +9993,7 @@ ru.leon651.com
 ru.leon74.com
 ru.leon741.com
 ru.leon765.com
+ru.leon785.com
 ru.leon89.com
 ru.leon93.com
 ru.leon97.com
@@ -10009,6 +10011,7 @@ ru.leonbalans.com
 ru.leonballa.com
 ru.leonbandel.com
 ru.leonbel.com
+ru.leonbetapp.com
 ru.leonbetbom.com
 ru.leonbetdev.com
 ru.leonbetevent.com
