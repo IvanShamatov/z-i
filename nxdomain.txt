@@ -1964,6 +1964,7 @@ alfaseeds.info
 alfaseeds.me
 alfaseeds.pro
 alfaseeds.top
+alfaseeds.vip
 aliancedt.biz
 alimoviv.ru
 aliyilmaz.info
@@ -10008,6 +10009,7 @@ ru.leonbandel.com
 ru.leonbel.com
 ru.leonbetbom.com
 ru.leonbetdev.com
+ru.leonbetevent.com
 ru.leonbetmy.com
 ru.leonbets.online
 ru.leonbets.website
@@ -10130,7 +10132,6 @@ ru.leonwool.com
 ru.leonyourbk.com
 ru.leonzoloto.com
 ru.mp3-tut.biz
-ru.online-888poker.com
 ru.pf-slots.com
 ru.pfslot1.com
 ru.pfslot2.com
