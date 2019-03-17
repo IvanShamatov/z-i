@@ -8249,7 +8249,6 @@ muzon.cx
 muzon.me
 muzpuz.com
 muzttorrent.com
-muzykatorrent.ru
 mwe.mp3-tut.biz
 mwi.mp3-tut.biz
 mwo.mp3-tut.biz
@@ -10183,6 +10182,7 @@ ru.leonphshop.com
 ru.leonping.com
 ru.leonpoint.com
 ru.leonpole.com
+ru.leonpp.com
 ru.leonpresent.com
 ru.leonprocess.com
 ru.leonpytest.com
