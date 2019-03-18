@@ -9242,7 +9242,6 @@ pm-755.site
 pm-759.online
 pm-763.online
 pm-766.online
-pm-768.online
 pm-786.online
 pm-789.online
 pm-790.site
