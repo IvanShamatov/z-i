@@ -8175,7 +8175,6 @@ mp-05.directsmartroute.xyz
 mp-06.directsmartroute.xyz
 mp-l24.biz
 mp3-bit.net
-mp3-muzyka.com
 mp3-xit.net
 mp3-zaycev.su
 mp3.life
@@ -12022,7 +12021,6 @@ www.1mp.info
 www.1redping.win
 www.1x-sport-bk2.com
 www.1x-sport-bk3.com
-www.1xbetid.com
 www.200azino777.win
 www.201azino777.win
 www.202azino777.win
@@ -12856,7 +12854,6 @@ www.moscow-diploms.ru
 www.moshennichestvu.net
 www.mp3-crazy.com
 www.mp3-crazy.net
-www.mp3-muzyka.com
 www.mp3.cc
 www.mp3.co
 www.mp3.de3.ru
@@ -13979,6 +13976,7 @@ zerkalo-marathonbet.xyz
 zerkalo-match80.ru
 zerkalo-match81.ru
 zerkalo-match82.ru
+zerkalotch82.ru
 zerkalo-match83.ru
 zerkalo-match85.ru
 zerkalo-match91.ru
