@@ -8691,6 +8691,7 @@ nnm-club.name
 nnm-torrent.ga
 nnm-torrent.gq
 nnmclub-new.gq
+nnmclub.cf
 nnmclub.online
 nnmclub.site
 nnovgorod-diplomy.com
@@ -11196,7 +11197,6 @@ tula.dipgoodss.com
 tumelrines.info
 tumen.attestattutt.com
 tumen.dipgoodss.com
-tur-tour.com
 turbo-rc.biz
 tureng.cc
 turetocr.info
@@ -12323,7 +12323,6 @@ www.betcity-peyu.tk
 www.betcity-qirf.tk
 www.betcity-raiu.space
 www.betcity-rqpi.tk
-www.bei.tk
 www.betcity-tmmb.cf
 www.betcity-tmmb.space
 www.betcity-umwe.tk
@@ -12810,6 +12809,7 @@ www.nnvdiplom1.com
 www.novgorod-hot.mobi
 www.o-filme.ru
 www.offsidebet.com
+www.okvuz.biz
 www.omsk.nuzhnyprava.com
 www.oneofus.info
 www.oneshop-24.biz
@@ -14051,7 +14051,7 @@ zerkalobuk.space
 zerkalobukmekers34.space
 zerkalobukmekers54.space
 zerkalodostup.space
-zerkapace
+zerkalofobet58.space
 zerkalofonbet.info
 zerkalofonbet11.space
 zerkalofonbet33.space
@@ -14154,5 +14154,4 @@ zumm.info
 zv-fm.ru
 zvfm.su
 zvukovoronka.ru
-zz972.info
 zz972.info
