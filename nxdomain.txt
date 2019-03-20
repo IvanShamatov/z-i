@@ -511,6 +511,8 @@
 1xirq.com
 1xirsp.com
 1xirsp1.com
+1xirsp10.com
+1xirsp11.com
 1xirsp12.com
 1xirsp13.com
 1xirsp14.com
@@ -2019,7 +2021,6 @@ alco-nsk54.ru
 alco-online24.ru
 alco-rai.ru
 alco-spb.ru
-alco-stock.com
 alco-time.com
 alco-town54.ru
 alco-trest.site
@@ -4106,7 +4107,6 @@ ck-rc.ru
 ck24rc.biz
 cl24.biz
 claudzoom.in
-clenklubu.sk
 clickbetzerkalo44.space
 clicki.info
 clikbetfon.space
@@ -11271,7 +11271,6 @@ traffnmnfdffff.com
 trand-24.biz
 trand24.com
 travel8.info
-travelzozo.info
 travtorg.net
 trend-bag.ru
 trersg.gdn
