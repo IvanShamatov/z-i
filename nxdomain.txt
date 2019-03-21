@@ -3934,7 +3934,6 @@ cas.mirror1.mirrorolimp2.online
 cas.mirror1.olimp24x7.online
 cas.mirror2.olimp24x7.online
 cas.zerkalo.mirrorolimp2.online
-casadas.info
 case-money.com
 cash-slot.biz
 cashinc.info
