@@ -6693,7 +6693,6 @@ legalka.cc
 legalka.org
 legalkastore.info
 legalklad24.cc
-legalkladrc.info
 legalmarket.kz
 legalnye-kuritelnye-miksy-yaroslavl.cbdc.biz
 legalnye-poroshki-barnaul.cbdc.biz
@@ -11252,6 +11251,8 @@ teonanakatl.pro
 terror.in.ua
 tesla72.biz
 test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
@@ -11270,6 +11271,7 @@ thekison.com
 thelabs78.biz
 themoviebay.ru
 therostov.club
+theserials.ru
 theshaz.info
 think-ans.info
 thisfilm.ru
@@ -13401,6 +13403,7 @@ www.thainuke.info
 www.the-cinema.ru
 www.theiab78.biz
 www.thejoojoo.net
+www.theserials.ru
 www.tiny-girls.top
 www.tinyvirgin.club
 www.tlnetwork.info
