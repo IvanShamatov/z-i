@@ -2188,7 +2188,6 @@ ap-01.accessfonbet-710c6.com
 ap-01.accessfonbet-8297d.com
 ap-01.accessfonbet-c1ded.com
 ap-01.accessfonbet-d1ef0.com
-ap-01.accessfonbet-f499b.com
 ap-01.accessfonbet.xyz
 ap-02.accessfonbet.xyz
 ap-03.accessfonbet.xyz
@@ -13517,7 +13516,6 @@ www.vachdipll.ru
 www.vagrius.ru
 www.vamspravku.ru
 www.vashmedlist.ru
-www.vasyatv.com
 www.vcemkino.ru
 www.ventimola.info
 www.videokub.club
