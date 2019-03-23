@@ -4526,8 +4526,10 @@ dosug-7.com
 dosug-ivanovo.com
 dosug-kirov.info
 dosug-novotroitsk.ru
+dosug-omsk.info
 dosug-ryazan.com
 dosug-ryazan.info
+dosug-v-orenburge.ru
 dosug-vladimira.ru
 dosug27.com
 dosug43.info
@@ -6008,6 +6010,7 @@ hydra-onion.net
 hydra0118.club
 hydra1217.net
 hydra2-web.pro
+hydra2018.center
 hydra2exghh3rnmc.free-onion.com
 hydra2webs.com
 hydra2webs.direct
@@ -9397,7 +9400,6 @@ pm-986.site
 pm-995.site
 pm-998.online
 pmbks.space
-poiskm.top
 pokazkino.online
 pokerchel.ru
 pokerdom2.su
@@ -10705,6 +10707,7 @@ seedbanda.info
 seedbanda.me
 seedbanda.nl
 seedbanda.site
+seedbanda.website
 seedking.eu
 seedskanabis.pro
 seedskanabis.top
@@ -11245,9 +11248,6 @@ teonanakatl.net
 teonanakatl.pro
 terror.in.ua
 tesla72.biz
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
