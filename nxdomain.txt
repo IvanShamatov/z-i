@@ -6454,6 +6454,7 @@ kinogo-z720.com
 kinogo-z720.ru
 kinogo.city
 kinogo.faith
+kinogo.gold
 kinogo.hol.es
 kinogo.it
 kinogo.legal
@@ -11312,8 +11313,6 @@ teonanakatl.net
 teonanakatl.pro
 terror.in.ua
 tesla72.biz
-test2.plusminus1.com
-test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
