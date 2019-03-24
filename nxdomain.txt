@@ -10704,7 +10704,6 @@ rutors.ml
 rutorzerkalo.ru
 rutracker-in.info
 rutracker.club
-rutracker.cr
 rutracker2.org
 rutracker2.ru
 rutracker7.org
@@ -11327,6 +11326,9 @@ teonanakatl.net
 teonanakatl.pro
 terror.in.ua
 tesla72.biz
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
@@ -12526,6 +12528,7 @@ www.arved.ru
 www.autoblanki.ru
 www.autovodi.ru
 www.av17.info
+www.ayakino.net
 www.azartnye-igry.com
 www.azartplay-casino.com
 www.azi777no.ru
