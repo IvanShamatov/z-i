@@ -5989,6 +5989,7 @@ hdrezka.info
 hdrezka.movie
 hdrezka.online
 hdrezka1.me
+hdrezka2.com
 hdrezka2.me
 hdrezkaa.ru
 hdrezkaag.com
@@ -13190,7 +13191,6 @@ www.my2ndfl.ru
 www.mydiplom-spb.com
 www.mynewsite.info
 www.myrc-store.net
-www.mytoot.ru
 www.n-novgorod.otsosme.com
 www.n-torrents.ru
 www.narkop.com
