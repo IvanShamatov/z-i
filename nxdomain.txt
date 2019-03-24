@@ -5840,7 +5840,6 @@ gibdd-spravka.com
 gid-novinki-kino.ru
 gid-online.in
 gidonlain.in
-gidonlain.online
 gidonliine.ru
 gidonline-club.net
 gidonline-club.ru
@@ -11325,7 +11324,6 @@ teonanakatl.net
 teonanakatl.pro
 terror.in.ua
 tesla72.biz
-test1.plusminus1.com
 test2.plusminus1.com
 test3.plusminus1.com
 tewiqybel.info
@@ -14577,6 +14575,10 @@ zulll.innal.top
 zulza.ru
 zumm.info
 zv-fm.ru
+zvfm.su
+zvukovoronka.ru
+zz972.info
+ru
 zvfm.su
 zvukovoronka.ru
 zz972.info
