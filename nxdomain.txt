@@ -2180,6 +2180,7 @@ ap-01.accessfonbet-2e145.com
 ap-01.accessfonbet-3c7eb.com
 ap-01.accessfonbet-473ac.com
 ap-01.accessfonbet-4cade.com
+ap-01.accessfonbet-58020.com
 ap-01.accessfonbet-636a0.com
 ap-01.accessfonbet-710c6.com
 ap-01.accessfonbet-7e13e.com
@@ -3996,6 +3997,7 @@ casino-kazaxstan.men
 casino-klubnika.men
 casino-krejzi.men
 casino-krupe.men
+casino-millioner.men
 casino-moshenniki.men
 casino-nilova.men
 casino-obezyany.men
@@ -4066,6 +4068,7 @@ casinooreanda.club
 casinopay.info
 casinopiys.com
 casinoplayfortuna.xyz
+casinopol.men
 casinopost.info
 casinorib.com
 casinorub.ru
@@ -4572,6 +4575,7 @@ dosug-omsk.info
 dosug-ryazan.com
 dosug-ryazan.info
 dosug-ryazan.ru
+dosug-stavropol.ru
 dosug-uhta.ru
 dosug-v-orenburge.ru
 dosug-vladimira.ru
@@ -11301,6 +11305,7 @@ teonanakatl.net
 teonanakatl.pro
 terror.in.ua
 tesla72.biz
+test1.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
@@ -12854,6 +12859,7 @@ www.dostavka.trade
 www.dosug-gubkin.ru
 www.dosug-habarovsk.ru
 www.dosug-ryazan.com
+www.dosug-stavropol.ru
 www.dosug27.com
 www.drawiswin.com
 www.e-romania.info
