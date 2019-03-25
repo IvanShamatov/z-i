@@ -1131,7 +1131,6 @@
 2individualki.ru
 2jg.info
 2k2.info
-2kasary.ru
 2leon.website
 2m2.biz
 2molotka.ru
@@ -4412,6 +4411,7 @@ diplom-kypit-samara.ru
 diplom-kypit-ufa.ru
 diplom-moskow.net
 diplom-msk.org
+diplom-naberezhnie-chelni.com
 diplom-nk.com
 diplom-otl.com
 diplom-pord.ru
@@ -6548,7 +6548,6 @@ kinoprofii.ru
 kinoproofi.ru
 kinopub.store
 kinorab.net
-kinored.life
 kinorezka.com
 kinorix.com
 kinosite.info
@@ -9037,7 +9036,6 @@ oldiplomi.com
 olesy06.ru
 olicash.su
 olimp24x7.online
-olimpbet.ge
 olimpbkbet.website
 olimpblock.com
 olimpbook.online
