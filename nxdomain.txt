@@ -4420,11 +4420,13 @@ diplom-ru.net
 diplom-ryazan62.ru
 diplom-sankt-peterburg.com
 diplom-site.com
+diplom-sochi.com
 diplom-stavropol.ru
 diplom-tm.com
 diplom-trade1.ru
 diplom-tula71.ru
 diplom-tumen72.com
+diplom-ulan-ude.com
 diplom-v-chelyabinske.com
 diplom-v-kazani.com
 diplom-volg.com
@@ -10634,7 +10636,6 @@ rumarijuana.net
 runjoy-24.biz
 runuatika.vienn-info.ru
 ruonion.io
-ruplayforum.com
 rupolit.net
 rus-betcity.top
 rus-betzerkalo78.space
