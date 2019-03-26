@@ -2196,6 +2196,7 @@ ap-01.accessfonbet-4cade.com
 ap-01.accessfonbet-58020.com
 ap-01.accessfonbet-58e6c.com
 ap-01.accessfonbet-636a0.com
+ap-01.accessfonbet-68680.com
 ap-01.accessfonbet-710c6.com
 ap-01.accessfonbet-74b9a.com
 ap-01.accessfonbet-7e13e.com
@@ -6022,6 +6023,7 @@ hdmego.net
 hdpicture.ru
 hdrezka.by
 hdrezka.cx
+hdrezka.eu
 hdrezka.info
 hdrezka.movie
 hdrezka.online
@@ -6592,7 +6594,6 @@ kinosklad-uzhasy.ru
 kinosklad.info
 kinosklad.website
 kinosprofi.ru
-kinousers.ru
 kinovips.me
 kinovoin.net
 kinovv.ru
@@ -10724,6 +10725,7 @@ rutmixcc.biz
 rutmlx.cc
 rutor-24.info
 rutor-biz.info
+rutor-film.info
 rutor-in.info
 rutor-info.org
 rutor-info.org.ru
@@ -11388,7 +11390,6 @@ teonanakatl.net
 teonanakatl.pro
 terror.in.ua
 tesla72.biz
-test1.plusminus1.com
 test2.plusminus1.com
 test3.plusminus1.com
 tewiqybel.info
@@ -13115,7 +13116,6 @@ www.igrovyeavtomativulcano.com
 www.imagedoor.info
 www.individualki-volgograda.site
 www.inform-intelligence.com
-www.infotop.lv
 www.infoyarsk.com
 www.inter-scommessa.com
 www.intimrelax.info
