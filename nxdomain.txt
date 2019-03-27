@@ -3344,7 +3344,6 @@ bk-fonbetn3.ru
 bk-fonbetn4.ru
 bk-fonbetn5.ru
 bk-fonbetn6.ru
-bk-fonbetn7.ru
 bk-fonbets1.ru
 bk-fonbets10.ru
 bk-fonbets2.ru
@@ -4908,6 +4907,7 @@ est4e24.biz
 etd9.info
 etilspirt.ru
 eu-music.info
+eumus.info
 eurobet.club
 eurodosug.site
 europa37.biz
@@ -7479,6 +7479,7 @@ media-rus.info
 media-tracker.info
 mediarot-newyear.win
 medicinskie-knigki-omsk.ru
+medicinskie-spravki-krasnodar.ru
 medicinskie-spravki-tuymen.ru
 medik.moscow
 medizinskaja-spravka.com
@@ -11255,6 +11256,7 @@ sportsxbet6.com
 sportsxbet9.com
 sportzenit.com
 sposhop.ru
+sprav-086u.ru
 spravka-cheki-vtomske1.com
 spravka-nesudim.ru
 spravka-official.ru
