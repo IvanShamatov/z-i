@@ -7468,6 +7468,7 @@ media-rs.info
 media-rus.info
 media-tracker.info
 mediarot-newyear.win
+medicinskie-knigki-omsk.ru
 medik.moscow
 medizinskaja-spravka.com
 medkniga-70.ru
@@ -7495,6 +7496,7 @@ medspravki-krasnodara.ru
 medspravki-orenburg.ru
 medspravki-spb.com
 medspravki-stavropol.ru
+medspravki-tuymen.ru
 medspravki-volgograda.ru
 medspravki.pro
 medspravku-tolyatti.ru
@@ -9614,7 +9616,6 @@ poysam.com
 pozvoni-shalave.ru
 pozvoniprostitutke.ru
 pr24.biz
-pras.info
 prava--msk.ru
 prava-allgims.com
 prava-buy.top
@@ -9971,7 +9972,6 @@ rap-game.ru
 rap27.info
 rapidbit.info
 rapidzona.com
-rasbery.ru
 rast72.biz
 rasta-72.biz
 rasta-legenda.com
@@ -10509,6 +10509,7 @@ ru.leonbetmy.com
 ru.leonbets.online
 ru.leonbets.website
 ru.leonbets323.com
+ru.leonbets522.com
 ru.leonbets544.com
 ru.leonbets555.com
 ru.leonbets577.com
