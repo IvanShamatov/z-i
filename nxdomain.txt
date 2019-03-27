@@ -12003,6 +12003,7 @@ vulcan-bit.lv
 vulcan-bit.name
 vulcan-bit.ru
 vulcan-cazino.com
+vulcan-club.org
 vulcan-megaslots.com
 vulcan-win.com
 vulcan-zal.ru
@@ -13556,7 +13557,6 @@ www.saving-music.ru
 www.sbo2008.com
 www.scarola.info
 www.serial-z.online
-www.serial.wiki
 www.serialhit.tv
 www.serialpro.net
 www.serialytut.club
