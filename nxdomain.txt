@@ -6480,6 +6480,7 @@ kino-bezsms.com
 kino-doma.net
 kino-full.ru
 kino-go.org
+kino-hd-720.ru
 kino-hd1080.ru
 kino-hd720.info
 kino-kino.online
@@ -11729,6 +11730,7 @@ usagi.klad.cc
 use-me.info
 ussafety.info
 v-bordele.ru
+v-bordele2.ru
 v-cl.ru
 v-rodger.biz
 v-roger.com
