@@ -6564,6 +6564,7 @@ kinogo.rip
 kinogo.rocks
 kinogo.site
 kinogo.top
+kinogo1.org
 kinogo2.cool
 kinogo2017-2018.club
 kinogo3.net
@@ -6635,7 +6636,6 @@ kinopub.store
 kinorab.net
 kinorezka.com
 kinorix.com
-kinosite.info
 kinosklad-anime.ru
 kinosklad-kino.ru
 kinosklad-live.ru
@@ -7477,6 +7477,7 @@ media-rus.info
 media-tracker.info
 mediarot-newyear.win
 medicinskie-knigki-omsk.ru
+medicinskie-spravki-tuymen.ru
 medik.moscow
 medizinskaja-spravka.com
 medkniga-70.ru
@@ -10525,9 +10526,11 @@ ru.leonbetmy.com
 ru.leonbets.online
 ru.leonbets.website
 ru.leonbets323.com
+ru.leonbets522.com
 ru.leonbets533.com
 ru.leonbets544.com
 ru.leonbets555.com
+ru.leonbets566.com
 ru.leonbets577.com
 ru.leonbets588.com
 ru.leonbets599.com
@@ -11482,7 +11485,6 @@ teonanakatl.net
 teonanakatl.pro
 terror.in.ua
 tesla72.biz
-test1.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
