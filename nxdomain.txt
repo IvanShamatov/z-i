@@ -8963,7 +8963,8 @@ new.parimatch-sport3.com
 new.parimatch-sport4.com
 new.parimatch-sport5.com
 new.parimatch-sport6.com
-new.parimatcatch-sport8.com
+new.parimatch-sport7.com
+new.parimatch-sport8.com
 new.parimatch-sport9.com
 new.parimatch-sports1.com
 new.parimatch-sports2.com
@@ -15081,5 +15082,7 @@ zv-fm.ru
 zvfm.su
 zvukovoronka.ru
 zz972.info
-voronka.ru
+m.ru
+zvfm.su
+zvukovoronka.ru
 zz972.info
