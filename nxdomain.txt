@@ -2261,14 +2261,12 @@ astshop.info
 at4c64f0dq.srcl.connect.netcdn.bcdl.rocks
 atango.info
 athma.info
-attestat-kazan.ru
 attestat-moskow.com
 attestattutt.com
 attlanticbest.com
 atunpaste.info
 auska.biz
 autoazbukaservice.ru
-autopravaplus.ru
 av18.info
 av20.info
 avenc.ru
@@ -6590,6 +6588,7 @@ kingportal.net
 kinino.ru
 kino-1080p.ru
 kino-2018.me
+kino-2018.online
 kino-720hd.ru
 kino-bezsms.com
 kino-doma.net
@@ -6677,6 +6676,7 @@ kinogo2.pw
 kinogo2017-2018.club
 kinogo3.net
 kinogo720.org
+kinogod.club
 kinogofilm.tk
 kinogohd.net
 kinogohd1080.net
@@ -10377,7 +10377,6 @@ ru-pasports.com
 ru-passport.com
 ru-pok-er.com
 ru-prava.ru
-ru-tor.co
 ru-treker.ru
 ru.100casino.info
 ru.1azino555.win
@@ -11303,6 +11302,7 @@ slotosfera.zone
 slotozlocom.ru
 slots-casinogames.com
 slots-na-dengi.com
+slotsclubvolcano.ru
 slotscollection.net
 slotsvolcanoclub.com
 slotxdom.com
@@ -12260,7 +12260,6 @@ vulkanclub.club
 vulkandeluxe.info
 vulkangirl.top
 vulkangrand.win
-vulkanigra.com
 vulkanigrovoyavtomat.com
 vulkanjoker.com
 vulkanline1.com
@@ -14391,6 +14390,7 @@ xn----9sbvbaid1a4gdb.pw
 xn----btbkldhaemzpn1h7a.pw
 xn----ctbeacea0asn0aio4c1c.xn--p1ai
 xn----otbabhwecjlehbao4e.su
+xn--1-7sbliggei4aeg.online
 xn--2-htbvg0b.xn--p1acf
 xn--365-edd4akb4aasma.xn--p1ai
 xn--420-2ddal0hb.pw
