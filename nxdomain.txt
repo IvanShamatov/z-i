@@ -6691,6 +6691,7 @@ kinokrad-hd720.com
 kinokrad-hd720.net
 kinokrad-hd720.pro
 kinokrad-net.ru
+kinokrad-tv.ru
 kinokrad.co.ua
 kinokrad.mobi
 kinokrad.net.ua
@@ -7006,6 +7007,7 @@ legalrc.red
 legalrcblog.info
 legalrcforum.info
 legalrcm.com
+legalrf.info
 legalrf.org
 legalrs.co
 legalss.biz
@@ -8507,7 +8509,6 @@ mostprv.com
 mostptj.com
 mostptl.com
 mostptt.com
-mostpzi.com
 mostqaw.com
 mostqdr.com
 mostqec.com
