@@ -3300,7 +3300,6 @@ bk-fonbets10.ru
 bk-fonbets11.ru
 bk-fonbets12.ru
 bk-fonbets3.ru
-bk-fonbets7.ru
 bk-fonbets8.ru
 bk-fonbets9.ru
 bk-info-zerkalo.win
@@ -8591,7 +8590,6 @@ mp3pulse.su
 mp3q.ru
 mp3time.ru
 mp3torrent.ru
-mph2012.ru
 mplacezaklad.biz
 mpnmatch.info
 mprohptrk.info
