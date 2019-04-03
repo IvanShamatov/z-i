@@ -6377,7 +6377,6 @@ kinogo.city
 kinogo.faith
 kinogo.gold
 kinogo.hol.es
-kinogo.it
 kinogo.legal
 kinogo.li
 kinogo.movie
@@ -8550,7 +8549,6 @@ new.cee5da.olimpa0c1.top
 new.d23a83.olimpa0c1.top
 new.dd5222.olimp58.top
 new.fdd4e2.olimp4b5e.top
-new.kinogo.it
 new.mirror.mirrorolimp1.xyz
 new.mirror.mirrorolimp3.online
 new.mirror.olimp24x7.online
@@ -11244,8 +11242,6 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 teonanakatl.pro
-test1.plusminus1.com
-test2.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
@@ -12423,7 +12419,6 @@ www.agidellib.ru
 www.akhbarsham.info
 www.al24.biz
 www.alco-stock24.com
-www.alco-xo.ru
 www.alcodostavka.com
 www.alcoray.info
 www.alcovkus.moscow
@@ -12965,7 +12960,6 @@ www.kinodo.pw
 www.kinofestival.net
 www.kinogo-2016.net
 www.kinogo-net-co.ru
-www.kinogo.it
 www.kinogou.ru
 www.kinogud.tv
 www.kinohit1.ru
