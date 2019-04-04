@@ -2194,7 +2194,6 @@ ap-01.accessfonbet-00c4d.com
 ap-01.accessfonbet-2e145.com
 ap-01.accessfonbet-3c7eb.com
 ap-01.accessfonbet-42e18.com
-ap-01.accessfonbet-473ac.com
 ap-01.accessfonbet-4cade.com
 ap-01.accessfonbet-58020.com
 ap-01.accessfonbet-58e6c.com
@@ -3932,6 +3931,7 @@ casino-ryadom.men
 casino-shangri.men
 casino-sokrovishh.men
 casino-sportloto.men
+casino-stixi.men
 casino-stoun.men
 casino-tigr.men
 casino-tolyatti.men
@@ -5017,10 +5017,8 @@ fonbet110.vip
 fonbet111.vip
 fonbet112.vip
 fonbet114.vip
-fonbet12.com
 fonbet12.online
 fonbet129.com
-fonbet13.com
 fonbet13.info
 fonbet13.online
 fonbet131.com
@@ -5886,7 +5884,6 @@ individualkivoronezha.date
 infieles.info
 infomostbet-bets.ru
 infomostbet-bk.ru
-infomostbet-sport.ru
 infomostbet-topsport.ru
 infomostbet.ru
 int.prostitutkilove.com
@@ -7351,7 +7348,6 @@ melvey.xyz
 melxek.xyz
 menetbets87.space
 mengdit.com
-mental-auto.ru
 mercuryclub.ru
 merkuriy-201.ru
 merkuriy201.ru
@@ -7578,7 +7574,6 @@ miraxanet.com
 mirfonbet.website
 miriadapro.ru
 mirmar.ru
-mirprostitutok.ru
 mirprostitutok.xyz
 mirror.mirrorolimp1.xyz
 mirror.mirrorolimp3.online
@@ -7803,7 +7798,6 @@ moneyarea.online
 moneyslot.win
 moneyslotmachines.net
 monsterseed.org
-mopopo.ru
 mordkovich7.ru
 moresat.info
 mos-apteka.org
@@ -7819,7 +7813,6 @@ mostbek.com
 mostbet-bk-bk.ru
 mostbet-bk-topsport.ru
 mostbet-bk.website
-mostbet-bukmeker-bk.ru
 mostbet-bukmeker-topsport.ru
 mostbet-bukmeker.ru
 mostbet-info-bk.ru
@@ -7991,8 +7984,6 @@ mostpartnerland.com
 mostpartnerlandpic.com
 mostpetk.com
 mostpij.com
-mostpke.com
-mostpli.com
 mostpll.com
 mostplm.com
 mostpln.com
@@ -8034,7 +8025,6 @@ mostsjm.com
 mostskl.com
 mostsmg.com
 mostsnd.com
-mostsns.com
 mostsrr.com
 mostsrv.com
 moststarbet.com
@@ -8076,7 +8066,6 @@ mostwsx.com
 mostwtc.com
 mostxcn.com
 mostxdc.com
-mostxel.com
 mostxem.com
 mostxro.com
 mostxst.com
@@ -10153,7 +10142,6 @@ ru.leonpas.com
 ru.leonpepper.com
 ru.leonphshop.com
 ru.leonping.com
-ru.leonpoint.com
 ru.leonpole.com
 ru.leonpp.com
 ru.leonpresent.com
@@ -10415,6 +10403,7 @@ rutors.ml
 rutorzerkalo.ru
 rutracker-in.info
 rutracker.club
+rutracker.co.ua
 rutracker2.org
 rutracker2.ru
 rutracker7.org
@@ -10749,6 +10738,7 @@ solo-jobs.info
 sologirl.info
 somostbet.com
 son-casino.men
+sonnik-casino.men
 sooj.info
 sortmed-spb.com
 sosok.pro
@@ -11657,6 +11647,7 @@ wb2018jan.com
 wbgoldbet02.com
 wbgoldodds.com
 wbgoldodds06.com
+wbotsaila.com
 wbpebruari.com
 wbt18.com
 wbtenero.com
@@ -11853,7 +11844,6 @@ winlinebet140.com
 winlinebk.space
 winlinebk.website
 winnerbet.space
-winw1nd.com
 winwinwin.info
 winzerkalobets00.space
 winzerkalobets85.space
@@ -12535,7 +12525,6 @@ www.fonbet112.vip
 www.fonbet115.com
 www.fonbet116.com
 www.fonbet117.com
-www.fonbet12.com
 www.fonbet131.com
 www.fonbet132.com
 www.fonbet133.com
@@ -13505,7 +13494,6 @@ wwz.mp3-tut.biz
 x-bet-1.space
 x-casino.xyz
 x-casinos.net
-x-putany.ru
 x26shop.biz
 xa1991.info
 xacku.store
@@ -13545,7 +13533,6 @@ xn----7sba5bjuidf.pw
 xn----7sbaa2bpifgmqtt1a.pw
 xn----7sbaa4bgfokeazoek.pw
 xn----7sbabaa1cwa5avmggh7b.pw
-xn----7sbabaayvmrcjt1dl.xn--p1ai
 xn----7sbabari3aarmzb6alfr.pw
 xn----7sbabdhbp6aenkiwa0aa9biu.pw
 xn----7sbabeise3co4bmz1k.pw
@@ -13630,7 +13617,6 @@ yabeda.org
 yamai89.biz
 yamal89.cc
 yamatane.info
-yaponecauto.ru
 yaroslavl-diploms.com
 yaroslavl.gosvus.com
 yaroslavl.intimatlas.in
