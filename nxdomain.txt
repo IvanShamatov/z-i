@@ -4234,13 +4234,11 @@ diplom-home.com
 diplom-ir.com
 diplom-kaluga40.ru
 diplom-kursk46.com
-diplom-kypit-irkutsk.ru
 diplom-kypit-omsk.ru
 diplom-msk.org
 diplom-naberezhnie-chelni.com
 diplom-nk.com
 diplom-otl.com
-diplom-pord.ru
 diplom-ru.net
 diplom-ryazan62.ru
 diplom-shop24.com
@@ -4279,7 +4277,6 @@ diploms-help.com
 diploms-line.com
 diploms-sale.top
 diploms.org
-diploms061.com
 diploms29.com
 diplomtrade.com
 diplomy-home.com
@@ -4326,7 +4323,6 @@ don-olo.ru
 don-rc.biz
 doneright.info
 donrc.me
-donru.ru
 dopshop.cc
 dopslot.win
 dorbet.xyz
@@ -7827,7 +7823,6 @@ mostapx.com
 mostasq.com
 mostbch.com
 mostbck.com
-mostbec.com
 mostbek.com
 mostbet-bk-bk.ru
 mostbet-bk-topsport.ru
@@ -7891,7 +7886,6 @@ mostcvc.com
 mostcyf.com
 mostdcm.com
 mostdco.com
-mostdey.com
 mostdis.com
 mostdit.com
 mostdlc.com
@@ -7912,8 +7906,6 @@ mostfnl.com
 mostfnz.com
 mostfof.com
 mostfoj.com
-mostfol.com
-mostfoz.com
 mostfrd.com
 mostfrf.com
 mostfrr.com
@@ -7930,7 +7922,6 @@ mostgcc.com
 mostgep.com
 mostger.com
 mostgff.com
-mostghe.com
 mostgho.com
 mostghv.com
 mostgjo.com
@@ -7979,10 +7970,8 @@ mostkuh.com
 mostlbm.com
 mostldb.com
 mostlen.com
-mostleq.com
 mostlev.com
 mostlge.com
-mostliks.com
 mostlmb.com
 mostlms.com
 mostlmt.com
@@ -8014,7 +8003,6 @@ mostnwh.com
 mostpartbet.com
 mostpartnerland.com
 mostpartnerlandpic.com
-mostpem.com
 mostpetk.com
 mostpho.com
 mostpij.com
@@ -8107,8 +8095,6 @@ mostxcn.com
 mostxdc.com
 mostxel.com
 mostxem.com
-mostxet.com
-mostxez.com
 mostxro.com
 mostxst.com
 mostxzo.com
@@ -8118,7 +8104,6 @@ mostyx.com
 mostzaj.com
 mostzeb.com
 mostzeg.com
-mostziv.com
 mostzoq.com
 mostzqe.com
 mostzsb.com
@@ -9885,6 +9870,7 @@ ru.adleonibeatp.com
 ru.adleonindes.com
 ru.adleonipnon.com
 ru.adleonlagn.com
+ru.adleonlbback.com
 ru.adleonleon.com
 ru.adleonlightbi.com
 ru.adleonlumn.com
@@ -11221,7 +11207,6 @@ uffuff.me
 uffuff.net
 ugbz1.ru
 ugenashop.info
-uglof.ru
 ugo-vostok.info
 uk2-infra.vps.net
 ukip157.webcannon.com
@@ -11450,7 +11435,6 @@ vsem-doki-plus.biz
 vsem-doki-plus.bz
 vsem-prava.ru
 vseocasino.ru
-vsepropoker.pro
 vsepropoker.pw
 vsepropoker.su
 vsepropoker.top
@@ -11902,7 +11886,6 @@ wo188.info
 wolverine-shop.biz
 wolverineshop.net
 wood-film.ru
-wood24.biz
 woody24.biz
 word.bolnich.org
 worldapteka.club
@@ -12500,7 +12483,6 @@ www.diplomoroginald.com
 www.diplomrusd.com
 www.diploms-line.com
 www.diploms-line.com.
-www.diploms72.com
 www.dok911.ru
 www.dokumir.com
 www.dokymentalnoe.ru
@@ -12512,7 +12494,6 @@ www.dosug-habarovsk.ru
 www.dosug-ryazan.com
 www.dosug-stavropol.ru
 www.dosug27.com
-www.drawiswin.com
 www.dzagiseeds.net
 www.e-romania.info
 www.e38.us
@@ -13699,7 +13680,6 @@ yy-24.biz
 yzel.info
 z-bro.biz
 z.xbordel.com
-zakaz-diploma.net
 zakazb.com
 zakis-azota.cc
 zakis-azota.com
@@ -13718,11 +13698,9 @@ zamut.ch
 zamut.gr
 zamut24.biz
 zamutka-24.biz
-zamutka24.biz
 zannn.innal.top
 zapret-casino.men
 zarutor.ru
-zaspravkou.ru
 zatrasie.info
 zaycev-ru.ru
 zaycev-tut.org
