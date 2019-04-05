@@ -5651,6 +5651,7 @@ goldgames.info
 goldikiwb.com
 goldjanwind.com
 goldnowwb.com
+goldotsaila.com
 goldspotfebruar.com
 goldsubat.com
 goldwbcilek.com
@@ -6123,6 +6124,7 @@ kinoant.com
 kinoassorti.ru
 kinobomz.tv
 kinodd.net
+kinoden.pro
 kinodub.tv
 kinofestival.net
 kinofilmof.com
@@ -7827,7 +7829,6 @@ mostbet-otzyvy-topsport.ru
 mostbet-otzyvy4.ru
 mostbet-sport-pro.ru
 mostbet-sport-sport.ru
-mostbet-sport-topsport.ru
 mostbet-sport.ru
 mostbet-zerkala-topsport.ru
 mostbet-zerkala.ru
@@ -8814,7 +8815,6 @@ parimatch-com.space
 parimatch-lox.win
 parimatch-pidar.win
 parimatch-ublyudok.win
-parimatch.cf
 parimatch.ga
 parimatchsports8.com
 parimatchzerkalo1.space
