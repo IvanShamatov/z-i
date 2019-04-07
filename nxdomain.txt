@@ -1149,6 +1149,7 @@
 2hydra.info
 2jg.info
 2k2.info
+2kinogo.net
 2leon.website
 2mp.info
 2ndfl-moscow.ru
@@ -2008,7 +2009,6 @@ account.fon-sportbet.tk
 account.fonsportbet.tk
 account.twistcasinoz.com
 acd82e.olimp1897.top
-acmerc.biz
 acpti.woid.game-server.cc
 acvbnrtiovkdmlxsa.nopeer.ru
 acwzdxk35w.srcl.connect.netcdn.bcdl.rocks
@@ -3217,6 +3217,7 @@ bingo24live7.com
 bingo24live77.com
 bingo24live9.com
 bioticrc.pro
+bioticrc24.biz
 biotik.biz
 biotik24.biz
 bistree.info
@@ -4766,7 +4767,6 @@ filmcity.me
 filmin.club
 filmix-online.net
 filmix.pro
-filmix.top
 filmix.uk
 filmixe.ru
 filmku.ru
@@ -5025,11 +5025,13 @@ fonbet-poool21.win
 fonbet-poool43.win
 fonbet-rabochee.xyz
 fonbet-retire.win
+fonbet-root.win
 fonbet-rossiya32.space
 fonbet-russia.info
 fonbet-sajt.space
 fonbet-sayt.xyz
 fonbet-seven.date
+fonbet-shift.date
 fonbet-staff.win
 fonbet-suddenly.date
 fonbet-tdk2719.ru
@@ -12242,6 +12244,7 @@ www.pigame.net
 www.pin-upcasino3.com
 www.pin138.com
 www.piratbit.ru
+www.pkrwin.com
 www.play.casinofaraon-game.com
 www.playamo11.com
 www.playamo12.com
@@ -13521,7 +13524,9 @@ zerkalobetting565.website
 zerkalobk-arrest.date
 zerkalobk-ceremony.win
 zerkalobk-couch.win
+zerkalobk-danger.date
 zerkalobk-genetic.win
+zerkalobk-host.win
 zerkalobk-teacher.win
 zerkalobk-telephone.win
 zerkalobk11.space
