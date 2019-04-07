@@ -4394,6 +4394,7 @@ dostavka.alco.mobi
 dostavka.bid
 dostup-bk.info
 dostup-bk24.website
+dostup-iz-rossii.bid
 dostup-k-sajtu24.date
 dostup-k-zerkalam-bk.info
 dostup-k-zerkalam.win
@@ -10452,7 +10453,6 @@ ten-casinoz.online
 teonanakatl.pro
 test1.plusminus1.com
 test2.plusminus1.com
-test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
@@ -12306,7 +12306,6 @@ www.psy-plants.ru
 www.ptls.info
 www.pulse-mp3.ru
 www.putana-cz.org
-www.rakyta.moyblog.net
 www.rap-game.ru
 www.rapidzona.com
 www.rastarasha.org
