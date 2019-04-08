@@ -313,12 +313,14 @@
 1wine.top
 1winf.top
 1wing.top
+1wing.xyz
 1winh.top
 1winh.xyz
 1wini.top
 1wini.xyz
 1winj.top
 1winj.xyz
+1wink.top
 1wink.xyz
 1winl.top
 1winl.xyz
@@ -329,6 +331,7 @@
 1winn.xyz
 1wino.top
 1wino.xyz
+1winp.me
 1winp.top
 1winp.xyz
 1winq.me
@@ -338,11 +341,14 @@
 1winr.xyz
 1wins.top
 1wins.xyz
+1wint.me
+1wint.top
 1wint.xyz
 1winu.top
 1winu.xyz
 1winv.top
 1winv.xyz
+1winw.top
 1winw.xyz
 1winx.top
 1winx.xyz
@@ -2480,6 +2486,7 @@ b0449b27dc98caa7ba.c2ef25.781562c135255c8a5b.xyz
 b0449b27dc98caa7ba.c2ef25.a2341e99d0a2f2982f.xyz
 b086dd.olimp876c.site
 b0bdd3.olimp58e8.top
+b0kf.fastbuyouts.com
 b13eed.olimp16e5.top
 b1fecf.olimp876c.site
 b207cb.olimp6b96.top
@@ -2614,6 +2621,7 @@ bars-magnity.com
 bart-rc.biz
 bartrc.net
 barwa.info
+bas-kino-go.net
 baskino-go.ru
 baskino-hd.website
 baskino.bz
@@ -5585,6 +5593,7 @@ fukcspeed.biz
 fullhdrezka.space
 fun4u.biz
 funkvid.info
+funnystars.to
 funplanet.info
 funygold.com
 furseal.info
@@ -6197,6 +6206,7 @@ kinoant.com
 kinoassorti.ru
 kinobomz.tv
 kinodd.net
+kinodo.club
 kinodo.pw
 kinodub.tv
 kinofestival.net
