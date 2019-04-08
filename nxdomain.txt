@@ -316,6 +316,7 @@
 1wine.top
 1winf.me
 1winf.top
+1wing.me
 1wing.top
 1wing.xyz
 1winh.top
@@ -349,6 +350,7 @@
 1wint.me
 1wint.top
 1wint.xyz
+1winu.me
 1winu.top
 1winu.xyz
 1winv.me
@@ -1860,6 +1862,7 @@
 90spravok.ru
 912d54.olimp58e7.top
 913a8b.olimp3043.top
+913fd2.olimp656f.top
 916fbb.olimp1960.top
 919414.olimp16e5.top
 91dd64.olimp16e5.top
