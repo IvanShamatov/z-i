@@ -331,6 +331,7 @@
 1wink.xyz
 1winl.top
 1winl.xyz
+1winm.me
 1winm.top
 1winm.xyz
 1winn.me
@@ -7186,6 +7187,7 @@ megakeys.market
 megakeys.su
 megapsn.ru
 megapsn1.com
+megatfile6-cc.unblocked.is
 megatube.info
 megazaym.com
 meinv8.info
@@ -8623,7 +8625,6 @@ pakemongorc.biz
 pal-stu.info
 palretemin.info
 pam-pam-24.biz
-pam-pam24.biz
 pandacor.biz
 pandacorp24.biz
 parda.info
@@ -13150,6 +13151,7 @@ zazor-24.pro
 zazor.ch
 zazor.name
 zazor.pro
+zazor24.pro
 zbr0.biz
 zbro.me
 zenit-russia.info
