@@ -5746,7 +5746,6 @@ go2site1.net
 go2site5.net
 gobukmeker-prosport.ru
 gobukmeker-rf.ru
-gobukmeker-topsport.ru
 godhelpus.info
 gofinance.info
 gofkamar.ru
@@ -7851,6 +7850,7 @@ mostblr.com
 mostbst.com
 mostbts.com
 mostbtt.com
+mostchm.com
 mostchp.com
 mostcht.com
 mostchx.com
@@ -7863,10 +7863,12 @@ mostdle.com
 mostdmn.com
 mostdms.com
 mostdnd.com
+mostdrd.com
 mostdrl.com
 mostdrt.com
 mostdtc.com
 mostdtf.com
+mostdtg.com
 mostekx.com
 mostfdb.com
 mostfdf.com
@@ -9704,7 +9706,6 @@ ru.leon022.com
 ru.leon024.com
 ru.leon025.com
 ru.leon031.com
-ru.leon032.com
 ru.leon033.com
 ru.leon035.com
 ru.leon037.com
@@ -10665,9 +10666,6 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 teonanakatl.pro
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
