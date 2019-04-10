@@ -200,7 +200,6 @@
 1602.vin.bkr10a.top
 1602.vsepropoker05.xyz
 1603.vsepropoker20.xyz
-1605.vsepropoker37.xyz
 1605.vsepropoker39.xyz
 16283e.olimpd7c0.top
 163-172-104-233.rev.poneytelecom.eu
@@ -533,6 +532,7 @@
 1xdqz.top
 1xdri.xyz
 1xdyb.xyz
+1xdzs.top
 1xear.top
 1xeeg.xyz
 1xeil.top
@@ -545,6 +545,7 @@
 1xflw.xyz
 1xfns.top
 1xfye.top
+1xgaw.top
 1xgbu.top
 1xggw.top
 1xghd.top
@@ -643,9 +644,11 @@
 1xkwf.xyz
 1xkwy.xyz
 1xlar.xyz
+1xlbc.top
 1xlcx.xyz
 1xlif.xyz
 1xljv.top
+1xlva.top
 1xmavemv.xyz
 1xmbp.top
 1xmna.top
@@ -801,6 +804,7 @@
 1xpcm.top
 1xpde.top
 1xpgi.xyz
+1xphz.top
 1xpmh.top
 1xpwq.top
 1xpwv.top
@@ -946,6 +950,7 @@
 1xtitileyyh.xyz
 1xtitilezzn.xyz
 1xtoh.top
+1xtwz.top
 1xudmo.space
 1xukc.top
 1xuno.top
@@ -5689,7 +5694,6 @@ generoustuff.info
 genseeds.net
 gerlsebi.mobi
 get-audio.ru
-get-tunes.su
 getbettraf.com
 gewhdf.info
 gharb.info
@@ -5870,7 +5874,6 @@ hide.bigmama.com
 hileralxikew.info
 hilesibenk.info
 himbum.ru
-himko.org
 histerial.com
 hitermikenil.info
 hitpoint24.biz
@@ -9621,6 +9624,7 @@ ru.adleonbets431.com
 ru.adleonbets443.com
 ru.adleonbets731.com
 ru.adleonbets744.com
+ru.adleonbets843.com
 ru.adleonbets981.com
 ru.adleonbets9814.com
 ru.adleonbets987.com
@@ -10101,7 +10105,6 @@ russianbet.club
 russiancasinox.xyz
 russianwhores.net
 russparty.org
-rustor.xyz
 rustor2.xyz
 rustorrent.info
 rustorrents.life
@@ -12252,7 +12255,6 @@ www.gdzeyka.com
 www.gdzmania.com
 www.gdzok.ru
 www.gdzv.ru
-www.get-tunes.su
 www.gidonline-club.ru
 www.gidrogrower.com
 www.gigmovie.ru
@@ -12446,6 +12448,7 @@ www.myfrankcasino.ru
 www.mynewsite.info
 www.mypsn.su
 www.myrc-store.net
+www.mytiffanyworld.ru
 www.n-torrents.ru
 www.na-kinogo.net
 www.natelefon.tk
