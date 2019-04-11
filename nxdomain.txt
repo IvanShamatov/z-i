@@ -5740,6 +5740,7 @@ ghuraba.host
 gibdd-spravka.com
 gid-novinki-kino.ru
 gid-online.in
+gidkino.net
 gidonlain.in
 gidonliine.ru
 gidonline-club.net
@@ -8102,6 +8103,7 @@ mp-01.fbmetrix-b2a3d.com
 mp-01.fbmetrix-b8229.com
 mp-01.fbmetrix-caad5.com
 mp-01.fbmetrix-d083e.com
+mp-01.fbmetrix-d6f3c.com
 mp-01.fbmetrix-d8387.com
 mp-01.fbmetrix-e49ae.com
 mp-01.fbmetrix-e65f0.com
@@ -10142,7 +10144,6 @@ rus-torrentsss.xyz
 rus.cybbet.com
 rus.musicoff.online
 rus.pokersavvyplayers.net
-rus.sibseeds.org
 rusazino777.ru
 rusbet.space
 ruscompromats.ru
@@ -10301,7 +10302,6 @@ semyanka1.org
 sepl.info
 serf-casino.men
 seria-z.me
-serial-tv.pro
 serial-z.online
 serialhit.tv
 serialpro.net
@@ -10545,6 +10545,7 @@ sportingbullru567.com
 sportingbullru678.com
 sportingbullru789.com
 sportkontora.website
+sportmagaz.biz
 sportmatch.pro
 sports.tbzco.com
 sports.tbzlk.com
@@ -11051,6 +11052,7 @@ vhods-bukmekerskaya43.space
 vhodseychasvbk.space
 vid.xcasino12.com
 video-clip4.press
+video-otvets.ru
 video-zona4.stream
 videoad.info
 videodb.online
