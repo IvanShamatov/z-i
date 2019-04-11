@@ -2332,10 +2332,15 @@ ap-01.accessfonbet-d8ff4.com
 ap-01.accessfonbet-f21d8.com
 ap-01.accessfonbet-f499b.com
 ap-01.accessfonbet.xyz
+ap-01.accessfonbets.info
 ap-02.accessfonbet.xyz
+ap-02.accessfonbets.info
 ap-03.accessfonbet.xyz
+ap-03.accessfonbets.info
 ap-04.accessfonbet.xyz
+ap-04.accessfonbets.info
 ap-05.accessfonbet.xyz
+ap-05.accessfonbets.info
 apa-aja.info
 apkluccy.info
 apkus.info
@@ -5951,6 +5956,7 @@ hydra5etioavaz7p.free-onion.com
 hydraklad.com
 hydrarc.ru
 hydraruzxpnew4af.biz
+hydraruzxpnew4afm.online
 hydrator.center
 hydrator.club
 hydrohot.info
