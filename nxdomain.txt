@@ -8133,6 +8133,7 @@ mp-01.fbmetrix-d6f3c.com
 mp-01.fbmetrix-d8387.com
 mp-01.fbmetrix-e49ae.com
 mp-01.fbmetrix-e65f0.com
+mp-01.fbmetrix-fb14d.com
 mp-01.fbmetrix-fea3f.com
 mp-02.directsmartroute.xyz
 mp-02.smartdirectroute.co
@@ -9901,6 +9902,7 @@ ru.leon794.com
 ru.leon801.com
 ru.leon803.com
 ru.leon831.com
+ru.leon834.com
 ru.leon867.com
 ru.leon89.com
 ru.leon894.com
