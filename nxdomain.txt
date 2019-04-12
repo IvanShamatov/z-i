@@ -9561,7 +9561,6 @@ refpaqcd.top
 refpaqed.top
 refpaqoq.top
 refpareb.top
-refpartg.top
 refpasio.top
 refpatmb.top
 refpattx.top
@@ -9658,6 +9657,7 @@ rltnsk.com
 rmehdee.info
 rmeventos2.com.br
 rmnp.info
+rohollahzam.tawanaproxy.club
 rolix1.biz
 room-rupoker.com
 roomrupoker.com
