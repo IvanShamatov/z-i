@@ -3466,6 +3466,7 @@ bk-info184.site
 bk-info187.online
 bk-info187.site
 bk-info188.online
+bk-info189.top
 bk-info189.xyz
 bk-info191.site
 bk-info194.online
@@ -5939,6 +5940,7 @@ igrastavkafons.space
 igrat-avtomaty.club
 igrat-besplatno-azino.space
 igrat-besplatno-kazino.win
+igrat-na-dengi.ru
 igrat-onlajn-kazino-igrovye.date
 igrat-vulcan-online.ru
 igrinadengi.top
@@ -8270,6 +8272,7 @@ new-bobfilm.net
 new-bobfilm.ru
 new-bobfilm.site
 new-cheleba.com
+new-diplom.com
 new-games-only.com
 new-gidonline.in
 new-gidonline.ru
@@ -10757,7 +10760,6 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 teonanakatl.pro
-test2.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
