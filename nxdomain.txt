@@ -1854,10 +1854,7 @@
 8torrent.net
 8torrent.org
 8torrent.ru
-8v5r11.rollingscan.biz
 8v5r20.rollingscan.biz
-8v5r7.rollingscan.biz
-8v5r9.rollingscan.biz
 902a96.olimp1960.top
 908c0c.olimpb138.top
 9098.info
@@ -2274,7 +2271,6 @@ ap-01.accessfonbet-68680.com
 ap-01.accessfonbet-710c6.com
 ap-01.accessfonbet-74b9a.com
 ap-01.accessfonbet-7e13e.com
-ap-01.accessfonbet-8297d.com
 ap-01.accessfonbet-977e7.com
 ap-01.accessfonbet-a5367.com
 ap-01.accessfonbet-c1ded.com
@@ -3253,7 +3249,6 @@ bigbro24rc.net
 bigbrorc24.biz
 bigbudah.info
 bigcinema-tv.info
-bigcinema.cc
 bigcinema.kz
 bigmovies.info
 bigtgk.ru
@@ -5786,7 +5781,6 @@ homeporno.org
 hoom.ru
 horikan.info
 horosheekazino.com
-host.eucloud101.net
 host157.megaoffer.net
 host84.hot-offer.org
 hot-bet.club
@@ -7735,7 +7729,6 @@ moneyslot.win
 monsterseed.org
 mordkovich7.ru
 moresat.info
-morogebuy.ru
 mos-apteka.org
 moscowlowan.ru
 mosstarbet.com
@@ -8133,7 +8126,6 @@ new-bobfilm.ru
 new-bobfilm.site
 new-cheleba.com
 new-diplom.com
-new-games-only.com
 new-gidonline.in
 new-gidonline.ru
 new-hdrezka.site
@@ -8204,7 +8196,6 @@ new.parimatchsports4.com
 new.parimatchsports5.com
 new.parimatchsports6.com
 new.parimatchsports7.com
-new.parimatchsports8.com
 new.torrnado.win
 new.vkmp3.su
 new.winline-bet1.com
@@ -8958,7 +8949,6 @@ pokerdom22.org
 pokerdom23.org
 pokupkabethep.ru
 pokupkatoftref.ru
-ponn.cc
 ponziano.info
 popa.biz
 popfilm.club
@@ -8979,7 +8969,6 @@ pornovideo24.com
 port1x.pw
 port1x.space
 portaldor7.info
-posesnomarket.ru
 posterart.info
 potensib.ru
 poysam.com
@@ -9081,7 +9070,6 @@ prostitutki-tyumeni.ingirls.ru
 prostitutki-v-tumeni.date
 prostitutki-volgograda.biz
 prostitutki-voronezha.ingirls.ru
-prostitutki-x.ru
 prostitutki-xx.com
 prostitutki.es
 prostitutki11.bid
@@ -9209,7 +9197,6 @@ puvo.trade
 puyallup.info
 pvp27.biz
 py8.piratdada.top
-pyatigorsk.navigator-96.ru
 pyatigorsk.prostitutkiooo.com
 pyphpdev.com
 pz10.piratdada.top
@@ -10173,7 +10160,6 @@ shop-diplom1.com
 shop-diploms.com
 shop-kazino.win
 shop-minotavr.biz
-shop-paradise.co.il
 shop-shaman.ru
 shop.r-n-d.top
 shopbezdepx.win
@@ -13015,7 +13001,6 @@ www2.parimatchsport8.com
 www2.parimatchsport9.com
 www2.parimatchsports1.com
 www2.parimatchsports2.com
-www2.parimatchsports3.com
 www2.parimatchsports4.com
 www2.parimatchsports5.com
 www2.parimatchsports6.com
@@ -13463,6 +13448,7 @@ zenzi.info
 zeoncasino2.com
 zeoncasino6.com
 zerbetgoom44.space
+zercalo-azarta.ru
 zercalo-rutor.org
 zercaloazarta.ru
 zerfonbettingd.space
