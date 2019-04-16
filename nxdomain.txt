@@ -2302,7 +2302,6 @@ app.fimann.com
 app.fimann.net
 app.fimann.org
 app.monetino.biz
-app.monetino.com
 app.monetino.me
 app.monetino.org
 app.startcredit.me
@@ -10089,7 +10088,6 @@ seedbanda.site
 seedbanda.website
 seedskanabis.life
 seedskanabis.pro
-seedskanabis.top
 seedsmarkt.site
 seedsmarkt.top
 segodnya24.men
@@ -12249,6 +12247,7 @@ www.kinozadrot.net
 www.kmv13.biz
 www.knigi-besplatno.org
 www.konoplevv.club
+www.krasfun.ru
 www.krk24.biz
 www.ksiva.club
 www.kubilay.info
@@ -13501,6 +13500,7 @@ zerkala-bk-kontor.bid
 zerkala-bk-novyj-sajt.bid
 zerkala-bk.bid
 zerkala-bk.ru
+zerkala-bk1.ru
 zerkala-mostbet-bets.ru
 zerkala-mostbet-topsport.ru
 zerkala-mostbet.ru
