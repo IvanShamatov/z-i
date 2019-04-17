@@ -9237,7 +9237,6 @@ refpakbz.top
 refpakmz.top
 refpakxs.top
 refpakyi.top
-refpalil.top
 refpalng.top
 refpalom.top
 refpalps.top
@@ -9250,7 +9249,6 @@ refpanax.top
 refpanay.top
 refpangd.top
 refpanrl.top
-refpante.top
 refpaoey.top
 refpaoyx.top
 refpapsb.top
@@ -9260,7 +9258,6 @@ refpaqoq.top
 refpareb.top
 refpasio.top
 refpatmb.top
-refpattx.top
 refpatua.top
 refpaufh.top
 refpaukk.top
@@ -9272,7 +9269,6 @@ refpavib.top
 refpavrc.top
 refpavtx.top
 refpavzv.top
-refpawjt.top
 refpawup.top
 refpawvu.top
 refpaxeh.top
@@ -9730,6 +9726,7 @@ ru.swleonbets031.com
 ru.swleonbets033.com
 ru.swleonbets035.com
 ru.swleonbets038.com
+ru.swleonbets091.com
 ru.swleonbets099.com
 ru.swleonbets212.com
 ru.swleonbets221.com
@@ -9907,7 +9904,6 @@ rutracker2.ru
 rutracker7.org
 rutreker-2018.org
 ruttorg.info
-rw3www2.ru
 rx-shops.info
 ryazan-intim.com
 ryazan-intim.info
@@ -12257,7 +12253,6 @@ www.propkr.com
 www.prostitutki-orenburg.biz
 www.prostitutki-sochi.info
 www.prostitutki-volgograda.biz
-www.prostitutkisochi24.com
 www.prostitutkivolgograda24.biz
 www.ps-zahid.info
 www.psncoolgame.su
