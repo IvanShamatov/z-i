@@ -2267,12 +2267,14 @@ ap-01.accessfonbet-2e145.com
 ap-01.accessfonbet-3c7eb.com
 ap-01.accessfonbet-42e18.com
 ap-01.accessfonbet-473ac.com
+ap-01.accessfonbet-4cade.com
 ap-01.accessfonbet-58020.com
 ap-01.accessfonbet-58e6c.com
 ap-01.accessfonbet-68680.com
 ap-01.accessfonbet-710c6.com
 ap-01.accessfonbet-74b9a.com
 ap-01.accessfonbet-7e13e.com
+ap-01.accessfonbet-8297d.com
 ap-01.accessfonbet-977e7.com
 ap-01.accessfonbet-a5367.com
 ap-01.accessfonbet-c1ded.com
@@ -7872,6 +7874,7 @@ mostqam.com
 mostqpl.com
 mostqrt.com
 mostqwl.com
+mostraf.com
 mostrafnew.com
 mostrdm.com
 mostrff.com
@@ -7948,8 +7951,10 @@ mp-01.fbmetrix-464a7.com
 mp-01.fbmetrix-4a35d.com
 mp-01.fbmetrix-4d043.com
 mp-01.fbmetrix-4e7f4.com
+mp-01.fbmetrix-6cef8.com
 mp-01.fbmetrix-7f8cc.com
 mp-01.fbmetrix-9b57b.com
+mp-01.fbmetrix-af821.com
 mp-01.fbmetrix-b16e3.com
 mp-01.fbmetrix-b2a3d.com
 mp-01.fbmetrix-b8229.com
@@ -7958,6 +7963,7 @@ mp-01.fbmetrix-d083e.com
 mp-01.fbmetrix-d6f3c.com
 mp-01.fbmetrix-d8387.com
 mp-01.fbmetrix-e49ae.com
+mp-01.fbmetrix-e65f0.com
 mp-01.fbmetrix-fb14d.com
 mp-01.fbmetrix-fea3f.com
 mp-02.directsmartroute.xyz
@@ -8067,6 +8073,7 @@ mylove62.xyz
 mymostpart.com
 mymostpartpic.com
 mymostpartpic24.com
+mymostraf.com
 mynbx247.info
 mynewmodels.com
 mynewsite.info
@@ -10458,6 +10465,7 @@ suqar-shops.com
 surfwithease.com
 surgut.sexoholic.ru
 sushifreshvrn.ru
+svcentr98.com
 svet-ekonom.ru
 svidetelstva-moskva.com
 svidetelstvo-online.info
@@ -10500,6 +10508,7 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 teonanakatl.pro
+test2.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
