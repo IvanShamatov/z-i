@@ -53,7 +53,6 @@
 0603.leon.bkr01l.top
 0603.vin.bkr22a.top
 0604.vin.bkr30a.top
-0606.vsepropoker13.top
 0636a6.olimp1a50.top
 065bbf.olimp4859.top
 0670b7.olimpe24a.top
@@ -1642,6 +1641,7 @@
 69657d.olimp58e7.top
 69c4a9.olimp6753.top
 69cdbb.olimpd2a5.top
+69dg.ru
 69e1fc.olimpb4cc.top
 6a1dc5.olimp31d2.top
 6a2ec7.olimpe24a.top
@@ -2527,6 +2527,7 @@ azmnp1.com
 azotcenter.com
 azotservise.com
 azov-siti.com
+b-52-club.ru
 b-bets.top
 b-bets11.top
 b-bets128.top
@@ -6293,7 +6294,6 @@ kinogo-720.tv
 kinogo-club-hd.co
 kinogo-club-online.net
 kinogo-club.info
-kinogo-club.ru
 kinogo-film.net
 kinogo-film.ru
 kinogo-filmi.cc
@@ -9830,6 +9830,7 @@ ru.leonbets9814.com
 ru.leonbets9832.com
 ru.leonbets988.com
 ru.leonbets989.com
+ru.leonbetsmer.com
 ru.leonbingo.com
 ru.leonbor.com
 ru.leonbyben.com
@@ -10091,6 +10092,7 @@ rutor-torrents.ru
 rutor-zerkalo.info
 rutor-zerkalo.net
 rutor-zerkalo.ru
+rutor.bz
 rutor.lato.pw
 rutor.online
 rutor.proxme.download
@@ -10287,7 +10289,6 @@ silmag03.ru
 silmag05.ru
 silmag116.ru
 silmag142.ru
-silmag16.ru
 silmag163.ru
 silmag18.ru
 silmag21.ru
@@ -10333,6 +10334,7 @@ silmag74.ru
 silmag75.ru
 silmag76.ru
 silmag77.ru
+silmag86.ru
 siloviki.press
 simfrc.biz
 simul.pro
@@ -10432,7 +10434,6 @@ somostbet.com
 son-casino.men
 sonnik-casino.men
 sooj.info
-soskivyezd.ru
 sosok.pro
 south-tlv.info
 soutshop.biz
@@ -12071,7 +12072,6 @@ www.casino-azino777-bonus.ru
 www.casinoion.com
 www.casinoosiris.com
 www.casinosuperslot34.space
-www.catalogof.ru
 www.catube.xyz
 www.cazinoz.biz
 www.cccsinternational.com
@@ -12543,6 +12543,7 @@ www.ruseventer.ru
 www.rustrek.ru
 www.rutor-new.ru
 www.rutor-serials.info
+www.rutor.bz
 www.rutor.su
 www.rutor2.online
 www.ruttorg.info
