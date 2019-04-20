@@ -5875,7 +5875,6 @@ hd.clip16.com
 hd.zfilm-hd.space
 hd720.co
 hdkinohit.net
-hdkinoman.net
 hdkinomix.net
 hdpicture.ru
 hdrezka.cx
@@ -10338,6 +10337,7 @@ silmag22.ru
 silmag23.ru
 silmag24.ru
 silmag25.ru
+silmag26.ru
 silmag27.ru
 silmag30.ru
 silmag31.ru
@@ -10698,6 +10698,8 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 teonanakatl.pro
+test1.plusminus1.com
+test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
@@ -12340,6 +12342,7 @@ www.knigi-besplatno.org
 www.konoplevv.club
 www.krasfun.ru
 www.krk24.biz
+www.kshdb7823.com
 www.ksiva.club
 www.kubilay.info
 www.kunlungj.com
