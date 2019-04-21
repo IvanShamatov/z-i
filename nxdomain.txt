@@ -2367,10 +2367,14 @@ ap-01.accessfonbet-eb3d3.com
 ap-01.accessfonbet-f21d8.com
 ap-01.accessfonbet-f499b.com
 ap-01.accessfonbet-fc277.com
+ap-01.accessfonbet.xyz
 ap-01.accessfonbets.info
 ap-02.accessfonbets.info
+ap-03.accessfonbet.xyz
 ap-03.accessfonbets.info
+ap-04.accessfonbet.xyz
 ap-04.accessfonbets.info
+ap-05.accessfonbet.xyz
 ap-05.accessfonbets.info
 apa-aja.info
 apizenitbet2.pw
@@ -6064,6 +6068,7 @@ in-volcano.com
 indi-perm.com
 individualki-nizhnego-novgoroda.date
 individualki-samara.ru
+individualki-smolensk.ru
 individualki-volgograda.site
 individualkicheboksary.men
 individualkisamary.date
