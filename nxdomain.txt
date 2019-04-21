@@ -2369,6 +2369,7 @@ ap-01.accessfonbet-f499b.com
 ap-01.accessfonbet-fc277.com
 ap-01.accessfonbet.xyz
 ap-01.accessfonbets.info
+ap-02.accessfonbet.xyz
 ap-02.accessfonbets.info
 ap-03.accessfonbet.xyz
 ap-03.accessfonbets.info
@@ -10743,6 +10744,8 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 teonanakatl.pro
+test1.plusminus1.com
+test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
