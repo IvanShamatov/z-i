@@ -5889,6 +5889,7 @@ hd.clip16.com
 hd.zfilm-hd.space
 hd720.co
 hdkinohit.net
+hdkinoman.net
 hdkinomix.net
 hdpicture.ru
 hdrezka.cx
@@ -6291,6 +6292,7 @@ kino-hd720.info
 kino-lain.ru
 kino-mania.pro
 kino-olimp.ru
+kino-onlain.me
 kino-profi.org
 kino-rip.eu
 kino-serialu.ru
@@ -8108,6 +8110,7 @@ mostxen.com
 mostxsd.com
 mostxst.com
 mostxvc.com
+mostzsb.com
 mostzww.com
 movie-max.su
 movierating.info
