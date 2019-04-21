@@ -181,6 +181,7 @@
 137507.olimpb4cc.top
 1402.vin.bkr09a.top
 1402.vsepropoker04.xyz
+1403.leon.bkr08l.top
 1411.bkrbet.top
 1459a9.olimp12da.top
 146-42-253-162.static.reverse.lstn.net
@@ -1029,6 +1030,7 @@
 2001.vsepropoker04.top
 2002.vin.bkr11a.top
 2002.vsepropoker07.xyz
+2003.leon.bkr06l.top
 2003.vin.bkr21a.top
 2003.vsepropoker28.xyz
 2004.leon.leon2016.ru
@@ -1209,6 +1211,7 @@
 2801.vsepropoker08.top
 2802.vin.bkr16a.top
 2802.vsepropoker12.xyz
+2803.leon.bkr07l.top
 2808fb.olimp1958.top
 2811.vsepropoker.pro
 281joycasino.ru
@@ -3747,9 +3750,12 @@ bkr05l.top
 bkr06a.top
 bkr07.ru
 bkr07a.top
+bkr07l.top
 bkr08.ru
 bkr08a.top
+bkr08l.top
 bkr09a.top
+bkr09l.top
 bkr10a.top
 bkr11a.top
 bkr12a.top
@@ -4358,7 +4364,6 @@ daffy-drags.biz
 daffy-labs.biz
 daffy24.biz
 dallasburnsnight.com
-dam.study-edu.net
 dan-tri.info
 danglobe.info
 danujaya.info
@@ -6746,6 +6751,9 @@ leon.bkr02l.top
 leon.bkr03l.top
 leon.bkr04l.top
 leon.bkr05l.top
+leon.bkr06l.top
+leon.bkr07l.top
+leon.bkr08l.top
 leon.leon2016.ru
 leon.leonbets7.top
 leon1.xyz
@@ -12753,6 +12761,7 @@ www.tutdiplom.com
 www.tyhuu.info
 www.udostoverenie-24.com
 www.ufalux.org
+www.ukrlife.tv
 www.univermag.biz
 www.va-bank-casino.ru
 www.vagrius.ru
