@@ -6440,7 +6440,6 @@ kinomir.ml
 kinomixhd.ru
 kinomixs.ru
 kinomong.cc
-kinonew.club
 kinoni.ru
 kinoo-net.ru
 kinook.tv
@@ -10256,6 +10255,7 @@ scitalcu.ru
 scrooge24.biz
 season-var.cc
 seasonvar-seriali.ru
+seasonvar.org
 secret-store24.biz
 secretstore.me
 secretstore24.biz
