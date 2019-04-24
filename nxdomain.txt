@@ -294,6 +294,7 @@
 1sporto.pw
 1voda.meg-magnet.org
 1wcyu.xyz
+1win9.xyz
 1wina.me
 1wina.top
 1wina.xyz
@@ -317,6 +318,7 @@
 1wini.me
 1wini.top
 1wini.xyz
+1winii.xyz
 1winj.me
 1winj.top
 1winj.xyz
@@ -356,6 +358,7 @@
 1winu.me
 1winu.top
 1winu.xyz
+1winuu.xyz
 1winv.me
 1winv.top
 1winv.xyz
@@ -8611,6 +8614,7 @@ nodeplaza-x.win
 nodeposits.info
 nodeptimes-x.win
 noippk.ru
+nokiars.ru
 nomer-org.one
 nomer-tel.info
 nomerorg.one
