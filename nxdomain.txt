@@ -5420,6 +5420,7 @@ fonbetiks.ru
 fonbetiks1.ru
 fonbetiks11.ru
 fonbetiks14.ru
+fonbetiks15.ru
 fonbetiks2.ru
 fonbetiks3.ru
 fonbetiks4.ru
@@ -10291,6 +10292,7 @@ seasonvar.org
 secret-store24.biz
 secretstore.me
 secretstore24.biz
+seedbanda.club
 seedbanda.info
 seedbanda.me
 seedbanda.site
