@@ -296,12 +296,16 @@
 1win00.top
 1win1.top
 1win1.xyz
+1win11.top
 1win11.xyz
 1win2.top
+1win3.top
 1win3.xyz
 1win33.xyz
+1win4.top
 1win5.top
 1win5.xyz
+1win55.top
 1win55.xyz
 1win8.xyz
 1win88.xyz
@@ -310,6 +314,7 @@
 1wina.me
 1wina.top
 1wina.xyz
+1winaa.top
 1winb.me
 1winb.top
 1winb.xyz
@@ -322,6 +327,7 @@
 1windd.xyz
 1wine.me
 1wine.top
+1winee.top
 1winf.me
 1winf.top
 1winff.xyz
@@ -343,6 +349,7 @@
 1winj.me
 1winj.top
 1winj.xyz
+1winjj.top
 1winjj.xyz
 1wink.me
 1wink.top
@@ -372,14 +379,17 @@
 1winp.me
 1winp.top
 1winp.xyz
+1winpp.top
 1winpp.xyz
 1winq.me
 1winq.top
 1winq.xyz
+1winqq.top
 1winqq.xyz
 1winr.me
 1winr.top
 1winr.xyz
+1winrr.top
 1winrr.xyz
 1wins.me
 1wins.top
@@ -403,6 +413,7 @@
 1winw.me
 1winw.top
 1winw.xyz
+1winww.top
 1winww.xyz
 1winx.me
 1winx.top
@@ -414,6 +425,7 @@
 1winz.me
 1winz.top
 1winz.xyz
+1winzz.top
 1winzz.xyz
 1x-141.online
 1x-147.site
@@ -3485,6 +3497,7 @@ bk-fonbet142.ru
 bk-fonbet143.ru
 bk-fonbet144.ru
 bk-fonbet145.ru
+bk-fonbet146.ru
 bk-fonbet147.ru
 bk-fonbet34.ru
 bk-fonbet35.ru
@@ -3581,6 +3594,8 @@ bk-info140.xyz
 bk-info144.site
 bk-info145.online
 bk-info145.site
+bk-info145.top
+bk-info146.top
 bk-info150.online
 bk-info150.site
 bk-info151.top
@@ -7454,13 +7469,16 @@ melbetdts.xyz
 melbetdyp.top
 melbetedy.top
 melbeteil.top
+melbetejw.top
 melbetfnw.top
 melbetfye.top
 melbetgbi.top
 melbetgbu.top
+melbetgdy.top
 melbetgju.top
 melbetgke.top
 melbethjj.xyz
+melbethjs.top
 melbetisp.top
 melbetixj.top
 melbetiyk.xyz
@@ -7472,6 +7490,7 @@ melbetkft.top
 melbetkjm.top
 melbetkle.top
 melbetkwy.xyz
+melbetlbw.top
 melbetlel.top
 melbetlms.top
 melbetmbp.top
@@ -7510,13 +7529,16 @@ melbetoeq.top
 melbetorp.top
 melbetpde.top
 melbetpdv.top
+melbetpfg.top
 melbetpmp.top
 melbetpru.top
 melbetpwq.top
 melbetpyp.xyz
 melbetpzx.xyz
 melbetqau.top
+melbetqko.top
 melbetqoj.top
+melbetrao.top
 melbetrjc.top
 melbetrlx.xyz
 melbetrsq.top
@@ -7549,6 +7571,7 @@ melbetxox.top
 melbetxzf.xyz
 melbetyti.top
 melbetzeg.top
+melbetzey.top
 melbetzgd.top
 melbetzgp.top
 melbetztb.top
@@ -8816,7 +8839,6 @@ oficialnyj-vxod.bid
 ogokino.ru
 oko9.ml
 old.ayahuascas.com
-olddiplom.ru
 olddiploms.com
 oldsex.info
 olicash.su
@@ -9506,7 +9528,10 @@ q58307gghql71.piratdada.top
 qopslot.win
 qq120.info
 qregistrationbk202.top
+qregistrationbk303.top
+qregistrationbk707.top
 qregistrationbk808.top
+qregistrationbk999.top
 qsgfp6qe5.srcl.connect.netcdn.bcdl.rocks
 quickbets.online
 quickbets21.ru
@@ -10819,6 +10844,7 @@ srcs85.connect.netcdn.bcdl.rocks
 srcs905.connect.netcdn.bcdl.rocks
 srcs916.connect.netcdn.bcdl.rocks
 srcs988.connect.netcdn.bcdl.rocks
+sregistrationbk101.top
 srtv.monika-love.com
 ssh24.biz-24.biz
 ssocks.cf
@@ -11167,7 +11193,10 @@ usagi.klad.cc
 use-me.info
 ussafety.info
 uwin1.xyz
+uzerkalobk101.top
 uzerkalobk202.top
+uzerkalobk303.top
+uzerkalobk404.top
 uztoylar.ru
 v-bordele.ru
 v-platinum1.com
@@ -11815,6 +11844,8 @@ worlds-pc.ru
 worldthings.today
 wregistrationbk202.top
 wregistrationbk404.top
+wregistrationbk808.top
+wregistrationbk909.top
 wregistrationbk999.top
 wshop24.com
 wshops24.biz
@@ -12705,7 +12736,6 @@ www.nyaa.st
 www.o-filme.ru
 www.offsidebet.com
 www.okvuz.biz
-www.olddiplom.ru
 www.omsk.nuzhnyprava.com
 www.oneofus.info
 www.oneshop-24.biz
