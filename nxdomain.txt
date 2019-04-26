@@ -181,6 +181,7 @@
 1402.vsepropoker04.xyz
 1403.leon.bkr08l.top
 1411.bkrbet.top
+144chan.pk
 1459a9.olimp12da.top
 146-42-253-162.static.reverse.lstn.net
 14868d6ae14cead709.c2ef25.a2341e99d0a2f2982f.xyz
@@ -8825,7 +8826,6 @@ nodepbonuc.com
 nodeplaza-x.win
 nodeposits.info
 nodeptimes-x.win
-noippk.ru
 nokiars.ru
 nomer-org.one
 nomer-tel.info
@@ -9588,6 +9588,7 @@ psncoolgame.su
 psngg.com
 psnone.ru
 psy-plants.ru
+psy-shop24.ru
 ptls.info
 publiccasino.net
 pulse-mp3.ru
@@ -14040,6 +14041,7 @@ zerkalo-fonbet130.ru
 zerkalo-fonbet131.ru
 zerkalo-fonbet137.ru
 zerkalo-fonbet139.ru
+zerkalo-fonbet140.ru
 zerkalo-goldfishka.win
 zerkalo-leonbets.xyz
 zerkalo-marathonbet.xyz
