@@ -2448,6 +2448,7 @@ ap-01.accessfonbet-4b1d1.com
 ap-01.accessfonbet-4cade.com
 ap-01.accessfonbet-58020.com
 ap-01.accessfonbet-58e6c.com
+ap-01.accessfonbet-62149.com
 ap-01.accessfonbet-636a0.com
 ap-01.accessfonbet-68680.com
 ap-01.accessfonbet-710c6.com
@@ -4044,7 +4045,6 @@ br-bad.online
 br-tv.net
 br18.info
 brazzme.com
-brazzme.tv
 brbnt24.biz
 brbpipes.info
 brg24.biz
@@ -4878,7 +4878,6 @@ eccolav-24.biz
 eccolavk.biz
 echo-news.info
 eco-lav24.biz
-ecobirga.ru
 ecoiav24.biz
 ecolaf24.biz
 ecolavk24.biz
@@ -10272,9 +10271,7 @@ ru.leonfeature.com
 ru.leonfon.org
 ru.leonftx.com
 ru.leongant.com
-ru.leongermany.com
-ru.leongne.com
-ru.leongost.com
+ru.leongermngost.com
 ru.leongrr.com
 ru.leongury.com
 ru.leonhh.com
@@ -11134,9 +11131,6 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 teonanakatl.pro
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tewiqybel.info
 tg.yadda.club
 tginfo.yadda.club
@@ -14410,6 +14404,11 @@ zrkalo.space
 zull.innal.top
 zulll.innal.top
 zumm.info
+zv-fm.ru
+zvfm.su
+zvukovoronka.ru
+zz972.info
+o
 zv-fm.ru
 zvfm.su
 zvukovoronka.ru
