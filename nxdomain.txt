@@ -2437,6 +2437,7 @@ aofahmwz4.srcl.connect.netcdn.bcdl.rocks
 ap-01.accessfonbet-00c4d.com
 ap-01.accessfonbet-1af93.com
 ap-01.accessfonbet-2e145.com
+ap-01.accessfonbet-32a33.com
 ap-01.accessfonbet-3c7eb.com
 ap-01.accessfonbet-42e18.com
 ap-01.accessfonbet-433fd.com
@@ -14268,6 +14269,7 @@ zerkalobk-genetic.win
 zerkalobk-host.win
 zerkalobk-look.win
 zerkalobk-oven.win
+zerkalobk-stone.win
 zerkalobk-system.date
 zerkalobk-teacher.win
 zerkalobk-telephone.win
