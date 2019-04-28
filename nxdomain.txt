@@ -10568,7 +10568,6 @@ rutor.bz
 rutor.lato.pw
 rutor.proxme.download
 rutor.vip
-rutor2.online
 rutor2.pl
 rutor3.info
 rutor4.org
@@ -13112,7 +13111,6 @@ www.rutor-new.ru
 www.rutor-serials.info
 www.rutor.bz
 www.rutor.su
-www.rutor2.online
 www.ruttorg.info
 www.ryazan-intim.com
 www.samara-devochki.com
@@ -14467,5 +14465,6 @@ zulll.innal.top
 zumm.info
 zv-fm.ru
 zvfm.su
+zvuk.me
 zvukovoronka.ru
 zz972.info
