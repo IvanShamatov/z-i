@@ -4795,6 +4795,7 @@ dosug-kirov.info
 dosug-omsk.info
 dosug-ryazan.com
 dosug-ryazan.info
+dosug28.com
 dosug43.info
 dosug58.info
 dosug59.pro
@@ -5082,7 +5083,6 @@ fail-zona.ru
 fairplay.bet
 fami-zen.info
 fanserials.cc
-fanserials.co
 fanserials.guru
 fanserials.pro
 fansport.website
@@ -5929,7 +5929,6 @@ fukcspeed.biz
 fullhdrezka.space
 fun4u.biz
 funkvid.info
-funnystars.to
 funplanet.info
 furseal.info
 futuramer.info
@@ -11222,8 +11221,6 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 teonanakatl.pro
-test1.plusminus1.com
-test2.plusminus1.com
 test3.plusminus1.com
 tewiqybel.info
 tfiletorrent.info
