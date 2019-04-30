@@ -8497,6 +8497,7 @@ movie-max.su
 movierating.info
 moysound.ru
 mp-01.directsmartroute.xyz
+mp-01.fbmetrix-03b4d.com
 mp-01.fbmetrix-0702e.com
 mp-01.fbmetrix-0d586.com
 mp-01.fbmetrix-13f15.com
@@ -13910,7 +13911,6 @@ zaycev-ru.ru
 zaycev-tut.org
 zaycev-tut.ru
 zaycevnetu.ru
-zayka.online
 zaymuzaym.ru
 zazor-24.pro
 zazor.ch
