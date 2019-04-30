@@ -3640,6 +3640,7 @@ bk-fonbets13.ru
 bk-fonbets14.ru
 bk-fonbets15.ru
 bk-fonbets16.ru
+bk-fonbets17.ru
 bk-g4t.ru
 bk-info-zerkala.bid
 bk-info-zerkalo.win
@@ -4031,7 +4032,6 @@ board.v.ua
 bob-96.biz
 bob96.com
 bobfillm.ru
-bobfilm.club
 bobfilm1.info
 bobfilms.ru
 bobfilms.site
@@ -6250,7 +6250,6 @@ hwood-24.biz
 hwt110.biz
 hydra-center.online
 hydra-onion-online.com
-hydra-onion.net
 hydra0118.club
 hydra2-web.pro
 hydra2018.center
@@ -10995,6 +10994,7 @@ sokureshop.info
 sol-spaice.ml
 solmx.biz
 solo-jobs.info
+solo-nsk.ru
 sologirl.info
 somostbet.com
 son-casino.men
@@ -11248,9 +11248,11 @@ telkipitera.com
 ten-casino.online
 ten-casinos.online
 ten-casinoz.online
+tennisireal.tj
 teonanakatl.pro
 test1.plusminus1.com
 test2.plusminus1.com
+test3.plusminus1.com
 tewiqybel.info
 tfiletorrent.info
 tg.yadda.club
@@ -13059,6 +13061,7 @@ www.natelefon.tk
 www.naturalworld.ru
 www.neodimof.club
 www.new-films.ru
+www.new-rutor.eu
 www.newfilms.online
 www.newyear-aff-ads.win
 www.newyear-aff.win
