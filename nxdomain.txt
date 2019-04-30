@@ -669,6 +669,7 @@
 1xirsp12.com
 1xirsp13.com
 1xirsp14.com
+1xirsp16.com
 1xirsp17.com
 1xirsp2.com
 1xirsp3.com
@@ -5116,7 +5117,6 @@ favorita.info
 fayk.online
 fb-metrix.info
 fb299c.olimp58e7.top
-fb7.online
 fb929d.olimp6b96.top
 fbb931.olimpc1e5.top
 fbbe5dc72e6dc5e450.c2ef25.a2341e99d0a2f2982f.xyz
@@ -6608,7 +6608,6 @@ kino-rip.eu
 kino-serialu.ru
 kino-ttek.ru
 kino.vodka
-kino2.life
 kino2018.info
 kino720.online
 kino777.ru
@@ -13160,6 +13159,7 @@ www.rakyta.moyblog.net
 www.rap-game.ru
 www.rapidzona.com
 www.rastarasha.org
+www.rastishki.nl
 www.rc-legal.biz
 www.rchemicals4us.com
 www.redstarcasino04.eu
