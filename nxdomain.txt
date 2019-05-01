@@ -2482,7 +2482,6 @@ ap-01.accessfonbet-710c6.com
 ap-01.accessfonbet-74b9a.com
 ap-01.accessfonbet-7e13e.com
 ap-01.accessfonbet-8297d.com
-ap-01.accessfonbet-977e7.com
 ap-01.accessfonbet-a5367.com
 ap-01.accessfonbet-bf0e4.com
 ap-01.accessfonbet-c1ded.com
@@ -6342,6 +6341,7 @@ ikvulkan12.com
 ikvulkan13.com
 ikvulkan14.com
 ikvulkan15.com
+ikvulkan16.com
 ikvulkan2.com
 ilashoprymo.ru
 ilwebystuf.info
