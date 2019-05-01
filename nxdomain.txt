@@ -261,7 +261,6 @@
 1be316895c0ce83897.c2ef25.a2341e99d0a2f2982f.xyz
 1bebf0.olimp6301.site
 1betcity.info
-1beter.ru
 1bettr.ru
 1bte.ru
 1btz.ru
@@ -2469,6 +2468,7 @@ ap-01.accessfonbet-1af93.com
 ap-01.accessfonbet-2e145.com
 ap-01.accessfonbet-32a33.com
 ap-01.accessfonbet-3c7eb.com
+ap-01.accessfonbet-42e18.com
 ap-01.accessfonbet-433fd.com
 ap-01.accessfonbet-473ac.com
 ap-01.accessfonbet-4b1d1.com
@@ -8515,11 +8515,14 @@ mp-01.fbmetrix-6cef8.com
 mp-01.fbmetrix-7f8cc.com
 mp-01.fbmetrix-9b57b.com
 mp-01.fbmetrix-af821.com
+mp-01.fbmetrix-b16e3.com
 mp-01.fbmetrix-b2a3d.com
 mp-01.fbmetrix-b8229.com
+mp-01.fbmetrix-caad5.com
 mp-01.fbmetrix-d083e.com
 mp-01.fbmetrix-d6f3c.com
 mp-01.fbmetrix-d8387.com
+mp-01.fbmetrix-e49ae.com
 mp-01.fbmetrix-e65f0.com
 mp-01.fbmetrix-fb14d.com
 mp-01.fbmetrix-fea3f.com
@@ -10569,7 +10572,6 @@ rupleer.online
 rupok-er.com
 rupoke-r.com
 rupolit.net
-ruprostitutka.ru
 rus-betcity.top
 rus-betzerkalo78.space
 rus-media-org.info
