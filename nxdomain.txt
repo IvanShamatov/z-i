@@ -2477,6 +2477,7 @@ ap-01.accessfonbet-58020.com
 ap-01.accessfonbet-58e6c.com
 ap-01.accessfonbet-62149.com
 ap-01.accessfonbet-636a0.com
+ap-01.accessfonbet-68680.com
 ap-01.accessfonbet-710c6.com
 ap-01.accessfonbet-74b9a.com
 ap-01.accessfonbet-7e13e.com
@@ -2486,6 +2487,7 @@ ap-01.accessfonbet-a5367.com
 ap-01.accessfonbet-bf0e4.com
 ap-01.accessfonbet-c1ded.com
 ap-01.accessfonbet-d1ef0.com
+ap-01.accessfonbet-d8ff4.com
 ap-01.accessfonbet-e760f.com
 ap-01.accessfonbet-eb3d3.com
 ap-01.accessfonbet-f21d8.com
@@ -8512,6 +8514,7 @@ mp-01.fbmetrix-13f15.com
 mp-01.fbmetrix-2e38e.com
 mp-01.fbmetrix-41f8b.com
 mp-01.fbmetrix-464a7.com
+mp-01.fbmetrix-4a35d.com
 mp-01.fbmetrix-4d043.com
 mp-01.fbmetrix-4e7f4.com
 mp-01.fbmetrix-6cef8.com
@@ -9799,6 +9802,7 @@ racing.bkfonsports.pro
 racing.fon-sport.tk
 racing.fon-sportbet.tk
 racing.fonsportbet.tk
+racing.fonsportsbets.com
 rafta.info
 raglandink.com
 railwaycalendar.ru
@@ -10926,6 +10930,7 @@ skfor-24.me
 skfor.net
 ski-rc.biz
 skmix.ru
+skorost-mdpv-magnitogorsk.dcge.biz
 skorost-sochi.ml
 skripka.biz
 skspmix.gdn
@@ -11266,6 +11271,9 @@ ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
 teonanakatl.pro
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tewiqybel.info
 tfiletorrent.info
 tg.yadda.club
@@ -11580,6 +11588,7 @@ vin.bkr04a.top
 vin.bkr05a.top
 vin.bkr06a.top
 vin.bkr07a.top
+vin.bkr08.ru
 vin.bkr08a.top
 vin.bkr09a.top
 vin.bkr10a.top
@@ -11699,6 +11708,7 @@ vse-bordeli.ru
 vse-med-spravki.ru
 vse-sezony.tv
 vse-spravki.org
+vse1.insud.biz
 vseazino.com
 vsem-doki-plus.bz
 vsemprava.com
