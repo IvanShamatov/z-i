@@ -3675,6 +3675,7 @@ bk-info127.xyz
 bk-info129.online
 bk-info130.top
 bk-info132.online
+bk-info133.site
 bk-info135.site
 bk-info136.online
 bk-info136.top
@@ -3720,6 +3721,7 @@ bk-info179.online
 bk-info179.top
 bk-info180.online
 bk-info182.site
+bk-info183.site
 bk-info184.online
 bk-info184.site
 bk-info184.top
@@ -3727,6 +3729,7 @@ bk-info186.top
 bk-info187.online
 bk-info187.site
 bk-info188.online
+bk-info189.site
 bk-info189.top
 bk-info189.xyz
 bk-info191.site
@@ -6711,7 +6714,6 @@ kinogohd1080.net
 kinogohit.net
 kinogol.biz
 kinogol.tv
-kinogold.cc
 kinogold.co
 kinogold.website
 kinogong.online
