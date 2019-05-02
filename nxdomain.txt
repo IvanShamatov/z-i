@@ -2766,6 +2766,7 @@ baaskino.ru
 bab24.biz
 babkaplux.biz
 badjobs.ru
+badtour2.ru
 bagmilano.ru
 baksbany.biz
 balashiha24.pw
@@ -3679,9 +3680,11 @@ bk-info119.top
 bk-info120.online
 bk-info120.site
 bk-info121.online
+bk-info121.site
 bk-info121.top
 bk-info122.online
 bk-info123.online
+bk-info123.site
 bk-info124.site
 bk-info124.top
 bk-info125.site
@@ -3729,6 +3732,7 @@ bk-info168.xyz
 bk-info169.online
 bk-info170.online
 bk-info171.online
+bk-info171.site
 bk-info172.online
 bk-info175.online
 bk-info175.site
@@ -3753,11 +3757,13 @@ bk-info189.site
 bk-info189.top
 bk-info189.xyz
 bk-info191.site
+bk-info193.site
 bk-info194.online
 bk-info194.site
 bk-info195.online
 bk-info195.site
 bk-info195.top
+bk-info196.site
 bk-info196.xyz
 bk-info198.online
 bk-info199.online
@@ -9153,7 +9159,6 @@ onlajn-kazino-registraciya.date
 onlajn-kazino-tut.space
 onlajnsloty.xyz
 onlin-tv.com
-online-2.avtomaty24besplatno.com
 online-alkogol.ru
 online-betting.space
 online-casino-azino777.ru
