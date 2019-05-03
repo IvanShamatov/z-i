@@ -4201,6 +4201,7 @@ btct-zerkalo1hry4.ru
 btct-zerkalo1rk10.ru
 btct-zerkalo1rk11.ru
 btct-zerkalo1rk12.ru
+btct-zerkalo1rk14.ru
 btct-zerkalo1rkn9.ru
 btct-zerkalo1xex6.ru
 btct-zerkalo1xxx5.ru
@@ -6351,7 +6352,6 @@ hydra2webs.direct
 hydra4jpwhfx4mst.free-onion.com
 hydra5etioavaz7p.free-onion.com
 hydrarc.ru
-hydraruzxpnew4aff.online
 hydraruzxpnew4afm.online
 hydraruzxpnew4ef.com
 hydrator.center
@@ -6787,6 +6787,7 @@ kinogohit.net
 kinogol.biz
 kinogol.tv
 kinogold.co
+kinogold.net
 kinogold.website
 kinogong.online
 kinogoogle.ru
@@ -8626,6 +8627,7 @@ mp-01.fbmetrix-464a7.com
 mp-01.fbmetrix-4a35d.com
 mp-01.fbmetrix-4d043.com
 mp-01.fbmetrix-4e7f4.com
+mp-01.fbmetrix-54707.com
 mp-01.fbmetrix-6cef8.com
 mp-01.fbmetrix-7f8cc.com
 mp-01.fbmetrix-9b57b.com
@@ -10202,10 +10204,12 @@ ru.6playfortuna.com
 ru.7playfortuna.com
 ru.8playfortuna.com
 ru.9playfortuna.com
+ru.adleon044.com
 ru.adleon088.com
 ru.adleon098.com
 ru.adleon099.com
 ru.adleon1911.com
+ru.adleon1922.com
 ru.adleon1990.com
 ru.adleon731.com
 ru.adleon744.com
@@ -10357,6 +10361,7 @@ ru.leon122.com
 ru.leon123.com
 ru.leon132.com
 ru.leon190.com
+ru.leon1911.com
 ru.leon192.com
 ru.leon1922.com
 ru.leon1933.com
