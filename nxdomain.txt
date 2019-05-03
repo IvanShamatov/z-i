@@ -8628,6 +8628,7 @@ mp-01.fbmetrix-4e7f4.com
 mp-01.fbmetrix-6cef8.com
 mp-01.fbmetrix-7f8cc.com
 mp-01.fbmetrix-9b57b.com
+mp-01.fbmetrix-9c373.com
 mp-01.fbmetrix-af821.com
 mp-01.fbmetrix-b16e3.com
 mp-01.fbmetrix-b2a3d.com
@@ -10340,6 +10341,7 @@ ru.leon0441.com
 ru.leon046.com
 ru.leon057.com
 ru.leon0804.com
+ru.leon088.com
 ru.leon090.com
 ru.leon091.com
 ru.leon092.com
