@@ -2245,7 +2245,6 @@ access.bbplay2017.xyz
 access.bbplay2018.club
 access.bbplay2018.info
 access.bbsport.club
-access.bbsport2018.co
 access.bbsport2018.com
 access.bbsports.club
 access.bbsports.pro
@@ -2909,7 +2908,6 @@ bbplay2018.club
 bbplay2018.info
 bbsport.club
 bbsport2018.club
-bbsport2018.co
 bbsport2018.com
 bbsport2018.xyz
 bbsports.club
@@ -7463,7 +7461,6 @@ m.bbplay2018.club
 m.bbplay2018.info
 m.bbsport.club
 m.bbsport2018.club
-m.bbsport2018.co
 m.bbsport2018.com
 m.bbsport2018.xyz
 m.bbsports.club
@@ -9386,7 +9383,6 @@ pda.bbplay2017.xyz
 pda.bbplay2018.club
 pda.bbplay2018.info
 pda.bbsport.club
-pda.bbsport2018.co
 pda.bbsport2018.com
 pda.bbsports.club
 pda.bbsports.pro
@@ -12716,7 +12712,6 @@ www.bbplay2018.club
 www.bbplay2018.info
 www.bbsport.club
 www.bbsport2018.club
-www.bbsport2018.co
 www.bbsport2018.com
 www.bbsport2018.xyz
 www.bbsports.club
