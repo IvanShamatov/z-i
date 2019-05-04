@@ -2340,6 +2340,7 @@ alco-domik.online
 alco-domik.store
 alco-domik.su
 alco-group.org
+alco-lavka.in
 alco-line.net
 alco-line.online
 alco-magazin.me
@@ -6410,7 +6411,6 @@ igrovie-avtomati-vulkan.ru
 igrovie-avtomaty-za-dengi.ryagenka.ru
 igrovoiklub.xyz
 igrovueavtomaty.su
-igrovye-apparaty-777.com
 igrovye-avtomati.mobi
 igrovye-avtomaty-igrat-besplatno.su
 igrovye-avtomaty-igrat.online
