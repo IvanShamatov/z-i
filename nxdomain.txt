@@ -6715,6 +6715,7 @@ kino-mania.pro
 kino-max.pro
 kino-olimp.ru
 kino-onlain.me
+kino-panda.net
 kino-profi.org
 kino-rip.eu
 kino-serialu.ru
