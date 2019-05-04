@@ -2244,7 +2244,6 @@ access.bbplay2018.info
 access.bbsport.club
 access.bbsport2018.co
 access.bbsport2018.com
-access.bbsport2018.info
 access.bbsports.club
 access.bbsports.pro
 access.bbsports.today
@@ -2908,7 +2907,6 @@ bbsport.club
 bbsport2018.club
 bbsport2018.co
 bbsport2018.com
-bbsport2018.info
 bbsport2018.xyz
 bbsports.club
 bbsports.pro
@@ -7456,7 +7454,6 @@ m.bbsport.club
 m.bbsport2018.club
 m.bbsport2018.co
 m.bbsport2018.com
-m.bbsport2018.info
 m.bbsport2018.xyz
 m.bbsports.club
 m.bbsports.pro
@@ -8894,6 +8891,7 @@ new.vkmp3.su
 new.winline-bet1.com
 new.winline-bet10.com
 new.winline-bet2.com
+new.winline-bet26.com
 new.winline-bet3.com
 new.winline-bet4.com
 new.winline-bet5.com
@@ -9370,7 +9368,6 @@ pda.bbplay2018.info
 pda.bbsport.club
 pda.bbsport2018.co
 pda.bbsport2018.com
-pda.bbsport2018.info
 pda.bbsports.club
 pda.bbsports.pro
 pda.bbsports.today
@@ -12174,6 +12171,7 @@ winediscounterspb.ru
 winehelp.biz
 winfonbet.space
 wingames.info
+winline-bet26.com
 winline-bet5.com
 winline-bet6.com
 winline-bet7.com
@@ -12688,7 +12686,6 @@ www.bbsport.club
 www.bbsport2018.club
 www.bbsport2018.co
 www.bbsport2018.com
-www.bbsport2018.info
 www.bbsport2018.xyz
 www.bbsports.club
 www.bbsports.pro
@@ -13604,6 +13601,7 @@ www.vuzdiplom.com
 www.vuzdiplom.xyz
 www.walus.info
 www.whobzor.top
+www.winline-bet26.com
 www.winline-bet5.com
 www.winline-bet6.com
 www.winline-bet7.com
