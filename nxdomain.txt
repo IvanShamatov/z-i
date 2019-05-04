@@ -1477,6 +1477,7 @@
 3tyza.ryagenka.ru
 3tyza.se-gbi.ru
 4-best-muzon.me
+4-online.avtomaty24besplatno.com
 40.300kbit.pw
 40.members.linode.com
 400e66.olimp58e8.top
@@ -2240,7 +2241,6 @@ access.bbplay2017.today
 access.bbplay2017.xyz
 access.bbplay2018.club
 access.bbplay2018.info
-access.bbplay2018.online
 access.bbsport.club
 access.bbsport2018.co
 access.bbsport2018.com
@@ -2904,7 +2904,6 @@ bbplay2017.today
 bbplay2017.xyz
 bbplay2018.club
 bbplay2018.info
-bbplay2018.online
 bbsport.club
 bbsport2018.club
 bbsport2018.co
@@ -6059,6 +6058,7 @@ game-million3.com
 game.extra-volcano.com
 game.v-vulkan.club
 gameby.su
+gameclubvulkan.com
 gameklad.ru
 gamepk.info
 games.bkfon-sport.cf
@@ -6277,6 +6277,7 @@ hd.clip16.com
 hd.zfilm-hd.space
 hd720.co
 hdfox.me
+hdkino-mir.net
 hdkinohit.net
 hdkinoman.net
 hdpicture.ru
@@ -6689,6 +6690,7 @@ khanzhin.info
 khilafa.org
 khoo.info
 kinagod.tv
+kinagud.net
 kingportal.net
 kinino.ru
 kino-1080p.ru
@@ -6715,6 +6717,7 @@ kino2018.info
 kino720.online
 kino777.ru
 kinoant.com
+kinoarhiv.tv
 kinoassorti.ru
 kinobomz.tv
 kinodd.net
@@ -7449,7 +7452,6 @@ m.bbplay2017.today
 m.bbplay2017.xyz
 m.bbplay2018.club
 m.bbplay2018.info
-m.bbplay2018.online
 m.bbsport.club
 m.bbsport2018.club
 m.bbsport2018.co
@@ -9365,7 +9367,6 @@ pda.bbplay2017.today
 pda.bbplay2017.xyz
 pda.bbplay2018.club
 pda.bbplay2018.info
-pda.bbplay2018.online
 pda.bbsport.club
 pda.bbsport2018.co
 pda.bbsport2018.com
@@ -9395,7 +9396,6 @@ piestogo.info
 pievulkbon.info
 pifpaf.biz
 pigame.net
-pin-upcasino.online
 pin-upcasino3.com
 pin-upcasino5.com
 pinup-casino.online
@@ -10735,6 +10735,7 @@ rupleer.online
 rupok-er.com
 rupoke-r.com
 rupolit.net
+ruprostitutka.ru
 rus-betcity.top
 rus-betzerkalo78.space
 rus-media-org.info
@@ -11423,6 +11424,9 @@ ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
 teonanakatl.pro
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tewiqybel.info
 tfiletorrent.info
 tg.yadda.club
@@ -12680,7 +12684,6 @@ www.bbplay2017.today
 www.bbplay2017.xyz
 www.bbplay2018.club
 www.bbplay2018.info
-www.bbplay2018.online
 www.bbsport.club
 www.bbsport2018.club
 www.bbsport2018.co
