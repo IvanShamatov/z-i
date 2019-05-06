@@ -11575,6 +11575,7 @@ ttrblog2.pro
 ttrblog3.pro
 ttrblog4.pro
 ttrblog5.pro
+ttrblog6.pro
 ttrcasino.website
 ttrcasino.xyz
 ttrcasino11.su
@@ -13595,7 +13596,6 @@ www.videoprocasino.com
 www.videotut.me
 www.videozal.net
 www.vidtorg.ru
-www.vigoob.com
 www.viho.pro
 www.vinigret.net
 www.vip38.ru
