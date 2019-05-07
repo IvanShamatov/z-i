@@ -302,6 +302,7 @@
 1win00.top
 1win1.top
 1win1.xyz
+1win11.me
 1win11.top
 1win11.xyz
 1win2.me
@@ -323,6 +324,7 @@
 1win88.me
 1win88.xyz
 1win9.xyz
+1win99.me
 1win99.xyz
 1wina.me
 1wina.top
@@ -366,6 +368,7 @@
 1winj.me
 1winj.top
 1winj.xyz
+1winjj.me
 1winjj.top
 1winjj.xyz
 1wink.me
@@ -432,6 +435,7 @@
 1winv.me
 1winv.top
 1winv.xyz
+1winvv.me
 1winvv.top
 1winvv.xyz
 1winw.me
@@ -6690,6 +6694,7 @@ kino-ttek.ru
 kino.vodka
 kino2017.net
 kino2018.info
+kino720.eu
 kino720.online
 kino777.ru
 kinoant.com
@@ -8334,6 +8339,7 @@ mostblx.com
 mostbst.com
 mostbtm.com
 mostbtt.com
+mostburntraf.com
 mostchl.com
 mostchm.com
 mostchx.com
@@ -8459,6 +8465,7 @@ mostmbl.com
 mostmch.com
 mostmfv.com
 mostmgf.com
+mostmgt.com
 mostmjb.com
 mostmkc.com
 mostmlm.com
@@ -8479,6 +8486,7 @@ mostnlp.com
 mostnlx.com
 mostnnf.com
 mostnss.com
+mostntr.com
 mostnxf.com
 mostopk.com
 mostotraff.com
@@ -8527,6 +8535,7 @@ mostrtz.com
 mostrvr.com
 mostrxz.com
 mostrzt.com
+mostrzx.com
 mostsdk.com
 mostsgl.com
 mostsgs.com
@@ -8581,6 +8590,7 @@ mosttzn.com
 mosttzx.com
 mostudx.com
 mostuxv.com
+mostvgt.com
 mostvlk.com
 mostvlp.com
 mostvlx.com
@@ -9096,7 +9106,6 @@ novoe-zerkalo.space
 novoezerkalo.men
 novomat.ru
 novosibirsk-doska.ru
-novosibirsk.documentshop.ru
 novotroick.prostitutki-gorodov.ru
 novotroick.prostitutki24.tips
 novye-zerkala-bk-tut.review
