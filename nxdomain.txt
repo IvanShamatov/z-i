@@ -4779,7 +4779,6 @@ diplom-vdom.com
 diplom-vladimir.com
 diplom-vladivostok.com
 diplom-volgograd134.com
-diplom.asia
 diplom.v-zakone.com
 diplom02rus.ru
 diplom142.com
@@ -8471,6 +8470,7 @@ mostmtr.com
 mostmwm.com
 mostmzx.com
 mostnlp.com
+mostnlx.com
 mostnnf.com
 mostnss.com
 mostnxf.com
