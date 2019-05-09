@@ -4110,6 +4110,7 @@ board.v.ua
 bob-96.biz
 bob96.com
 bobfillm.ru
+bobfilm.pw
 bobfilm1.info
 bobfilms.ru
 bobfilms.site
@@ -5203,7 +5204,6 @@ fick-mich-jetzt.com
 fidtor.info
 filegiver.com
 fileqelshop.info
-filetor.org
 film-720.ru
 film-k.ru
 filmak.me
@@ -6217,6 +6217,7 @@ hdrezka.eu
 hdrezka.men
 hdrezka.movie
 hdrezka.store
+hdrezka1.cc
 hdrezka1.club
 hdrezka1.site
 hdrezka2.com
@@ -6614,6 +6615,7 @@ kino-guru.online
 kino-hd-720.ru
 kino-hd1080.ru
 kino-hd720.info
+kino-kino.online
 kino-lain.ru
 kino-mania.pro
 kino-olimp.ru
@@ -12633,6 +12635,7 @@ www.danglobe.info
 www.depressant.store
 www.dermamix.info
 www.dev.bec0de.com
+www.dianxin007.com
 www.dino-casino.com
 www.dip-lom.info
 www.dip-spb-kupit.com
