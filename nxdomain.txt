@@ -4110,7 +4110,6 @@ board.v.ua
 bob-96.biz
 bob96.com
 bobfillm.ru
-bobfilm.pw
 bobfilm1.info
 bobfilms.ru
 bobfilms.site
@@ -6113,6 +6112,7 @@ gogafilm.me
 gohost.info
 gojebinelin.info
 gokershop.biz
+gokino.net
 gold-vulkan.com
 goldazart.com
 goldcubok.club
@@ -6615,7 +6615,6 @@ kino-guru.online
 kino-hd-720.ru
 kino-hd1080.ru
 kino-hd720.info
-kino-kino.online
 kino-lain.ru
 kino-mania.pro
 kino-olimp.ru
