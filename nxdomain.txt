@@ -6667,6 +6667,7 @@ kinogb.club
 kinogb.guru
 kinogb.life
 kinogb.mobi
+kinogb.net
 kinogb.site
 kinogb.su
 kinoggo.ru
@@ -12869,6 +12870,7 @@ www.kino-serialu.ru
 www.kino777.ru
 www.kinobomz.tv
 www.kinofestival.net
+www.kinogb.net
 www.kinogo-2016.net
 www.kinogo-720p.co
 www.kinogo-net-co.ru
