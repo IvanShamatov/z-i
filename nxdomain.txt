@@ -6759,6 +6759,7 @@ kinogo.fyi
 kinogo.gold
 kinogo.hol.es
 kinogo.legal
+kinogo.life
 kinogo.movie
 kinogo.onl
 kinogo.plus
