@@ -2570,6 +2570,7 @@ apr12-mara-c.win
 apr12-mara-d.win
 apr12-mara-e.win
 apr12-mara.win
+apslots.com
 apt24.biz
 apteka-piter.org
 aptekaz.biz
@@ -9252,7 +9253,6 @@ onlajn-kazino-registraciya.date
 onlajn-kazino-tut.space
 onlajnsloty.xyz
 onlin-tv.com
-online-2.avtomaty24besplatno.com
 online-24.date
 online-alkogol.ru
 online-betting.space
@@ -14572,6 +14572,7 @@ zerx.club
 zerx.tv
 zewz.biz
 zffm.online
+zfilm-hd.guru
 zfilm-hd.online
 zfilm-hd.site
 zfilm-hd.xyz
