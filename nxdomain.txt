@@ -10789,6 +10789,7 @@ rus-media-org.info
 rus-rutor.info
 rus-torrents.org
 rus-torrentsss.xyz
+rus.audiotank.ru
 rus.cybbet.com
 rus.musicoff.online
 rus.pokersavvyplayers.net
@@ -10895,7 +10896,6 @@ sampro.info
 saratov-medspravki.ru
 saratov.doxy64.com
 saratv24.biz
-sarsex.info
 saul26.biz
 saving-music.ru
 saykr.ru
@@ -11408,6 +11408,8 @@ ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
 teonanakatl.info
+test2.plusminus1.com
+test3.plusminus1.com
 tewiqybel.info
 tfiletorrent.info
 tg.yadda.club
@@ -11918,7 +11920,6 @@ vulcanclubigra.com
 vulcanclubzz.org
 vulcane.biz
 vulcane.net
-vulcanextra.com
 vulcangamblingplay.com
 vulcangogo.com
 vulcanhis.com
@@ -12690,7 +12691,6 @@ www.bestcasinoslot.ru
 www.bestgamer.net
 www.bestmp3center.ru
 www.bet-me-zerkalo.ru
-www.betandmove.com
 www.betcity-alpz.space
 www.betcity-best.ru
 www.betcity-bet.ru
@@ -13438,6 +13438,7 @@ www.sochinki23.info
 www.softorr.ru
 www.sovietcinema.net
 www.sovietcinema.ru
+www.spb-medspravka.ru
 www.spirtlux.ru
 www.spishy-ru.ru
 www.sportinfon.xyz
