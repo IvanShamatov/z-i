@@ -7343,11 +7343,13 @@ leon-vhod.win
 leon-zerkalo-1mko.ru
 leon-zerkalo-1zxc.ru
 leon-zerkalo-2bnm.ru
+leon-zerkalo-2nji.ru
 leon-zerkalo-3fgh.ru
 leon-zerkalo-4tyu.ru
 leon-zerkalo-4vgy.ru
 leon-zerkalo-5rty.ru
 leon-zerkalo-6uio.ru
+leon-zerkalo-6xdr.ru
 leon-zerkalo-7sdf.ru
 leon-zerkalo-7zse.ru
 leon-zerkalo-8cvb.ru
@@ -10576,6 +10578,7 @@ ru.8playfortuna.com
 ru.9playfortuna.com
 ru.adleon044.com
 ru.adleon0711.com
+ru.adleon0721.com
 ru.adleon0730.com
 ru.adleon0790.com
 ru.adleon088.com
@@ -13452,6 +13455,8 @@ www.leon-stavki.ru
 www.leon-zerkalo-1mko.ru
 www.leon-zerkalo-1zxc.ru
 www.leon-zerkalo-2bnm.ru
+www.leon-zerkalo-2nji.ru
+www.leon-zerkalo-3bhu.ru
 www.leon-zerkalo-3fgh.ru
 www.leon-zerkalo-4tyu.ru
 www.leon-zerkalo-4vgy.ru
