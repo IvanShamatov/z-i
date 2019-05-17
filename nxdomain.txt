@@ -9707,6 +9707,7 @@ ru.adleon0790.com
 ru.adleon088.com
 ru.adleon098.com
 ru.adleon099.com
+ru.adleon1200.com
 ru.adleon1911.com
 ru.adleon1922.com
 ru.adleon1990.com
@@ -10708,6 +10709,8 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
+test1.plusminus1.com
+test3.plusminus1.com
 tfiletorrent.info
 tg.yadda.club
 tgfix.ru
@@ -12051,6 +12054,7 @@ www.cashgarant.com
 www.casino-azino777-bonus.ru
 www.casino-classic.net
 www.casino-x.me
+www.casino999.info
 www.casinoforum.su
 www.casinogusarzerkalo.ru
 www.casinoosiris.com
@@ -12493,6 +12497,7 @@ www.prmtch-zerkalo-4bvd.ru
 www.prmtch-zerkalo-4tpo.ru
 www.prmtch-zerkalo-5ajd.ru
 www.prmtch-zerkalo-6jrg.ru
+www.prmtch-zerkalo-6pif.ru
 www.prmtch-zerkalo-6rdf.ru
 www.prmtch-zerkalo-7apl.ru
 www.prmtch-zerkalo-7fpk.ru
