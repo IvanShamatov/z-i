@@ -2564,7 +2564,6 @@ avtomatix.pw
 avtomatix.stream
 avtomatix.xyz
 avtomaty-igrovye-besplatno.com
-avtomaty.igrovoy-zal.com
 avtomaty.pro
 avtomatydengisvyvodom.com
 avtomatynadengi.org
@@ -4169,6 +4168,7 @@ btct-zerkalo1rk11.ru
 btct-zerkalo1rk12.ru
 btct-zerkalo1rk13.ru
 btct-zerkalo1rk14.ru
+btct-zerkalo1rk15.ru
 btct-zerkalo1rk16.ru
 btct-zerkalo1rk17.ru
 btct-zerkalo1rk18.ru
@@ -10458,8 +10458,6 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
-test1.plusminus1.com
-test2.plusminus1.com
 tfiletorrent.info
 tg.yadda.club
 tgfix.ru
