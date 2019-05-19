@@ -7723,11 +7723,7 @@ mobile.winline106.com
 mobile.winline107.com
 mobile.winline108.com
 mobile.winline109.com
-mobile.winline11.com
 mobile.winline110.com
-mobile.winline12.com
-mobile.winline13.com
-mobile.winline14.com
 mobile.winline141.com
 mobile.winline143.com
 mobile.winline145.com
@@ -7744,7 +7740,6 @@ mobile.winline156.com
 mobile.winline157.com
 mobile.winline158.com
 mobile.winline159.com
-mobile.winline16.com
 mobile.winline161.com
 mobile.winline162.com
 mobile.winline163.com
@@ -7754,7 +7749,6 @@ mobile.winline166.com
 mobile.winline167.com
 mobile.winline168.com
 mobile.winline169.com
-mobile.winline17.com
 mobile.winline171.com
 mobile.winline172.com
 mobile.winline173.com
@@ -8440,9 +8434,7 @@ new.winline106.com
 new.winline107.com
 new.winline108.com
 new.winline109.com
-new.winline11.com
 new.winline110.com
-new.winline12.com
 new.winline141.com
 new.winline143.com
 new.winline145.com
@@ -8459,7 +8451,6 @@ new.winline156.com
 new.winline157.com
 new.winline158.com
 new.winline159.com
-new.winline16.com
 new.winline161.com
 new.winline162.com
 new.winline163.com
@@ -8469,7 +8460,6 @@ new.winline166.com
 new.winline167.com
 new.winline168.com
 new.winline169.com
-new.winline17.com
 new.winline171.com
 new.winline172.com
 new.winline173.com
@@ -8724,6 +8714,7 @@ online-casino-expert.ru
 online-casino-z.com
 online-casino.stream
 online-film.ru
+online-films.ckoro.ru
 online-igrovie-avtomati.com
 online-kino.in
 online-kz.net
@@ -10485,6 +10476,7 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
+test1.plusminus1.com
 tfiletorrent.info
 tg.yadda.club
 tgfix.ru
@@ -11121,7 +11113,6 @@ winline-bet5.com
 winline-bet6.com
 winline-bet7.com
 winline-bet9.com
-winline10.com
 winline102.com
 winline103.com
 winline104.com
@@ -11130,10 +11121,7 @@ winline106.com
 winline107.com
 winline108.com
 winline109.com
-winline11.com
 winline110.com
-winline12.com
-winline14.com
 winline141.com
 winline143.com
 winline145.com
@@ -11150,7 +11138,6 @@ winline156.com
 winline157.com
 winline158.com
 winline159.com
-winline16.com
 winline161.com
 winline162.com
 winline163.com
@@ -11160,7 +11147,6 @@ winline166.com
 winline167.com
 winline168.com
 winline169.com
-winline17.com
 winline171.com
 winline172.com
 winline173.com
@@ -11170,7 +11156,6 @@ winline176.com
 winline177.com
 winline178.com
 winline179.com
-winline18.com
 winline182.com
 winline183.com
 winline184.com
@@ -11179,7 +11164,6 @@ winline186.com
 winline187.com
 winline188.com
 winline189.com
-winline19.com
 winline191.com
 winline192.com
 winline194.com
@@ -11522,6 +11506,7 @@ www.amiges.ru
 www.anaboliki.us
 www.anamvseravno.ru
 www.anime-tracker.tech
+www.anistar.me
 www.apr12-mara-a.win
 www.apr12-mara-b.win
 www.apr12-mara-c.win
@@ -11618,7 +11603,6 @@ www.bbsports.today
 www.bbsports2018.club
 www.bbsports2018.co
 www.bbsports2018.info
-www.beginbetting.com
 www.bekmx.com
 www.benfilm.net
 www.bergamo-food.ru
@@ -12494,7 +12478,6 @@ www.winline107.com
 www.winline108.com
 www.winline109.com
 www.winline110.com
-www.winline13.com
 www.winline141.com
 www.winline143.com
 www.winline145.com
@@ -13189,7 +13172,6 @@ zerkala-bk-novyj-sajt.bid
 zerkala-bk.bid
 zerkala-bk.ru
 zerkala-bk1.ru
-zerkala-kazino-baykal.casinobit.ru
 zerkala-mostbet-bets.ru
 zerkala-mostbet-topsport.ru
 zerkala-mostbet.ru
