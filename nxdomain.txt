@@ -4670,7 +4670,6 @@ dmwan.woid.game-server.cc
 doctorsan.org
 dofiga-mp3.ru
 dogsloop.ru
-dojkihd.ru
 dok911.org
 dok911.ru
 dokgarant.org
@@ -6700,6 +6699,7 @@ leonbetsaff.xyz
 leonbetsaza.website
 leonbetsccr.website
 leonbetsdd.website
+leonbetshit.website
 leonbetsjoker.website
 leonbetsodds.website
 leonbetss.website
@@ -10118,6 +10118,7 @@ semerky.pw
 semerky.stream
 serf-casino.men
 seria-z.me
+serial-club.ru
 serial-tv.pro
 serial-z.online
 serialhit.tv
