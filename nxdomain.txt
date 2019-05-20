@@ -2294,7 +2294,6 @@ access.bbplay2017.site
 access.bbplay2017.space
 access.bbplay2017.tech
 access.bbplay2017.today
-access.bbplay2017.xyz
 access.bbsport.club
 access.bbsports.club
 access.bbsports.pro
@@ -2848,7 +2847,6 @@ bbplay2017.site
 bbplay2017.space
 bbplay2017.tech
 bbplay2017.today
-bbplay2017.xyz
 bbsport.club
 bbsport2018.club
 bbsport2018.xyz
@@ -3260,6 +3258,7 @@ betcity-zerkalo-3irh.ru
 betcity-zerkalo-3nji.ru
 betcity-zerkalo-3otv.ru
 betcity-zerkalo-3zdf.ru
+betcity-zerkalo-4apd.ru
 betcity-zerkalo-4bhu.ru
 betcity-zerkalo-4orh.ru
 betcity-zerkalo-4wsg.ru
@@ -6940,7 +6939,6 @@ m.bbplay2017.site
 m.bbplay2017.space
 m.bbplay2017.tech
 m.bbplay2017.today
-m.bbplay2017.xyz
 m.bbsport.club
 m.bbsport2018.club
 m.bbsport2018.xyz
@@ -8859,7 +8857,6 @@ pda.bbplay2017.site
 pda.bbplay2017.space
 pda.bbplay2017.tech
 pda.bbplay2017.today
-pda.bbplay2017.xyz
 pda.bbsport.club
 pda.bbsports.club
 pda.bbsports.pro
@@ -11603,7 +11600,6 @@ www.bbplay2017.site
 www.bbplay2017.space
 www.bbplay2017.tech
 www.bbplay2017.today
-www.bbplay2017.xyz
 www.bbsport.club
 www.bbsport2018.club
 www.bbsport2018.xyz
@@ -11693,6 +11689,7 @@ www.betcity-zerkalo-3irh.ru
 www.betcity-zerkalo-3nji.ru
 www.betcity-zerkalo-3otv.ru
 www.betcity-zerkalo-3zdf.ru
+www.betcity-zerkalo-4apd.ru
 www.betcity-zerkalo-4bhu.ru
 www.betcity-zerkalo-4orh.ru
 www.betcity-zerkalo-4wsg.ru
