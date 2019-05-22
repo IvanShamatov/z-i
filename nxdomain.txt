@@ -737,6 +737,7 @@
 1xirsp17.com
 1xirsp2.com
 1xirsp21.com
+1xirsp23.com
 1xirsp24.com
 1xirsp25.com
 1xirsp3.com
@@ -2477,6 +2478,7 @@ alkotusovka.ru
 alkovspb.org
 alkoxol.com
 all-diploms.com
+all-mp3-base.ru
 all.ssio.ru
 allbesta.cc
 allday.in.ua
@@ -2920,7 +2922,6 @@ baltplay73.com
 baltplay74.com
 baltplay75.com
 baltplay76.com
-baltplay77.com
 baltplay78.com
 baltplay79.com
 baltplay80.com
