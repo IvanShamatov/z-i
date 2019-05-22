@@ -736,11 +736,13 @@
 1xirsp14.com
 1xirsp16.com
 1xirsp17.com
+1xirsp18.com
 1xirsp2.com
 1xirsp21.com
 1xirsp23.com
 1xirsp24.com
 1xirsp25.com
+1xirsp28.com
 1xirsp3.com
 1xirsp30.com
 1xirsp31.com
@@ -5711,7 +5713,6 @@ fonbets-zerkalo17.ru
 fonbets-zerkalo18.ru
 fonbets-zerkalo19.ru
 fonbets-zerkalo2.ru
-fonbets-zerkalo20.ru
 fonbets-zerkalo21.ru
 fonbets-zerkalo9.ru
 fonbets.win
@@ -6385,6 +6386,7 @@ kinoassorti.ru
 kinobomz.tv
 kinobrothers.com
 kinoby.org
+kinoclub.info
 kinodd.net
 kinoden.pro
 kinodo.club
@@ -12189,7 +12191,6 @@ www.dok911.ru
 www.dokymentalnoe.ru
 www.dom-filmov.net
 www.dom-filmov.ru
-www.dom-sbita-24.biz
 www.dostavka.trade
 www.dosug-38.ru
 www.drugusers.cc
@@ -13200,6 +13201,7 @@ xzerkaloss65.space
 yabeda.org
 yakutsk.docvuz.org
 yashalava.com
+yhcc.ru
 yiou.org
 ymka.co
 yon5zqcls.srcl.connect.netcdn.bcdl.rocks
