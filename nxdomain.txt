@@ -4792,7 +4792,6 @@ dmwan.woid.game-server.cc
 dofiga-mp3.ru
 dok911.ru
 dok911ru.com
-dokstroyspb.com
 doktor-spravka.ru
 doktorit.ru
 doktorspravka.ru
@@ -7393,7 +7392,6 @@ mbkzerorotate.win
 mechtadomoseda.ru
 med-spirt.ru
 med-spravka.biz
-med-spravka.com
 media-rs.info
 media-rus.info
 media-tracker.info
