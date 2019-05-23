@@ -1199,6 +1199,7 @@
 1xwki.xyz
 1xwkp.host
 1xwlr.host
+1xwlr.top
 1xwport.space
 1xwqi.top
 1xwrj.xyz
@@ -10767,6 +10768,9 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tfiletorrent.info
 tg.yadda.club
 tgfix.ru
@@ -11636,6 +11640,7 @@ www.1xbqn.xyz
 www.1xghd.top
 www.1xgsfz.top
 www.1xohb.xyz
+www.1xwlr.top
 www.1xwwmm.xyz
 www.1xxkt.xyz
 www.1xxx.top
