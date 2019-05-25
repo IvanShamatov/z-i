@@ -2428,6 +2428,7 @@ aktualnoe.win
 aktualnoerabotayushhee.loan
 aktualnoyezerkalo.space
 aktualnye-zerkala-bk.bid
+aktualnye-zerkala-bk.trade
 aktualnye-zerkala-bukmekera.date
 aktualnyjadres.men
 alco-24.party
@@ -2545,6 +2546,7 @@ ap-01.accessfonbet-1af93.com
 ap-01.accessfonbet-27a5f.com
 ap-01.accessfonbet-2e145.com
 ap-01.accessfonbet-32a33.com
+ap-01.accessfonbet-3bbd0.com
 ap-01.accessfonbet-3c7eb.com
 ap-01.accessfonbet-42e18.com
 ap-01.accessfonbet-433fd.com
@@ -2568,6 +2570,7 @@ ap-01.accessfonbet-c1ded.com
 ap-01.accessfonbet-d1ef0.com
 ap-01.accessfonbet-d8ff4.com
 ap-01.accessfonbet-db404.com
+ap-01.accessfonbet-dbbea.com
 ap-01.accessfonbet-e760f.com
 ap-01.accessfonbet-eb3d3.com
 ap-01.accessfonbet-f21d8.com
@@ -3700,6 +3703,7 @@ bk-fon-zerkalo.win
 bk-fon.info
 bk-fon.win
 bk-fonbet-toto.date
+bk-fonbet-zerkalo-rabotayushhee.trade
 bk-fonbet-zerkalo-sajta.bid
 bk-fonbet-zerkalo-segodnya.bid
 bk-fonbet-zerkalo.bid
@@ -10883,6 +10887,9 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tfiletorrent.info
 tg.yadda.club
 tgfix.ru
@@ -11397,6 +11404,7 @@ vulkandeluxe1.com
 vulkangirl.top
 vulkangrand.win
 vulkanigrovoyavtomat.com
+vulkanigrovyeautomaty.com
 vulkanigrovyeavtomaty.ru
 vulkanjoker.com
 vulkankazino.top
@@ -14045,6 +14053,7 @@ zfilm-online.me
 zhitely.info
 zigbet.ru
 ziteli.info
+zlatopaywlkan.com
 zmk-music.ru
 zodiaccasno.com
 zregistrationbk999.top
