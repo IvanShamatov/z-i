@@ -12,6 +12,7 @@
 0202.vsepropoker4.xyz
 0203.vin.bkr18a.top
 0203.vsepropoker14.xyz
+0204.leon.bkr15l.top
 0204.vin.bkr28a.top
 0204.vsepropoker25.xyz
 0204.vsepropoker26.xyz
@@ -39,6 +40,7 @@
 04a4bd.olimp58e8.top
 0502.vin.bkr04a.top
 0503.vsepropoker17.xyz
+0504.leon.bkr14l.top
 0505.leon.bkr20l.top
 0505.vsepropoker06.xyz
 0515eb.olimpd7c0.top
@@ -1479,6 +1481,7 @@
 2xsport.space
 30.300kbit.pw
 3001.vsepropoker09.top
+3003.leon.bkr11l.top
 3003.vin.bkr27a.top
 3003.vsepropoker30.xyz
 300486.olimp58e8.top
@@ -1979,6 +1982,7 @@
 777igrovieavtomati.com
 777igrovoy.center
 777igrovoy.site
+777mobileazino.ru
 777oniza.me
 777oniza.win
 777slot.games
@@ -4328,12 +4332,15 @@ bkr10.top
 bkr10a.top
 bkr11a.pw
 bkr11a.top
+bkr11l.top
 bkr12a.pw
 bkr12a.top
 bkr13a.top
 bkr14a.pw
 bkr14a.top
+bkr14l.top
 bkr15a.top
+bkr15l.top
 bkr16a.top
 bkr16l.top
 bkr17a.top
@@ -4897,6 +4904,7 @@ dd5222.olimp58.top
 dd9e5f.olimpb138.top
 dda7f0.olimp95fc.top
 de27ce.olimp31d2.top
+de3f1c.olimpa7d2.top
 de7bfe.olimp4859.top
 de9650.olimpa7d2.top
 dea19f.olimp1958.top
@@ -5081,6 +5089,7 @@ el-club.xyz
 eldoklubz.org
 eldolucky.org
 elen.casino
+elex-med.ru
 elhaemusic.com
 elite-bet602.ru
 elite-bet603.ru
@@ -6839,6 +6848,7 @@ legalclub24.com
 legalka.net
 legalnaya-bukmekerskaya.bid
 legy.g.line-apps.com
+leica-blog.ru
 lenkino-com.com
 leo.bkrlb2.pw
 leo.bkrlb4.pw
@@ -6968,6 +6978,10 @@ leon.bkr06l.top
 leon.bkr07l.top
 leon.bkr08l.top
 leon.bkr09l.top
+leon.bkr11l.top
+leon.bkr12l.top
+leon.bkr14l.top
+leon.bkr15l.top
 leon.bkr16l.top
 leon.bkr18l.top
 leon.bkr19l.top
@@ -11026,6 +11040,7 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
+test1.plusminus1.com
 test2.plusminus1.com
 test3.plusminus1.com
 tfiletorrent.info
