@@ -662,7 +662,6 @@
 1xbit.top
 1xbosp.space
 1xboum.top
-1xboyp.space
 1xbqn.host
 1xbqn.xyz
 1xbqt.top
@@ -687,7 +686,6 @@
 1xcwy.top
 1xczc.host
 1xdda.xyz
-1xdidr.space
 1xdik.xyz
 1xdqg.xyz
 1xdqz.top
@@ -701,7 +699,6 @@
 1xepl.host
 1xeto.top
 1xevc.host
-1xewa.xyz
 1xexx.top
 1xf67zyc.vylion.com
 1xfgk.xyz
@@ -817,7 +814,6 @@
 1xjcj.host
 1xjcy.top
 1xjht.top
-1xjiha.space
 1xjik.host
 1xjli.top
 1xjok.host
@@ -1021,7 +1017,6 @@
 1xmvz.top
 1xmyhi.space
 1xnact.space
-1xnas.xyz
 1xnbe.top
 1xnelk.space
 1xneta.space
@@ -1192,15 +1187,12 @@
 1xsport.club
 1xsport.xyz
 1xsportbetting-bonus.pro
-1xsporto.mobi
 1xsportss.com
 1xsportt.mobi
-1xspotr.space
 1xspots.mobi
 1xspots.space
 1xspports.com
 1xsprot.pw
-1xsprts.space
 1xsqr.top
 1xsqz.top
 1xssports.com
@@ -1246,7 +1238,6 @@
 1xwkp.host
 1xwlr.host
 1xwlr.top
-1xwport.space
 1xwqi.top
 1xwrj.xyz
 1xwus.top
@@ -4786,7 +4777,6 @@ casinossl.info
 casinotop.su
 casinotoplist.info
 casinotoprate.net
-casinov.net
 casinovk.info
 casinovladivostok.stream
 casinovonline.ru
@@ -9667,6 +9657,7 @@ pm-130.info
 pm-132.site
 pm-137.info
 pm-138.info
+pm-145.info
 pm-15.website
 pm-156.online
 pm-161.online
@@ -10544,7 +10535,6 @@ ru.leonbetapp.com
 ru.leonbetevent.com
 ru.leonbets.nl
 ru.leonbets.vc
-ru.leonbets.website
 ru.leonbets001.com
 ru.leonbets0011.com
 ru.leonbets002.com
@@ -11222,7 +11212,6 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
-test2.plusminus1.com
 tests.prostosuper.com
 tfiletorrent.info
 tg.yadda.club
@@ -11354,6 +11343,7 @@ twistcasinoz.com
 tyumen.docvuz.org
 tyumen.xrus.org
 u4ilkafilm.ru
+ua-film.net
 ua.cybbet.com
 ua.kyrnyt.ru
 uabetting.com
