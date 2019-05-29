@@ -2490,8 +2490,11 @@ air.pm-125.info
 air.pm-126.info
 air.pm-128.info
 air.pm-130.info
+air.pm-136.info
 air.pm-137.info
 air.pm-138.info
+air.pm-140.info
+air.pm-147.info
 air.pm-175.info
 air.pm-205.info
 air.pm-207.info
@@ -9372,7 +9375,6 @@ online-sportbet.space
 online-zerkalo.space
 online.avtomaty24besplatno.com
 online.babkino.pro
-online.igrovoy-zal.com
 online.igrovyeavtomati.com
 online.stepashka.com
 online.tbzru.com
@@ -9403,7 +9405,6 @@ onlinecasinovulkan.club
 onlinefonbet.xyz
 onlineluxurygame.com
 onlinestavka.info
-onlinevulkan.club
 onlinevulkanplay.com
 onlinezerkalo09.space
 onlinezerkalo98.space
@@ -9651,10 +9652,14 @@ pm-126.online
 pm-128.info
 pm-129.online
 pm-130.info
+pm-132.info
 pm-132.site
+pm-136.info
 pm-137.info
 pm-138.info
+pm-140.info
 pm-145.info
+pm-147.info
 pm-15.website
 pm-156.online
 pm-161.online
@@ -11343,7 +11348,6 @@ tyumen.xrus.org
 u4ilkafilm.ru
 ua-film.net
 ua.cybbet.com
-ua.kyrnyt.ru
 uabetting.com
 uc9.info
 udo178.ru
