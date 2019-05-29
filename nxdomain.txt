@@ -999,7 +999,6 @@
 1xmobvkg.xyz
 1xmobvlk.top
 1xmobvmq.xyz
-1xmobvog.xyz
 1xmobvox.host
 1xmobvsk.top
 1xmobwbc.top
@@ -2506,9 +2505,14 @@ affknlinksnew.com
 aikicenter.com
 ain2az32.com
 air.pm-116.info
+air.pm-122.info
+air.pm-125.info
+air.pm-126.info
 air.pm-128.info
 air.pm-137.info
+air.pm-138.info
 air.pm-205.info
+air.pm-207.info
 air.pm-209.info
 air.pm-267.info
 air.pm-587.info
@@ -6943,6 +6947,7 @@ lbaddress1.net
 ldshop.bz
 lediudacha.com
 leeet.me
+leftsound.ru
 legalclub24.com
 legaldiplom24.com
 legalka.net
@@ -9059,6 +9064,7 @@ new-rutor.ga
 new-rutor.net.pl
 new-rutor.pl
 new-rutor.pp.ua
+new-rutor.website
 new-tracker.org
 new-tushkan.net
 new.0688d3.olimp58.top
@@ -9669,12 +9675,18 @@ pm-108.online
 pm-11.website
 pm-112.online
 pm-115.online
+pm-116.info
+pm-118.info
 pm-121.info
+pm-122.info
+pm-125.info
+pm-126.info
 pm-126.online
 pm-128.info
 pm-129.online
 pm-132.site
 pm-137.info
+pm-138.info
 pm-15.website
 pm-156.online
 pm-161.online
@@ -9685,8 +9697,10 @@ pm-178.online
 pm-183.info
 pm-193.online
 pm-199.online
+pm-201.info
 pm-202.info
 pm-205.info
+pm-207.info
 pm-208.online
 pm-209.info
 pm-213.info
@@ -9840,7 +9854,6 @@ poreshano.ru
 porno-analnoe.com
 pornosex.me
 pornoya.ru
-port1x.pw
 port1x.space
 poseidongold.com
 poysam.com
@@ -11050,7 +11063,7 @@ smolensk.docvuz.org
 smotret-2017.ru
 smotret-kinogo.ru
 smotret-online.kz
-smotriseriali.com
+snowdenway.online
 sobetmostbet.com
 soccerpros.info
 sochi.xrus.org
@@ -12710,7 +12723,6 @@ www.clubadmiral.win
 www.coolmarathon.win
 www.coolrotate.win
 www.ctbwin.com
-www.darkplace.top
 www.dev.bec0de.com
 www.diag52.ru
 www.dino-casino.com
@@ -13217,7 +13229,6 @@ www.sovietcinema.net
 www.sovietcinema.ru
 www.spirtlux.ru
 www.spishy-ru.ru
-www.sportinfon.xyz
 www.sportingbull113.com
 www.sportingbull1132.com
 www.sportingbull115.com
