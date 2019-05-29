@@ -716,7 +716,6 @@
 1xghd.top
 1xghi.xyz
 1xghk.top
-1xgimo.space
 1xgiri.space
 1xgke.top
 1xgkr.xyz
@@ -806,7 +805,6 @@
 1xish.xyz
 1xiss.xyz
 1xivdu.space
-1xivga.space
 1xiyy.top
 1xjal.xyz
 1xjbo.host
@@ -2494,6 +2492,7 @@ air.pm-128.info
 air.pm-130.info
 air.pm-137.info
 air.pm-138.info
+air.pm-175.info
 air.pm-205.info
 air.pm-207.info
 air.pm-209.info
@@ -5052,7 +5051,6 @@ drifttopgame.club
 drinkdown.club
 drinkdown.online
 drinkdown.today
-drivecasino11.com
 drugs-center.biz
 dso67458lvi.olimp24x7.online
 durak.top
@@ -6291,7 +6289,6 @@ grandx.igroman.space
 great-drugs.ru
 great-video1.club
 greenbet1.com
-greenbet4.com
 greenbet5.com
 gregbukmekersx505.top
 gregbukmekersx707.top
@@ -6312,7 +6309,6 @@ hdkinohit.cc
 hdkinohit.net
 hdkinoset.ru
 hdpicture.ru
-hdpirat.com
 hdreactor.info
 hdrezka.cx
 hdrezka.men
@@ -9623,6 +9619,7 @@ play-vulcan.org
 play.freehomeslots.com
 play.slotokubru.com
 play.v-vulkan.club
+play.videogen.xyz
 play.winline.info
 playamo.bonuscasinofast.win
 playamo.bonusmegacasino.win
@@ -9664,6 +9661,7 @@ pm-161.online
 pm-166.online
 pm-169.online
 pm-170.online
+pm-175.info
 pm-178.online
 pm-183.info
 pm-193.online
