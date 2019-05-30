@@ -56,6 +56,7 @@
 0603.leon.bkr01l.top
 0603.vin.bkr22a.top
 0604.vin.bkr30a.top
+0606.vsepropoker13.top
 0636a6.olimp1a50.top
 065bbf.olimp4859.top
 0670b7.olimpe24a.top
@@ -2483,6 +2484,7 @@ affknlinksnew.com
 aikicenter.com
 ain2az32.com
 air.pm-116.info
+air.pm-117.info
 air.pm-118.info
 air.pm-122.info
 air.pm-125.info
@@ -2505,10 +2507,12 @@ air.pm-172.info
 air.pm-173.info
 air.pm-175.info
 air.pm-177.info
+air.pm-178.info
 air.pm-179.info
 air.pm-181.info
 air.pm-186.info
 air.pm-191.info
+air.pm-192.info
 air.pm-194.info
 air.pm-195.info
 air.pm-197.info
@@ -9313,7 +9317,6 @@ novomat.ru
 novomoskovsk.docvuz.org
 novorossiysk.docvuz.org
 novorossiysk.xrus.org
-novosibirsk.vipdosug.info
 novosibirsk.xrus.org
 novye-zerkala-bk-tut.review
 novyj-adres-zerkalo.space
@@ -9665,6 +9668,7 @@ pm-11.website
 pm-112.online
 pm-115.online
 pm-116.info
+pm-117.info
 pm-118.info
 pm-119.info
 pm-121.info
@@ -9700,12 +9704,14 @@ pm-172.info
 pm-173.info
 pm-175.info
 pm-177.info
+pm-178.info
 pm-178.online
 pm-179.info
 pm-181.info
 pm-183.info
 pm-186.info
 pm-191.info
+pm-192.info
 pm-193.online
 pm-194.info
 pm-195.info
@@ -10448,7 +10454,6 @@ ru.fortuna-slots6es.com
 ru.fortuna-slots8w.com
 ru.fortuna-slots9w.com
 ru.fortuna-slots9y.com
-ru.kyrnyt.ru
 ru.leon003.com
 ru.leon0058.com
 ru.leon015.com
@@ -11265,7 +11270,9 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
+test1.plusminus1.com
 test2.plusminus1.com
+test3.plusminus1.com
 tests.prostosuper.com
 tfiletorrent.info
 tg.yadda.club
@@ -11657,6 +11664,7 @@ vsepropoker11.top
 vsepropoker11.xyz
 vsepropoker12.top
 vsepropoker12.xyz
+vsepropoker13.top
 vsepropoker13.xyz
 vsepropoker14.xyz
 vsepropoker15.xyz
@@ -13365,7 +13373,6 @@ www.videoprocasino.com
 www.videotut.me
 www.videozal.net
 www.vidtorg.ru
-www.vipdosug.info
 www.vipdosug74.com
 www.vipdosugperm.info
 www.vipvideoclub.ru
