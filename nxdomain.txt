@@ -2755,7 +2755,6 @@ avtomatix.pw
 avtomatix.stream
 avtomatix.xyz
 avtomaty-igrovye-besplatno.com
-avtomaty.igrovoy-zal.com
 avtomaty.pro
 avtomatydengisvyvodom.com
 avtomatynadengi.org
@@ -5373,6 +5372,7 @@ filmix.uk
 filmixe.ru
 filmku.ru
 filmorezka.org
+filmosval.net
 filmovmirhd.online
 films-one.ru
 films-online.net
@@ -6926,7 +6926,6 @@ kupit-diplom.club.
 kupitdiplom1.info
 kupitgims.com.
 kupitprava.org
-kupitspravki.com
 kursk.xrus.org
 kursk2.xrus.org
 kyrnyt.ru
