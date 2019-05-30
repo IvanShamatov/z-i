@@ -1264,6 +1264,7 @@
 1xztb.top
 1xztr.xyz
 1xzwe.xyz
+1z-game.com
 1zsport.space
 2-best-muzon.me
 2-chru.net
@@ -2520,6 +2521,7 @@ air.pm-210.info
 air.pm-212.info
 air.pm-215.info
 air.pm-217.info
+air.pm-218.info
 air.pm-219.info
 air.pm-221.info
 air.pm-267.info
@@ -9683,6 +9685,7 @@ pm-140.info
 pm-145.info
 pm-147.info
 pm-15.website
+pm-154.info
 pm-156.online
 pm-158.info
 pm-159.info
@@ -9701,6 +9704,7 @@ pm-178.online
 pm-179.info
 pm-181.info
 pm-183.info
+pm-186.info
 pm-191.info
 pm-193.online
 pm-194.info
@@ -13751,7 +13755,9 @@ xn----8sbafccpv6bofr6ad0kj.xn--p1acf
 xn--1-7sbliggei4aeg.online
 xn--2-7sbliggei4aeg.online
 xn--80aaaghm0bgp8a.xn--p1ai
+xn--80aaebcns1bneq3ad2ji.com
 xn--80aafg6avvi.luly.kim
+xn--80aaftfjehqeg5d.com
 xn--80abginb3ag8a.xn--p1ai
 xn--80abmaxbbm3bkp7m.gq
 xn--80ahgffdh1adg.club
