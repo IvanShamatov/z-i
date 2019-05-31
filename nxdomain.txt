@@ -2543,7 +2543,6 @@ aktualnye-zerkala-bk.trade
 aktualnye-zerkala-bukmekera.date
 aktualnyjadres.men
 alco-24.party
-alco-alco.info
 alco-domik.info
 alco-domik.online
 alco-domik.store
@@ -2556,7 +2555,6 @@ alco-line.online
 alco-magazin.net
 alco-magazin.org
 alco-nedorogo.pw
-alco-nedorogo.win
 alco-nsk54.ru
 alco-online24.ru
 alco-vozim.me
@@ -2616,7 +2614,6 @@ ameaui2wsb.srcl.connect.netcdn.bcdl.rocks
 amerikanskoe-casino.men
 amiges.ru
 anamvseravno.ru
-anapa.xrus.org
 androidslot.mobi
 anewmosttraf.com
 angarsk.xrus.org
@@ -11146,7 +11143,6 @@ sports.tbzlk.com
 sports.tbznew.com
 sports.tbzpc.com
 sports.tbzpro.com
-sports.tbzro.com
 sports.tbzrt.com
 sports.tbzru.com
 sports.tbzuc.com
@@ -11553,9 +11549,7 @@ volcano-azart.com
 volcanogame.club
 volfbetting.space
 volga-casino.men
-volgograd.xrus.org
 volhov.docvuz.org
-vologda.xrus.org
 voronezh.xrus.org
 vpleere.online
 vps2.helpmego.to
@@ -13698,7 +13692,6 @@ xn--c1ajfnfb.top
 xn--d1ahfbogbaasi6c.xn--p1ai
 xn--d1ahfkdgb.su
 xn--d1ahfnbebp.xn--p1ai
-xn--h1ambfcjpa.xn--p1ai
 xn--k1aghg.online
 xn--n1adbge.top
 xregistrationbk202.top
