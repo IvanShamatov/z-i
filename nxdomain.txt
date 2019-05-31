@@ -2409,7 +2409,6 @@ account.bkfon-sport.cf
 account.fon-sport.tk
 account.fon-sportbet.tk
 account.fonsportbet.tk
-account.fonsportbet.xyz
 account.gameinfon.club
 account.twistcasinoz.com
 acd82e.olimp1897.top
@@ -2755,6 +2754,7 @@ avtomatix.pw
 avtomatix.stream
 avtomatix.xyz
 avtomaty-igrovye-besplatno.com
+avtomaty.igrovoy-zal.com
 avtomaty.pro
 avtomatydengisvyvodom.com
 avtomatyigrovyeonline.ru
@@ -4401,6 +4401,7 @@ bkleon1.top
 bkleon2.top
 bkleon3.top
 bkleon4.top
+bkleon5.top
 bkm-fbet.xyz
 bknf0.top
 bkpari.space
@@ -6205,7 +6206,6 @@ games.bkfon-sport.cf
 games.fon-sport.tk
 games.fon-sportbet.tk
 games.fonsportbet.tk
-games.fonsportbet.xyz
 games.gameinfon.club
 games.marathonbet1.com
 games.onlinecasino.ac
@@ -6816,6 +6816,7 @@ kinogosha.ru
 kinogot.org
 kinogot.tv
 kinogotv.ru
+kinogou.club
 kinogou.ru
 kinogov.net
 kinogp.me
@@ -10116,7 +10117,6 @@ racing.bkfon-sport.cf
 racing.fon-sport.tk
 racing.fon-sportbet.tk
 racing.fonsportbet.tk
-racing.fonsportbet.xyz
 racing.gameinfon.club
 radioedit.net
 rakyta.moyblog.net
@@ -11031,7 +11031,6 @@ rutracker2.ru
 rutracker7.org
 rutreker-2018.org
 ry-diploma.com
-ryazan.docvuz.org
 ryazan.xrus.org
 s.mogoyun.com
 s1.rbk0.top
@@ -11332,9 +11331,6 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tests.prostosuper.com
 tfiletorrent.info
 tg.yadda.club
@@ -12903,7 +12899,6 @@ www.fonbet98.vip
 www.fonbet99.com
 www.fonmusic.ru
 www.fonsportbet.tk
-www.fonsportbet.xyz
 www.forum-cazino.ru
 www.forumgamingcasino.com
 www.free.avtomatyplay.net
@@ -13194,6 +13189,7 @@ www.planetofbets.ml
 www.play.casinofaraon-game.com
 www.playamo7.com
 www.playamo8.com
+www.playboyshop.biz
 www.playvulkan.com
 www.pleer.com
 www.pleer.net
