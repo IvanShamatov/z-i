@@ -6258,7 +6258,6 @@ hdpicture.ru
 hdrezka.cx
 hdrezka.men
 hdrezka.movie
-hdrezka.store
 hdrezka1.cc
 hdrezka1.club
 hdrezka1.site
@@ -6587,6 +6586,7 @@ kinobest.infos-z.com
 kinobomz.tv
 kinobrothers.com
 kinoby.org
+kinoclub.club
 kinoclub.info
 kinodd.net
 kinoden.pro
@@ -6658,6 +6658,7 @@ kinogo-onlline.info
 kinogo-ru.ru
 kinogo-teatr.ru
 kinogo-tv.cx
+kinogo-tv.guru
 kinogo-tv.me
 kinogo-z720.com
 kinogo-z720.ru
