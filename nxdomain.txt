@@ -6761,7 +6761,6 @@ kinogohit.net
 kinogol.biz
 kinogol.ru
 kinogold.net
-kinogold.website
 kinogolos.ru
 kinogoo.club
 kinogoogle.ru
@@ -11108,6 +11107,7 @@ rutor-games.net
 rutor-in.info
 rutor-info.org.ru
 rutor-info.pw
+rutor-info.xyz
 rutor-is.uio.faith
 rutor-msk.info
 rutor-net.info
@@ -11433,6 +11433,9 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tests.prostosuper.com
 tex-osmotr-avto.ru
 tfiletorrent.info
@@ -13533,7 +13536,6 @@ www.videoprocasino.com
 www.videotut.me
 www.videozal.net
 www.vidtorg.ru
-www.vipdosug74.com
 www.vipdosugperm.info
 www.vipvideoclub.ru
 www.vk-sound.ru
