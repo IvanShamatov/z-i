@@ -4580,6 +4580,7 @@ bukvaved.party
 bukvaved.science
 bukvaved.site
 bukvaved.space
+bukvaved.trade
 bukvaved.website
 bukvaved.win
 bus.technom.club
@@ -6888,7 +6889,6 @@ kupikorochku.com
 kupit-diplom.club.
 kupitdiplom1.info
 kupitgims.com.
-kupitprava.org
 l.semyanich-semena.zone
 ladnsneutnt.com
 landchartraff.com
@@ -10114,7 +10114,6 @@ pro-mostbet-bets.ru
 pro-mostbet-bk.ru
 pro-mostbet-pro.ru
 pro-mostbet-topsport.ru
-pro-mostbet.ru
 pro-mostbettop-info-pro-pro.ru
 pro-mybukmeker-otzyvy-pro.ru
 pro-mybukmeker-otzyvy-prosport.ru
@@ -11428,6 +11427,7 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
+test2.plusminus1.com
 tests.prostosuper.com
 tex-osmotr-avto.ru
 tfiletorrent.info
@@ -12224,7 +12224,6 @@ witchcraft-for-everyone.info
 wlkantreasurez.com
 wlkanzfungame.com
 wndbt.com
-womanlucky.ru
 wondermbet.win
 wood-film.ru
 wood-working.info
@@ -13239,6 +13238,7 @@ www.ngo-edu.ru
 www.nhg-mar-rrghr.win
 www.nichesi.ru
 www.nnmclub.gq
+www.novgorod-hot.mobi
 www.o-filme.ru
 www.offsidebet.com
 www.ohmymarathon.win
