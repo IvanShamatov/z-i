@@ -2499,6 +2499,7 @@ agiltec.info
 ahmetakin.info
 ain2az32.com
 air.mailparimatch12.com
+air.mailparimatch2.com
 air.mailparimatch20.com
 air.mailparimatch9.com
 air.pari-mail15.com
@@ -7688,6 +7689,7 @@ mail.torrent.by
 mail.vkmp3.org
 mailparimatch12.com
 mailparimatch16.com
+mailparimatch2.com
 mailparimatch20.com
 mailparimatch9.com
 main-rutor.tk
@@ -9640,6 +9642,7 @@ otzyvy-mostbet-topsport.ru
 otzyvy-mostbet.ru
 oxo.media
 ozeeplay.com
+pari-mail10.com
 pari-mail15.com
 pari-mail17.com
 pari-mail5.com
@@ -10489,6 +10492,7 @@ rossijskie-casino.men
 rostov.prostitutkibar.com
 rotatecool.win
 rotateplus.win
+rovids.com
 rrusstorr.xyz
 rs-torrent.com
 rsham.info
@@ -11506,6 +11510,9 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tests.prostosuper.com
 tex-osmotr-avto.ru
 tfiletorrent.info
@@ -13363,7 +13370,6 @@ www.pari-partners3.club
 www.pari-partners3.top
 www.pari-partners4.club
 www.pari-partners4.top
-www.parimatch.co
 www.paripartners41.com
 www.pesnitut.com
 www.pharaon-play.ru
