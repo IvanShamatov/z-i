@@ -11326,6 +11326,7 @@ rutor-info.xyz
 rutor-is.uio.faith
 rutor-msk.info
 rutor-net.info
+rutor-new.info
 rutor-new.ru
 rutor-nn.info
 rutor-org.info
