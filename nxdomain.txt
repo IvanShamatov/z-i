@@ -767,6 +767,7 @@
 1xhjg.host
 1xhsd.top
 1xici.xyz
+1xicu.host
 1xidl.host
 1xiih.top
 1xiik.xyz
@@ -857,7 +858,6 @@
 1xkjm.top
 1xkle.top
 1xkmc.xyz
-1xkmz.top
 1xkne.top
 1xktk.host
 1xkve.top
@@ -884,7 +884,6 @@
 1xmbs.host
 1xmdu.host
 1xmli.top
-1xmna.top
 1xmnq.top
 1xmns.top
 1xmobaaj.top
@@ -903,6 +902,7 @@
 1xmobdfo.top
 1xmobdhn.xyz
 1xmobdtq.xyz
+1xmobdys.host
 1xmobemh.top
 1xmobemw.top
 1xmobeqq.xyz
@@ -1014,6 +1014,7 @@
 1xmobpqa.host
 1xmobpxa.xyz
 1xmobqmo.xyz
+1xmobqnr.host
 1xmobqqc.host
 1xmobquc.xyz
 1xmobreb.top
@@ -1084,6 +1085,7 @@
 1xnrb.xyz
 1xntg.top
 1xnwh.host
+1xoay.host
 1xobh.host
 1xohb.top
 1xohb.xyz
@@ -1226,6 +1228,7 @@
 1xredosa.xyz
 1xredosy.xyz
 1xredoyy.host
+1xredplf.host
 1xredqaz.host
 1xredrow.host
 1xredstd.top
@@ -1251,7 +1254,6 @@
 1xrsl.host
 1xrsq.top
 1xrtb.host
-1xsct.top
 1xsdb.top
 1xsdo.host
 1xseh.xyz
@@ -1306,7 +1308,6 @@
 1xujv.host
 1xukc.top
 1xunj.top
-1xuno.top
 1xuwz.top
 1xuxv.top
 1xvet.com
@@ -2672,7 +2673,6 @@ aktualnye-zerkala-bk.bid
 aktualnye-zerkala-bk.trade
 aktualnye-zerkala-bukmekera.date
 aktualnyjadres.men
-alco-lavka.moscow
 alco-lavka.online
 alco-na-dom.shop
 alco812-spb.ru
@@ -4832,6 +4832,7 @@ casino-am.men
 casino-ameriki.men
 casino-argo.ru
 casino-art.men
+casino-avtomaty.online
 casino-azartplej.men
 casino-azino777.men
 casino-best.top
@@ -6877,7 +6878,6 @@ kinogb.club
 kinogb.guru
 kinogb.life
 kinogb.me
-kinogb.mobi
 kinogb.net
 kinogb.org
 kinogb.site
@@ -10564,6 +10564,8 @@ refpadtf.top
 refpadup.host
 refpadvs.top
 refpaebd.top
+refpaecn.host
+refpaefg.host
 refpaefx.top
 refpaehb.top
 refpaeii.top
@@ -10602,6 +10604,7 @@ refpairg.host
 refpaisx.top
 refpaivr.top
 refpajat.host
+refpajfq.host
 refpajmx.top
 refpajnj.top
 refpajol.host
@@ -10615,6 +10618,7 @@ refpalao.host
 refpalbb.host
 refpalng.top
 refpalob.top
+refpalod.host
 refpalom.top
 refpalps.top
 refpaluh.host
@@ -10650,6 +10654,7 @@ refpapbm.host
 refpapdp.top
 refpaper.host
 refpapkg.top
+refpaplw.host
 refpapnj.host
 refpapsb.top
 refpapul.top
@@ -10687,6 +10692,7 @@ refpatua.top
 refpatwx.host
 refpaubd.host
 refpaudr.top
+refpaufb.host
 refpaufh.top
 refpauhq.host
 refpaukk.top
@@ -10747,6 +10753,7 @@ refpazie.top
 refpazkm.top
 refpazoq.top
 refpazpl.top
+refpazsu.host
 refpazto.host
 registraci.space
 registraciy777aavtomat.space
@@ -11689,7 +11696,6 @@ slotv-com.ru
 slotx.club
 slotxdom.com
 sltoroom.com
-smartcomic.jp
 smartdirectroute.co
 smeliykirov24.biz.obhod.city
 smo.poluchit-prava.ru
@@ -12074,7 +12080,6 @@ vavoom.ru
 vbasseyn.com
 vbgrar.kylie-ru.ru
 vcemkino.ru
-vdr24.ru
 vegas-avtomati.su
 vegas82.com
 velcam.org
