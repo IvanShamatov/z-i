@@ -1719,6 +1719,7 @@
 4181def1af1b3b4191.c2ef25.a2341e99d0a2f2982f.xyz
 41d8fb.olimpd9f7.top
 423567.olimpcc44.top
+42c2c1.olimp2a24.top
 42f22a.olimpcaf3.top
 43126e.olimp4859.top
 4383d3.olimp161f.top
@@ -2742,8 +2743,10 @@ aobooks.zone
 aofahmwz4.srcl.connect.netcdn.bcdl.rocks
 ap-01.accessfonbet-00c4d.com
 ap-01.accessfonbet-0a28f.com
+ap-01.accessfonbet-16e6a.com
 ap-01.accessfonbet-19b97.com
 ap-01.accessfonbet-1af93.com
+ap-01.accessfonbet-27a5f.com
 ap-01.accessfonbet-2e145.com
 ap-01.accessfonbet-32a33.com
 ap-01.accessfonbet-3bbd0.com
@@ -2773,6 +2776,7 @@ ap-01.accessfonbet-a7eca.com
 ap-01.accessfonbet-c1ded.com
 ap-01.accessfonbet-d1ef0.com
 ap-01.accessfonbet-d8ff4.com
+ap-01.accessfonbet-db404.com
 ap-01.accessfonbet-dbbea.com
 ap-01.accessfonbet-dd534.com
 ap-01.accessfonbet-e760f.com
@@ -6479,7 +6483,6 @@ getbettraf.com
 getmarathon.win
 getmarathonbet.win
 getmpc14.com
-getmus.xgetmuz.ru
 getsometraf.com
 ghuraba.host
 gid-novinki-kino.ru
@@ -6910,7 +6913,6 @@ kingo-hit.com
 kingportal.net
 kinino.ru
 kino-1080.biz
-kino-1080.ru
 kino-1080p.ru
 kino-2018.me
 kino-720.cx
@@ -9901,7 +9903,6 @@ online-casino-spel.com
 online-casino-z.com
 online-casino.stream
 online-film.ru
-online-films.ckoro.ru
 online-kino.in
 online-kz.net
 online-millions-plays.com
