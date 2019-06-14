@@ -2742,7 +2742,6 @@ aofahmwz4.srcl.connect.netcdn.bcdl.rocks
 ap-01.accessfonbet-00c4d.com
 ap-01.accessfonbet-0a28f.com
 ap-01.accessfonbet-1af93.com
-ap-01.accessfonbet-27a5f.com
 ap-01.accessfonbet-2e145.com
 ap-01.accessfonbet-32a33.com
 ap-01.accessfonbet-3bbd0.com
@@ -6737,6 +6736,7 @@ instaturk.net
 intelbet.space
 internet-auditor.ru
 intim-map.com
+intimlive.net
 intimuz.ru
 investxp.ru
 iphonefilm.ru
@@ -12040,6 +12040,7 @@ torrent2018.net
 torrent40.ru
 torrent9.name
 torrentfilmov.net
+torrentiks.net
 torrentim.net
 torrentiz.org
 torrentom.net
