@@ -2781,6 +2781,7 @@ ap-01.accessfonbet-74b9a.com
 ap-01.accessfonbet-7e13e.com
 ap-01.accessfonbet-8297d.com
 ap-01.accessfonbet-85e8c.com
+ap-01.accessfonbet-8d52d.com
 ap-01.accessfonbet-8ec49.com
 ap-01.accessfonbet-977e7.com
 ap-01.accessfonbet-a0421.com
@@ -4828,6 +4829,8 @@ btct-zerkalo1rk28.ru
 btct-zerkalo1rk29.ru
 btct-zerkalo1rk30.ru
 btct-zerkalo1rk31.ru
+btct-zerkalo1rk32.ru
+btct-zerkalo1rk34.ru
 btct-zerkalo1rkn9.ru
 btct-zerkalo1xex6.ru
 btct-zerkalo1xxx5.ru
@@ -9521,6 +9524,7 @@ mp3.muzica.fun
 mp3.open.az
 mp3bass.org
 mp3bhojpuriwap.info
+mp3crazy-online.ru
 mp3heet.ru
 mp3lazer.ru
 mp3myzuka.org
