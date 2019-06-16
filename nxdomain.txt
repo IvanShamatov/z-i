@@ -5928,6 +5928,7 @@ fon-bkru32.space
 fon-bkru44.win
 fon-bkru54.space
 fon-dostup-cgt44.ru
+fon-fonbet.ru
 fon-fontoto54.space
 fon-fontoto65.space
 fon-mirror-jkt12.ru
@@ -11509,6 +11510,7 @@ ru.leondani2.com
 ru.leondimi.com
 ru.leonfastga.com
 ru.leonfeature.com
+ru.leonfinik.com
 ru.leonflee.com
 ru.leonftx.com
 ru.leongant.com
