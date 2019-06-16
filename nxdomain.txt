@@ -2552,6 +2552,7 @@ access.bbplay2017.site
 access.bbplay2017.space
 access.bbplay2017.tech
 access.bbplay2017.today
+access.bbplay2018.club
 access.bbsport.club
 access.bbsports.club
 access.bbsports.pro
@@ -13501,6 +13502,7 @@ www.bbplay2017.site
 www.bbplay2017.space
 www.bbplay2017.tech
 www.bbplay2017.today
+www.bbplay2018.club
 www.bbsport.club
 www.bbsport2018.club
 www.bbsport2018.xyz
