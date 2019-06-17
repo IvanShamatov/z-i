@@ -4875,7 +4875,6 @@ bukvaved.life
 bukvaved.online
 bukvaved.party
 bukvaved.science
-bukvaved.site
 bukvaved.trade
 bukvaved.win
 buro17.ru
@@ -11811,7 +11810,6 @@ rus.musicoff.online
 rus.pokersavvyplayers.net
 rusbet.space
 rusbetting.ru
-ruskompromat.ru
 russ-torrents.xyz
 russianbet.club
 russiancasinox.xyz
