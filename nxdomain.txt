@@ -2935,7 +2935,6 @@ avtomatix.pw
 avtomatix.stream
 avtomatix.xyz
 avtomaty-igrovye-besplatno.com
-avtomaty.igrovoy-zal.com
 avtomaty.pro
 avtomatydengi.com
 avtomatydengisvyvodom.com
@@ -8361,7 +8360,6 @@ mel2017.mobi
 mel2017.xyz
 melb24.space
 melbaff.xyz
-melban.space
 melbbtl.xyz
 melbctx.xyz
 melbet-bk.men
@@ -12009,6 +12007,7 @@ rutororg.info
 rutororg1.info
 rutororg2.info
 rutorrr.com
+rutors.guru
 rutors.ml
 rutorzerkalo.ru
 rutracker-2018.org
