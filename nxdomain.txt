@@ -11098,7 +11098,6 @@ refpason.host
 refpaspa.host
 refpaspv.host
 refpasul.host
-refpasvd.host
 refpatdu.host
 refpatiq.host
 refpatmb.top
@@ -15021,7 +15020,6 @@ yon5zqcls.srcl.connect.netcdn.bcdl.rocks
 you-bonus.ru
 youtor.ru
 youtube-com.club
-ypeshz.postelkaru.ru
 yregistrationbk303.top
 yregistrationbk505.top
 yregnewbklive303.pw
