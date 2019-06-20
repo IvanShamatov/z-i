@@ -12398,6 +12398,7 @@ tennisireal.tj
 teplomaster.info
 termesanpellegrino.info
 test1.plusminus1.com
+test2.plusminus1.com
 tfiletorrent.info
 tg.yadda.club
 tgfix.ru
@@ -12661,6 +12662,7 @@ vidrog.press
 vidtorg.ru
 viho.club
 vin.bkr02a.top
+vin.bkr03.ru
 vin.bkr03a.top
 vin.bkr04a.top
 vin.bkr05a.top
@@ -15077,7 +15079,6 @@ xn--d1ahfbogbaasi6c.xn--p1ai
 xn--d1ahfkdgb.su
 xn--d1ahfnbebp.xn--p1ai
 xn--e1agweahd.xn--p1ai
-xn--h1adke.xn--90aa2bj.xn--90ais
 xn--k1aghg.online
 xn--n1adbge.top
 xpaywlcs.com
@@ -15096,6 +15097,7 @@ yanzbarik.ru
 yesmarathon.win
 yesmarathonbet.win
 yhcc.ru
+yl365.biz
 ymka.co
 yofo.info
 yon5zqcls.srcl.connect.netcdn.bcdl.rocks
