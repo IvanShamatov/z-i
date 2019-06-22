@@ -4725,12 +4725,18 @@ bkinfo428.space
 bkinfo430.site
 bkinfo431.host
 bkinfo440.site
+bkinfo444.top
 bkinfo450.site
 bkinfo451.host
+bkinfo454.top
+bkinfo464.top
 bkinfo471.host
 bkinfo473.space
+bkinfo474.top
 bkinfo480.site
+bkinfo484.top
 bkinfo490.site
+bkinfo494.top
 bkinfo7.online
 bkjhwbruwbeouwebrouiowefj.nopeer.ru
 bkleon-bet12.ru
@@ -5717,7 +5723,6 @@ faf842.olimpef97.site
 fail-zona.ru
 fakafaka.net
 fakes.name
-fakspeed.biz
 fanserials.life
 fanserials.realrty
 fanserials.site
@@ -8537,6 +8542,7 @@ melbetmobipi.top
 melbetmobjvl.top
 melbetmobkre.top
 melbetmobndi.top
+melbetmobnhw.top
 melbetmobntk.top
 melbetmobowd.top
 melbetmobozz.top
@@ -10287,7 +10293,6 @@ onlainfilmix.com
 onlajn-2018.space
 onlajn-kazino-registraciya.date
 onlajn-kazino-tut.space
-online-2.avtomaty24besplatno.com
 online-5.igrovyeavtomati.com
 online-betting.space
 online-casino-azino777.ru
@@ -11362,7 +11367,6 @@ rotatecool.win
 rotateplus.win
 rottensu.prochan.com
 rovids.com
-royairc.biz
 rrusstorr.xyz
 rs-torrent.com
 rsskino.ru
@@ -12482,6 +12486,7 @@ ten-casinoz.online
 tennisireal.tj
 teplomaster.info
 termesanpellegrino.info
+test3.plusminus1.com
 tfiletorrent.info
 tg.yadda.club
 tgfix.ru
@@ -14355,6 +14360,7 @@ www.ligastavok148.com
 www.ligastavok149.com
 www.ligastavok150.com
 www.likerotate.win
+www.lis11.xyz
 www.lithub.ru
 www.livefilm.info
 www.lolita-casino.com
