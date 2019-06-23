@@ -494,6 +494,7 @@
 1winwr.xyz
 1winws.top
 1winws.xyz
+1winwt.top
 1winwt.xyz
 1winwu.top
 1winwu.xyz
@@ -511,6 +512,7 @@
 1winxc.xyz
 1winxd.top
 1winxd.xyz
+1winxe.top
 1winxf.xyz
 1winxg.xyz
 1winxh.xyz
@@ -535,6 +537,7 @@
 1winy.xyz
 1winyb.top
 1winyb.xyz
+1winye.top
 1winye.xyz
 1winyf.top
 1winyf.xyz
@@ -12585,9 +12588,6 @@ ten-casinoz.online
 tennisireal.tj
 teplomaster.info
 termesanpellegrino.info
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tfiletorrent.info
 tg.yadda.club
 tgfix.ru
