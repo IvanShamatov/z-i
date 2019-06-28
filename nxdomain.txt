@@ -3774,7 +3774,6 @@ betcity-vepw.ml
 betcity-vepw.space
 betcity-vepw.tk
 betcity-vgbq.cf
-betcity-vlur.space
 betcity-web2.space
 betcity-wjqt.space
 betcity-wmzf.space
@@ -14421,6 +14420,7 @@ www.planetofbets.ml
 www.play.casinofaraon-game.com
 www.playamo7.com
 www.playamo8.com
+www.playbitcoingames.com
 www.pleer.com
 www.pleer.net
 www.plusrotate.win
