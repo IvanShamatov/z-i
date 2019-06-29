@@ -3426,7 +3426,6 @@ bcity-421.host
 bcity-421.online
 bcity-423.site
 bcity-427.online
-bcity-430.online
 bcity-431.host
 bcity-434.online
 bcity-437.site
@@ -3439,7 +3438,6 @@ bcity-455.site
 bcity-461.host
 bcity-463.online
 bcity-467.online
-bcity-468.site
 bcity-470.online
 bcity-471.host
 bcity-477.online
@@ -3710,7 +3708,6 @@ betcity-ggux.space
 betcity-gska.space
 betcity-guer.space
 betcity-guer.tk
-betcity-hagn.space
 betcity-hgou.space
 betcity-hkso.ml
 betcity-hkso.tk
@@ -3718,7 +3715,6 @@ betcity-hlvm.space
 betcity-hxar.cf
 betcity-hzvy.space
 betcity-iwud.ml
-betcity-iwud.space
 betcity-iwud.tk
 betcity-izsn.cf
 betcity-izsn.space
@@ -7672,7 +7668,6 @@ leonbetskser.website
 leonbetsle.website
 leonbetslock.website
 leonbetsmp.website
-leonbetsodds.website
 leonbetss.website
 leonbetssm.website
 leonbetssto.website
@@ -12569,9 +12564,6 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 texosmotr.online
 tfiletorrent.info
 tg.yadda.club
@@ -12685,7 +12677,6 @@ tushkan-net.ru
 tushkan-tv.net
 tushkan.eu
 tushkan.me
-tushkan.online
 tushkan2.me
 tushkan22.me
 tushkan3.me
@@ -12938,7 +12929,6 @@ vsepropoker.xyz
 vsepropoker01.top
 vsepropoker01.xyz
 vsepropoker02.top
-vsepropoker02.xyz
 vsepropoker03.top
 vsepropoker03.xyz
 vsepropoker04.top
@@ -13165,8 +13155,6 @@ wap.betcity-fmvs.space
 wap.betcity-fzep.space
 wap.betcity-gska.space
 wap.betcity-guer.space
-wap.betcity-hagn.space
-wap.betcity-iwud.space
 wap.betcity-izsn.space
 wap.betcity-lcqw.space
 wap.betcity-mqnf.space
@@ -13929,10 +13917,8 @@ www.betcity-fzep.space
 www.betcity-fzep.tk
 www.betcity-gska.space
 www.betcity-guer.space
-www.betcity-hagn.space
 www.betcity-hkso.tk
 www.betcity-hzvy.space
-www.betcity-iwud.space
 www.betcity-izsn.cf
 www.betcity-izsn.space
 www.betcity-lcqw.space
