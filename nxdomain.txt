@@ -3717,7 +3717,6 @@ betcity-hkso.ml
 betcity-hkso.tk
 betcity-hlvm.space
 betcity-hxar.cf
-betcity-hxar.space
 betcity-hzvy.space
 betcity-iwud.ml
 betcity-iwud.space
@@ -7638,7 +7637,6 @@ leonbetclock.website
 leonbeter.website
 leonbetgam.xyz
 leonbetgogo.website
-leonbetitaly.website
 leonbetkon.xyz
 leonbetodds.website
 leonbetpis.website
