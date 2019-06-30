@@ -2838,6 +2838,7 @@ antonmarathon.win
 aobooks.zone
 aofahmwz4.srcl.connect.netcdn.bcdl.rocks
 ap-01.accessfonbet-00c4d.com
+ap-01.accessfonbet-0a28f.com
 ap-01.accessfonbet-16e6a.com
 ap-01.accessfonbet-19b97.com
 ap-01.accessfonbet-1af93.com
@@ -2950,7 +2951,6 @@ avtomatix.stream
 avtomatix.xyz
 avtomaty-casino-vulkan.com
 avtomaty-igrovye-besplatno.com
-avtomaty.igrovoy-zal.com
 avtomaty.pro
 avtomatydengi.com
 avtomatydengisvyvodom.com
