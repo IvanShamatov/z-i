@@ -3888,7 +3888,6 @@ betsbc-fvoz.tk
 betsbc-goag.ml
 betsbc-goag.tk
 betsbc-isal.space
-betsbc-jzha.space
 betsbc-klhk.space
 betsbc-kmxa.space
 betsbc-krtr.tk
@@ -3904,7 +3903,6 @@ betsbc-oyij.ml
 betsbc-oyij.tk
 betsbc-oyph.space
 betsbc-play.space
-betsbc-pzte.space
 betsbc-qqcp.cf
 betsbc-qtzi.cf
 betsbc-quyz.cf
@@ -7249,7 +7247,6 @@ kinogou.ru
 kinogov.net
 kinogovno.online
 kinogp.me
-kinogud.tv
 kinoguru.ml
 kinogut.net
 kinogyd.tv
@@ -7610,14 +7607,12 @@ leonbetbitss.pro
 leonbetbj.website
 leonbetbtr.website
 leonbetcccr.website
-leonbetchpid.website
 leonbetclock.website
 leonbeter.website
 leonbetgam.xyz
 leonbetgogo.website
 leonbetkon.xyz
 leonbetodds.website
-leonbetpis.website
 leonbetqaz.xyz
 leonbetred.website
 leonbetris.website
@@ -14268,7 +14263,6 @@ www.kinogo-net-co.ru
 www.kinogo.kz
 www.kinogo2.net
 www.kinogou.ru
-www.kinogud.tv
 www.kinohit1.ru
 www.kinokrad.ru
 www.kinokrad.top
