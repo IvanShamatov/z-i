@@ -7177,6 +7177,7 @@ kinogo-hd.tv
 kinogo-hd1080.net
 kinogo-hdonline.net
 kinogo-hdtv.cx
+kinogo-kino.club
 kinogo-kinogo.club
 kinogo-kong.ru
 kinogo-krad.ru
@@ -10260,6 +10261,7 @@ nojabrsk.diplomiks.online
 nomer-org.one
 nomer-tel.info
 nomer.company
+nomera.info
 nomerorg.one
 nontorclub.in.net
 norilsk.diplomiks.online
@@ -12544,6 +12546,8 @@ ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
 test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 texosmotr.online
 tfiletorrent.info
 tg.yadda.club
