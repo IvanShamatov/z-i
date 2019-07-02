@@ -3497,7 +3497,6 @@ bcity-629.online
 bcity-634.site
 bcity-637.site
 bcity-638.online
-bcity-645.online
 bcity-654.online
 bcity-656.site
 bcity-657.online
@@ -3966,7 +3965,6 @@ betszerkalosp98.space
 bettatraf.com
 betten-fonbet43.space
 betten-fonbet47.space
-betterbets.io
 betting-site.website
 betting-zerkalo42.space
 bettingcentr.ru
@@ -4215,6 +4213,7 @@ bk-fonbets33.ru
 bk-fonbets34.ru
 bk-fonbets35.ru
 bk-fonbets36.ru
+bk-fonbets37.ru
 bk-in-fo011.site
 bk-in-fo121.site
 bk-in-fo231.site
@@ -6416,6 +6415,7 @@ fonbets-zerkalo28.ru
 fonbets-zerkalo29.ru
 fonbets-zerkalo30.ru
 fonbets-zerkalo31.ru
+fonbets-zerkalo32.ru
 fonbets-zerkalo9.ru
 fonbets.win
 fonbets.xyz
@@ -12688,8 +12688,6 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
-test1.plusminus1.com
-test2.plusminus1.com
 test3.plusminus1.com
 texosmotr.online
 tfiletorrent.info
@@ -14287,6 +14285,7 @@ www.casino-x.me
 www.casino999.info
 www.casinocashpalace.com
 www.casinoforum.su
+www.casinog.ru
 www.casinogusarzerkalo.ru
 www.casinorating.su
 www.casinosuperslot34.space
