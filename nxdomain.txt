@@ -796,7 +796,6 @@
 1xcio.host
 1xciy.xyz
 1xcnl.top
-1xcpg.xyz
 1xcri.xyz
 1xcti.host
 1xctj.top
@@ -3127,6 +3126,7 @@ b72956.olimpd7c0.top
 b73ce8.olimp9b55.gdn
 b74920.olimp4859.top
 b7500b.olimpb7cd.top
+b77308.olimp38fc.top
 b77fc09832bec76635.c2ef25.a2341e99d0a2f2982f.xyz
 b792a0.olimp9b55.gdn
 b7a1d1.olimp656f.top
@@ -3425,7 +3425,6 @@ bcity-355.online
 bcity-363.site
 bcity-366.online
 bcity-367.online
-bcity-373.site
 bcity-380.online
 bcity-383.online
 bcity-388.online
@@ -4865,6 +4864,7 @@ bo-tan.ru
 board.v.ua
 bobfillm.ru
 bobfilm-1.club
+bobfilm.pro
 bobfilm1.info
 bobfilms.club
 bobfilms.ru
@@ -5745,7 +5745,6 @@ filmo4ok.ru
 filmorezka.net
 filmorezka.org
 filmosval.net
-filmovmirhd.online
 films-one.ru
 films-online.net
 films-place.net
@@ -8615,7 +8614,6 @@ melmobyia.host
 melmobyna.xyz
 melmobyou.xyz
 melmobysu.com
-melmobzdf.xyz
 melmobzpu.host
 melobp.xyz
 melredircpr.xyz
@@ -12897,7 +12895,6 @@ velkam-casino.co
 velkam13.casino
 velkam16.casino
 velkam19.casino
-velkamdeluxe.xyz
 velkom-casino.men
 velkom.casino
 vermontpianomusic.com
@@ -14326,7 +14323,6 @@ www.filmario.net
 www.filmask.ru
 www.filmfirst.ru
 www.filmku.ru
-www.filmovmirhd.online
 www.films-one.ru
 www.films-online.net
 www.filmstart.ru
@@ -16256,7 +16252,6 @@ zffm.online
 zfilm-hd.guru
 zfilm-hd.online
 zfilm-hd.website
-zfilm-hd.xyz
 zfilm-online.me
 zhitely.info
 zhukovskij.diplomiks.online
