@@ -2958,6 +2958,7 @@ avtomatix.stream
 avtomatix.xyz
 avtomaty-casino-vulkan.com
 avtomaty-igrovye-besplatno.com
+avtomaty.igrovoy-zal.com
 avtomaty.pro
 avtomatydengi.com
 avtomatydengisvyvodom.com
@@ -6855,7 +6856,6 @@ igrovye-avtomati-vulkan.online
 igrovye-avtomaty-igrat-besplatno.su
 igrovye-avtomaty-joycasino.co
 igrovye-avtomaty-kazino.date
-igrovye-avtomaty-na-dengi.co
 igrovye-avtomaty-new.space
 igrovye-avtomaty-online.co
 igrovye-avtomaty-online.fun
@@ -12597,9 +12597,6 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 texosmotr.online
 tfiletorrent.info
 tg.yadda.club
@@ -13149,7 +13146,6 @@ vvolcc.com
 vvolccans.com
 vvolkan.com
 vvolkk.com
-vvshop24.biz
 vvulkan.info
 vvvbet.site
 vvvolcano.com
