@@ -2904,6 +2904,7 @@ avtomatix.stream
 avtomatix.xyz
 avtomaty-casino-vulkan.com
 avtomaty-igrovye-besplatno.com
+avtomaty.igrovoy-zal.com
 avtomaty.pro
 avtomatydengi.com
 avtomatydengisvyvodom.com
@@ -7038,6 +7039,7 @@ kino-1080p.ru
 kino-2018.me
 kino-720.cx
 kino-720.me
+kino-720hd.biz
 kino-720hd.ru
 kino-bezsms.com
 kino-coin.online
