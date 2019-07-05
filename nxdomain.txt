@@ -239,7 +239,6 @@
 1704.vin.bkr31a.top
 1704.vin.bkr33a.top
 1704.vsepropoker33.xyz
-1704.vsepropoker35.xyz
 1753dc60322d531c7b.c2ef25.a2341e99d0a2f2982f.xyz
 177040.olimp27fe.top
 17a3ef.olimp16e5.top
@@ -463,7 +462,6 @@
 1winvv.xyz
 1winw.me
 1winw.top
-1winw.xyz
 1winwk.top
 1winwl.top
 1winwo.top
@@ -5045,6 +5043,7 @@ casinoabsolut.com
 casinoavtomaty.ru
 casinocash-flow.com
 casinodrift.club
+casinoforum.cf
 casinoforum.pro
 casinoforum.site
 casinoforum.su
@@ -5387,6 +5386,7 @@ e1fe06.olimp161f.top
 e24f43.olimpa88c.site
 e25eeb.olimpd9f7.top
 e2d19bde297b1127b3.c2ef25.6c21b7e8561c55c684.xyz
+e30159.olimp0bae.top
 e30201.olimp656f.top
 e30454.olimpef97.site
 e3187c.olimp6116.top
@@ -7095,7 +7095,6 @@ kinogo-club.org
 kinogo-club.ru
 kinogo-club.xyz
 kinogo-film.ru
-kinogo-filmi.cc
 kinogo-films.ru
 kinogo-films.top
 kinogo-hd-club.ru
@@ -7185,7 +7184,6 @@ kinogovno.online
 kinogp.me
 kinoguru.ml
 kinogut.net
-kinogyd.tv
 kinohd.online
 kinohit1.ru
 kinoi.tv
@@ -8141,7 +8139,6 @@ match-pari.space
 match-zerkalo.win
 match-zerkalo19.ru
 match-zerkalos.ru
-maxifilm.org
 maxslots.top
 mazino.online
 mbestpartner.win
@@ -12560,6 +12557,9 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 texosmotr.online
 tfiletorrent.info
 tg.yadda.club
@@ -12968,7 +12968,6 @@ vsepropoker31.xyz
 vsepropoker32.xyz
 vsepropoker33.xyz
 vsepropoker34.xyz
-vsepropoker35.xyz
 vsepropoker36.xyz
 vsepropoker38.xyz
 vsepropoker39.xyz
