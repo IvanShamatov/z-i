@@ -4210,7 +4210,6 @@ bk-info187.top
 bk-info188.online
 bk-info189.site
 bk-info189.top
-bk-info189.xyz
 bk-info190.space
 bk-info191.site
 bk-info192.top
@@ -10286,6 +10285,7 @@ online.babkino.pro
 online.igrovoy-zal.com
 online.igrovyeavtomati.com
 online.stepashka.com
+online1.avtomaty24besplatno.com
 online1.igrovyeavtomati.com
 online203.space
 online283.space
@@ -12487,7 +12487,6 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
-test2.plusminus1.com
 tfiletorrent.info
 tg.yadda.club
 tgfix.ru
