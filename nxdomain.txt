@@ -1471,6 +1471,7 @@
 24ora.biz
 24poker.club
 24rc.biz
+24rc.bz
 24rc.cc
 24vid.ru
 24vlk.ru
@@ -5748,7 +5749,6 @@ fon-49.site
 fon-491.host
 fon-491.online
 fon-501.website
-fon-508.site
 fon-515.site
 fon-517.online
 fon-527.site
@@ -8418,7 +8418,6 @@ melbygd.xyz
 melbzbb.xyz
 melesf.xyz
 melgrr.xyz
-melhfd.xyz
 melhhe.xyz
 meljrp.xyz
 meljvu.xyz
@@ -10710,7 +10709,6 @@ pm-204.info
 pm-205.info
 pm-206.info
 pm-207.info
-pm-208.info
 pm-208.online
 pm-209.info
 pm-210.info
@@ -12548,9 +12546,7 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
-test1.plusminus1.com
 test2.plusminus1.com
-test3.plusminus1.com
 tfiletorrent.info
 tg.yadda.club
 tgfix.ru
@@ -16114,7 +16110,6 @@ zf-fm.mobi
 zf-fm.online
 zffm.online
 zfilm-hd.guru
-zfilm-hd.online
 zfilm-hd.pw
 zfilm-hd.website
 zhitely.info
