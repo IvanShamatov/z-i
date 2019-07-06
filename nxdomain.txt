@@ -602,7 +602,6 @@
 1winzy.top
 1winzy.xyz
 1winzz.top
-1winzz.xyz
 1x-141.online
 1x-147.site
 1x-161.online
@@ -4229,7 +4228,6 @@ bk-info20.online
 bk-info21.online
 bk-info228.top
 bk-info24.online
-bk-info25.online
 bk-info32.online
 bk-info33.online
 bk-info40.online
@@ -4470,7 +4468,6 @@ bkinfo-495.host
 bkinfo-498.top
 bkinfo100.top
 bkinfo103.xyz
-bkinfo104.xyz
 bkinfo111.online
 bkinfo116.top
 bkinfo118.top
@@ -7192,7 +7189,6 @@ kinoparking.net
 kinopchel.biz
 kinopp.ru
 kinoprofi-net.pro
-kinoprofi-net.xyz
 kinoprofi-online.net
 kinoprofi-tv.org
 kinoprofi.biz
@@ -10568,6 +10564,8 @@ phqnan.hobby-samara.ru
 pier-vv.org
 pievulkbon.info
 pinguin.vip
+pinup-casino3.tk
+pinupevent.tk
 piramida-casino.net
 piramidacasino.ru
 piratbit.ru
