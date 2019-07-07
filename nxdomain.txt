@@ -12898,8 +12898,6 @@ vsepropoker12.top
 vsepropoker12.xyz
 vsepropoker13.top
 vsepropoker13.xyz
-vsepropoker15.xyz
-vsepropoker16.xyz
 vsepropoker17.xyz
 vsepropoker18.xyz
 vsepropoker19.xyz
