@@ -5374,6 +5374,7 @@ e8e890.olimp12da.top
 e93378.olimp12da.top
 e95d03.olimpb138.top
 e95e24.olimpe297.top
+e96a59.olimpcaf3.top
 e97072.olimp2ad7.top
 e9c980.olimp16e5.top
 ea7d.club
@@ -5607,7 +5608,6 @@ filmixme.net
 filmixru.ru
 filmku.ru
 filmo4ok.ru
-filmorezka.net
 filmorezka.org
 films-one.ru
 films-online.net
@@ -7102,7 +7102,6 @@ kinogo1.me
 kinogo1.org
 kinogo2.cool
 kinogo2.pw
-kinogo2016.com
 kinogo2017-2018.club
 kinogo2017online.ru
 kinogo2019.com
@@ -7242,7 +7241,6 @@ kinoxit.tv
 kinoz-net.ru
 kinozomby.com
 kinozz-club.ru
-kinozz.fun
 kinozz.tv
 kinushka.com
 kiprofirkn.ru
@@ -8522,7 +8520,6 @@ mf-358.online
 mf-360.online
 mf-362.online
 mf-364.online
-mf-372.online
 mf-373.site
 mf-392.online
 mf-394.online
@@ -12547,6 +12544,9 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tfiletorrent.info
 tg.yadda.club
 tgfix.ru
@@ -15935,7 +15935,6 @@ zerkalo165.xyz
 zerkalo168.xyz
 zerkalo170.xyz
 zerkalo171.xyz
-zerkalo173.xyz
 zerkalo174.xyz
 zerkalo175.xyz
 zerkalo177.xyz
