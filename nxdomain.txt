@@ -329,7 +329,6 @@
 1winaa.top
 1winb.me
 1winb.top
-1winb.xyz
 1winbb.me
 1winbb.top
 1winbb.xyz
@@ -415,7 +414,6 @@
 1winrr.me
 1winrr.top
 1wins.top
-1wins.xyz
 1winss.me
 1winss.top
 1winss.xyz
@@ -3300,7 +3298,6 @@ bcity-513.site
 bcity-515.online
 bcity-516.site
 bcity-517.online
-bcity-521.online
 bcity-529.online
 bcity-536.online
 bcity-538.site
@@ -8422,7 +8419,6 @@ melmobfqz.host
 melmobgrs.xyz
 melmobhis.com
 melmobizb.com
-melmobjeu.xyz
 melmobjgk.xyz
 melmobjul.com
 melmobkcf.host
@@ -9787,6 +9783,7 @@ my-lucky-volcano.com
 my-music-kiosk.ru
 my-skladkino.ru
 my-zaycev.net
+my.onsport.club
 my.servmix.org
 myazino3topora.ru
 mybetmostpart.com
