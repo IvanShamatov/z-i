@@ -302,6 +302,7 @@
 1win1.top
 1win11.me
 1win11.top
+1win11.xyz
 1win2.me
 1win2.top
 1win22.me
@@ -396,6 +397,7 @@
 1winp.top
 1winpp.me
 1winpp.top
+1winpp.xyz
 1winq.me
 1winq.top
 1winqq.me
@@ -9838,7 +9840,6 @@ mp3tracks.ru
 mp3ze.com
 mp3zero.ru
 mpartnerlink.win
-mr-clip.com
 mrotate.win
 mrotatelike.win
 msports.betadonis78.com
@@ -12376,7 +12377,6 @@ slavaangel.com
 slavaangel.org
 slavaangel.ru
 slavacasinos.ru
-slclip.com
 slenliddeper.info
 slllot.bonuscasinoapex.win
 slllot.bonuscasinofast.win
@@ -12626,6 +12626,7 @@ supremerusbk.online
 sushifreshvrn.ru
 sut.technom.club
 suv.technom.club
+swissluxury.ru
 swleonbets.website
 sygrat-casino.men
 t9ju4o8jm.srcl.connect.netcdn.bcdl.rocks
@@ -12645,9 +12646,7 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
-test1.plusminus1.com
 test2.plusminus1.com
-test3.plusminus1.com
 tfiletorrent.info
 tg.yadda.club
 tgfix.ru
@@ -12824,7 +12823,6 @@ uris.lol
 urislog.link
 uylkans.com
 uylkkan.com
-uzclip.net
 uzerkalobk101.top
 uzerkalobk202.top
 uzerkalobk303.top
