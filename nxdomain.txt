@@ -3270,7 +3270,6 @@ bcity-434.online
 bcity-437.site
 bcity-440.online
 bcity-441.host
-bcity-443.online
 bcity-451.host
 bcity-454.online
 bcity-455.site
@@ -4057,7 +4056,6 @@ bk-info-zerkala.bid
 bk-info-zerkalo.win
 bk-info.tk
 bk-info100.site
-bk-info101.site
 bk-info104.site
 bk-info104.top
 bk-info105.space
@@ -5885,7 +5883,6 @@ fon-zerkalo-op12.ru
 fon-zerkalol.space
 fon401.host
 fon6.website
-fonberrubet54.space
 fonbet-0853f.com
 fonbet-09c7a.com
 fonbet-1243f.com
@@ -8441,7 +8438,6 @@ melmobkxc.xyz
 melmoblhy.xyz
 melmoblia.host
 melmobmae.host
-melmobmbi.xyz
 melmobmfu.host
 melmobmou.xyz
 melmobmsl.host
@@ -8523,7 +8519,6 @@ mf-392.online
 mf-394.online
 mf-401.host
 mf-412.site
-mf-414.online
 mf-415.online
 mf-416.online
 mf-419.online
@@ -9783,7 +9778,6 @@ mwy.mp3-tut.biz
 mxpsm.xooponopono.ru
 my-gdz.ru
 my-hit.audio
-my-hit.com
 my-hit.me
 my-lucky-volcano.com
 my-music-kiosk.ru
@@ -10302,7 +10296,6 @@ onlainfilmix.com
 onlajn-2018.space
 onlajn-kazino-registraciya.date
 onlajn-kazino-tut.space
-online-2.avtomaty24besplatno.com
 online-5.igrovyeavtomati.com
 online-betting.space
 online-casino-azino777.ru
@@ -10575,7 +10568,6 @@ pharaonclub.ru
 phqnan.hobby-samara.ru
 pier-vv.org
 pievulkbon.info
-pinguin.vip
 pinup-casino3.tk
 pinupevent.tk
 piramida-casino.net
@@ -10974,7 +10966,6 @@ purenudism-lite.xyz
 purposechem.com.
 pushherenow.com
 py.musicoff.online
-pympekep.site
 qbkregnewlive909.pw
 qopslot.win
 qregistrationbk202.top
@@ -11302,7 +11293,6 @@ registratsiya629.xyz
 registratsiya641.xyz
 registratsiya642.xyz
 registratsiya648.xyz
-registratsiya671.xyz
 registratsiya681.xyz
 registratsiya684.xyz
 registratsiya691.xyz
@@ -12538,9 +12528,6 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tfiletorrent.info
 tg.yadda.club
 tgfix.ru
@@ -14597,7 +14584,6 @@ www.mtorrentportal.ru
 www.muro-music.ru
 www.muzika-onlain.ru
 www.my-gdz.ru
-www.my-hit.com
 www.my-hit.me
 www.my-music-kiosk.ru
 www.my-skladkino.ru
@@ -15393,7 +15379,6 @@ xn--80ahgffdh1adg.site
 xn--80ahgffdh1adg.xn--80asehdb
 xn--90aavwilfc.xn--p1ai
 xn--90ahankqr9d.xn--80asehdb
-xn--b1aafdc1cfcvww.xn--p1ai
 xn--c1ajfnfb.club
 xn--c1ajfnfb.pw
 xn--c1ajfnfb.top
@@ -16169,9 +16154,11 @@ zvmp3-fm.ru
 zvuk.me
 zvukobook.com
 zvukoff.me
-zvukoff.online
 zvukovoronka.ru
 zyteli.info
 zytely.info
+zyx.technom.club
+zzzerkalo.net
+o
 zyx.technom.club
 zzzerkalo.net
