@@ -295,6 +295,7 @@
 1seasonvar.ru
 1smash-bets.com
 1wcyu.xyz
+1win.store
 1win0.top
 1win00.me
 1win00.top
@@ -885,7 +886,6 @@
 1xktk.host
 1xkve.top
 1xkwf.xyz
-1xlar.xyz
 1xlbc.top
 1xlcx.xyz
 1xlgs.host
@@ -4107,7 +4107,6 @@ bk-info124.top
 bk-info125.site
 bk-info125.space
 bk-info126.space
-bk-info127.xyz
 bk-info129.online
 bk-info130.top
 bk-info132.online
@@ -12620,7 +12619,6 @@ sub.technom.club
 suhaya-konoplya.24ora.biz
 super-slots.cc
 super-slots.me
-super-slots.online
 superbkbet33.win
 superbotanik.ru
 superchek.com
