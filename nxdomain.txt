@@ -1252,7 +1252,6 @@
 1xredsht.host
 1xredstd.top
 1xredtja.xyz
-1xredtjj.xyz
 1xredtnn.xyz
 1xreduum.host
 1xreduvz.host
@@ -2253,6 +2252,7 @@
 93a69b.olimp12da.top
 93cafc.olimp9249.top
 93e1ad.olimp9cf3.top
+94-237-49-60.uk-lon1.upcloud.host
 9435bf.olimp6b96.top
 943fc3.olimp06e8.top
 944371.olimpd9f7.top
@@ -2795,6 +2795,7 @@ avtomatix.stream
 avtomatix.xyz
 avtomaty-casino-vulkan.com
 avtomaty-igrovye-besplatno.com
+avtomaty.igrovoy-zal.com
 avtomaty.pro
 avtomatydengi.com
 avtomatydengisvyvodom.com
@@ -4086,7 +4087,6 @@ bk-info118.space
 bk-info119.online
 bk-info119.top
 bk-info120.online
-bk-info120.site
 bk-info121.online
 bk-info121.site
 bk-info121.space
@@ -4962,6 +4962,9 @@ casino21-leon.win
 casino21-mega.win
 casino21-neon.win
 casino21-titan.win
+casino22-admiral.win
+casino22-grand.win
+casino22-orca.win
 casino777aktrisa.win
 casino777azino43.space
 casino777azino54.space
@@ -5383,7 +5386,6 @@ edb03e.olimpd6a6.top
 eded4f.olimpcaf3.top
 ee0772.olimpe24a.top
 ee0be5.olimp0115.top
-ee0f7dff5b81910a61.c2ef25.4f42f3b6338a06de4c.xyz
 ee2d30.olimp27fe.top
 ee710d.olimp98b4.top
 ee8aea.olimpef97.site
@@ -5712,7 +5714,6 @@ fon-431.host
 fon-431.online
 fon-432.host
 fon-433.online
-fon-435.site
 fon-436.online
 fon-441.host
 fon-442.host
@@ -6369,7 +6370,6 @@ fonbkzerkalo68.space
 foncler.space
 fonclub.space
 fonctavka.space
-fonfanbizv54.space
 fonfansbet21.space
 fonfansbet32.space
 fonfansbet54.space
@@ -6705,9 +6705,11 @@ hot-music.online
 hot-tunes.net
 hpgsui.travelsib.ru
 hromashop.biz
+hudraruzxpnew4af.onion.bio
 hydra2web.fun
 hydracentr.ru
 hydraruzxpnew4af.in
+hydraruzxpnew4af.onion.bio
 hyenp.bkin.top
 hzerkalobk909.top
 i-check-u.ru
@@ -8468,7 +8470,6 @@ melmobysu.com
 melmobzpu.host
 melobp.xyz
 melredircpr.xyz
-melredirhuz.xyz
 melrpd.xyz
 melrxg.xyz
 melufl.xyz
@@ -10418,6 +10419,7 @@ online-sportbet.space
 online-top3d5.dolanyksa.com
 online-vulkan.com
 online-zerkalo.space
+online.avtomaty24besplatno.com
 online.babkino.pro
 online.igrovoy-zal.com
 online.igrovyeavtomati.com
@@ -11382,7 +11384,6 @@ registratsiya204.ru
 registratsiya236.ru
 registratsiya257.ru
 registratsiya283.xyz
-registratsiya302.xyz
 registratsiya352.ru
 registratsiya352.xyz
 registratsiya357.xyz
@@ -12367,7 +12368,6 @@ slavaangel.com
 slavaangel.org
 slavaangel.ru
 slavacasinos.ru
-slclip.com
 slenliddeper.info
 slllot.bonuscasinoapex.win
 slllot.bonuscasinofast.win
@@ -12852,7 +12852,6 @@ velcome-vipclub.com
 velikan-club.com
 velkam-casino.co
 velkam13.casino
-velkam16.casino
 velkam19.casino
 velkom-casino.men
 velkom.casino
