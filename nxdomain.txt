@@ -4101,7 +4101,6 @@ bk-info122.online
 bk-info123.online
 bk-info123.site
 bk-info124.site
-bk-info124.space
 bk-info124.top
 bk-info125.site
 bk-info125.space
@@ -6962,6 +6961,7 @@ kilotorrent.me
 kinadom.net
 kinagot.club
 kinagud.net
+kinchik.fun
 kingportal.net
 kinino.ru
 kino-1080.biz
@@ -7179,6 +7179,7 @@ kinoman.cc
 kinome.club
 kinomixhd.ru
 kinomixs.ru
+kinomo.club
 kinomon.net
 kinomong.cc
 kinoni.ru
@@ -7241,6 +7242,7 @@ kiprofirkn.ru
 kmspr.ru
 knicebukmekery505.top
 knicebukmekery909.top
+kraftfilm.net
 kraski-bryansk.ru
 kregistrationbk101.top
 kristal-casino.ru
@@ -10424,6 +10426,7 @@ online.babkino.pro
 online.igrovoy-zal.com
 online.igrovyeavtomati.com
 online.stepashka.com
+online1.avtomaty24besplatno.com
 online1.igrovyeavtomati.com
 online283.space
 online3.igrovyeavtomati.com
@@ -12455,6 +12458,7 @@ sport-mostbet-pro.ru
 sport-mostbet-topsport.ru
 sport-mostbet.ru
 sport-zenit.com
+sportbar.biz
 sportbetf34.win
 sportbetfonbet33.space
 sportbetfonbet44.space
@@ -12635,8 +12639,6 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
-test2.plusminus1.com
-test3.plusminus1.com
 tfiletorrent.info
 tg.yadda.club
 tgfix.ru
