@@ -3347,7 +3347,6 @@ bcity-758.site
 bcity-759.online
 bcity-774.online
 bcity-777.online
-bcity-779.site
 bcity-785.online
 bcity-787.online
 bcity-788.site
@@ -4465,7 +4464,6 @@ bkinfo164.online
 bkinfo167.online
 bkinfo169.online
 bkinfo175.xyz
-bkinfo185.online
 bkinfo186.top
 bkinfo188.top
 bkinfo189.online
@@ -5868,7 +5866,6 @@ fon-zerkalo-dp77.ru
 fon-zerkalo-ed78.ru
 fon-zerkalo-op12.ru
 fon-zerkalol.space
-fon401.host
 fon6.website
 fonbet-0853f.com
 fonbet-09c7a.com
@@ -5943,7 +5940,6 @@ fonbet-kabinet.xyz
 fonbet-limitation.win
 fonbet-linebk77.win
 fonbet-liniya.xyz
-fonbet-live-bk.space
 fonbet-live4.space
 fonbet-lks1901.ru
 fonbet-message.date
@@ -7696,7 +7692,6 @@ luchshee-casino.com
 luchshie-bk.info
 luchshie-bukmekery.space
 luchshie-kazino.win
-luckclubs.com
 lucky-games.xyz
 lucky-play.net
 lucky-player.com
@@ -8673,7 +8668,6 @@ miksy-soli-spaysy.24ora.biz
 million-club-slot.com
 million-club2.com
 million-club3.com
-million-one.com
 millionb.vip
 millionb11.com
 miner.cash
@@ -9054,11 +9048,8 @@ mosstoopss6sbet58.xyz
 mostadv.com
 mostagg.com
 mostajk.com
-mostallbet.com
-mostatm.com
 mostatz.com
 mostavt.com
-mostbat.com
 mostbbc.com
 mostbbj.com
 mostbbn.com
@@ -9258,7 +9249,6 @@ mostgtm.com
 mostgtn.com
 mostgtq.com
 mostgtr.com
-mostgts.com
 mostgtw.com
 mostgtz.com
 mostgvs.com
@@ -9281,7 +9271,6 @@ mosthrt.com
 mosthsg.com
 mosthvv.com
 mostijg.com
-mostinbet.com
 mostisl.com
 mostjep.com
 mostjff.com
@@ -9717,7 +9706,6 @@ mostxww.com
 mostxwx.com
 mostxwz.com
 mostxzx.com
-mostybet.com
 mostytr.com
 mostzfs.com
 mostzjf.com
@@ -10755,7 +10743,6 @@ pm-158.info
 pm-159.info
 pm-160.info
 pm-161.info
-pm-161.online
 pm-162.info
 pm-163.info
 pm-164.info
@@ -16008,7 +15995,6 @@ zerkalo108.ru
 zerkalo13.date
 zerkalo15.date
 zerkalo151.xyz
-zerkalo154.xyz
 zerkalo156.xyz
 zerkalo157.xyz
 zerkalo158.xyz
