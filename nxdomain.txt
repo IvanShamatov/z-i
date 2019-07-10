@@ -4062,7 +4062,6 @@ bk-info100.site
 bk-info104.site
 bk-info104.top
 bk-info105.space
-bk-info107.online
 bk-info107.space
 bk-info108.online
 bk-info108.space
@@ -4154,7 +4153,6 @@ bk-info166.xyz
 bk-info167.top
 bk-info168.top
 bk-info168.xyz
-bk-info169.online
 bk-info169.space
 bk-info170.space
 bk-info171.online
@@ -5919,7 +5917,6 @@ fonbet-bk14.ru
 fonbet-bk15.ru
 fonbet-bk16.ru
 fonbet-bk17.ru
-fonbet-bk18.ru
 fonbet-bookmaker.space
 fonbet-c3512.com
 fonbet-c57a4.com
@@ -6406,7 +6403,6 @@ fonsbetingf.space
 fonsbetsbk12.space
 fonsbetsbk32.space
 fonsbetsbk43.space
-fonsbetttbk.space
 fonsbetzerkl54.win
 fonsportbet.tk
 fonsportbet.xyz
@@ -7196,7 +7192,6 @@ kinorab.net
 kinorkn.xyz
 kinorubik.net
 kinosgos.ru
-kinosha.se
 kinosha.su
 kinoskala.net
 kinosklad-anime.ru
