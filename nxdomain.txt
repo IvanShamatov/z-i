@@ -387,7 +387,6 @@
 1winocup.top
 1winoo.me
 1winoo.top
-1winoo.xyz
 1winp.me
 1winp.top
 1winpp.me
@@ -3390,7 +3389,6 @@ bcity-963.online
 bcity-964.site
 bcity-966.online
 bcity-967.online
-bcity-971.online
 bcity-983.online
 bcity-985.site
 bcity-987.online
@@ -4231,7 +4229,6 @@ bk-info68.online
 bk-info70.online
 bk-info71.online
 bk-info73.online
-bk-info76.online
 bk-info79.online
 bk-info80.online
 bk-info83.online
@@ -5676,7 +5673,6 @@ fon-294.website
 fon-309.site
 fon-310.online
 fon-312.online
-fon-326.online
 fon-328.website
 fon-330.online
 fon-331.site
@@ -5787,7 +5783,6 @@ fon-880.site
 fon-882.online
 fon-887.online
 fon-9.online
-fon-90.website
 fon-900.site
 fon-908.website
 fon-918.online
@@ -7152,6 +7147,7 @@ kinoline.net
 kinolive.pro
 kinolol.site
 kinoloop.ru
+kinolyap.be
 kinomalina.net
 kinoman.cc
 kinome.club
@@ -10837,7 +10833,6 @@ pm-447.online
 pm-448.online
 pm-451.online
 pm-456.online
-pm-466.online
 pm-469.site
 pm-473.online
 pm-479.online
