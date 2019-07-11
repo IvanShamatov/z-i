@@ -1099,7 +1099,6 @@
 1xoje.host
 1xomobbph.xyz
 1xomobdut.xyz
-1xomobdve.xyz
 1xomobfbd.xyz
 1xomobfxc.xyz
 1xomobjxz.xyz
@@ -6676,6 +6675,7 @@ hromashop.biz
 hudraruzxpnew4af.onion.bio
 hydra2web.fun
 hydracentr.ru
+hydrarusxpnev4af.online
 hydraruzxpnew4af-onion.shop
 hydraruzxpnew4af.in
 hydraruzxpnew4af.onion.bio
@@ -14947,6 +14947,7 @@ www.vulkan-clb.net
 www.vulkan-stavka.info
 www.vulkanclub24.com
 www.vulkanosport.com
+www.vzlomsn.net
 www.wake24.shop
 www.whobzor.top
 www.widestream.io
