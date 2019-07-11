@@ -964,7 +964,6 @@
 1xmoboay.xyz
 1xmobocls.xyz
 1xmobodr.xyz
-1xmobodwu.xyz
 1xmobofms.xyz
 1xmobofvr.xyz
 1xmobohhr.xyz
@@ -12598,9 +12597,6 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tfiletorrent.info
 tg.yadda.club
 tgfix.ru
