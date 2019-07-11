@@ -3376,7 +3376,6 @@ bcity-944.online
 bcity-960.site
 bcity-962.online
 bcity-963.online
-bcity-964.site
 bcity-966.online
 bcity-967.online
 bcity-983.online
@@ -4135,7 +4134,6 @@ bk-info168.xyz
 bk-info169.space
 bk-info170.space
 bk-info171.online
-bk-info171.site
 bk-info172.online
 bk-info175.online
 bk-info175.site
@@ -4228,7 +4226,6 @@ bk-info86.online
 bk-info87.online
 bk-info93.online
 bk-info94.online
-bk-info95.online
 bk-info96.online
 bk-klub.info
 bk-leon-vxod.space
@@ -4317,7 +4314,6 @@ bkfonbet79.online
 bkfonbet81.online
 bkfonbet82.online
 bkfonbet83.online
-bkfonbet84.online
 bkfonbet85.online
 bkfonbet86.online
 bkfonbet87.online
@@ -5278,7 +5274,6 @@ dostupbk2018.info
 dostupkzerkalam.men
 dostupvbk.space
 dostupzerkalo.loan
-dosug-cheboksar.com
 dragonmoney.online
 dragonmoney.su
 driftcasino.mobi
@@ -5582,6 +5577,7 @@ films-place.net
 films.themoviebay.ru
 filmstart.ru
 filmyhd24.online
+filter.hopto.org
 finalzerkalo88.space
 finalzerkalo99.space
 fireskin.ru
@@ -6364,7 +6360,6 @@ fonlive.website
 fonmbe21.win
 fonmbe54.win
 fonnigra22.win
-fonplay.xyz
 fons-bets12.space
 fons-bets54.space
 fons-zerkalos09.space
@@ -6766,10 +6761,6 @@ infomostbet.ru
 infosklad.site
 intelbet.space
 internet-magazin-kuritelnyh-miksov-zhezkazgan.24ora.biz
-intim-cheboksar.com
-intim-khabarovsk.com
-intim-krasnodar.com
-intim-volgograd.com
 intimoperm.com
 intimuz.ru
 investxp.ru
@@ -8365,7 +8356,6 @@ melbmobcul.xyz
 melbmobdak.top
 melbmobdnt.top
 melbmobdvq.top
-melbmobefl.xyz
 melbmobevy.top
 melbmobfpf.top
 melbmobfwu.xyz
@@ -12304,15 +12294,13 @@ sexovl.love
 sexpoputchik.ru
 sexprm.men
 sexvolg.center
-shlyukhi-habarovska.com
-shlyukhi-moskvy.com
-shlyukhi-spb.com
 shonkino.ru
 shop-kazino.win
 shopbezdepx.win
 shopkurs.ru
 shpilka.tv
 si-paul.com
+sib-staf.club
 sibatewbgold.com
 siloviki.press
 simul.pro
@@ -14252,8 +14240,6 @@ www.dok911.ru
 www.dokymentalnoe.ru
 www.dom-filmov.ru
 www.domkino.kz
-www.dosug-197.com
-www.dosug-cheboksar.com
 www.drunk-girl-sex.com
 www.easypray.info
 www.ebubk2.com
@@ -14405,10 +14391,6 @@ www.imao.site
 www.imyz.me
 www.infoyarsk.com
 www.inter-scommessa.com
-www.intim-chelyabinsk.com
-www.intim-khabarovsk.com
-www.intim-krasnodar.com
-www.intim-volgograd.com
 www.iphonefilm.ru
 www.itsmarathonbet.win
 www.jgf-mar-fgfzf.win
@@ -16228,4 +16210,6 @@ zvukovoronka.ru
 zyteli.info
 zytely.info
 zyx.technom.club
+zzzerkalo.net
+.club
 zzzerkalo.net
