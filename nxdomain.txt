@@ -4659,6 +4659,7 @@ bkr11a.top
 bkr11l.top
 bkr12a.pw
 bkr12a.top
+bkr12ghq.top
 bkr12l.top
 bkr13a.top
 bkr13l.top
