@@ -1748,6 +1748,7 @@
 3dcf3f.olimp161f.top
 3de109.olimp58e8.top
 3de4a8.olimp0fe0.top
+3e0d44.olimp3ed3.top
 3e1751.olimpcc44.top
 3e3a2d.olimpa88c.site
 3e45bd.olimp38fc.top
@@ -3429,7 +3430,6 @@ bcity-687.online
 bcity-693.online
 bcity-696.online
 bcity-708.online
-bcity-718.online
 bcity-719.online
 bcity-722.site
 bcity-728.site
@@ -4270,7 +4270,6 @@ bk-info184.top
 bk-info185.space
 bk-info185.top
 bk-info186.top
-bk-info187.online
 bk-info187.site
 bk-info187.top
 bk-info188.online
@@ -4338,7 +4337,6 @@ bk-info61.online
 bk-info62.online
 bk-info63.online
 bk-info64.online
-bk-info65.online
 bk-info68.online
 bk-info70.online
 bk-info71.online
@@ -4555,7 +4553,6 @@ bkinfo144.top
 bkinfo145.top
 bkinfo146.top
 bkinfo147.online
-bkinfo148.xyz
 bkinfo149.top
 bkinfo156.online
 bkinfo159.host
@@ -6866,7 +6863,6 @@ igrozal.win
 igrydengi.xyz
 ikino-go.pro
 ikinogo.net
-ikinohd.online
 ikmillion10.com
 ikmillion11.com
 ikmillion12.com
@@ -12758,8 +12754,6 @@ ten-casinos.online
 ten-casinoz.online
 tennisi.by
 tennisireal.tj
-test1.plusminus1.com
-test3.plusminus1.com
 tfiletorrent.info
 tg.yadda.club
 tgfix.ru
@@ -12824,6 +12818,7 @@ torrentiz.org
 torrento-games.net
 torrentom.net
 torrentor.xyz
+torrentrus.me
 torrents.club
 torrentsget.net
 torrentum.info
