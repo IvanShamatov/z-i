@@ -1020,12 +1020,10 @@
 1xmoboso.host
 1xmobotbt.xyz
 1xmobotis.xyz
-1xmobovbt.xyz
 1xmobovig.xyz
 1xmoboyhj.xyz
 1xmoboza.host
 1xmobozav.xyz
-1xmobozwe.xyz
 1xmobozzs.xyz
 1xmobpbb.xyz
 1xmobpcq.host
@@ -2827,6 +2825,7 @@ ap-01.accessfonbet-f21d8.com
 ap-01.accessfonbet-f499b.com
 ap-01.accessfonbet-f9b38.com
 ap-01.accessfonbet-fc277.com
+ap-01.accessfonbet.xyz
 ap-01.accessfonbets.info
 ap-02.accessfonbet.xyz
 ap-02.accessfonbets.info
@@ -9819,7 +9818,6 @@ mostzww.com
 mostzxt.com
 mostzzk.com
 movie-max.su
-mp-01.directsmartroute.xyz
 mp-01.fbmetrix-0005f.com
 mp-01.fbmetrix-03b4d.com
 mp-01.fbmetrix-0702e.com
@@ -9875,13 +9873,8 @@ mp-01.fbmetrix-e78dd.com
 mp-01.fbmetrix-fb14d.com
 mp-01.fbmetrix-fd1a8.com
 mp-01.fbmetrix-fea3f.com
-mp-02.directsmartroute.xyz
 mp-02.smartdirectroute.co
-mp-03.directsmartroute.xyz
 mp-03.smartdirectroute.co
-mp-04.directsmartroute.xyz
-mp-05.directsmartroute.xyz
-mp-06.directsmartroute.xyz
 mp.3music.ru
 mp3-bit.net
 mp3-hit.online
@@ -10508,6 +10501,7 @@ online-vulkan.com
 online-zerkalo.space
 online.avtomaty24besplatno.com
 online.babkino.pro
+online.igrovoy-zal.com
 online.igrovyeavtomati.com
 online.stepashka.com
 online1.avtomaty24besplatno.com
@@ -10965,7 +10959,6 @@ pm-652.online
 pm-654.online
 pm-666.online
 pm-669.online
-pm-679.online
 pm-681.online
 pm-690.online
 pm-704.online
@@ -11442,7 +11435,6 @@ registraci.space
 registraciy777aavtomat.space
 registraciya-bk.bid
 registraciya-kazino.win
-registratsiya171.xyz
 registratsiya172.ru
 registratsiya176.ru
 registratsiya177.ru
@@ -11465,7 +11457,6 @@ registratsiya641.xyz
 registratsiya642.xyz
 registratsiya648.xyz
 registratsiya681.xyz
-registratsiya684.xyz
 registratsiya691.xyz
 registratsiya782.xyz
 registratsiya789.xyz
@@ -14918,7 +14909,6 @@ www.redstarpoker03.eu
 www.redstarpoker04.eu
 www.redstarpoker06.eu
 www.redstarpoker07.eu
-www.registratsiya171.xyz
 www.registratsiya283.xyz
 www.registratsiya629.xyz
 www.registratsiya641.xyz
@@ -15519,7 +15509,6 @@ www.zerkalo187.xyz
 www.zerkalo194.xyz
 www.zerkalo196.xyz
 www.zerkalo199.xyz
-www.zerkalo200.xyz
 www.zerkalo218.xyz
 www.zerkalolink.info
 www.zerorotate.win
@@ -16140,7 +16129,6 @@ zerkalo198.xyz
 zerkalo199.xyz
 zerkalo1x.space
 zerkalo2.date
-zerkalo200.xyz
 zerkalo2018segodnya.info
 zerkalo210.xyz
 zerkalo211.xyz
@@ -16367,6 +16355,4 @@ zvukovoronka.ru
 zyteli.info
 zytely.info
 zyx.technom.club
-zzzerkalo.net
-nom.club
 zzzerkalo.net
