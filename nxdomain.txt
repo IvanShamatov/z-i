@@ -392,7 +392,6 @@
 1winkk.xyz
 1winl.me
 1winl.top
-1winl.xyz
 1winll.me
 1winll.top
 1winm.me
@@ -3483,7 +3482,6 @@ bcity-934.site
 bcity-938.online
 bcity-943.site
 bcity-944.online
-bcity-960.site
 bcity-962.online
 bcity-963.online
 bcity-966.online
@@ -4282,7 +4280,6 @@ bk-info195.site
 bk-info195.top
 bk-info196.site
 bk-info197.space
-bk-info198.online
 bk-info198.site
 bk-info198.space
 bk-info199.online
@@ -4866,7 +4863,6 @@ bukmekerskayzer23.space
 bukmekery.space
 bukmekerzerkala.ru
 bukvaved.date
-bukvaved.life
 bukvaved.online
 bukvaved.party
 bukvaved.science
@@ -8749,7 +8745,6 @@ mf-931.online
 mf-936.site
 mf-938.online
 mf-942.online
-mf-944.online
 mf-945.online
 mf-947.online
 mf-949.online
@@ -10922,7 +10917,6 @@ pm-255.online
 pm-259.online
 pm-266.online
 pm-272.online
-pm-282.online
 pm-297.online
 pm-301.online
 pm-302.online
@@ -12742,9 +12736,6 @@ ten-casinos.online
 ten-casinoz.online
 tennisi.by
 tennisireal.tj
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tfiletorrent.info
 tg.yadda.club
 tgfix.ru
@@ -16386,6 +16377,4 @@ zvukovoronka.ru
 zyteli.info
 zytely.info
 zyx.technom.club
-zzzerkalo.net
-nom.club
 zzzerkalo.net
