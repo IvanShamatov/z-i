@@ -754,7 +754,6 @@
 1xcwy.top
 1xczc.host
 1xczc.top
-1xdda.xyz
 1xdqg.xyz
 1xdqz.top
 1xdrz.host
@@ -828,6 +827,7 @@
 1xinfo7.ru
 1xinfo8.ru
 1xinfo9.ru
+1xir66.mobi
 1xir77.mobi
 1xir88.mobi
 1xir99.mobi
@@ -2807,7 +2807,6 @@ ap-01.accessfonbet-85e8c.com
 ap-01.accessfonbet-8d52d.com
 ap-01.accessfonbet-8ec49.com
 ap-01.accessfonbet-977e7.com
-ap-01.accessfonbet-a0421.com
 ap-01.accessfonbet-a2564.com
 ap-01.accessfonbet-a5367.com
 ap-01.accessfonbet-b54df.com
@@ -7166,7 +7165,6 @@ kinogo.hol.es
 kinogo.onl
 kinogo.realty
 kinogo.rip
-kinogo.rocks
 kinogo1.com
 kinogo1.me
 kinogo1.org
@@ -7259,7 +7257,6 @@ kinomong.cc
 kinoni.ru
 kinonovinki-hd.ru
 kinoo-net.ru
-kinook.tv
 kinoparking.net
 kinopchel.biz
 kinopp.ru
