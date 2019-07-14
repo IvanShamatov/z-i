@@ -1062,7 +1062,6 @@
 1xmobupu.xyz
 1xmobuui.top
 1xmobvhf.xyz
-1xmobvkg.xyz
 1xmobvlk.top
 1xmobvmq.xyz
 1xmobvnz.host
@@ -1320,7 +1319,6 @@
 1xwfh.xyz
 1xwge.host
 1xwiv.xyz
-1xwki.xyz
 1xwkp.host
 1xwlr.host
 1xwlr.top
@@ -8490,7 +8488,6 @@ melbmobfwu.xyz
 melbmobghc.top
 melbmobihx.top
 melbmobjzf.top
-melbmobkdc.xyz
 melbmobkjr.xyz
 melbmobljc.xyz
 melbmobmcq.xyz
@@ -12729,6 +12726,9 @@ ten-casinos.online
 ten-casinoz.online
 tennisi.by
 tennisireal.tj
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tfiletorrent.info
 tg.yadda.club
 tgfix.ru
@@ -16156,7 +16156,6 @@ zerkalo2.date
 zerkalo2018segodnya.info
 zerkalo210.xyz
 zerkalo211.xyz
-zerkalo213.xyz
 zerkalo214.xyz
 zerkalo216.xyz
 zerkalo217.xyz
@@ -16379,5 +16378,8 @@ zvukoff.me
 zvukovoronka.ru
 zyteli.info
 zytely.info
+zyx.technom.club
+zzzerkalo.net
+info
 zyx.technom.club
 zzzerkalo.net
