@@ -830,6 +830,7 @@
 1xinfo9.ru
 1xir77.mobi
 1xir88.mobi
+1xir99.mobi
 1xirsp.com
 1xirsp1.com
 1xirsp10.com
@@ -2817,7 +2818,6 @@ ap-01.accessfonbet-d8ff4.com
 ap-01.accessfonbet-da032.com
 ap-01.accessfonbet-db404.com
 ap-01.accessfonbet-dbbea.com
-ap-01.accessfonbet-dd534.com
 ap-01.accessfonbet-e5f09.com
 ap-01.accessfonbet-e760f.com
 ap-01.accessfonbet-eb3d3.com
@@ -7163,7 +7163,6 @@ kinogo-z720.com
 kinogo-z720.ru
 kinogo.ca
 kinogo.hol.es
-kinogo.movie
 kinogo.onl
 kinogo.realty
 kinogo.rip
@@ -14375,7 +14374,6 @@ www.bukvaved.stream
 www.casino-azino777-bonus.ru
 www.casino-classic.net
 www.casino-x.me
-www.casino999.info
 www.casinoforum.su
 www.casinogusarzerkalo.ru
 www.casinorating.su
