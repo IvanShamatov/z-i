@@ -944,7 +944,6 @@
 1xmobfzc.xyz
 1xmobgkm.top
 1xmobgmj.top
-1xmobgmq.xyz
 1xmobgoj.top
 1xmobhcl.host
 1xmobhod.top
@@ -2604,7 +2603,6 @@ admiral-igrovye-avtomaty.net
 admiral-x18.win
 admiral-x30.win
 admiral-xxx-win.ru
-admiral.bingo
 admiral7x.ru
 admiralcasino.games
 admiralcasino.pro
@@ -5750,7 +5748,6 @@ fon-183.online
 fon-188.online
 fon-193.site
 fon-205.website
-fon-213.online
 fon-22.site
 fon-220.online
 fon-221.site
@@ -6484,7 +6481,6 @@ fonswin-bet22.space
 fonszerkalobk12.space
 fonszerkalobk43.space
 fonszerkalobk54.space
-fontest.xyz
 fontoto.website
 fontoto.xyz
 fontotos-zerkalo33.space
@@ -8502,7 +8498,6 @@ melbmobxkn.top
 melbmup.xyz
 melbqli.xyz
 melbtvi.xyz
-melbxly.xyz
 melbzbb.xyz
 melgrr.xyz
 meljrp.xyz
@@ -8594,7 +8589,6 @@ mf-288.online
 mf-296.online
 mf-298.online
 mf-302.online
-mf-313.online
 mf-314.site
 mf-327.online
 mf-332.online
@@ -10498,7 +10492,6 @@ online-vulkan.com
 online-zerkalo.space
 online.avtomaty24besplatno.com
 online.babkino.pro
-online.igrovoy-zal.com
 online.igrovyeavtomati.com
 online.stepashka.com
 online1.avtomaty24besplatno.com
@@ -12722,9 +12715,6 @@ ten-casinos.online
 ten-casinoz.online
 tennisi.by
 tennisireal.tj
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tfiletorrent.info
 tg.yadda.club
 tgfix.ru
@@ -16375,4 +16365,6 @@ zvukovoronka.ru
 zyteli.info
 zytely.info
 zyx.technom.club
+zzzerkalo.net
+nom.club
 zzzerkalo.net
