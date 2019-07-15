@@ -8563,7 +8563,6 @@ melmobyia.host
 melmobyou.xyz
 melmobysu.com
 melmobzpu.host
-melobp.xyz
 melredircpr.xyz
 melrpd.xyz
 melrxg.xyz
@@ -10909,7 +10908,6 @@ pm-272.online
 pm-297.online
 pm-301.online
 pm-302.online
-pm-307.site
 pm-308.online
 pm-319.online
 pm-333.online
