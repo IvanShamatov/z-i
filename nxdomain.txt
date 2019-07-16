@@ -258,7 +258,6 @@
 1601.vsepropoker02.top
 1602.vin.bkr10a.top
 1604.leon.bkr01b.top
-1605.vsepropoker34.xyz
 16283e.olimpd7c0.top
 163e03.olimp95fc.top
 165182.olimp656f.top
@@ -1180,6 +1179,7 @@
 1xredirbcs.top
 1xredirbnq.xyz
 1xredirbuv.top
+1xredirdla.xyz
 1xredirdwk.top
 1xredirdxf.top
 1xredirejp.top
@@ -3025,7 +3025,6 @@ azinocas777.ru
 azinotry777igra76.space
 azj0lzfcxd.srcl.connect.netcdn.bcdl.rocks
 azmnp1.com
-azov-siti.com
 b-bets.top
 b-bets11.top
 b-bets128.top
@@ -4204,7 +4203,6 @@ bk-info100.site
 bk-info104.site
 bk-info104.top
 bk-info107.space
-bk-info108.online
 bk-info108.space
 bk-info109.online
 bk-info11.online
@@ -4475,7 +4473,6 @@ bkfonbet78.online
 bkfonbet79.online
 bkfonbet81.online
 bkfonbet82.online
-bkfonbet83.online
 bkfonbet85.online
 bkfonbet86.online
 bkfonbet87.online
@@ -4501,7 +4498,6 @@ bki100.xyz
 bki228.xyz
 bki301.xyz
 bki456.xyz
-bki777.xyz
 bkin-10005.xyz
 bkin-10045.xyz
 bkin-10072.xyz
@@ -5923,7 +5919,6 @@ fon-58.online
 fon-587.online
 fon-588.website
 fon-609.online
-fon-614.site
 fon-62.site
 fon-623.online
 fon-625.site
@@ -6488,7 +6483,6 @@ fonbettotof5r.win
 fonbettotom46z.win
 fonbettotonl98.win
 fonbettotor4a.win
-fonbettotowin76.space
 fonbetttigra.space
 fonbetvhodi.space
 fonbetvhodsa21.space
@@ -6796,6 +6790,7 @@ hd-rezka.club
 hd.zfilm-hd.space
 hd1.baskino3.ml
 hdfilmi.club
+hdfox.me
 hdhfpzc.fc-scorpion.ru
 hdhype.online
 hdkinoclub.com
@@ -8073,7 +8068,6 @@ m.betsbc-zcyt.cf
 m.betzenitsport.com
 m.bkwndbt.com
 m.casinopuzslots.com
-m.fonbet-9e5b6.tk
 m.fonsportbet.tk
 m.fonsportbet.xyz
 m.livetv116.me
@@ -8628,7 +8622,6 @@ melmobkeq.host
 melmobkfg.host
 melmobkoi.host
 melmobkoy.host
-melmobkxc.xyz
 melmoblhy.xyz
 melmoblia.host
 melmobmae.host
@@ -10635,7 +10628,6 @@ onlainfilmix.com
 onlajn-2018.space
 onlajn-kazino-registraciya.date
 onlajn-kazino-tut.space
-online-2.avtomaty24besplatno.com
 online-5.igrovyeavtomati.com
 online-betting.space
 online-casino-azino777.ru
@@ -11208,7 +11200,6 @@ porno-multik.com
 pornorazvrat.com
 postelkaru.ru
 poysam.com
-prava-moscow177.com
 prava-v-moskve.com
 pregbukmekersx202.top
 pregistrationbk505.top
@@ -11305,7 +11296,6 @@ prostitutki-ulan-udeh.amur911.com
 prostitutki-volgograda.amur911.com
 prostitutki-voronezha.amur911.com
 prostitutki-yaroslavlya.amur911.com
-prostitutkiastrahani24.com
 prostitutkichity.amur911.com
 prostitutkiryazani.amur911.com
 prostitutkisamary.amur911.com
@@ -11648,6 +11638,7 @@ registratsiya412.ru
 registratsiya463.ru
 registratsiya629.xyz
 registratsiya641.xyz
+registratsiya642.xyz
 registratsiya648.xyz
 registratsiya681.xyz
 registratsiya789.xyz
@@ -12838,7 +12829,6 @@ srutor.org.pl
 srutor.xyz
 sryptofarm.biz
 sslot.ru
-sslotscasino.com
 ssocks.cf
 sss-mar-sffda.win
 sssbet.site
@@ -13377,7 +13367,6 @@ vsepropoker1.top
 vsepropoker10.top
 vsepropoker10.xyz
 vsepropoker11.top
-vsepropoker11.xyz
 vsepropoker12.top
 vsepropoker12.xyz
 vsepropoker13.top
@@ -13397,7 +13386,6 @@ vsepropoker3.club
 vsepropoker3.pw
 vsepropoker30.xyz
 vsepropoker33.xyz
-vsepropoker34.xyz
 vsepropoker35.xyz
 vsepropoker3qyf.pw
 vsepropoker4.pw
@@ -15178,7 +15166,9 @@ www.redstarpoker07.eu
 www.registratsiya283.xyz
 www.registratsiya629.xyz
 www.registratsiya641.xyz
+www.registratsiya642.xyz
 www.registratsiya681.xyz
+www.registratsiya782.xyz
 www.reidosystem.com
 www.reliz-top.com
 www.resheba.ru
@@ -15767,6 +15757,7 @@ www.zerkalo161.xyz
 www.zerkalo165.xyz
 www.zerkalo170.xyz
 www.zerkalo171.xyz
+www.zerkalo181.xyz
 www.zerkalo182.xyz
 www.zerkalo183.xyz
 www.zerkalo184.xyz
@@ -16613,6 +16604,14 @@ zv-fm.ru
 zvfm.su
 zvmp3-fm.ru
 zvuk.me
+zvukobook.com
+zvukoff.me
+zvukovoronka.ru
+zyteli.info
+zytely.info
+zyx.technom.club
+zzzerkalo.net
+
 zvukobook.com
 zvukoff.me
 zvukovoronka.ru
