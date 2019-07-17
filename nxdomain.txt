@@ -4217,7 +4217,6 @@ bk-info118.space
 bk-info119.online
 bk-info119.top
 bk-info120.online
-bk-info121.online
 bk-info121.space
 bk-info121.top
 bk-info122.online
@@ -8608,7 +8607,6 @@ melmobkeq.host
 melmobkfg.host
 melmobkoi.host
 melmobkoy.host
-melmoblhy.xyz
 melmoblia.host
 melmobmae.host
 melmobmfu.host
