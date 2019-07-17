@@ -1181,7 +1181,6 @@
 1xredirdwk.top
 1xredirdxf.top
 1xredirejp.top
-1xredirfac.xyz
 1xredirffi.top
 1xredirfhp.top
 1xredirflq.top
@@ -3394,7 +3393,6 @@ bcity-410.online
 bcity-411.host
 bcity-413.online
 bcity-421.host
-bcity-421.online
 bcity-423.site
 bcity-425.site
 bcity-431.host
