@@ -4802,6 +4802,7 @@ black-msk.club
 black-spb.club
 blackfilm.club
 blackstarrc.biz.moda
+blackton.eu
 blagoveshhensk.dip-site.com
 blog.iv-torrents.ru
 blogger37.ru
@@ -7288,7 +7289,6 @@ kinogovno.online
 kinogox.ru
 kinoguru.ml
 kinogut.net
-kinohd.online
 kinohd1080.net
 kinohero.online
 kinohit1.ru
@@ -11037,7 +11037,6 @@ pm-209.info
 pm-210.info
 pm-211.info
 pm-212.info
-pm-213.info
 pm-214.info
 pm-215.info
 pm-216.info
