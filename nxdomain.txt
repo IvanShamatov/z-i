@@ -13168,7 +13168,6 @@ video-zona4.stream
 videodb.online
 videokub.me
 videokub.net
-videostillporn.net
 videozal.net
 vidnoe.dip-site.com
 vidtorg.ru
@@ -15729,7 +15728,6 @@ www.zerkalo161.xyz
 www.zerkalo165.xyz
 www.zerkalo170.xyz
 www.zerkalo171.xyz
-www.zerkalo182.xyz
 www.zerkalo183.xyz
 www.zerkalo184.xyz
 www.zerkalo185.xyz
@@ -16277,7 +16275,6 @@ zerkalo-obhod.website
 zerkalo-off.website
 zerkalo-p.ru
 zerkalo-p1.ru
-zerkalo-parimatch.xyz
 zerkalo-rabochee-na-segodnya.club
 zerkalo-rabochee.space
 zerkalo-rabotaet-vsegda.bid
@@ -16337,7 +16334,6 @@ zerkalo171.xyz
 zerkalo174.xyz
 zerkalo175.xyz
 zerkalo18.date
-zerkalo182.xyz
 zerkalo183.xyz
 zerkalo184.xyz
 zerkalo185.xyz
