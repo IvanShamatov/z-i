@@ -11265,10 +11265,8 @@ prostitutki-barnaula.amur911.com
 prostitutki-chity.amur911.com
 prostitutki-ekaterinburga.amur911.com
 prostitutki-irkutska.amur911.com
-prostitutki-ivanovo.amur911.com
 prostitutki-kalugi.amur911.com
 prostitutki-kurska.amur911.com
-prostitutki-novorossiyska.amur911.com
 prostitutki-omsk.net
 prostitutki-omska.amur911.com
 prostitutki-orenburga.amur911.com
@@ -12791,6 +12789,7 @@ sportmatch.pro
 sportonline.today
 sportorates.ru
 sports.tbwcup.com
+sports.tbwnpro.com
 sportsbetvk.space
 sportzerkalo.loan
 spravka.store
