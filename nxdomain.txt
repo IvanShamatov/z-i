@@ -781,7 +781,6 @@
 1xdrz.host
 1xdzs.top
 1xear.top
-1xeeg.xyz
 1xeil.top
 1xeix.xyz
 1xepl.host
@@ -6217,7 +6216,6 @@ fonbet40.online
 fonbet41.online
 fonbet42.online
 fonbet42.website
-fonbet43.online
 fonbet44.info
 fonbet44.website
 fonbet46.online
@@ -11008,7 +11006,6 @@ pm-188.info
 pm-189.info
 pm-191.info
 pm-192.info
-pm-193.online
 pm-194.info
 pm-195.info
 pm-196.info
