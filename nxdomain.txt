@@ -5970,7 +5970,6 @@ fon-953.online
 fon-964.site
 fon-969.online
 fon-976.site
-fon-977.online
 fon-98.site
 fon-994.website
 fon-995.site
@@ -13372,6 +13371,7 @@ vsepropoker44.xyz
 vsepropoker48.xyz
 vsepropoker5.pw
 vsepropoker5.xyz
+vsepropoker529.top
 vsepropoker6.pw
 vsepropoker6.xyz
 vsepropoker7.pw
