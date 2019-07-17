@@ -1361,7 +1361,6 @@
 20.300kbit.pw
 2001.vsepropoker04.top
 2002.vin.bkr11a.top
-2002.vsepropoker07.xyz
 2003.leon.bkr06l.top
 2003.vin.bkr21a.top
 2003.vsepropoker28.xyz
@@ -3742,7 +3741,6 @@ betcity-zerkalo-4fir.ru
 betcity-zerkalo-4orh.ru
 betcity-zerkalo-4pof.ru
 betcity-zerkalo-4wsg.ru
-betcity-zerkalo-5alf.ru
 betcity-zerkalo-5bad.ru
 betcity-zerkalo-5bhu.ru
 betcity-zerkalo-5htg.ru
@@ -6459,7 +6457,6 @@ fonbettings.website
 fonbettings.xyz
 fonbettings18bett11.space
 fonbettings18bett22.space
-fonbettingsda12.space
 fonbettingsda32.space
 fonbettingsda43.space
 fonbettingsda54.space
@@ -8635,7 +8632,6 @@ melmobzpu.host
 melredircpr.xyz
 melrpd.xyz
 melrxg.xyz
-melufl.xyz
 melvey.xyz
 memzerkalo.loan
 menetbets87.space
@@ -13328,7 +13324,6 @@ vsepropoker04.top
 vsepropoker05.top
 vsepropoker06.top
 vsepropoker07.top
-vsepropoker07.xyz
 vsepropoker08.top
 vsepropoker08.xyz
 vsepropoker09.top
@@ -14455,6 +14450,7 @@ www.betcity-zerkalo-1bde.ru
 www.betcity-zerkalo-1hfn.ru
 www.betcity-zerkalo-1ldf.ru
 www.betcity-zerkalo-1mlp.ru
+www.betcity-zerkalo-1ndk.ru
 www.betcity-zerkalo-1qas.ru
 www.betcity-zerkalo-1qwe.ru
 www.betcity-zerkalo-1xsk.ru
@@ -14481,7 +14477,6 @@ www.betcity-zerkalo-4fir.ru
 www.betcity-zerkalo-4orh.ru
 www.betcity-zerkalo-4pof.ru
 www.betcity-zerkalo-4wsg.ru
-www.betcity-zerkalo-5alf.ru
 www.betcity-zerkalo-5bad.ru
 www.betcity-zerkalo-5bhu.ru
 www.betcity-zerkalo-5htg.ru
