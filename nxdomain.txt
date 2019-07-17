@@ -418,7 +418,6 @@
 1winll.top
 1winm.me
 1winm.top
-1winm.xyz
 1winmm.top
 1winn.me
 1winn.top
@@ -3333,7 +3332,6 @@ bcity-144.online
 bcity-145.online
 bcity-146.online
 bcity-147.site
-bcity-149.site
 bcity-150.site
 bcity-163.online
 bcity-170.online
@@ -12806,6 +12804,7 @@ srcs916.connect.netcdn.bcdl.rocks
 srcs988.connect.netcdn.bcdl.rocks
 sregistrationbk101.top
 sregistrationbk404.top
+srutor.in
 srutor.org.pl
 srutor.xyz
 sryptofarm.biz
@@ -15309,6 +15308,7 @@ www.vk-sound.ru
 www.vmarathonbet.win
 www.vmusice.net
 www.vsfilm.ru
+www.vtracker.org
 www.vulcan-club-online.com
 www.vulcan-vip.com
 www.vulcancasino.io
@@ -16248,6 +16248,7 @@ zerkalo-fonbet162.ru
 zerkalo-fonbet163.ru
 zerkalo-fonbet164.ru
 zerkalo-fonbet165.ru
+zerkalo-free555.info
 zerkalo-goldfishka.win
 zerkalo-kazino-zigzag.ru
 zerkalo-leon.club
