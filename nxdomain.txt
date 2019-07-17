@@ -3388,7 +3388,6 @@ bcity-410.online
 bcity-411.host
 bcity-413.online
 bcity-421.host
-bcity-423.site
 bcity-425.site
 bcity-431.host
 bcity-437.site
@@ -4212,7 +4211,6 @@ bk-info118.space
 bk-info119.online
 bk-info119.top
 bk-info120.online
-bk-info121.online
 bk-info121.space
 bk-info121.top
 bk-info122.online
@@ -5816,7 +5814,6 @@ fon-100.site
 fon-105.online
 fon-113.online
 fon-118.website
-fon-124.online
 fon-136.site
 fon-137.site
 fon-143.online
@@ -6878,6 +6875,7 @@ igrovoyclubvulcan1.com
 igrovueavtomaty.su
 igrovye-avtomati-admiral.net
 igrovye-avtomati-igrat-besplatno.net
+igrovye-avtomati-joycasino.co
 igrovye-avtomati-vulkan.online
 igrovye-avtomaty-igrat-besplatno.su
 igrovye-avtomaty-kazino.date
@@ -7282,6 +7280,7 @@ kinogou.ru
 kinogov.net
 kinogovno.online
 kinogox.ru
+kinogram.net
 kinoguru.ml
 kinogut.net
 kinohd1080.net
@@ -11606,7 +11605,6 @@ registratsiya463.ru
 registratsiya629.xyz
 registratsiya641.xyz
 registratsiya648.xyz
-registratsiya681.xyz
 registratsiya789.xyz
 registratsiya904.xyz
 regzerkalo.loan
@@ -12772,7 +12770,6 @@ sports.tbwcup.com
 sports.tbwnpro.com
 sportsbetvk.space
 sportzerkalo.loan
-spravka.store
 sputnik.t30p.ru
 spxak.ru
 srcn14.connect.netcdn.bcdl.rocks
@@ -12927,7 +12924,6 @@ top-10-casino.info
 top-hd.ru
 top-muzik.su
 top-rutor.pl
-top-spravka.ru
 top.ygoogle.club
 top10-onlinecasino.ru
 top10casinoonline.ru
@@ -13399,7 +13395,6 @@ vulcano-online-club.com
 vulcanofficialsite.ru
 vulcanphd.com
 vulcanplatinum-official.info
-vulcanplatinum-zerkalo.xyz
 vulcanplatinum.club
 vulcansc.com
 vulcanstavka-online.ryagenka.ru
@@ -15205,7 +15200,6 @@ www.sportingbullru567.com
 www.sportingbullru678.com
 www.sportingbullru789.com
 www.spravka-help.org.
-www.spravka.store
 www.sprut.tv
 www.srutor.org.pl
 www.sss-mar-sffda.win
