@@ -2064,6 +2064,7 @@
 705f85.olimp6753.top
 7069ba.olimp3ed3.top
 708c25.olimp0115.top
+7090e8.olimpa7d2.top
 7092b8.olimp6b96.top
 7093bc.olimpd7c0.top
 709dea.olimp27fe.top
@@ -4211,6 +4212,7 @@ bk-info118.space
 bk-info119.online
 bk-info119.top
 bk-info120.online
+bk-info121.online
 bk-info121.space
 bk-info121.top
 bk-info122.online
@@ -5964,7 +5966,6 @@ fon-953.online
 fon-964.site
 fon-969.online
 fon-976.site
-fon-977.online
 fon-98.site
 fon-994.website
 fon-995.site
@@ -11595,7 +11596,6 @@ registratsiya193.ru
 registratsiya204.ru
 registratsiya236.ru
 registratsiya257.ru
-registratsiya283.xyz
 registratsiya352.ru
 registratsiya352.xyz
 registratsiya357.xyz
@@ -11606,6 +11606,7 @@ registratsiya463.ru
 registratsiya629.xyz
 registratsiya641.xyz
 registratsiya648.xyz
+registratsiya681.xyz
 registratsiya789.xyz
 registratsiya904.xyz
 regzerkalo.loan
@@ -13295,7 +13296,6 @@ vse-prostitutki-sevastopolya.info
 vse-prostitutki-sterlitamaka.info
 vse-prostitutki-tambova.info
 vse-prostitutki-vologdy.info
-vse-prostitutki-yoshkar-oly.info
 vseazino.com
 vseocasino.ru
 vsepropoker.pw
@@ -13309,7 +13309,6 @@ vsepropoker04.top
 vsepropoker05.top
 vsepropoker06.top
 vsepropoker07.top
-vsepropoker07.xyz
 vsepropoker08.top
 vsepropoker08.xyz
 vsepropoker09.top
@@ -13400,6 +13399,7 @@ vulcano-online-club.com
 vulcanofficialsite.ru
 vulcanphd.com
 vulcanplatinum-official.info
+vulcanplatinum-zerkalo.xyz
 vulcanplatinum.club
 vulcansc.com
 vulcanstavka-online.ryagenka.ru
@@ -16560,4 +16560,3 @@ zyteli.info
 zytely.info
 zyx.technom.club
 zzzerkalo.net
-.net
