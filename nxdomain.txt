@@ -1072,7 +1072,6 @@
 1xmobuke.host
 1xmobupu.xyz
 1xmobuui.top
-1xmobvhf.xyz
 1xmobvlk.top
 1xmobvmq.xyz
 1xmobvnz.host
@@ -3967,7 +3966,6 @@ bigtorrents.ru
 bijsk.dip-site.com
 bijsk.your-dip.com
 bitcoin-casino.men
-bitsmusic.ru
 bitzerkalo.loan
 bixtor.net
 bk-1xbet-zerkalo.info
@@ -4187,7 +4185,6 @@ bk-info108.space
 bk-info109.online
 bk-info11.online
 bk-info110.site
-bk-info111.site
 bk-info111.space
 bk-info112.online
 bk-info112.site
@@ -5816,7 +5813,6 @@ fon-147.online
 fon-150.website
 fon-16.online
 fon-160.site
-fon-17.online
 fon-177.website
 fon-178.online
 fon-18.online
@@ -13252,6 +13248,7 @@ volzhskij.dip-site.com
 volzhskij.diplom-price.com
 volzhskij.your-dip.com
 voronezh.diplom-price.com
+vovse2.biz
 vps2.helpmego.to
 vps7.timcuk.com
 vrndiplom.com
