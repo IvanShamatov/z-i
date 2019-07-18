@@ -10482,7 +10482,6 @@ nomer.company
 nomera.info
 nomerorg.one
 nontorclub.in.net
-norilsk.prava-na-avto.ru
 norilsk.your-dip.com
 normkino.net
 nostljk.com
@@ -11148,7 +11147,6 @@ pokerproffi.info
 pokersok2.ru
 popfilm.club
 poreshano.ru
-porno-multik.com
 pornorazvrat.com
 postelkaru.ru
 poysam.com
@@ -15712,6 +15710,7 @@ xn--80aaffvvkejb9aalb1dc8fdf.agorov.org
 xn--80aaftfjehqeg5d.com
 xn--80aahhcbusdnhck8q.agorov.org
 xn--80abginb3ag8a.xn--p1ai
+xn--80abk6g.xn--c1avg
 xn--80abmaxbbm3bkp7m.gq
 xn--80abvkbnmyi0ic.agorov.org
 xn--80abwhqgr.xn--p1ai
@@ -16170,6 +16169,7 @@ zerkalo-fonbet162.ru
 zerkalo-fonbet163.ru
 zerkalo-fonbet164.ru
 zerkalo-fonbet165.ru
+zerkalo-fonbet166.ru
 zerkalo-free555.info
 zerkalo-goldfishka.win
 zerkalo-kazino-zigzag.ru
