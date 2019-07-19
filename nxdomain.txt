@@ -2742,7 +2742,6 @@ aktualnye-zerkala-bk.bid
 aktualnye-zerkala-bk.trade
 aktualnye-zerkala-bukmekera.date
 aktualnyjadres.men
-akvaiv.biz
 alco-centr.org
 alco-towns.ru
 alcolove.org
@@ -2877,7 +2876,6 @@ apr12-mara-d.win
 apr12-mara-e.win
 apr12-mara.win
 aprelevka.dip-site.com
-aquaivanovo.biz
 aqvapark.biz
 aqwaiv.biz
 aregistrationbk606.top
@@ -16457,6 +16455,4 @@ zvukovoronka.ru
 zyteli.info
 zytely.info
 zyx.technom.club
-zzzerkalo.net
-x.technom.club
 zzzerkalo.net
