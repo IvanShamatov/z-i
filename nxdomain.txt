@@ -2886,6 +2886,7 @@ arhangelsk.dip-site.com
 arhivach.cf
 arizona-casino.men
 aroxmq8pmw.srcl.connect.netcdn.bcdl.rocks
+artem.study-docs.com
 arzamas.dip-site.com
 askcasino.ru
 asprytaobw.srcl.connect.netcdn.bcdl.rocks
@@ -3409,7 +3410,6 @@ bcity-455.site
 bcity-457.site
 bcity-461.host
 bcity-463.online
-bcity-470.online
 bcity-470.site
 bcity-471.host
 bcity-477.online
@@ -10907,7 +10907,6 @@ playscash.ru
 plsdrct4.me
 plusrotate.win
 pm-1.website
-pm-108.online
 pm-112.online
 pm-115.online
 pm-116.info
