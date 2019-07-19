@@ -1078,7 +1078,6 @@
 1xmobshw.host
 1xmobsip.top
 1xmobspo.top
-1xmobsrz.xyz
 1xmobsuq.top
 1xmobtav.xyz
 1xmobtde.top
@@ -3466,7 +3465,6 @@ bcity-692.site
 bcity-696.online
 bcity-703.site
 bcity-708.online
-bcity-719.online
 bcity-722.site
 bcity-728.site
 bcity-735.online
@@ -6173,7 +6171,6 @@ fonbet17.info
 fonbet17.online
 fonbet18.com
 fonbet18.online
-fonbet19.online
 fonbet2.online
 fonbet2.xyz
 fonbet20.info
@@ -11056,7 +11053,6 @@ pm-550.online
 pm-552.online
 pm-553.online
 pm-567.online
-pm-570.online
 pm-579.online
 pm-609.online
 pm-612.online
@@ -12857,6 +12853,7 @@ teambetmarathon.win
 tekhosmotronline.com
 telego4.net
 telego5.com
+telego5.net
 telegram.vpn99.net
 telgr.me
 ten-casino.online
