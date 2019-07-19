@@ -1041,7 +1041,6 @@
 1xmoboldvmp.top
 1xmoboldvnfc.xyz
 1xmoboldvoom.xyz
-1xmoboldvpvb.xyz
 1xmoboldvsfu.xyz
 1xmoboldvssq.xyz
 1xmoboldvvpk.xyz
@@ -5756,7 +5755,6 @@ filmix.fyi
 filmix.gold
 filmix.icu
 filmix.uk
-filmix.xyz
 filmixe.ru
 filmixme.net
 filmixru.ru
@@ -7348,6 +7346,7 @@ kinosooop.ru
 kinosop.ru
 kinosprofi.ru
 kinostar.online
+kinotroll.ru
 kinovdom.net
 kinovips.me
 kinovips.online
@@ -10435,6 +10434,7 @@ newmirror.live
 newmosttraf.com
 newmosttraff.com
 newmuz.net
+newmuztor.ru
 news-plus.ru
 news.parimatch-abc.com
 newscasinos.info
@@ -14428,6 +14428,7 @@ www.betcity-zerkalo-8ert.ru
 www.betcity-zerkalo-8oin.ru
 www.betcity-zerkalo-8pof.ru
 www.betcity-zerkalo-8spg.ru
+www.betcity-zerkalo-8xek.ru
 www.betcity-zerkalo-8zse.ru
 www.betcity-zerkalo-9bws.ru
 www.betcity-zerkalo-9cvm.ru
@@ -14728,6 +14729,7 @@ www.kinomixs.ru
 www.kinonax.com
 www.kinosklad-anime.ru
 www.kinosklad-online.ru
+www.kinotroll.ru
 www.kinozomby.com
 www.konoply.online
 www.kshdb7823.com
