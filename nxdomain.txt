@@ -3507,7 +3507,6 @@ bcity-915.online
 bcity-919.site
 bcity-925.site
 bcity-926.online
-bcity-932.online
 bcity-933.online
 bcity-934.site
 bcity-938.online
@@ -4142,6 +4141,7 @@ bk-fonbetn35.ru
 bk-fonbetn36.ru
 bk-fonbetn37.ru
 bk-fonbetn38.ru
+bk-fonbetn40.ru
 bk-fonbetn9.ru
 bk-fonbets13.ru
 bk-fonbets14.ru
@@ -4405,7 +4405,6 @@ bk-zerkalo78.space
 bk-zerkalofonbet32.space
 bk-zerkalofonbet43.space
 bk-zerkalofonbet54.space
-bk-zerkalos77.space
 bk-zerkalosite12.space
 bk-zerkalosite65.space
 bk-zerkalosite87.space
@@ -6072,7 +6071,6 @@ fonbet-ecfcd.com
 fonbet-erf7707.ru
 fonbet-f09d6.com
 fonbet-f0dab.com
-fonbet-favorit43.space
 fonbet-favorit65.space
 fonbet-fish.win
 fonbet-framework.date
@@ -11320,6 +11318,7 @@ raw.prochan.com
 rbk0.top
 rbkregnewlive404.pw
 re-direct.co
+re-directme.com
 real-bonus-zone1.com
 realmtproto.club
 rebate-club.com
@@ -12860,7 +12859,6 @@ telgr.me
 ten-casino.online
 ten-casinos.online
 ten-casinoz.online
-tennisi.by
 tennisireal.tj
 tfiletorrent.info
 tg.yadda.club
@@ -12976,7 +12974,6 @@ tttbet.site
 tuk-mar-sdfgf.win
 tula.dip-site.com
 tula.diplom-price.com
-tula.dosug71.com
 tula.prava-na-avto.ru
 tula.your-dip.com
 turkish-music.ru
@@ -13400,7 +13397,6 @@ vulkanonlayn.xyz
 vulkanonline.com
 vulkanoriginalplay.com
 vulkanosport.com
-vulkanplatinum.org
 vulkanplatinumz.xyz
 vulkans.info
 vulkans.org
@@ -14391,7 +14387,6 @@ www.betcity-zerkalo-3otv.ru
 www.betcity-zerkalo-3zdf.ru
 www.betcity-zerkalo-4apd.ru
 www.betcity-zerkalo-4bhu.ru
-www.betcity-zerkalo-4bsl.ru
 www.betcity-zerkalo-4fir.ru
 www.betcity-zerkalo-4orh.ru
 www.betcity-zerkalo-4pof.ru
@@ -16462,4 +16457,6 @@ zvukovoronka.ru
 zyteli.info
 zytely.info
 zyx.technom.club
+zzzerkalo.net
+x.technom.club
 zzzerkalo.net
