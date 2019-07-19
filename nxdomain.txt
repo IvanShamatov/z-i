@@ -1314,7 +1314,6 @@
 1xwmo.host
 1xwqi.top
 1xwus.top
-1xwwmm.xyz
 1xxgd.top
 1xxkt.top
 1xxkt.xyz
@@ -2897,6 +2896,7 @@ avtomatix.stream
 avtomatix.xyz
 avtomaty-casino-vulkan.com
 avtomaty-igrovye-besplatno.com
+avtomaty.igrovoy-zal.com
 avtomaty.pro
 avtomatydengi.com
 avtomatynadengi.org
