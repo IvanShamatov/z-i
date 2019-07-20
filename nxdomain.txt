@@ -978,7 +978,6 @@
 1xmobfdn.top
 1xmobfgv.host
 1xmobfmu.xyz
-1xmobfpi.xyz
 1xmobfqk.top
 1xmobfvt.top
 1xmobfzc.xyz
@@ -3420,7 +3419,6 @@ bcity-506.online
 bcity-510.online
 bcity-512.online
 bcity-513.site
-bcity-515.online
 bcity-516.site
 bcity-517.online
 bcity-529.online
@@ -5145,6 +5143,7 @@ casinorating.su
 casinoreit.com
 casinorf.info
 casinos2018.club
+casinosbonus.pro
 casinoshare.info
 casinossl.info
 casinotop.su
