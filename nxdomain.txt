@@ -802,7 +802,6 @@
 1xcwy.top
 1xczc.host
 1xczc.top
-1xdqg.xyz
 1xdqz.top
 1xdrz.host
 1xdzs.top
@@ -4202,7 +4201,6 @@ bk-info100.site
 bk-info104.site
 bk-info104.top
 bk-info107.space
-bk-info108.space
 bk-info109.online
 bk-info11.online
 bk-info110.site
@@ -11026,7 +11024,6 @@ pm-222.info
 pm-236.online
 pm-244.online
 pm-254.online
-pm-255.online
 pm-259.online
 pm-266.online
 pm-272.online
@@ -11075,7 +11072,6 @@ pm-579.online
 pm-609.online
 pm-612.online
 pm-615.online
-pm-621.online
 pm-637.site
 pm-647.online
 pm-652.online
@@ -12194,6 +12190,7 @@ ru.leonfacil.com
 ru.leonfastga.com
 ru.leonfeature.com
 ru.leonfinik.com
+ru.leonflee.com
 ru.leonforum.com
 ru.leonfroma.com
 ru.leonftx.com
@@ -12817,7 +12814,6 @@ stat4bet.ru
 static.eurograndpromo.com
 stavka-vulcan.club
 stavka-zerkalo98.space
-stavka777.ru
 stavkabet.space
 stavkabets78.win
 stavkafon.xyz
@@ -16445,7 +16441,6 @@ zerkalosbettingsrus65.space
 zerkalosbk65.space
 zerkalosbkrus76.space
 zerkaloscore.space
-zerkalosite54.xyz
 zerkalositevhod23.space
 zerkalositevhod43.space
 zerkalositevhod78.space
