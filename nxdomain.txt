@@ -4561,7 +4561,6 @@ bkinfo100.top
 bkinfo111.online
 bkinfo116.top
 bkinfo118.top
-bkinfo118.xyz
 bkinfo119.online
 bkinfo129.online
 bkinfo131.online
@@ -16338,7 +16337,6 @@ zerkaloacces.loan
 zerkaloaccess.space
 zerkalobattles.space
 zerkalobet5.website
-zerkalobets.space
 zerkalobetstavkabet42.space
 zerkalobett21.space
 zerkalobett54.space
