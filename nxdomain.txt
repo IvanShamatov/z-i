@@ -1084,7 +1084,6 @@
 1xmobupu.xyz
 1xmobuui.top
 1xmobvlk.top
-1xmobvmq.xyz
 1xmobvnz.host
 1xmobvok.host
 1xmobvox.host
@@ -5911,7 +5910,6 @@ fon-543.online
 fon-558.website
 fon-56.website
 fon-563.site
-fon-578.online
 fon-58.online
 fon-587.online
 fon-588.website
@@ -12908,6 +12906,8 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
+test1.plusminus1.com
+test2.plusminus1.com
 test3.plusminus1.com
 tfiletorrent.info
 tg.yadda.club
@@ -16502,7 +16502,6 @@ zerlaossaa.space
 zerorotate.win
 zerx.tv
 zf-fm.icu
-zf-fm.mobi
 zf-fm.online
 zfilm-hd.pw
 zhitely.info
