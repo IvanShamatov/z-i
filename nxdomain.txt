@@ -4810,6 +4810,7 @@ black-spb.club
 blackfilm.club
 blackton.eu
 blagoveshhensk.dip-site.com
+blog.diamond-pharm.com.ua
 blog.iv-torrents.ru
 blogger37.ru
 blok-bk.info
@@ -5145,7 +5146,6 @@ casinoforum.site
 casinoforum.su
 casinofrank.online
 casinofreedom.org
-casinogame.space
 casinogid1.info
 casinoglobal.ryagenka.ru
 casinogoodwin.com
@@ -6851,6 +6851,7 @@ hyenp.bkin.top
 hzerkalobk909.top
 i-check-u.ru
 i-kinogo.net
+i-mp3.love
 i.shishkin-semena.pub
 i08qg.gov.ru.bknf0.top
 icjpo4ce.analyzeprofit.com
@@ -8620,7 +8621,6 @@ melmobply.host
 melmobqcj.xyz
 melmobqri.host
 melmobrfu.xyz
-melmobryu.xyz
 melmobsec.com
 melmobszf.host
 melmobtor.host
@@ -10579,7 +10579,6 @@ okino.tv
 olebitcoin.com
 olicash.net
 olicash.su
-olimp.promo
 olimp24x7.online
 olimpbkbet.website
 olimpbook.online
@@ -15053,7 +15052,6 @@ www.o-filme.ru
 www.offsidebet.com
 www.okino.tv
 www.olicash.net
-www.olimp.promo
 www.online-freebee.net
 www.online.stepashka.com
 www.onlinecasino-top.net
@@ -15810,7 +15808,6 @@ xn--d1ahfbogbaasi6c.xn--p1ai
 xn--d1ahfkdgb.su
 xn--d1ahfnbebp.xn--p1ai
 xn--k1aghg.online
-xn--n1adbge.top
 xregistrationbk202.top
 xregistrationbk303.top
 xsportbet.info
@@ -16381,7 +16378,6 @@ zerkalo71.ru
 zerkalo742.space
 zerkalo8.date
 zerkalo81.ru
-zerkalo81.xyz
 zerkalo888.xyz
 zerkalo9.date
 zerkalo924.info
@@ -16575,4 +16571,3 @@ zyteli.info
 zytely.info
 zyx.technom.club
 zzzerkalo.net
-net
