@@ -3298,7 +3298,6 @@ baskino.bz
 baskino.co.ua
 baskino.info
 baskino.win
-baskino3.ml
 baskinoclub.ru
 baskinos.ru
 baskkino.ru
@@ -12576,6 +12575,7 @@ rutorrr.com
 rutors.guru
 rutors.ml
 rutorzerkalo.ru
+rutracker-2017.org
 rutracker-2018.org
 rutracker-in.info
 rutracker-in.ru
