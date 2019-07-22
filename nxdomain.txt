@@ -4221,7 +4221,6 @@ bk-info118.space
 bk-info119.online
 bk-info119.top
 bk-info120.online
-bk-info121.space
 bk-info121.top
 bk-info122.online
 bk-info123.online
@@ -4929,8 +4928,10 @@ bukva-love.stream
 bukva-love.trade
 bukva-love.webcam
 bukva-love.win
+bukva-vek.accountant
 bukva-vek.date
 bukva-vek.download
+bukva-vek.loan
 bukva-vek.review
 bukva-vek.stream
 bukva-vek.trade
@@ -5717,6 +5718,7 @@ faf842.olimpef97.site
 fail-zona.ru
 fan-tv.be
 fanserials.cx
+fanserials.date
 fanserials.in
 fanserials.realrty
 fanserials.store
@@ -5948,7 +5950,6 @@ fon-533.website
 fon-543.online
 fon-558.website
 fon-56.website
-fon-563.site
 fon-58.online
 fon-587.online
 fon-588.website
@@ -8239,6 +8240,7 @@ machine24.win
 madminbet.win
 madtorrent.net
 mafiaguns.ru
+mag-vam.site
 magicgoldvllkz.com
 magnetfox.net
 magnitpgprsk.diplom-price.com
@@ -12868,7 +12870,6 @@ stavka-zerkalo98.space
 stavka777.ru
 stavkabet.space
 stavkabets78.win
-stavkafon.xyz
 stavkafonbets.space
 stavkamat.space
 stavkasport.website
