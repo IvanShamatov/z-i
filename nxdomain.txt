@@ -12566,7 +12566,6 @@ rutorgame.net
 rutorgames.net
 rutorinfo.org
 rutoris.org
-rutorka.org
 rutororg.info
 rutororg1.info
 rutororg2.info
@@ -12961,6 +12960,7 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
+test2.plusminus1.com
 tfiletorrent.info
 tg.yadda.club
 tgfix.ru
@@ -16599,6 +16599,4 @@ zvukovoronka.ru
 zyteli.info
 zytely.info
 zyx.technom.club
-zzzerkalo.net
-ub
 zzzerkalo.net
