@@ -4290,7 +4290,6 @@ bk-info165.top
 bk-info166.top
 bk-info167.top
 bk-info168.top
-bk-info169.space
 bk-info170.space
 bk-info171.online
 bk-info172.online
@@ -5880,7 +5879,6 @@ fon-100.site
 fon-105.online
 fon-113.online
 fon-118.website
-fon-136.site
 fon-137.site
 fon-143.online
 fon-147.online
@@ -8744,7 +8742,6 @@ mf-502.online
 mf-504.online
 mf-512.site
 mf-515.online
-mf-517.online
 mf-526.online
 mf-527.online
 mf-539.online
@@ -12528,7 +12525,6 @@ rutor-info.info
 rutor-info.org.ru
 rutor-info.pw
 rutor-info.xyz
-rutor-is.uio.faith
 rutor-msk.info
 rutor-net.info
 rutor-new.ru
