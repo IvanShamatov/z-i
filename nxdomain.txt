@@ -804,7 +804,6 @@
 1xczc.host
 1xczc.top
 1xdqz.top
-1xdrz.host
 1xdzs.top
 1xear.top
 1xeil.top
@@ -1320,6 +1319,7 @@
 1xxpers22.mobi
 1xxpers33.mobi
 1xxpers44.mobi
+1xxpers55.mobi
 1xxpers77.mobi
 1xxport.com
 1xxrw.host
@@ -2308,6 +2308,7 @@
 8c0941.olimpe24a.top
 8c4058.olimp98b4.top
 8c646c.olimp6753.top
+8cb6b4.olimpde83.top
 8cf7d3.olimp6753.top
 8cfaaf.olimp3043.top
 8d0535.olimp161f.top
@@ -2929,7 +2930,6 @@ avtomatix.stream
 avtomatix.xyz
 avtomaty-casino-vulkan.com
 avtomaty-igrovye-besplatno.com
-avtomaty.igrovoy-zal.com
 avtomaty.pro
 avtomatydengi.com
 avtomatydengivyvod.com
@@ -3472,7 +3472,6 @@ bcity-696.online
 bcity-703.site
 bcity-708.online
 bcity-722.site
-bcity-728.site
 bcity-735.online
 bcity-736.online
 bcity-738.online
@@ -4298,7 +4297,6 @@ bk-info177.online
 bk-info178.online
 bk-info178.top
 bk-info179.top
-bk-info180.online
 bk-info180.space
 bk-info180.top
 bk-info182.space
@@ -5446,6 +5444,7 @@ dickey.x-hobby.ru
 dimitrovgrad.diplom-price.com
 dimitrovgrad.don-diplom.com
 dip-site.com
+diplom-attestat.pro
 diplom-msk.su
 diplom-price.com
 diploma-s.com
@@ -12831,6 +12830,7 @@ sportkontora.website
 sportmatch.pro
 sportonline.today
 sportorates.ru
+sports.tbpwn.com
 sports.tbwcup.com
 sports.tbwnpro.com
 sportsbetvk.space
@@ -13025,6 +13025,7 @@ torrent9.name
 torrentcd.pw
 torrentfilmov.net
 torrentiga.net
+torrentiks.net
 torrentim.net
 torrentiz.org
 torrento-games.net
@@ -14649,6 +14650,7 @@ www.coolrotate.win
 www.deliatv.ru
 www.dev.bec0de.com
 www.dino-casino.com
+www.diplom-attestat.pro
 www.dok911.ru
 www.dokymentalnoe.ru
 www.dom-filmov.ru
