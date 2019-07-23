@@ -728,7 +728,6 @@
 1x-985.site
 1x-989.online
 1x-996.online
-1x-best-muzon.me
 1x-bets.space
 1x-betting.club
 1x-sportgame.ru
@@ -5501,6 +5500,7 @@ dr-ryadom.su
 dragonmoney.online
 dragonmoney.su
 dreamsmediawin.com
+drift-casino.pro
 driftcasino.mobi
 driftcasino.space
 driftgames.top
@@ -7168,7 +7168,6 @@ kino-mania.pro
 kino-max.com
 kino-max.pro
 kino-olimp.ru
-kino-onlain.me
 kino-online.net
 kino-online720.net
 kino-panda.net
@@ -9929,6 +9928,7 @@ mp-01.fbmetrix-0b070.com
 mp-01.fbmetrix-0d586.com
 mp-01.fbmetrix-0fc0b.com
 mp-01.fbmetrix-13f15.com
+mp-01.fbmetrix-16521.com
 mp-01.fbmetrix-17d3a.com
 mp-01.fbmetrix-19ac2.com
 mp-01.fbmetrix-24c6a.com
@@ -12844,6 +12844,7 @@ spravki-rf.com
 spravkiexpress.com
 sputnik.t30p.ru
 spxak.ru
+spytown.ru
 srcn14.connect.netcdn.bcdl.rocks
 srcs257.connect.netcdn.bcdl.rocks
 srcs41.connect.netcdn.bcdl.rocks
@@ -13508,6 +13509,7 @@ vulkanjoker.com
 vulkankazino.top
 vulkanline3.com
 vulkanmirror.com
+vulkanmix.com
 vulkannz.com
 vulkanoclub5.com
 vulkanofficialsite.ru
