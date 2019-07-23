@@ -1319,6 +1319,7 @@
 1xxgd.top
 1xxkt.top
 1xxkt.xyz
+1xxpers44.mobi
 1xxpers77.mobi
 1xxport.com
 1xxrw.host
@@ -9937,7 +9938,6 @@ mp-01.fbmetrix-3834f.com
 mp-01.fbmetrix-3dc7a.com
 mp-01.fbmetrix-41f8b.com
 mp-01.fbmetrix-445cf.com
-mp-01.fbmetrix-4604b.com
 mp-01.fbmetrix-464a7.com
 mp-01.fbmetrix-4a35d.com
 mp-01.fbmetrix-4ba43.com
@@ -12964,6 +12964,9 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
+test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tfiletorrent.info
 tg.yadda.club
 tgfix.ru
@@ -13102,6 +13105,7 @@ tut-zerkalo.ru
 tutorrent.info
 tutpesni.ru
 tutskachatmp3.ru
+tve.zacazat-prava.ru
 tvfru.org
 tvist-casino.men
 tvoyvulkan.org
