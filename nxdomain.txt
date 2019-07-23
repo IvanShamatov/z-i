@@ -698,7 +698,6 @@
 1x-612.site
 1x-641.site
 1x-642.online
-1x-643.online
 1x-668.site
 1x-676.online
 1x-678.online
@@ -1055,7 +1054,6 @@
 1xmobphx.top
 1xmobppi.host
 1xmobpqa.host
-1xmobqmo.xyz
 1xmobqnr.host
 1xmobqqc.host
 1xmobquc.xyz
@@ -1319,6 +1317,8 @@
 1xxgd.top
 1xxkt.top
 1xxkt.xyz
+1xxpers22.mobi
+1xxpers33.mobi
 1xxpers44.mobi
 1xxpers77.mobi
 1xxport.com
@@ -4301,7 +4301,6 @@ bk-info179.top
 bk-info180.online
 bk-info180.space
 bk-info180.top
-bk-info182.site
 bk-info182.space
 bk-info183.site
 bk-info183.top
@@ -5948,7 +5947,6 @@ fon-483.online
 fon-49.site
 fon-491.online
 fon-501.website
-fon-517.online
 fon-527.site
 fon-531.online
 fon-532.online
@@ -6019,7 +6017,6 @@ fon-953.online
 fon-969.online
 fon-976.site
 fon-98.site
-fon-994.website
 fon-995.site
 fon-997.online
 fon-998.online
@@ -6278,7 +6275,6 @@ fonbet5.xyz
 fonbet508.info
 fonbet51.online
 fonbet52.online
-fonbet54.online
 fonbet57.online
 fonbet58.online
 fonbet59.online
@@ -12592,7 +12588,6 @@ rutracker0.club
 rutracker2.org
 rutracker2.ru
 rutracker7.org
-rutreker-2018.org
 ryazan.prava-na-avto.ru
 rybinsk.dip-site.com
 rybinsk.your-dip.com
@@ -12965,7 +12960,6 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
-test2.plusminus1.com
 tfiletorrent.info
 tg.yadda.club
 tgfix.ru
@@ -15762,7 +15756,6 @@ www.zenitbetsport.com
 www.zerkalo-azino-777.ru
 www.zerkalo165.xyz
 www.zerkalo171.xyz
-www.zerkalo183.xyz
 www.zerkalo184.xyz
 www.zerkalo187.xyz
 www.zerkalolink.info
@@ -16372,7 +16365,6 @@ zerkalo171.xyz
 zerkalo174.xyz
 zerkalo175.xyz
 zerkalo18.date
-zerkalo183.xyz
 zerkalo184.xyz
 zerkalo187.xyz
 zerkalo188.xyz
