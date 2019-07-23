@@ -808,6 +808,8 @@
 1xcwy.top
 1xczc.host
 1xczc.top
+1xdik.xyz
+1xdqg.xyz
 1xdqz.top
 1xdzs.top
 1xear.top
@@ -1251,6 +1253,7 @@
 1xredsht.host
 1xredstd.top
 1xredtja.xyz
+1xredtna.xyz
 1xredtnn.xyz
 1xreduum.host
 1xreduvz.host
@@ -1318,6 +1321,7 @@
 1xwfh.xyz
 1xwge.host
 1xwiv.xyz
+1xwki.xyz
 1xwkp.host
 1xwlr.host
 1xwlr.top
@@ -1331,6 +1335,7 @@
 1xxpers33.mobi
 1xxpers44.mobi
 1xxpers55.mobi
+1xxpers66.mobi
 1xxpers77.mobi
 1xxport.com
 1xxrw.host
@@ -7071,7 +7076,6 @@ k.fb2.online
 kabankino.com
 kabinetvhod.date
 kaliningrad.diplom-price.com
-kaliningrad.poluchenie-prav.ru
 kaluga.dip-site.com
 kaluga.diplom-price.com
 kamensk-uralskij.diplom-price.com
