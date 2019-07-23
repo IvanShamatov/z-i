@@ -1319,6 +1319,7 @@
 1xxgd.top
 1xxkt.top
 1xxkt.xyz
+1xxpers77.mobi
 1xxport.com
 1xxrw.host
 1xxst.host
@@ -5892,7 +5893,6 @@ fon-205.website
 fon-22.site
 fon-220.online
 fon-23.online
-fon-236.online
 fon-237.site
 fon-238.website
 fon-24.site
