@@ -2918,6 +2918,7 @@ aubooks.zone
 audiopoisk.org
 audioz.nur.kz
 automaty-vulcan.com
+avinfo.me
 avitube.ru
 avrilwg.com
 avtomat.slots-bit.com
@@ -10996,7 +10997,6 @@ pm-138.info
 pm-139.info
 pm-140.info
 pm-144.info
-pm-145.info
 pm-147.info
 pm-148.info
 pm-15.website
@@ -12500,7 +12500,6 @@ rus-betcity.top
 rus-betzerkalo78.space
 rus-media-org.info
 rus-rutor.info
-rus-torrents.org
 rus-track.ml
 rus-viagra.ru
 rus.cybbet.com
@@ -12966,8 +12965,6 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
-test1.plusminus1.com
-test3.plusminus1.com
 tfiletorrent.info
 tg.yadda.club
 tgfix.ru
