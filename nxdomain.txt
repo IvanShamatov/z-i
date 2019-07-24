@@ -2867,6 +2867,7 @@ ap-01.accessfonbet-1af93.com
 ap-01.accessfonbet-27a5f.com
 ap-01.accessfonbet-2e145.com
 ap-01.accessfonbet-32a33.com
+ap-01.accessfonbet-39b6b.com
 ap-01.accessfonbet-3bbd0.com
 ap-01.accessfonbet-3c7eb.com
 ap-01.accessfonbet-408f9.com
@@ -2909,6 +2910,7 @@ ap-01.accessfonbet-da032.com
 ap-01.accessfonbet-db404.com
 ap-01.accessfonbet-dbbea.com
 ap-01.accessfonbet-dd534.com
+ap-01.accessfonbet-e5f09.com
 ap-01.accessfonbet-e760f.com
 ap-01.accessfonbet-ea12e.com
 ap-01.accessfonbet-eb3d3.com
@@ -10068,6 +10070,7 @@ mp-01.fbmetrix-6cef8.com
 mp-01.fbmetrix-738e4.com
 mp-01.fbmetrix-7f8cc.com
 mp-01.fbmetrix-888f0.com
+mp-01.fbmetrix-9b005.com
 mp-01.fbmetrix-9b57b.com
 mp-01.fbmetrix-9c373.com
 mp-01.fbmetrix-a9112.com
@@ -10081,6 +10084,7 @@ mp-01.fbmetrix-c4d91.com
 mp-01.fbmetrix-c922c.com
 mp-01.fbmetrix-caad5.com
 mp-01.fbmetrix-cbe41.com
+mp-01.fbmetrix-cd1b2.com
 mp-01.fbmetrix-d083e.com
 mp-01.fbmetrix-d41e4.com
 mp-01.fbmetrix-d6f3c.com
@@ -13255,6 +13259,7 @@ uljanovsk.dipznak.com
 uljanovsk.your-dip.com
 una-unso.info
 unknownmp3.ru
+uol1kano.com
 uollckan.com
 up-money.net
 upd-42vcx8bct.dd9c8d009cde58905f2d.xyz
@@ -13656,7 +13661,9 @@ vus.technom.club
 vv01kkan.com
 vv1cc.com
 vvbit.ru
+vvol1can.com
 vvol1ccan.com
+vvol1kans.com
 vvolcano.club
 vvolcano5.com
 vvolcano7.com
@@ -14094,6 +14101,7 @@ wllckjoy.com
 wndbt.com
 wo11cjoy.com
 wo1lcjoy.com
+wol1kkano.com
 wolcans.com
 wolcfuns.com
 wondermbet.win
