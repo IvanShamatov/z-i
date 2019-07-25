@@ -2827,7 +2827,6 @@ aktualnye-zerkala-bk.bid
 aktualnye-zerkala-bk.trade
 aktualnye-zerkala-bukmekera.date
 aktualnyjadres.men
-alco-centr.org
 alco-piter.ru
 alco-towns.ru
 alcolove.club
@@ -4889,6 +4888,7 @@ board.v.ua
 bobfillm.ru
 bobfilm-1.club
 bobfilm.pro
+bobfilm.site
 bobfilm1.info
 bobfilms.club
 bobfilms.ru
@@ -4916,7 +4916,6 @@ bonusworldcasino.info
 book.lovereads.me
 booka.club
 bookgdz.ru
-bookinist.info
 bookmakers-vhod.space
 bookmeker-bk.website
 boom-cash.ru
@@ -5523,6 +5522,7 @@ djoycasino.com
 dl147.nonamefiles-10sd.info
 dmwan.woid.game-server.cc
 dofiga-mp3.ru
+doghunter.to
 dok911.ru
 dok911ru.com
 dokymentalnoe.ru
@@ -8104,7 +8104,6 @@ m.betzenitsport.com
 m.bkfonsports.xyz
 m.bkwndbt.com
 m.casinopuzslots.com
-m.fonbet-9e5b6.tk
 m.fonbet.bid
 m.fonsportbet.tk
 m.fonsportbet.xyz
@@ -10741,6 +10740,7 @@ p3.4kinoteka.club
 p4.3kinoteka.club
 p4.4kinoteka.club
 p5.3kinoteka.club
+pam24.klad.cc
 pari-mail10.com
 pari-mail15.com
 pari-mail17.com
@@ -12458,6 +12458,7 @@ rufilmix.ru
 ruhydra.ru
 ruletka.top
 ruletku.net
+rumagic.com
 ruonion-hydra.ru
 rupoke-r.com
 rupolit.net
@@ -12893,8 +12894,6 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
-test2.plusminus1.com
-test3.plusminus1.com
 tfiletorrent.info
 tg.yadda.club
 tgfix.ru
