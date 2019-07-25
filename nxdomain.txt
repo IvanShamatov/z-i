@@ -7301,6 +7301,7 @@ kinogo.hol.es
 kinogo.live
 kinogo.onl
 kinogo.realty
+kinogo.unblocked.blue
 kinogo1.com
 kinogo1.me
 kinogo1.org
@@ -7431,6 +7432,7 @@ kinosop.ru
 kinosprofi.ru
 kinotop.me
 kinotroll.ru
+kinotut.unblocked.blue
 kinovdom.net
 kinovips.online
 kinovoin.net
@@ -9836,7 +9838,6 @@ mosttrafsome.com
 mosttrafway.com
 mosttre.com
 mosttrk.com
-mosttro.com
 mosttrr.com
 mosttsl.com
 mostttr.com
