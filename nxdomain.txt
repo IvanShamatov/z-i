@@ -6883,7 +6883,6 @@ gidra-tor.biz.ski
 gidra-tsentr.biz.ski
 gidra-zerkalo.biz.ski
 gig-torrent.org
-gig-torrent.pro
 gigmovie.ru
 gigtorrent.net
 gilesawer.info
@@ -13169,6 +13168,7 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
+test1.plusminus1.com
 tfiletorrent.info
 tg.yadda.club
 tgfix.ru
