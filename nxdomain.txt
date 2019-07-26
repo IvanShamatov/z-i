@@ -8129,7 +8129,6 @@ m.liga-stavok6.bet
 m.liga-stavok8.bet
 m.liga-stavok9.bet
 m.livetv116.me
-m.livetv122.me
 m.livetv123.me
 m.livetv126.me
 m.livetv148.me
