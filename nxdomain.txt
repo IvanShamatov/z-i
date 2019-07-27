@@ -3032,6 +3032,7 @@ avtomatix.stream
 avtomatix.xyz
 avtomaty-casino-vulkan.com
 avtomaty-igrovye-besplatno.com
+avtomaty.igrovoy-zal.com
 avtomaty.pro
 avtomatydengivyvod.com
 avtomatynadengi.org
@@ -8481,7 +8482,6 @@ magnetfox.net
 mail-kazino.win
 mail.kinosafe.net
 mail.moneydaplay2.com
-mail.seedbanda.space
 mail.torrent.by
 mail.vkmp3.org
 mailparimatch12.com
@@ -14913,6 +14913,7 @@ www.europz.com
 www.eurpz.com
 www.fail-zona.ru
 www.fairwaycasino.com
+www.fasttorrent.info
 www.fatmarket.ru
 www.ffe-mar-gggrrr.win
 www.fiestacasino.ru
