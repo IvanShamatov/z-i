@@ -4501,6 +4501,7 @@ bk-leon-zerkalo-rabochee.date
 bk-leon-zerkalo.bid
 bk-leon.date
 bk-leon.review
+bk-leon.xyz
 bk-liga-stavok.ru
 bk-marafon-novyj.info
 bk-marafon-zerkalo.info
@@ -4772,6 +4773,7 @@ bkleon-bet12.ru
 bkleon-mirrors.ru
 bkleon-onlinebet.ru
 bkleon-zerkalo.ru
+bkleon.xyz
 bkleon1.top
 bkleon1hxh.top
 bkleon2.top
@@ -10395,6 +10397,7 @@ new-bobfilm.net
 new-bobfilm.ru
 new-bobfilm.site
 new-check-you.ru
+new-films.biz
 new-gidonline.in
 new-gidonline.ru
 new-hdrezka.site
@@ -14224,7 +14227,6 @@ wvy.mp3-tut.biz
 wvz.mp3-tut.biz
 ww1.baskino3.ml
 ww1.technom.club
-ww2.baskino3.ml
 ww2.technom.club
 ww3.baskino3.ml
 ww3.technom.club
