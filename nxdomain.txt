@@ -147,7 +147,6 @@
 100-bk-vhod.date
 1001.vsepropoker5.pw
 1002.vin.bkr07a.top
-100500.biz.ski
 100azino777.win
 100df5.olimp12da.top
 103-azino777.win
@@ -5711,6 +5710,7 @@ drift-casino.pro
 driftcasino.mobi
 driftcasino.space
 driftgames.top
+driftgo.com
 drifttopgame.club
 drivecasino12.com
 drugtor.info
@@ -12129,6 +12129,8 @@ ru.adleonbetsmetro.com
 ru.adleonbetsmicc.com
 ru.adleonbetsolds.com
 ru.adleonbetsst.com
+ru.adleonbetstme.com
+ru.adleonbetsusbet.com
 ru.adleonbetsvegas.com
 ru.adleonbili.com
 ru.adleonblack.com
@@ -12209,6 +12211,7 @@ ru.adleonserbet.com
 ru.adleonsmags.com
 ru.adleonsmr2018.com
 ru.adleonspb.com
+ru.adleonspple.com
 ru.adleonsramo.com
 ru.adleonssia.com
 ru.adleonssic.com
@@ -12301,6 +12304,7 @@ ru.leon1255.com
 ru.leon1259.com
 ru.leon1290.com
 ru.leon132.com
+ru.leon1399.com
 ru.leon190.com
 ru.leon1911.com
 ru.leon1919.com
@@ -12379,6 +12383,7 @@ ru.leon7441.com
 ru.leon754.com
 ru.leon765.com
 ru.leon7734.com
+ru.leon7780.com
 ru.leon7811.com
 ru.leon785.com
 ru.leon794.com
@@ -12424,6 +12429,7 @@ ru.leonbetapp.com
 ru.leonbetbet.com
 ru.leonbetevent.com
 ru.leonbetfast.com
+ru.leonbetme.com
 ru.leonbets.nl
 ru.leonbets001.com
 ru.leonbets0011.com
@@ -12466,6 +12472,7 @@ ru.leonbets1922.com
 ru.leonbets1933.com
 ru.leonbets2302.com
 ru.leonbets2339.com
+ru.leonbets2390.com
 ru.leonbets3199.com
 ru.leonbets323.com
 ru.leonbets3300.com
@@ -12479,6 +12486,7 @@ ru.leonbets5005.com
 ru.leonbets522.com
 ru.leonbets533.com
 ru.leonbets544.com
+ru.leonbets5543.com
 ru.leonbets555.com
 ru.leonbets566.com
 ru.leonbets577.com
@@ -12540,6 +12548,7 @@ ru.leonbetsnissn.com
 ru.leonbetsoprim.com
 ru.leonbetsoutlink.com
 ru.leonbetspadi.com
+ru.leonbetspple.com
 ru.leonbetsprisma.com
 ru.leonbetsring.com
 ru.leonbetsroas.com
@@ -13821,6 +13830,7 @@ vulkan365.bet
 vulkan555.icu
 vulkan666.com
 vulkan777.ru
+vulkanazart.org
 vulkanazartclub.ru
 vulkanbestclub.ru
 vulkanbit.win
