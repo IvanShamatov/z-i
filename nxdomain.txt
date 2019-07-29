@@ -7371,6 +7371,7 @@ kino-720.me
 kino-720hd.biz
 kino-720hd.ru
 kino-bezsms.com
+kino-cinema.info
 kino-coin.online
 kino-crow.net
 kino-full.ru
@@ -7453,7 +7454,6 @@ kinogo-club-online.net
 kinogo-club.info
 kinogo-club.org
 kinogo-club.ru
-kinogo-club.xyz
 kinogo-film.ru
 kinogo-films.ru
 kinogo-hd-club.ru
@@ -9181,7 +9181,6 @@ mms24.biz.ski
 mnogocasino.stream
 mob-azino-777.ru
 mob-azino777.ru
-mob-experience.space
 mob-kazino.win
 mob.777-avtomati.com
 mobacl.pw
@@ -12842,6 +12841,7 @@ rutorg.ml
 rutorg.site
 rutorg.space
 rutorg2.ru
+rutorgame.info
 rutorgame.net
 rutorgames.net
 rutorinfo.org
@@ -13232,7 +13232,6 @@ ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
 test1.plusminus1.com
-test2.plusminus1.com
 test3.plusminus1.com
 tg.yadda.club
 tgfix.ru
@@ -13392,7 +13391,6 @@ ugg-store.ru
 uk2-infra.vps.net
 ukip157.webcannon.com
 ukip168.webcannon.com
-ukrtor.info
 umba.biz.ski
 una-unso.info
 universal24.biz.ski
@@ -16927,3 +16925,4 @@ zyteli.info
 zytely.info
 zyx.technom.club
 zzzerkalo.net
+net
