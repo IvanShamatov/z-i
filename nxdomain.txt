@@ -2808,7 +2808,6 @@ air.pm-118.info
 air.pm-122.info
 air.pm-125.info
 air.pm-126.info
-air.pm-128.info
 air.pm-130.info
 air.pm-132.info
 air.pm-136.info
@@ -3061,7 +3060,6 @@ avtomaty-admiral.com
 avtomaty-casino-vulkan.com
 avtomaty-igrovye-besplatno.com
 avtomaty-nadengi.info
-avtomaty.igrovoy-zal.com
 avtomaty.pro
 avtomatydengivyvod.com
 avtomatynadengi.org
@@ -8704,7 +8702,6 @@ media-rus.info
 media-tracker.info
 mediacool.win
 mediarot-newyear.win
-medknizhki-spravochnik.ru
 medspravka-nn.com
 medspravki-irkutsk.top
 medspravki.shop
@@ -11382,7 +11379,6 @@ pm-125.info
 pm-126.info
 pm-126.online
 pm-127.info
-pm-128.info
 pm-129.online
 pm-130.info
 pm-132.info
@@ -17062,5 +17058,5 @@ zyteli.info
 zytely.info
 zyx.technom.club
 zzzerkalo.net
-m.club
+chnom.club
 zzzerkalo.net
