@@ -2869,7 +2869,6 @@ air.pm-212.info
 air.pm-214.info
 air.pm-215.info
 air.pm-217.info
-air.pm-218.info
 air.pm-219.info
 air.pm-221.info
 air.pm-222.info
@@ -11441,7 +11440,6 @@ pm-214.info
 pm-215.info
 pm-217.info
 pm-217.online
-pm-218.info
 pm-219.info
 pm-221.info
 pm-222.info
@@ -12832,7 +12830,6 @@ ru.swleonviva.com
 ru.swleonwhitte.com
 ru.swleonwork.com
 ru.swleonxmas.com
-ru.turkiston.info
 ru.vipleon484.com
 ru.vipleoncer.com
 ru.vipnaleon.com
