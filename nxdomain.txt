@@ -5661,6 +5661,7 @@ dimix.eu
 diplom-kupiti.su
 diplomasbrn.com
 diplomaschr.com
+diplomasorl.com
 diplomastol.com
 diplomasvgg.com
 diplomaz.com
@@ -7083,6 +7084,7 @@ hd-kinogo.ru
 hd-lostfilm.ru
 hd-rezka.club
 hd.zfilm-hd.space
+hd1.baskino3.ml
 hdfilmi.club
 hdhfpzc.fc-scorpion.ru
 hdhype.online
@@ -13564,7 +13566,6 @@ umba.biz.ski
 una-unso.info
 universal24.biz.ski
 unknownmp3.ru
-uol1kano.com
 uollckan.com
 uollckpay.com
 up-money.net
