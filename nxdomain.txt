@@ -7488,8 +7488,6 @@ zerkalobk-simply.win
 zerkalobk-teacher.win
 zerkalobk-telephone.win
 zerkalobk-wish.win
-zerkalobk47rabochee.host
-zerkalobk57autoblog.host
 zerkalobk908.info
 zerkalobkpm.ru
 zerkalobkvip33.space
