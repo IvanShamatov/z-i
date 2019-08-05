@@ -253,6 +253,7 @@ hydra-site.biz.ski
 hydra-zerkalo.biz.ski
 hydra2web.biz.ski
 hydraruzxpnew4af-union.biz.ski
+hydraruzxpnew4afmx.online
 iceberg24.biz.ski
 igorvost.ru
 infosklad.site
@@ -472,7 +473,6 @@ skazka24.biz.ski
 skirc.biz.ski
 slonokrad.ru
 smeliykirov24.biz.ski
-smotra.ru
 smotret.film1080.online
 spb-med.com
 srutor.org.pl
