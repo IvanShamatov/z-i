@@ -2946,6 +2946,7 @@ aktualnye-zerkala-bk.bid
 aktualnye-zerkala-bk.trade
 aktualnye-zerkala-bukmekera.date
 aktualnyjadres.men
+alco-bum.club
 alco-corp.ru
 alco-nights.ru
 alcobrelok.com
@@ -11316,7 +11317,6 @@ onlajn-2018.space
 onlajn-kazino-registraciya.date
 onlajn-kazino-tut.space
 onlajn-smotret.info
-online-2.avtomaty24besplatno.com
 online-5.igrovyeavtomati.com
 online-azino777.ru
 online-betting.space
@@ -13630,7 +13630,6 @@ superbotanik.ru
 supercasinoslots.com
 supermara.win
 superpult.ru
-superslotclub.com
 superslotscasino.co
 supeslots.com
 supmail.ru
@@ -13660,6 +13659,7 @@ tehosmotr-auto.com
 tel-24-09-18.com
 telego10.com
 telego24.ru
+telego365.ru
 telego5.com
 telego5.net
 telego6.com
