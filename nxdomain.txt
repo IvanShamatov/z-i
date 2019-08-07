@@ -1168,7 +1168,6 @@
 1xmoboyhj.xyz
 1xmoboza.host
 1xmobozav.xyz
-1xmobozzs.xyz
 1xmobpcq.host
 1xmobpgs.xyz
 1xmobphl.host
@@ -6855,6 +6854,7 @@ fonbets-zerkalo43.ru
 fonbets-zerkalo44.ru
 fonbets-zerkalo45.ru
 fonbets-zerkalo46.ru
+fonbets-zerkalo48.ru
 fonbets-zerkalo9.ru
 fonbets.win
 fonbets.xyz
@@ -11421,6 +11421,7 @@ p4.3kinoteka.club
 p4.4kinoteka.club
 p5.3kinoteka.club
 painteralbuquerque.org
+pakaloco.co
 pandacorp.biz.ski
 pari-mail10.com
 pari-mail15.com
@@ -17193,9 +17194,6 @@ zerkalo-mostbet-topsport.ru
 zerkalo-mostbet.ru
 zerkalo-na-segodnya.bid
 zerkalo-novoe-dostup.bid
-zerkalo-novyj-dostup.review
-zerkalo-obhod.website
-zerkaltup.bid
 zerkalo-novyj-dostup.review
 zerkalo-obhod.website
 zerkalo-off.website
