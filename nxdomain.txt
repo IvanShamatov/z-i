@@ -6138,6 +6138,7 @@ fidtor.info
 fifa-2018e.info
 fifa-2018p.info
 fifa-2018r.info
+fifa-zerkalo.win
 fifaworldcup-2018.onlinehockey.club
 figelmeymer.ru
 filegiver.com
@@ -10624,6 +10625,7 @@ mp3okno.ru
 mp3play.net
 mp3pulse.su
 mp3q.ru
+mp3save.ru
 mp3scene.ru
 mp3start.ru
 mp3time.ru
@@ -13642,9 +13644,6 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
-test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tfile.su
 tg.yadda.club
 tgfix.ru
