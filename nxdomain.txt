@@ -1168,6 +1168,7 @@
 1xmoboyhj.xyz
 1xmoboza.host
 1xmobozav.xyz
+1xmobozzs.xyz
 1xmobpcq.host
 1xmobpgs.xyz
 1xmobphl.host
@@ -1494,6 +1495,7 @@
 205716.olimp876c.site
 2088a8.olimp161f.top
 208ef8.olimp9249.top
+20b916.olimp2a24.top
 20bed2.olimp786f.top
 20dd29.olimp6301.site
 20f73b.olimpdcb8.top
@@ -14803,6 +14805,7 @@ ww1.baskino3.ml
 ww1.technom.club
 ww2.baskino3.ml
 ww2.technom.club
+ww3.baskino3.ml
 ww3.technom.club
 ww4.technom.club
 ww5.technom.club
@@ -17192,6 +17195,9 @@ zerkalo-na-segodnya.bid
 zerkalo-novoe-dostup.bid
 zerkalo-novyj-dostup.review
 zerkalo-obhod.website
+zerkaltup.bid
+zerkalo-novyj-dostup.review
+zerkalo-obhod.website
 zerkalo-off.website
 zerkalo-p.ru
 zerkalo-p1.ru
@@ -17260,7 +17266,6 @@ zerkalo184.xyz
 zerkalo187.xyz
 zerkalo188.xyz
 zerkalo191.xyz
-zerkalo197.xyz
 zerkalo198.xyz
 zerkalo1bet.ru
 zerkalo1x.online
