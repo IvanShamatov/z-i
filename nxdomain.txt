@@ -6104,6 +6104,7 @@ fanserials.in
 fanserials.realrty
 fanserials.space
 fanserials.store
+fanserials.stream
 fanserials.tech
 fansport.website
 fantorrent.info
@@ -10766,7 +10767,6 @@ multigaminator-casino.ru
 mundo-latino.su
 murmansk.pravasrochno.ru
 murmansk.sdat-na-prava.ru
-mus2.ru
 mus3.ru
 music-apple.ru
 music-god.ru
