@@ -3185,7 +3185,6 @@ azart-vip7.club
 azart-vipgame.club
 azart24.com
 azartagent.com
-azartdom.com
 azartmanclub.com
 azartmaniya-casino.ru
 azartmaniyacasino.online
@@ -13784,7 +13783,6 @@ tehosmotr-auto.com
 tel-24-09-18.com
 telego10.com
 telego24.ru
-telego365.ru
 telego5.com
 telego5.net
 telego6.com
@@ -13795,8 +13793,6 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
-test1.plusminus1.com
-test2.plusminus1.com
 tfile.su
 tg.yadda.club
 tgfix.ru
@@ -14956,6 +14952,7 @@ ww1.baskino3.ml
 ww1.technom.club
 ww2.baskino3.ml
 ww2.technom.club
+ww3.baskino3.ml
 ww3.technom.club
 ww4.technom.club
 ww5.technom.club
