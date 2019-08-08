@@ -2897,7 +2897,6 @@ air.pm-130.info
 air.pm-136.info
 air.pm-137.info
 air.pm-138.info
-air.pm-139.info
 air.pm-140.info
 air.pm-148.info
 air.pm-155.info
@@ -11418,7 +11417,6 @@ p4.3kinoteka.club
 p4.4kinoteka.club
 p5.3kinoteka.club
 painteralbuquerque.org
-pakaloco.co
 pandacorp.biz.ski
 pari-mail10.com
 pari-mail15.com
@@ -11670,7 +11668,6 @@ pm-132.site
 pm-136.info
 pm-137.info
 pm-138.info
-pm-139.info
 pm-140.info
 pm-148.info
 pm-15.website
