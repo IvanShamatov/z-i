@@ -7355,7 +7355,6 @@ hd-kinogo.ru
 hd-lostfilm.ru
 hd-rezka.club
 hd.zfilm-hd.space
-hd1.baskino3.ml
 hdfilmi.club
 hdhfpzc.fc-scorpion.ru
 hdhype.online
@@ -13514,6 +13513,7 @@ rutor3.info
 rutor4.org
 rutor5.info
 rutor5.org
+rutor7.info
 rutorc6mqdinc4cz.onion.si
 rutorc6mqdinc4cz.tor2web.xyz
 rutorent.ru
