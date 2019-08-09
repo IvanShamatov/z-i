@@ -4524,6 +4524,7 @@ bk-fonbetn45.ru
 bk-fonbetn46.ru
 bk-fonbetn47.ru
 bk-fonbetn48.ru
+bk-fonbetn49.ru
 bk-fonbetn9.ru
 bk-fonbets13.ru
 bk-fonbets14.ru
@@ -15104,6 +15105,7 @@ ww1.baskino3.ml
 ww1.technom.club
 ww2.baskino3.ml
 ww2.technom.club
+ww3.baskino3.ml
 ww3.technom.club
 ww4.technom.club
 ww5.technom.club
