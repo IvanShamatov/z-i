@@ -5425,6 +5425,7 @@ casino-rio.men
 casino-rol.men
 casino-ryadom.men
 casino-shangri.men
+casino-slots.site
 casino-sokrovishh.men
 casino-sportloto.men
 casino-stixi.men
@@ -7017,6 +7018,7 @@ foonbkss.space
 forbettatraf.com
 formosttraffik.com
 fortunazerkalos22.space
+forum.muratordom.com.ua
 forumkultury.eu
 frank-casino-club.sport-people.club
 frank-free.club
@@ -11656,6 +11658,7 @@ petamusic.ru
 petr-1.biz.ski
 pharaonclub.ru
 phqnan.hobby-samara.ru
+pier-vv.com
 pievulkbon.info
 pinup-casino3.tk
 pinupevent.tk
@@ -14908,6 +14911,7 @@ wvw.mp3-tut.biz
 wvx.mp3-tut.biz
 wvy.mp3-tut.biz
 wvz.mp3-tut.biz
+ww1.baskino3.ml
 ww1.technom.club
 ww2.baskino3.ml
 ww2.technom.club
@@ -17624,6 +17628,4 @@ zvukovorot.com
 zyteli.info
 zytely.info
 zyx.technom.club
-zzzerkalo.net
-b
 zzzerkalo.net
