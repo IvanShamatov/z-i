@@ -1340,7 +1340,6 @@
 1xngc.top
 1xniz.host
 1xnjo.host
-1xnjo.xyz
 1xnjw.host
 1xntg.top
 1xnwh.host
@@ -2492,7 +2491,6 @@
 777-azino.club
 777.azino-777-tri-topora.ru
 777.azino.mobi
-777.igrovoy-zal.com
 7772e4.olimp9249.top
 7775bd.olimp4859.top
 77777azino.win
@@ -3717,7 +3715,6 @@ baskinoclub.ru
 baskinofilm.ru
 baskinos.ru
 baskkino.ru
-basshunter.online
 basskino.net
 baton.online
 battle-cash.ru
@@ -6080,6 +6077,7 @@ driftgames.top
 driftgo.com
 drifttopgame.club
 drivecasino12.com
+drivecasino9.com
 droadigodi.info
 drogenbestellenkaufen.com
 drogenbestellenshop.com
@@ -7409,6 +7407,7 @@ gitem.barbus.me
 gitem.ru
 givememarathon.win
 givemosttraf.com
+givemosttrafs.com
 glavplatie.ru
 glavstavka.su
 gmslotsklub.com
@@ -7925,7 +7924,6 @@ kinobest.infos-z.com
 kinoblog.online
 kinobom.tv
 kinobomber.online
-kinobomber1.online
 kinoboom.me
 kinoclub.club
 kinocoin.club
@@ -8455,7 +8453,6 @@ leonbet9o.website
 leonbet9p.website
 leonbet9u.website
 leonbetaasu.website
-leonbetabk.website
 leonbetaeh.website
 leonbetaen.website
 leonbetahh.website
@@ -8481,13 +8478,10 @@ leonbetayo.website
 leonbetbarsa.website
 leonbetbee.website
 leonbetbeetle.website
-leonbetbigbank.website
-leonbetbigpot.website
 leonbetbigstek.website
 leonbetbitss.pro
 leonbetbj.website
 leonbetbraz.website
-leonbetcake.website
 leonbeter.website
 leonbetesp.website
 leonbetfns.website
@@ -8542,8 +8536,6 @@ leonbetsall.website
 leonbetsalt.website
 leonbetsasu.website
 leonbetsauo.website
-leonbetsbank.website
-leonbetsbk.website
 leonbetsee.website
 leonbetsesp.website
 leonbetsespn.website
@@ -10180,13 +10172,16 @@ mostaee.com
 mostaef.com
 mostaep.com
 mostaeq.com
+mostaer.com
 mostaev.com
 mostagg.com
 mostagr.com
 mostait.com
+mostajg.com
 mostajk.com
 mostalb.com
 mostaoj.com
+mostaom.com
 mostapz.com
 mostaqq.com
 mostatp.com
@@ -10314,10 +10309,13 @@ mostdzx.com
 mostecc.com
 mostedb.com
 mostedp.com
+mostefr.com
 mostegk.com
 mostegx.com
 mostegz.com
 mostehj.com
+mostehk.com
+mostehs.com
 mostejj.com
 mostejq.com
 mostekx.com
@@ -10326,6 +10324,8 @@ mostemj.com
 mosteqg.com
 mosterm.com
 mosterp.com
+mosterw.com
+mostese.com
 mostesf.com
 mostetb.com
 mostete.com
@@ -10334,6 +10334,7 @@ mostetk.com
 mostets.com
 mostevf.com
 mostevv.com
+mostewe.com
 mostewj.com
 mostewk.com
 mostewt.com
@@ -10482,6 +10483,7 @@ mosthuz.com
 mosthvv.com
 mostida.com
 mostidv.com
+mostift.com
 mostigj.com
 mostijg.com
 mostijk.com
@@ -10492,6 +10494,7 @@ mostioj.com
 mostiom.com
 mostioz.com
 mostipl.com
+mostiqw.com
 mostisl.com
 mostitk.com
 mostjep.com
@@ -10666,9 +10669,11 @@ mostnxf.com
 mostnxx.com
 mostoaf.com
 mostoag.com
+mostofm.com
 mostofx.com
 mostofz.com
 mostojt.com
+mostokl.com
 mostokq.com
 mostokx.com
 mostokz.com
@@ -10687,6 +10692,7 @@ mostotraff.com
 mostotraffic.com
 mostovv.com
 mostoxd.com
+mostozm.com
 mostpartbets.com
 mostpartdone.com
 mostpartdos.com
@@ -10701,6 +10707,7 @@ mostpartnertrafic.com
 mostpbb.com
 mostpff.com
 mostphh.com
+mostpicsbet.com
 mostpicspart.com
 mostpjj.com
 mostpjv.com
@@ -10750,6 +10757,7 @@ mostqkv.com
 mostqkw.com
 mostqkx.com
 mostqlm.com
+mostqor.com
 mostqpl.com
 mostqqf.com
 mostqqh.com
@@ -14321,6 +14329,7 @@ trymostraffs.com
 trymostrafic.com
 trymosttraf.com
 trynewtraff.com
+trynewtraffs.com
 ttg9adpl88.com
 ttrafbet.com
 ttrblog.online
@@ -15389,6 +15398,7 @@ wvy.mp3-tut.biz
 wvz.mp3-tut.biz
 ww1.baskino3.ml
 ww1.technom.club
+ww2.baskino3.ml
 ww2.technom.club
 ww3.baskino3.ml
 ww3.technom.club
@@ -15468,7 +15478,6 @@ www.1xbqn.xyz
 www.1xczc.top
 www.1xghd.top
 www.1xgsfz.top
-www.1xnjo.xyz
 www.1xwlr.top
 www.1xxkt.xyz
 www.1xxx.top
@@ -18122,6 +18131,7 @@ zonacasino.ru
 zregistrationbk999.top
 zregnewbklive909.pw
 zrkalo.space
+zrus.org
 zull.innal.top
 zulll.innal.top
 zv-fm.info
