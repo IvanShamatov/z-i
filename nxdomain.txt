@@ -1339,6 +1339,7 @@
 1xngc.top
 1xniz.host
 1xnjo.host
+1xnjo.xyz
 1xnjw.host
 1xntg.top
 1xnwh.host
@@ -15335,6 +15336,7 @@ www.1xbqn.xyz
 www.1xczc.top
 www.1xghd.top
 www.1xgsfz.top
+www.1xnjo.xyz
 www.1xwlr.top
 www.1xxkt.xyz
 www.1xxx.top
