@@ -7666,6 +7666,7 @@ ikvulkan13.com
 ikvulkan14.com
 ikvulkan17.com
 ikvulkan18.com
+ikvulkan19.com
 ikvulkan24.com
 ikvulkan26.com
 ikvulkan3.com
@@ -11736,7 +11737,6 @@ nodeposits.info
 nodeptimes-x.win
 nomad24.biz.ski
 nomer-org.one
-nomer-tel.info
 nomer.company
 nomer.today
 nomerorg.one
@@ -11759,6 +11759,7 @@ novyj-sajt-zerkalo.space
 novyj-vxod-zerkalo.space
 nowlettraf.com
 nowmosttraf.com
+nowslettraf.com
 nowsmostpart.com
 np24.biz.sex
 ns3.neverfold.ru
@@ -14246,6 +14247,7 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
+test3.plusminus1.com
 tfile.su
 tg.yadda.club
 tgfix.ru
