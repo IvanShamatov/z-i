@@ -1747,6 +1747,7 @@
 24slots-win.com
 24slots-win.org
 24slots-winners.org
+24slots-winners.xyz
 24slotswin.com
 24slotwin.net
 24slotwin.org
@@ -3100,7 +3101,6 @@ air.pm-166.info
 air.pm-167.info
 air.pm-168.info
 air.pm-169.info
-air.pm-170.info
 air.pm-174.info
 air.pm-175.info
 air.pm-177.info
@@ -3601,7 +3601,6 @@ baltplay111.com
 baltplay112.com
 baltplay113.com
 baltplay114.com
-baltplay115.com
 baltplay116.com
 baltplay117.com
 baltplay118.com
@@ -7667,7 +7666,6 @@ ikvulkan14.com
 ikvulkan17.com
 ikvulkan18.com
 ikvulkan19.com
-ikvulkan23.com
 ikvulkan24.com
 ikvulkan26.com
 ikvulkan3.com
@@ -12004,7 +12002,6 @@ pda.baltplay111.com
 pda.baltplay112.com
 pda.baltplay113.com
 pda.baltplay114.com
-pda.baltplay115.com
 pda.baltplay116.com
 pda.baltplay117.com
 pda.baltplay118.com
@@ -12199,7 +12196,6 @@ pm-167.info
 pm-168.info
 pm-169.info
 pm-169.online
-pm-170.info
 pm-170.online
 pm-171.info
 pm-174.info
@@ -12477,6 +12473,7 @@ qsgfp6qe5.srcl.connect.netcdn.bcdl.rocks
 qsports.ru
 quick-bets.ru
 quickbets21.ru
+qwerkino.ru
 r-tracer.ru
 r-tracker.ru
 r.intimdama.com
