@@ -2393,6 +2393,7 @@
 6c6ec4.olimpd7c0.top
 6c9ba8.olimp78a8.top
 6cba2d.olimp6116.top
+6ce34f.olimp9249.top
 6ce819.olimpf4ab.top
 6d390c.olimp3ed3.top
 6d40c6.olimp9f96.top
@@ -8090,6 +8091,7 @@ kinoguru.ml
 kinoguru.xyz
 kinogut.net
 kinohd1080.net
+kinohd720.info
 kinohero.online
 kinohit1.ru
 kinoice.net
