@@ -3093,6 +3093,7 @@ air.pm-117.info
 air.pm-122.info
 air.pm-125.info
 air.pm-126.info
+air.pm-130.info
 air.pm-136.info
 air.pm-137.info
 air.pm-138.info
@@ -4283,6 +4284,7 @@ bets-bc-gngll.xyz
 bets-bc-ketsn.xyz
 bets-bc-owwrj.xyz
 bets-bc-xikwr.xyz
+bets-bc-xjedq.xyz
 bets-bc-yozxh.xyz
 bets-bc.top
 bets-on-sport.ru
@@ -5644,6 +5646,7 @@ casino-klubnika.men
 casino-krejzi.men
 casino-krupe.men
 casino-millioner.men
+casino-mira.site
 casino-moshenniki.men
 casino-na-dengi.ryagenka.ru
 casino-nilova.men
@@ -16027,6 +16030,7 @@ www.betsbc-fhqa.tk
 www.betsbc-goag.ml
 www.betsbc-goag.tk
 www.betsbc-isal.space
+www.betsbc-isal.tk
 www.betsbc-krtr.tk
 www.betsbc-kuql.space
 www.betsbc-nizd.space
