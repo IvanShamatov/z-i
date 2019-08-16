@@ -5350,6 +5350,7 @@ bobfilm1.info
 bobfilms.ru
 bobfilms.site
 bobfilmy.ru
+bodysolutions.eu
 boks-stavki.men
 bolshoe-kino.ru
 bonanzagame1.com
@@ -5990,7 +5991,6 @@ delux.po-chestnomu.ru
 deluxe-vulkan4.ru
 demcasino.ru
 demoavtomat.ru
-denegnet.su
 dengislot.win
 derevho.in.ua
 deskbetmy.com
@@ -14234,8 +14234,6 @@ ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
 test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tfile.su
 tg.yadda.club
 tgfix.ru
@@ -18091,3 +18089,4 @@ zxcomics.com
 zyteli.info
 zytely.info
 zzzerkalo.net
+zerkalo.net
