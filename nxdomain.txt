@@ -6694,7 +6694,6 @@ fon-bet-440.online
 fon-bet-51.host
 fon-bet-61.host
 fon-bet-71.host
-fon-bet-81.host
 fon-bet-91.host
 fon-bet160.online
 fon-bet2.online
@@ -9245,6 +9244,7 @@ media-rus.info
 media-tracker.info
 mediacool.win
 mediarot-newyear.win
+medisert.pro
 medknigki-krasnoyarsk.com
 medspravka174.ru
 mega-mag24.biz.sex
@@ -11805,7 +11805,6 @@ onlajn-2018.space
 onlajn-kazino-registraciya.date
 onlajn-kazino-tut.space
 onlajn-smotret.info
-online-2.avtomaty24besplatno.com
 online-5.igrovyeavtomati.com
 online-azino777.ru
 online-betting.space
@@ -12408,6 +12407,7 @@ promostbet-topsport.ru
 promostbet.ru
 promostpartnerlandpic.com
 propokerpro.win
+prostitutki-belgoroda.com
 prostitutki-samary.info
 prostitutkianapy.biz
 prostitutkiarhangelska.biz
@@ -13908,7 +13908,6 @@ saving-music.ru
 sbkregnewlive808.pw
 sbkregnewlive909.pw
 sbkregnewlive999.pw
-schetchikoff.ru
 scihub.unblocked.gdn
 sds-mar-sdase.win
 seasonvar-hd.com
@@ -16558,6 +16557,7 @@ www.prmtch-zerkalo-9gyt.ru
 www.prmtch-zerkalo-9hjp.ru
 www.prokinozal.ru
 www.promocontent.win
+www.prostitutki-belgoroda.com
 www.prostitutki-ceny.com
 www.prostitutkichity.biz
 www.prostitutkivoronezha.biz
@@ -17836,6 +17836,7 @@ zerkalo1111.ru
 zerkalo1115.ru
 zerkalo11rabochee.info
 zerkalo13.date
+zerkalo14-leon.stream
 zerkalo15.date
 zerkalo156.xyz
 zerkalo158.xyz
@@ -18093,5 +18094,8 @@ zvukovoronka.ru
 zvukovorot.com
 zxcomics.com
 zyteli.info
+zytely.info
+zzzerkalo.net
+
 zytely.info
 zzzerkalo.net
