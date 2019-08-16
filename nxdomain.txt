@@ -6599,7 +6599,6 @@ fon-471.website
 fon-481.host
 fon-483.online
 fon-49.site
-fon-491.host
 fon-491.online
 fon-501.website
 fon-527.site
@@ -8450,6 +8449,7 @@ leonbet9p.website
 leonbet9u.website
 leonbetaasu.website
 leonbetabk.website
+leonbetaee.website
 leonbetaeh.website
 leonbetaen.website
 leonbetahh.website
@@ -8462,6 +8462,7 @@ leonbetallwin.website
 leonbetalo.xyz
 leonbetalofn.website
 leonbetalp.website
+leonbetalt.website
 leonbetaop.website
 leonbetarg.website
 leonbetartd.website
@@ -18080,19 +18081,6 @@ zregistrationbk999.top
 zregnewbklive909.pw
 zrkalo.space
 zrus.org
-zull.innal.top
-zulll.innal.top
-zv-fm.info
-zv-fm.ru
-zvfm.su
-zvmp3-fm.ru
-zvukovoronka.ru
-zvukovorot.com
-zxcomics.com
-zyteli.info
-zytely.info
-zzzerkalo.net
-us.org
 zull.innal.top
 zulll.innal.top
 zv-fm.info
