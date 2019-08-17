@@ -4896,7 +4896,6 @@ bk-info60.online
 bk-info61.online
 bk-info62.online
 bk-info64.online
-bk-info65.online
 bk-info667.website
 bk-info68.online
 bk-info70.online
@@ -17739,9 +17738,6 @@ zerkalo-fonbet139.ru
 zerkalo-fonbet140.ru
 zerkalo-fonbet141.ru
 zerkalo-fonbet142.ru
-zerkalo-fonbet143.ru
-zerkalo-fonbet144.ru
-zerkalo-fonbet145.r42.ru
 zerkalo-fonbet143.ru
 zerkalo-fonbet144.ru
 zerkalo-fonbet145.ru
