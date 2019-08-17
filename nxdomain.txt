@@ -5159,6 +5159,7 @@ bkinfo423.top
 bkinfo424.top
 bkinfo425.top
 bkinfo428.space
+bkinfo430.site
 bkinfo434.top
 bkinfo435.top
 bkinfo437.top
@@ -13122,7 +13123,6 @@ ru.adleonsamara18.com
 ru.adleonsappa.com
 ru.adleonscore.com
 ru.adleonscuba.com
-ru.adleonseda.com
 ru.adleonserbet.com
 ru.adleonsite.com
 ru.adleonsmags.com
@@ -13281,7 +13281,6 @@ ru.leon503.com
 ru.leon5033.com
 ru.leon504.com
 ru.leon5042.com
-ru.leon5044.com
 ru.leon505.com
 ru.leon508.com
 ru.leon509.com
@@ -13676,7 +13675,6 @@ ru.swleonbets332.com
 ru.swleonbets3441.com
 ru.swleonbets431.com
 ru.swleonbets443.com
-ru.swleonbets5005.com
 ru.swleonbets9814.com
 ru.swleonbets9821.com
 ru.swleonbets9832.com
@@ -13973,7 +13971,6 @@ shlupkatv10.com
 shonkino.ru
 shop-kazino.win
 shopbezdepx.win
-shopliftingpro.net
 shoppersforjesus.com
 shpilka.tv
 si-paul.com
