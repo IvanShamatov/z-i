@@ -4334,7 +4334,6 @@ betsbc-goag.tk
 betsbc-isal.space
 betsbc-klhk.space
 betsbc-kmxa.space
-betsbc-krtr.space
 betsbc-krtr.tk
 betsbc-kuql.space
 betsbc-loja.tk
@@ -14914,6 +14913,7 @@ wap.betsbc-ehbb.space
 wap.betsbc-eifb.space
 wap.betsbc-fhqa.space
 wap.betsbc-isal.space
+wap.betsbc-krtr.space
 wap.betsbc-kuql.space
 wap.betsbc-nizd.space
 wap.betsbc-outt.space
