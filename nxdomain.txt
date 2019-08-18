@@ -6617,7 +6617,6 @@ filmix-net.online
 filmix-online.net
 filmix.city
 filmix.cool
-filmix.fun
 filmix.fyi
 filmix.gold
 filmix.icu
@@ -15923,6 +15922,7 @@ www.baltplay111.com
 www.baltplay112.com
 www.baltplay113.com
 www.baltplay114.com
+www.baltplay115.com
 www.baltplay116.com
 www.baltplay117.com
 www.baltplay118.com
