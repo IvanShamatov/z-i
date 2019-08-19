@@ -6522,6 +6522,7 @@ fanserials.cool
 fanserials.date
 fanserials.group
 fanserials.land
+fanserials.media
 fanserials.realrty
 fanserials.space
 fanserials.store
@@ -12907,7 +12908,12 @@ refpapjp.xyz
 refpapkg.top
 refpaplw.host
 refpapnj.host
-refpapsbp
+refpapsb.top
+refpapul.top
+refpapzh.top
+refpaqcd.top
+refpaqdg.top
+refpaqed.top
 refpaqge.host
 refpaqja.top
 refpaqln.host
@@ -14469,6 +14475,8 @@ ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
 test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tfile.su
 tg.yadda.club
 tgfix.ru
@@ -14555,6 +14563,7 @@ toto.fon-sportsbet.com
 totofon11.space
 totofon22.space
 totofon33.space
+totozerkalobkw.info
 tr.betboo332.com
 tracer-rus.ru
 track.kg
@@ -18210,13 +18219,6 @@ zerkalobk-system.date
 zerkalobk-teacher.win
 zerkalobk-telephone.win
 zerkalobk-wait.space
-zerkalobk-wish.win
-zerkalobk11.space
-zerkalobk1x.space
-zerkalobk2018.info
-zerkalobk202.info
-zerkalobk209.info
-zerkalobk21.website
 zerkalobk-wish.win
 zerkalobk11.space
 zerkalobk1x.space
