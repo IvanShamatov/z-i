@@ -602,7 +602,6 @@
 1winwhle.top
 1winwk.top
 1winwl.top
-1winwo.top
 1winwp.top
 1winwp.xyz
 1winwq.top
@@ -4143,11 +4142,13 @@ bcity-995.site
 bcity-996.online
 bcity-997.online
 bcity-999.online
+bcity400.site
 bcity400.top
 bcity401.top
 bcity402.top
 bcity411.top
 bcity412.top
+bcity417.site
 bcity421.top
 bcity422.top
 bcity431.top
@@ -4161,6 +4162,7 @@ bcity462.top
 bcity471.top
 bcity472.top
 bcity481.top
+bcity482.site
 bcity482.top
 bcity491.top
 bd1fc71f2f.xyz
@@ -5393,6 +5395,7 @@ bkinfo487.top
 bkinfo491.top
 bkinfo494.top
 bkinfo495.top
+bkinfo5319.website
 bkinfo5791.website
 bkinfo593.host
 bkinfo604.host
@@ -18349,6 +18352,7 @@ zerkalo-fonbet178.ru
 zerkalo-fonbet179.ru
 zerkalo-fonbet180.ru
 zerkalo-fonbet181.ru
+zerkalo-fonbet183.ru
 zerkalo-free555.info
 zerkalo-goldfishka.win
 zerkalo-kazino-zigzag.ru
