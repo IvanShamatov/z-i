@@ -3559,7 +3559,6 @@ ap-01.accessfonbet-a2564.com
 ap-01.accessfonbet-a264b.com
 ap-01.accessfonbet-a5367.com
 ap-01.accessfonbet-a7eca.com
-ap-01.accessfonbet-b3476.com
 ap-01.accessfonbet-b54df.com
 ap-01.accessfonbet-bb243.com
 ap-01.accessfonbet-bc07b.com
@@ -6960,7 +6959,6 @@ fbmetrix-24c6a.com
 fbmetrix-2985b.com
 fbmetrix-2d614.com
 fbmetrix-3834f.com
-fbmetrix-4604b.com
 fbmetrix-4ba43.com
 fbmetrix-4e7f4.com
 fbmetrix-5d4a2.com
@@ -8576,7 +8574,6 @@ kino-720hd.ru
 kino-bar.net
 kino-bezsms.com
 kino-cinema.info
-kino-co.ru
 kino-crow.net
 kino-full.ru
 kino-go-filmi-2018.club
@@ -12078,7 +12075,6 @@ mostzxt.com
 mostzzk.com
 motin.win
 movie-max.su
-movie1080.net
 moviesno.ru
 mp-01.fbmetrix-0005f.com
 mp-01.fbmetrix-03b4d.com
@@ -18610,7 +18606,13 @@ www9.myzuka.me
 wwwcasino.info
 wwx.mp3-tut.biz
 wwy.mp3-tut.biz
-wwz.mpyl1cans.com
+wwz.mp3-tut.biz
+wy0llcan.com
+wy0llkan.com
+wy11ccan.com
+wy11kk.com
+wy11kkan.com
+wyl1cans.com
 wyl1kans.com
 wyo1kan.com
 wyu11kan.com
@@ -18676,6 +18678,7 @@ xn--d1ahfkdgb.su
 xn--d1ahfnbebp.xn--p1ai
 xn--h1adke.xn--90aa2bj.xn--90ais
 xn--hydra2wb-beb.com
+xn--hydraruzxpnew4f-nyb.com
 xn--k1aghg.online
 xn--lealrc-j6a.com
 xregistrationbk202.top
@@ -19245,6 +19248,7 @@ zerkalo174.xyz
 zerkalo175.xyz
 zerkalo18.date
 zerkalo184.xyz
+zerkalo186.xyz
 zerkalo187.xyz
 zerkalo188.xyz
 zerkalo191.xyz
@@ -19266,6 +19270,7 @@ zerkalo20rabochee.ru
 zerkalo210.xyz
 zerkalo211.xyz
 zerkalo212.xyz
+zerkalo213.xyz
 zerkalo214.xyz
 zerkalo217.xyz
 zerkalo218.xyz
@@ -19505,17 +19510,6 @@ zregnewbklive909.pw
 zrkalo.space
 zull.innal.top
 zulll.innal.top
-zv-fm.info
-zv-fm.ru
-zvfm.su
-zvmp3-fm.ru
-zvukobook.com
-zvukovoronka.ru
-zvukovorot.com
-zyteli.info
-zytely.info
-zzzerkalo.net
-nnal.top
 zv-fm.info
 zv-fm.ru
 zvfm.su
