@@ -8763,7 +8763,6 @@ kinoblog.online
 kinobom.tv
 kinobomber.online
 kinobomber1.online
-kinoboom.me
 kinoclub.club
 kinocoin.club
 kinocom.net
@@ -15915,6 +15914,7 @@ vseazino.com
 vselegalno.net
 vsemspravki.com
 vseocasino.ru
+vsepropoker-ya.xyz
 vsepropoker.pw
 vsepropoker.su
 vsepropoker.top
@@ -15934,6 +15934,7 @@ vsepropoker09.xyz
 vsepropoker1.pw
 vsepropoker1.su
 vsepropoker1.top
+vsepropoker1.xyz
 vsepropoker10.top
 vsepropoker11.top
 vsepropoker12.top
