@@ -8697,6 +8697,7 @@ kino-hd1080.online
 kino-hd1080.ru
 kino-hd720.info
 kino-hd720.net
+kino-hd720.pro
 kino-hdfilm.com
 kino-hdfilm.net
 kino-lain.ru
@@ -19686,7 +19687,5 @@ zvmp3-fm.ru
 zvukobook.com
 zvukovoronka.ru
 zyteli.info
-zytely.info
-zzzerkalo.net
 zytely.info
 zzzerkalo.net
