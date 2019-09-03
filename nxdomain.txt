@@ -15738,7 +15738,6 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
-test1.plusminus1.com
 test2.plusminus1.com
 test3.plusminus1.com
 tfile.su
@@ -20097,5 +20096,8 @@ zvmp3-fm.ru
 zvukobook.com
 zvukovoronka.ru
 zyteli.info
+zytely.info
+zzzerkalo.net
+.info
 zytely.info
 zzzerkalo.net
