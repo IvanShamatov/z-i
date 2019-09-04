@@ -397,7 +397,6 @@
 1rustor.xyz
 1rutor.org
 1seasonvar.ru
-1serial.online
 1smash-bets.com
 1vvin1.top
 1wabo.me
@@ -11655,7 +11654,6 @@ mostbjn.com
 mostblc.com
 mostblr.com
 mostblx.com
-mostbra.com
 mostbrc.com
 mostbrj.com
 mostbrm.com
@@ -11891,7 +11889,6 @@ mostgtz.com
 mostgvs.com
 mostgzl.com
 mostgzs.com
-mosthac.com
 mosthbc.com
 mosthbm.com
 mosthcn.com
@@ -12355,7 +12352,6 @@ mosttlx.com
 mosttmm.com
 mosttmz.com
 mosttnd.com
-mosttob.com
 mosttpp.com
 mosttpz.com
 mosttra.com
@@ -13978,6 +13974,8 @@ psncoolgame.su
 psngg.com
 psnone.ru
 psnrus.xyz
+psy-plants.com
+psyfairy.com
 pulse-mp3.ru
 purposechem.com.
 py-music.com
@@ -16469,7 +16467,6 @@ vulkanazartclub.ru
 vulkanbestclub.ru
 vulkanbit.win
 vulkanchik.com
-vulkanclub.club
 vulkanclub.su
 vulkangames.club
 vulkangirl.top
@@ -20222,6 +20219,10 @@ zvfm.su
 zvmp3-fm.ru
 zvukobook.com
 zvukovoronka.ru
+zyteli.info
+zytely.info
+zzzerkalo.net
+kovoronka.ru
 zyteli.info
 zytely.info
 zzzerkalo.net
