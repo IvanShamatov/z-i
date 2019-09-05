@@ -3494,7 +3494,6 @@ air.pm-126.info
 air.pm-136.info
 air.pm-137.info
 air.pm-138.info
-air.pm-140.info
 air.pm-148.info
 air.pm-155.info
 air.pm-157.info
@@ -4982,6 +4981,7 @@ bez-registracii.win
 bez-zaycev.ru
 bezdep-bonus.ru
 bezdep12bonusinfo.faith
+bezdep17bonusinfo.faith
 bezdep3bonusinfo.faith
 bezdep4bonusinfo.faith
 bezdep4ik2.men
@@ -6777,7 +6777,6 @@ dl147.nonamefiles-10sd.info
 dlp.rutcb.com
 dmwan.woid.game-server.cc
 dofiga-mp3.ru
-doghunter.to
 dok911.ru
 dok911ru.com
 dokymentalnoe.ru
@@ -9188,7 +9187,6 @@ kuritelnie-smesi.info
 kustomkupkakesandmore.com
 ladnsneutnt.com
 ladyelcr.ru
-lalastars.to
 landapzzkit.com
 landchartraff.com
 landing.sportmarathonbet.com
@@ -9952,7 +9950,6 @@ loen8-casino.win
 loginsb3.com
 loginsb8.com
 loki-casino.ru
-lolaland.to
 longbows.us
 lostfilm-720com.ogon-voda.ru
 lostfilm-hd720.club
@@ -12866,7 +12863,10 @@ new.mirror01.mirrorolimp.xyz
 new.mirror1.mirrorolimp1.xyz
 new.mirror1.mirrorolimp2.online
 new.mirror1.olimp24x7.online
-new.mirrowinline-bet1.com
+new.mirror2.olimp24x7.online
+new.parimatch-abc.com
+new.vkmp3.su
+new.winline-bet1.com
 new.winline-bet10.com
 new.winline-bet2.com
 new.winline-bet21.com
@@ -15609,6 +15609,7 @@ slotsformoneyonline.com
 slotshit.com
 slotsmoney.org
 slotspapa.info
+slotsv.win
 slotsvolcano.org
 slottogo.online
 slotuz.ru
@@ -15867,7 +15868,6 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
-test1.plusminus1.com
 test2.plusminus1.com
 test3.plusminus1.com
 tfile.su
@@ -20218,11 +20218,6 @@ zv-fm.ru
 zvfm.su
 zvmp3-fm.ru
 zvukobook.com
-zvukovoronka.ru
-zyteli.info
-zytely.info
-zzzerkalo.net
-.com
 zvukovoronka.ru
 zyteli.info
 zytely.info
