@@ -4981,6 +4981,7 @@ bez-registracii.win
 bez-zaycev.ru
 bezdep-bonus.ru
 bezdep12bonusinfo.faith
+bezdep14bonusinfo.faith
 bezdep17bonusinfo.faith
 bezdep3bonusinfo.faith
 bezdep4bonusinfo.faith
@@ -15868,8 +15869,6 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
-test2.plusminus1.com
-test3.plusminus1.com
 tfile.su
 tfuck.xyz
 tg.yadda.club
