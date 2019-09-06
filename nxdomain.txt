@@ -6820,7 +6820,6 @@ dostupp.host
 dostupvbk.space
 dostupzerkalo.loan
 dostypbk24.online
-dosug41.men
 dragonflytotem.com
 dragonmoney.online
 dragonmoney.su
@@ -8455,7 +8454,6 @@ highmosttraf.com
 himara.win
 himarathon.win
 himarathonbet.win
-himko.net
 himoborot-msk.ru
 himostraf.com
 himostraff.com
@@ -15954,7 +15952,6 @@ trenderes1.bid
 trenderes2.bid
 trenderes3.bid
 trenderes4.bid
-tribogatirya.biz.moda
 tritopora-azino777.ru
 trotecserv.com
 trueorlie.net
@@ -17646,7 +17643,6 @@ www.betsbc-goag.ml
 www.betsbc-goag.tk
 www.betsbc-gvow.space
 www.betsbc-isal.space
-www.betsbc-isal.tk
 www.betsbc-khdx.space
 www.betsbc-kqii.space
 www.betsbc-krtr.tk
@@ -17961,6 +17957,7 @@ www.kinohit1.ru
 www.kinokrad.ru
 www.kinomafia.tv
 www.kinomalina.net
+www.kinomir.ml
 www.kinomixs.ru
 www.kinonax.com
 www.kinoo.su
@@ -19045,7 +19042,8 @@ www.winlinebet61.com
 www.winlinebet62.com
 www.winlinebet63.com
 www.winlinebet64.com
-www.winlinem
+www.winlinebet65.com
+www.winlinebet66.com
 www.winlinebet67.com
 www.winlinebet68.com
 www.winlinebet69.com
@@ -19945,6 +19943,8 @@ zerkalo61.ru
 zerkalo63.ru
 zerkalo65.ru
 zerkalo66.ru
+ze.ru
+zerkalo66.ru
 zerkalo7.date
 zerkalo71.ru
 zerkalo742.space
@@ -20165,8 +20165,5 @@ zvmp3-fm.ru
 zvukobook.com
 zvukovoronka.ru
 zyteli.info
-zytely.info
-zzzerkalo.net
-fo
 zytely.info
 zzzerkalo.net
