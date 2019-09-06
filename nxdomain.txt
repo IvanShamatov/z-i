@@ -13753,6 +13753,7 @@ pm-221.info
 pm-228.info
 pm-236.online
 pm-244.online
+pm-245.info
 pm-254.online
 pm-259.online
 pm-266.online
@@ -15408,6 +15409,7 @@ rutor-biz.info
 rutor-com.info
 rutor-film.info
 rutor-games.net
+rutor-games.org
 rutor-in.info
 rutor-info.fun
 rutor-info.info
@@ -15907,6 +15909,7 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
+test1.plusminus1.com
 test2.plusminus1.com
 test3.plusminus1.com
 tfile.su
@@ -18271,7 +18274,10 @@ www.ligastavok30.com
 www.ligastavok300.com
 www.ligastavok301.com
 www.ligastavok302.com
-www.ligastavok303.co306.com
+www.ligastavok303.com
+www.ligastavok304.com
+www.ligastavok305.com
+www.ligastavok306.com
 www.ligastavok307.com
 www.ligastavok308.com
 www.ligastavok309.com
@@ -20277,11 +20283,6 @@ zv-fm.ru
 zvfm.su
 zvmp3-fm.ru
 zvukobook.com
-zvukovoronka.ru
-zyteli.info
-zytely.info
-zzzerkalo.net
-k.com
 zvukovoronka.ru
 zyteli.info
 zytely.info
