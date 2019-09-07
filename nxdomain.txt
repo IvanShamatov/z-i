@@ -3525,6 +3525,7 @@ air.pm-209.info
 air.pm-214.info
 air.pm-217.info
 air.pm-219.info
+air.pm-256.info
 aiva24.biz.rayon.city
 ak777azinos.info
 ak777azinoz.info
@@ -10238,6 +10239,7 @@ m.ls-11.bet
 m.onlinehockey.club
 m.parimatch-abc.com
 m.parimatch-today4.com
+m.pm-256.info
 m.redstarcasino08.eu
 m.redstarpoker06.eu
 m.rivalo108.com
@@ -13292,7 +13294,6 @@ nodeptimes-x.win
 nomer-org.one
 nomer-org.today
 nomer.company
-nomer.today
 nomerorg.one
 nontorclub.in.net
 norinir.win
@@ -13794,6 +13795,7 @@ pm-214.info
 pm-217.info
 pm-217.online
 pm-219.info
+pm-221.info
 pm-225.info
 pm-226.info
 pm-228.info
@@ -13807,6 +13809,7 @@ pm-244.online
 pm-245.info
 pm-247.info
 pm-254.online
+pm-256.info
 pm-259.online
 pm-263.info
 pm-266.info
@@ -15876,6 +15879,7 @@ start-play-right-now.com
 start.parimatch-abc.com
 start.parimatch-today4.com
 start.parimatch.ge
+start.pm-256.info
 start.zeoncasino2.com
 stat4bet.ru
 static.eurograndpromo.com
@@ -15966,6 +15970,8 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
+test2.plusminus1.com
+test3.plusminus1.com
 tfile.su
 tfuck.xyz
 tg.yadda.club
