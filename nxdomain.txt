@@ -5481,6 +5481,7 @@ bk-info48.online
 bk-info482.top
 bk-info487.top
 bk-info492.top
+bk-info499.top
 bk-info50.online
 bk-info501.top
 bk-info51.online
@@ -14240,7 +14241,9 @@ refparqp.xyz
 refparzy.host
 refpasio.top
 refpason.host
-refpaspa.ht
+refpaspa.host
+refpaspv.host
+refpasul.host
 refpatdu.host
 refpatip.xyz
 refpatiq.host
@@ -20284,8 +20287,5 @@ zvmp3-fm.ru
 zvukobook.com
 zvukovoronka.ru
 zyteli.info
-zytely.info
-zzzerkalo.net
-nfo
 zytely.info
 zzzerkalo.net
