@@ -3519,7 +3519,6 @@ air.pm-178.info
 air.pm-179.info
 air.pm-181.info
 air.pm-192.info
-air.pm-194.info
 air.pm-204.info
 air.pm-205.info
 air.pm-209.info
@@ -4218,6 +4217,7 @@ bannerkambet.win
 bannermarathon.win
 bannermarathon0.win
 bannermarathons.win
+barnsk.life
 barnsk.online
 barnsk24.club
 barnsk24.life
@@ -17588,6 +17588,7 @@ www.baltplay97.com
 www.baltplay98.com
 www.baltplay99.com
 www.baltsport2018.com
+www.barnsk.life
 www.barnsk24.club
 www.baskino2.top
 www.baskinoclub.ru
