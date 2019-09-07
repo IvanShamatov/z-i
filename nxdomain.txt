@@ -2711,6 +2711,7 @@
 6b3490.olimpd7c0.top
 6b6501.olimp12da.top
 6bdcc7.olimp0115.top
+6bf6d1.olimp38fc.top
 6c5a71.olimp78a8.top
 6c637a.olimp98b4.top
 6c6667.olimp58e7.top
@@ -14995,7 +14996,6 @@ ru.leonaddgif.com
 ru.leonadrp.com
 ru.leonamm.com
 ru.leonantares.com
-ru.leonapa.com
 ru.leonappsz.com
 ru.leonbaltic.com
 ru.leonbandel.com
@@ -15440,7 +15440,6 @@ ru9.mp3-tut.biz
 ru999leon.net
 rubet7.com
 rubetcity.top
-ruchannel.com
 rufilm.online
 rufilmix.ru
 ruheight.org
@@ -15569,6 +15568,7 @@ rutorrr.com
 rutors.guru
 rutors.ml
 rutors.org
+rutortor.info
 rutorzerkalo.ru
 rutracker-2018.org
 rutracker-in.info
