@@ -13734,7 +13734,6 @@ pm-182.info
 pm-183.info
 pm-189.info
 pm-192.info
-pm-194.info
 pm-199.online
 pm-201.info
 pm-204.info
@@ -15916,6 +15915,7 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
+test1.plusminus1.com
 test2.plusminus1.com
 test3.plusminus1.com
 tfile.su
