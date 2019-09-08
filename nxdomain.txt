@@ -3521,7 +3521,6 @@ air.pm-192.info
 air.pm-204.info
 air.pm-209.info
 air.pm-214.info
-air.pm-217.info
 air.pm-219.info
 air.pm-231.info
 air.pm-246.info
@@ -16002,6 +16001,8 @@ ten-casino.online
 ten-casinos.online
 ten-casinoz.online
 tennisireal.tj
+test2.plusminus1.com
+test3.plusminus1.com
 tfile.su
 tfuck.xyz
 tg.yadda.club
@@ -20510,4 +20511,3 @@ zvukovoronka.ru
 zyteli.info
 zytely.info
 zzzerkalo.net
-zerkalo.net
