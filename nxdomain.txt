@@ -2311,7 +2311,6 @@
 3ba61bff0009d7b3f0.c2ef25.781562c135255c8a5b.xyz
 3ba735.olimpef97.site
 3bba0f.olimp161f.top
-3besplatno.azartnie-avtomaty.com
 3bonanzagame.com
 3c7850.olimp58e7.top
 3c9ffc.olimpde83.top
@@ -3527,6 +3526,7 @@ air.pm-181.info
 air.pm-192.info
 air.pm-204.info
 air.pm-209.info
+air.pm-214.info
 air.pm-219.info
 air.pm-231.info
 air.pm-246.info
@@ -13828,6 +13828,7 @@ pm-201.info
 pm-204.info
 pm-208.online
 pm-209.info
+pm-214.info
 pm-217.online
 pm-219.info
 pm-225.info
@@ -14503,7 +14504,6 @@ ru-1xbet-s.pw
 ru-1xbet-s.xyz
 ru-1xbets.date
 ru-1xbets.xyz
-ru-betcity.top
 ru-bk222.ru
 ru-bk50.ru
 ru-bk60.ru
@@ -16805,7 +16805,6 @@ wap.bkbet.top
 wap.bkbetcity.top
 wap.google.comuk.top
 wap.mp3-tut.biz
-wap.ru-betcity.top
 wap.rubetcity.top
 waq.mp3-tut.biz
 war.mp3-tut.biz
@@ -18967,7 +18966,6 @@ www.rivalo97.com
 www.rotatecool.win
 www.rotateplus.win
 www.rouletteschool.info
-www.ru-betcity.top
 www.rubetcity.top
 www.rufilm.tv
 www.ruletkasistemy.com
@@ -19085,7 +19083,7 @@ www.torrentsget.net
 www.trenderes.bid
 www.trenderes1.bid
 www.trenderes2.bid
-www.trenderes3.bidtrenderes3.bid
+www.trenderes3.bid
 www.trenderes4.bid
 www.ttr1.net
 www.ttr1.top
@@ -19484,7 +19482,7 @@ www.ww.xrutor.org
 www.www1.betcity.ru.com
 www.xn----7sbb0bidjde2b5c.xn--p1acf
 www.xn--80aaaghm0bgp8a.xn--p1ai
-wwwn.org
+www.xn--80aizddian.org
 www.xn--90aiguyb.com
 www.xn--d1ahfbogbaasi6c.xn--p1ai
 www.xn--e1ajmqq7b.com
@@ -20568,4 +20566,5 @@ zvukovoronka.ru
 zyteli.info
 zytely.info
 zzzerkalo.net
+ly.info
 zzzerkalo.net
