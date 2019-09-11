@@ -4470,6 +4470,7 @@ bcity-692.site
 bcity-696.online
 bcity-703.site
 bcity-708.online
+bcity-719.online
 bcity-722.site
 bcity-735.online
 bcity-736.online
@@ -10313,7 +10314,6 @@ m.ls-11.bet
 m.onlinehockey.club
 m.parimatch-abc.com
 m.parimatch-today4.com
-m.pm-152.info
 m.pm-253.info
 m.pm-256.info
 m.pm-262.info
@@ -14138,7 +14138,6 @@ prostitutki-sx.ru
 prostitutki76.ru
 prostitutkikemerovoxxx.org
 prostitutkikurska146.date
-prostitutkipermi24.org
 prostitutkisaratova24.top
 prostitutkitambova24.com
 prostitutkivolgograda.net
@@ -15991,7 +15990,6 @@ sportsbetvk.space
 sportzerkalo.loan
 spravkaspb.biz
 spravkavbasseyn.com
-spravki-krym.com
 spravki-visa.su
 spxak.ru
 srcn14.connect.netcdn.bcdl.rocks
@@ -16119,7 +16117,6 @@ telego365.ru
 telego6.ru
 telego7.ru
 telegram.vpn99.net
-telki-piter.com
 ten-casino.online
 ten-casinos.online
 ten-casinoz.online
@@ -20641,5 +20638,8 @@ zvmp3-fm.ru
 zvukobook.com
 zvukovoronka.ru
 zyteli.info
+zytely.info
+zzzerkalo.net
+.info
 zytely.info
 zzzerkalo.net
