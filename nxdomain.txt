@@ -4469,6 +4469,7 @@ bcity-692.site
 bcity-696.online
 bcity-703.site
 bcity-708.online
+bcity-719.online
 bcity-722.site
 bcity-735.online
 bcity-736.online
@@ -12938,7 +12939,6 @@ mymusic.su
 mypicmostpart.com
 mypsn.su
 myrington.ru
-mytexosmotr.online
 mytoot.ru
 mytrafficmostbet.com
 mytraffmostbet.com
@@ -13668,6 +13668,7 @@ pda.baltbet7.club
 pda.baltbet7.co
 pda.baltbet7.info
 pda.baltbetgame.co
+pda.baltbetgame.info
 pda.baltgame2018.com
 pda.baltgame2018.info
 pda.baltgame2018.online
@@ -14117,7 +14118,6 @@ pro-mybukmeker-otzyvy.ru
 pro-obzor-bukmekerok-info.ru
 pro100azart1.pw
 probonusi.com
-profisdiploms.com
 profit2018.ru
 programma-bk-2017.website
 prokinozal.ru
@@ -14218,6 +14218,7 @@ rabota7wow.ru
 rabotayushhee-segodnya.date
 racing.bkfonbet.club
 racing.fonsportbet.tk
+raki-pivo.ru
 ranbox.name
 ranbox.online
 ranbox.xyz
@@ -16715,7 +16716,6 @@ vulkan-slots1.com
 vulkan-slots2.com
 vulkan-slots3.com
 vulkan-slots5.com
-vulkan-stavki-na-sport.ru
 vulkan-top.com
 vulkan-v.com
 vulkan-vipslots.com
@@ -18012,8 +18012,7 @@ www.betcity-zerkalo-4bhu.ru
 www.betcity-zerkalo-4bsl.ru
 www.betcity-zerkalo-4fir.ru
 www.betcity-zerkalo-4orh.ru
-www.betcity-zerkalo-4pof.ru
-www.betcity-zerkalo-4wsg.ru
+www.ity-zerkalo-4wsg.ru
 www.betcity-zerkalo-5alf.ru
 www.betcity-zerkalo-5bad.ru
 www.betcity-zerkalo-5bhu.ru
@@ -20638,6 +20637,6 @@ zvukovoronka.ru
 zyteli.info
 zytely.info
 zzzerkalo.net
-
+.info
 zytely.info
 zzzerkalo.net
