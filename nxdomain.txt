@@ -3542,7 +3542,6 @@ air.pm-116.info
 air.pm-117.info
 air.pm-125.info
 air.pm-136.info
-air.pm-148.info
 air.pm-155.info
 air.pm-157.info
 air.pm-158.info
@@ -4470,7 +4469,6 @@ bcity-692.site
 bcity-696.online
 bcity-703.site
 bcity-708.online
-bcity-719.online
 bcity-722.site
 bcity-735.online
 bcity-736.online
@@ -10259,6 +10257,7 @@ m.baltplay99.com
 m.baltsport2018.com
 m.bbplay2017.club
 m.bbplay2017.life
+m.bbplay2017.live
 m.bbplay2017.pro
 m.bbplay2017.site
 m.bbplay2017.space
@@ -19066,6 +19065,7 @@ www.rutor-info.info
 www.rutor-new.ru
 www.rutor-serials.info
 www.rutor.com.pl
+www.ruttorg.info
 www.ruvulcan.org
 www.saharabet.com
 www.salyanka.ru
@@ -20638,8 +20638,5 @@ zvmp3-fm.ru
 zvukobook.com
 zvukovoronka.ru
 zyteli.info
-zytely.info
-zzzerkalo.net
-.info
 zytely.info
 zzzerkalo.net
