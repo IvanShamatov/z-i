@@ -6434,6 +6434,7 @@ casino-krupe.men
 casino-millioner.men
 casino-mira.site
 casino-moshenniki.men
+casino-mrbit.club
 casino-na-dengi.ryagenka.ru
 casino-nilova.men
 casino-obezyany.men
@@ -10313,6 +10314,7 @@ m.ls-11.bet
 m.onlinehockey.club
 m.parimatch-abc.com
 m.parimatch-today4.com
+m.pm-152.info
 m.pm-253.info
 m.pm-256.info
 m.pm-262.info
@@ -13668,7 +13670,6 @@ pda.baltbet7.club
 pda.baltbet7.co
 pda.baltbet7.info
 pda.baltbetgame.co
-pda.baltbetgame.info
 pda.baltgame2018.com
 pda.baltgame2018.info
 pda.baltgame2018.online
@@ -18012,7 +18013,8 @@ www.betcity-zerkalo-4bhu.ru
 www.betcity-zerkalo-4bsl.ru
 www.betcity-zerkalo-4fir.ru
 www.betcity-zerkalo-4orh.ru
-www.ity-zerkalo-4wsg.ru
+www.betcity-zerkalo-4pof.ru
+www.betcity-zerkalo-4wsg.ru
 www.betcity-zerkalo-5alf.ru
 www.betcity-zerkalo-5bad.ru
 www.betcity-zerkalo-5bhu.ru
@@ -20635,8 +20637,5 @@ zvmp3-fm.ru
 zvukobook.com
 zvukovoronka.ru
 zyteli.info
-zytely.info
-zzzerkalo.net
-.info
 zytely.info
 zzzerkalo.net
