@@ -5389,7 +5389,6 @@ bk-info100.site
 bk-info104.site
 bk-info104.top
 bk-info107.space
-bk-info108.space
 bk-info109.online
 bk-info11.online
 bk-info110.site
@@ -5417,7 +5416,6 @@ bk-info122.online
 bk-info123.online
 bk-info123.site
 bk-info124.site
-bk-info124.space
 bk-info124.top
 bk-info125.site
 bk-info125.space
@@ -7845,6 +7843,7 @@ fonbet130.online
 fonbet14.com
 fonbet14.online
 fonbet14.ru
+fonbet15.com
 fonbet15.info
 fonbet15.online
 fonbet15.ru
@@ -8869,6 +8868,7 @@ kazino777vulkanw.info
 kazinoazinov.info
 kazinoazinox.info
 kazinobeti.com
+kazinofaraon.ru
 kazinoo.ru
 kazinossbonusom.fun
 kazinosuperslot55.fun
@@ -9152,7 +9152,6 @@ kinoloop.ru
 kinomafia.tv
 kinomalina.net
 kinoman.cc
-kinomaster.tv
 kinomax.icu
 kinomixhd.ru
 kinomixs.ru
@@ -11273,6 +11272,7 @@ mirror.mirrorolimp3.online
 mirror.olimp24x7.online
 mirror.olimpmirror.life
 mirror01.mirrorolimp.xyz
+mirror01.olimpmirror.site
 mirror1.mirrorolimp1.xyz
 mirror1.mirrorolimp2.online
 mirror1.olimp24x7.online
@@ -12818,6 +12818,8 @@ mqy.mp3-tut.online
 mrotate.win
 mrotatelike.win
 mrthnbt.win
+msk1.intimatlas.in
+msk2.intimatlas.in
 msports.betadonis78.com
 mta20.securemx.com.au
 mthnbt.win
@@ -15686,7 +15688,6 @@ sajt-bk2018.info
 sajt-zerkalo.win
 salyanka.ru
 samara-putana.ru
-saratov.prostitutkiooo.com
 satvkinasport2js.win
 satvkinasport50ux.win
 satvkinasport5ef.win
@@ -17875,7 +17876,6 @@ www.bbplay2017.life
 www.bbplay2017.pro
 www.bbplay2017.site
 www.bbplay2017.space
-www.bbplay2017.tech
 www.bbplay2017.today
 www.bbplay2018.club
 www.bbsport.club
@@ -18065,7 +18065,6 @@ www.betsbc-ydts.space
 www.betsbc-ydts.tk
 www.betsbc-yeph.space
 www.betsbc-zcyt.cf
-www.betsbc-zcyt.space
 www.betsbc-zsav.space
 www.betsbc-zucp.space
 www.betsonline-rf.ru
@@ -20524,6 +20523,7 @@ zerkalositevhod78.space
 zerkalositevhod90.space
 zerkalositevip99.space
 zerkalosmatch11.space
+zerkalosport.space
 zerkalossl.space
 zerkalostavkagame99.space
 zerkalostavki.date
@@ -20596,4 +20596,6 @@ zvukobook.com
 zvukovoronka.ru
 zyteli.info
 zytely.info
+zzzerkalo.net
+ly.info
 zzzerkalo.net
