@@ -606,6 +606,7 @@
 1wink.me
 1wink.top
 1wink.xyz
+1winkk.me
 1winkk.top
 1winkk.xyz
 1winkoqv.xyz
@@ -3414,7 +3415,6 @@ access.bbplay2017.club
 access.bbplay2017.life
 access.bbplay2017.site
 access.bbplay2017.space
-access.bbplay2017.tech
 access.bbplay2017.today
 access.bbplay2018.club
 access.bbsport.club
@@ -4333,7 +4333,6 @@ bbplay2017.life
 bbplay2017.pro
 bbplay2017.site
 bbplay2017.space
-bbplay2017.tech
 bbplay2017.today
 bbplay2018.club
 bbsport.club
@@ -4958,7 +4957,6 @@ betsbc-oyph.space
 betsbc-play.space
 betsbc-qqcp.cf
 betsbc-qtzi.cf
-betsbc-qtzi.space
 betsbc-quyz.cf
 betsbc-quyz.space
 betsbc-riur.space
@@ -5403,7 +5401,6 @@ bk-info112.site
 bk-info112.space
 bk-info112.website
 bk-info113.site
-bk-info114.site
 bk-info114.space
 bk-info115.online
 bk-info115.site
@@ -7848,6 +7845,7 @@ fonbet130.online
 fonbet14.com
 fonbet14.online
 fonbet14.ru
+fonbet15.com
 fonbet15.info
 fonbet15.online
 fonbet15.ru
@@ -9239,7 +9237,6 @@ kristal-casino.ru
 ksk4kaa0g2.club
 ku-pi.online
 kubanalko.site
-kultmetro.ru
 kupikorochki.com
 kupit-cheki.org
 kupit-diplom-shop.com
@@ -10248,11 +10245,9 @@ m.baltplay99.com
 m.baltsport2018.com
 m.bbplay2017.club
 m.bbplay2017.life
-m.bbplay2017.live
 m.bbplay2017.pro
 m.bbplay2017.site
 m.bbplay2017.space
-m.bbplay2017.tech
 m.bbplay2017.today
 m.bbplay2018.club
 m.bbsport.club
@@ -12823,6 +12818,7 @@ mqy.mp3-tut.online
 mrotate.win
 mrotatelike.win
 mrthnbt.win
+msk1.intimatlas.in
 msports.betadonis78.com
 mta20.securemx.com.au
 mthnbt.win
@@ -13112,6 +13108,7 @@ new.winline215.com
 new.winline216.com
 new.winline218.com
 new.winline219.com
+new.winline221.com
 new.winline69.com
 new.winline91.com
 new.winline92.com
@@ -13574,7 +13571,6 @@ oregbukmekersx101.top
 oregbukmekersx202.top
 oregbukmekersx303.top
 oregbukmekersx909.top
-orenburg.intimatlas.in
 originalvulkan.info
 originalvulkan.win
 orutor.info
@@ -13660,6 +13656,7 @@ pda.baltbet7.club
 pda.baltbet7.co
 pda.baltbet7.info
 pda.baltbetgame.co
+pda.baltbetgame.info
 pda.baltgame2018.com
 pda.baltgame2018.info
 pda.baltgame2018.online
@@ -14120,7 +14117,6 @@ propiskazaden.ru
 propokerpro.win
 prostitutki-pyatigorska.info
 prostitutki-ryazani.date
-prostitutki-ryazani.x-er.ru
 prostitutki-saratova.org
 prostitutki-sx.ru
 prostitutki76.ru
@@ -15693,7 +15689,6 @@ sajt-bk2018.info
 sajt-zerkalo.win
 salyanka.ru
 samara-putana.ru
-saratov.prostitutkiooo.com
 satvkinasport2js.win
 satvkinasport50ux.win
 satvkinasport5ef.win
@@ -17879,7 +17874,6 @@ www.bbplay2017.life
 www.bbplay2017.pro
 www.bbplay2017.site
 www.bbplay2017.space
-www.bbplay2017.tech
 www.bbplay2017.today
 www.bbplay2018.club
 www.bbsport.club
@@ -17947,7 +17941,6 @@ www.betcity-ru.top
 www.betcity-rus.top
 www.betcity-ruve.space
 www.betcity-thg777.ru
-www.betcity-top.ru
 www.betcity-umwe.space
 www.betcity-umwe.tk
 www.betcity-vepw.tk
@@ -18071,7 +18064,6 @@ www.betsbc-ydts.space
 www.betsbc-ydts.tk
 www.betsbc-yeph.space
 www.betsbc-zcyt.cf
-www.betsbc-zcyt.space
 www.betsbc-zsav.space
 www.betsbc-zucp.space
 www.betsonline-rf.ru
@@ -20530,7 +20522,6 @@ zerkalositevhod78.space
 zerkalositevhod90.space
 zerkalositevip99.space
 zerkalosmatch11.space
-zerkalosport.space
 zerkalossl.space
 zerkalostavkagame99.space
 zerkalostavki.date
@@ -20601,6 +20592,9 @@ zvfm.su
 zvmp3-fm.ru
 zvukobook.com
 zvukovoronka.ru
+zyteli.info
+zytely.info
+zzzerkalo.net
 zyteli.info
 zytely.info
 zzzerkalo.net
