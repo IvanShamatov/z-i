@@ -3413,6 +3413,7 @@ access.baltsport2018.com
 access.bbplay2017.club
 access.bbplay2017.site
 access.bbplay2017.space
+access.bbplay2017.tech
 access.bbplay2018.club
 access.bbsport.club
 access.bbsports.club
@@ -4585,6 +4586,7 @@ befilm.ru
 benz-pdas.only.ru.com
 besplatno-2.azartnie-avtomaty.com
 besplatno-igrat-sloty.club
+besplatno.azartnie-avtomaty.com
 besplatno.play-vulcan-slots.ru
 besplatno1.azartnie-avtomaty.com
 besplatno1.play-vulcan-slots.ru
@@ -8782,6 +8784,7 @@ justmosttraf.com
 justmosttraff.com
 justvoxe.beget.tech
 juteli.info
+jutely.info
 jyteli.info
 jytely.info
 k-azino-777.ru
@@ -10677,10 +10680,12 @@ media-rus.info
 media-tracker.info
 mediacool.win
 mediarot-newyear.win
+medsprav-barnaul.ru
 medsprav-irkutsk.ru
 medsprav-omsk.ru
 medsprav-perm.ru
 medsprav-surgut.ru
+medsprav-tumen.ru
 medsprav-tver.ru
 medsprav-ulan-ude.ru
 medspravka-blank.ru
@@ -14090,6 +14095,7 @@ pro-mybukmeker-otzyvy.ru
 pro-obzor-bukmekerok-info.ru
 pro100azart1.pw
 probonusi.com
+prodayu.donkiz.ru
 profit2018.ru
 programma-bk-2017.website
 prokinozal.ru
