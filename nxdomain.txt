@@ -606,7 +606,6 @@
 1wink.me
 1wink.top
 1wink.xyz
-1winkk.me
 1winkk.top
 1winkk.xyz
 1winkoqv.xyz
@@ -3415,7 +3414,6 @@ access.bbplay2017.club
 access.bbplay2017.life
 access.bbplay2017.site
 access.bbplay2017.space
-access.bbplay2017.tech
 access.bbplay2017.today
 access.bbplay2018.club
 access.bbsport.club
@@ -5391,6 +5389,7 @@ bk-info100.site
 bk-info104.site
 bk-info104.top
 bk-info107.space
+bk-info108.space
 bk-info109.online
 bk-info11.online
 bk-info110.site
@@ -5418,6 +5417,7 @@ bk-info122.online
 bk-info123.online
 bk-info123.site
 bk-info124.site
+bk-info124.space
 bk-info124.top
 bk-info125.site
 bk-info125.space
@@ -9099,7 +9099,6 @@ kinogovno.online
 kinogox.ru
 kinogoz.net
 kinogozz.club
-kinogp.me
 kinograd.club
 kinogram.net
 kinoguru.ml
@@ -9153,6 +9152,7 @@ kinoloop.ru
 kinomafia.tv
 kinomalina.net
 kinoman.cc
+kinomaster.tv
 kinomax.icu
 kinomixhd.ru
 kinomixs.ru
@@ -12818,7 +12818,6 @@ mqy.mp3-tut.online
 mrotate.win
 mrotatelike.win
 mrthnbt.win
-msk1.intimatlas.in
 msports.betadonis78.com
 mta20.securemx.com.au
 mthnbt.win
@@ -13773,7 +13772,6 @@ pda.bbplay2017.club
 pda.bbplay2017.life
 pda.bbplay2017.site
 pda.bbplay2017.space
-pda.bbplay2017.tech
 pda.bbplay2017.today
 pda.bbplay2018.club
 pda.bbsport.club
@@ -15688,6 +15686,7 @@ sajt-bk2018.info
 sajt-zerkalo.win
 salyanka.ru
 samara-putana.ru
+saratov.prostitutkiooo.com
 satvkinasport2js.win
 satvkinasport50ux.win
 satvkinasport5ef.win
@@ -15698,6 +15697,7 @@ sbkregnewlive808.pw
 sbkregnewlive909.pw
 sbkregnewlive999.pw
 scihub.unblocked.gdn
+scyklad.biz
 sds-mar-sdase.win
 seasonvar-seriali.ru
 seasonvar.cx
@@ -15735,6 +15735,7 @@ servmix.ru
 servmix2019.xyz
 sexovolg.online
 sexpoputchik.ru
+sf7.biz
 sffs994.com
 shalyapwind.com
 shlupka100tv.com
@@ -17874,6 +17875,7 @@ www.bbplay2017.life
 www.bbplay2017.pro
 www.bbplay2017.site
 www.bbplay2017.space
+www.bbplay2017.tech
 www.bbplay2017.today
 www.bbplay2018.club
 www.bbsport.club
@@ -20582,24 +20584,6 @@ zodiaccasno.com
 zolotopartii.xyz
 zonacasino.ru
 zregistrationbk999.top
-zregnewbklive909.pw
-zrkalo.space
-zull.innal.top
-zulll.innal.top
-zv-fm.info
-zv-fm.ru
-zvfm.su
-zvmp3-fm.ru
-zvukobook.com
-zvukovoronka.ru
-zyteli.info
-zytely.info
-zzzerkalo.net
-ovoronka.ru
-zyteli.info
-zytely.info
-zzzerkalo.net
-999.top
 zregnewbklive909.pw
 zrkalo.space
 zull.innal.top
