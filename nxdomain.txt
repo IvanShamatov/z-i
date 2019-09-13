@@ -5674,6 +5674,7 @@ bkfonbet76.online
 bkfonbet77.online
 bkfonbet78.online
 bkfonbet79.online
+bkfonbet80.online
 bkfonbet81.online
 bkfonbet82.online
 bkfonbet85.online
@@ -20603,5 +20604,4 @@ zvukobook.com
 zvukovoronka.ru
 zyteli.info
 zytely.info
-zzzerkalo.net
 zzzerkalo.net
