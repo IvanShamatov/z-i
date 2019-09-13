@@ -1863,6 +1863,7 @@
 1xwlr.host
 1xwlr.top
 1xwmo.host
+1xwng.xyz
 1xwqi.top
 1xwus.top
 1xwuv.host
@@ -6688,7 +6689,6 @@ crash.biznes-sms.ru
 crassulasalon.ru
 crazycash24.com
 crea-num.eu
-croupier.online
 cryptobetting.space
 crystalcasino.bid
 csgo-happy.ru
@@ -13765,7 +13765,6 @@ pda.bbsports.club
 pda.bbsports.pro
 pda.bbsports.today
 pda.bbsports2018.club
-penzel.ru
 pepelualigoldwb.com
 peptido.ru
 perasw.win
@@ -17425,6 +17424,7 @@ www.1xgsfz.top
 www.1xnjo.xyz
 www.1xohb.xyz
 www.1xwlr.top
+www.1xwng.xyz
 www.1xwwmm.xyz
 www.1xxkt.xyz
 www.1xxx.top
@@ -20602,3 +20602,4 @@ zvukovoronka.ru
 zyteli.info
 zytely.info
 zzzerkalo.net
+rkalo.net
