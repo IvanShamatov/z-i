@@ -8581,7 +8581,6 @@ gibeminlef.info
 gibenylihe.info
 gid-novinki-kino.ru
 gid-online.in
-gid-online.pro
 gidkino-onlain.ru
 gidkino.net
 gidonlain.in
@@ -9381,6 +9380,7 @@ kinoproofi.ru
 kinopult.ru
 kinorab.net
 kinored1.me
+kinorezka.me
 kinorkn.ru
 kinorkn.xyz
 kinorubik.net
@@ -20074,8 +20074,7 @@ zapret-casino.men
 zarutor.info
 zarutor2.info
 zarutor3.info
-zarutor4.info
-zasobyanina.ru
+zarutor4.inforu
 zavisimost-casino.men
 zavtra.fun
 zaycev-ru.ru
@@ -20889,3 +20888,4 @@ zvukovoronka.ru
 zyteli.info
 zytely.info
 zzzerkalo.net
+zzerkalo.net
