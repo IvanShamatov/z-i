@@ -3589,8 +3589,6 @@ aktualnyjadres.men
 al8oufsy80.wap.betcity.ru.com
 alco-bar24.net
 alco-city4.su
-alco-lavca24.com
-alco-stock24.com
 alco-town.me
 alco7.com
 alcoexpress9.su
@@ -3607,6 +3605,7 @@ alko-butik24.ru
 alko-piter24.ru
 alkobar.space
 alkogol-nsk.org
+alkogol-nsk.site
 alkospb.space
 all-mp3-base.ru
 all.ssio.ru
@@ -5800,6 +5799,7 @@ bkinfo-leon2.ru
 bkinfo-leon3.ru
 bkinfo-leon4.ru
 bkinfo048.host
+bkinfo1.site
 bkinfo100.top
 bkinfo104.xyz
 bkinfo111.online
@@ -5834,6 +5834,7 @@ bkinfo186.top
 bkinfo188.top
 bkinfo189.online
 bkinfo193.online
+bkinfo20.site
 bkinfo2468.website
 bkinfo247.website
 bkinfo260.host
@@ -8456,7 +8457,6 @@ google.comuk.top
 gool.ssio.ru
 goperigem.info
 gopicmostpart.com
-gortreport.com
 gotorotate.win
 gotovoecasino777.win
 gotrafmost.com
@@ -14091,8 +14091,6 @@ psncoolgame.su
 psngg.com
 psnone.ru
 psnrus.xyz
-psy-plants.com
-psyfairy.com
 pulse-mp3.ru
 pultprom.ru
 purposechem.com.
@@ -14316,7 +14314,6 @@ refpapar.host
 refpapbm.host
 refpapdp.top
 refpaper.host
-refpapgj.xyz
 refpapjp.xyz
 refpapkg.top
 refpaplw.host
@@ -14415,7 +14412,6 @@ refpaylx.host
 refpayow.top
 refpayqp.top
 refpaytx.host
-refpayuo.xyz
 refpaywa.host
 refpaywq.top
 refpayyi.host
@@ -15643,6 +15639,7 @@ rutracker3.org
 ryazan.magniteco.ru
 ryazan.shluhi-tut.com
 ryletka.ru
+rynok.space
 s-rutor.info
 s.firebro.top
 s.mogoyun.com
@@ -17632,7 +17629,6 @@ www.admiral.pw
 www.admiralmax.net
 www.aff-ads-newyear.win
 www.akhbarsham.info
-www.alco-stock24.com
 www.alco-town.me
 www.alko-piter24.ru
 www.alllite.ru
