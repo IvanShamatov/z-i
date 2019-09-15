@@ -9117,7 +9117,6 @@ kino-hd720.info
 kino-hd720.net
 kino-hd720.pro
 kino-hdfilm.com
-kino-hdfilm.net
 kino-hit.online
 kino-lain.ru
 kino-line.su
@@ -9141,7 +9140,6 @@ kino1080.biz
 kino2017.net
 kino2018.info
 kino2018.ru
-kino2go.club
 kino6ka.net
 kino720.eu
 kino720.site
@@ -18867,7 +18865,13 @@ www.ligastavok255.com
 www.ligastavok256.com
 www.ligastavok259.com
 www.ligastavok26.com
-www.ligastavok260.coigastavok283.com
+www.ligastavok260.com
+www.ligastavok27.com
+www.ligastavok28.com
+www.ligastavok280.com
+www.ligastavok281.com
+www.ligastavok282.com
+www.ligastavok283.com
 www.ligastavok284.com
 www.ligastavok286.com
 www.ligastavok287.com
@@ -20893,16 +20897,6 @@ zregnewbklive909.pw
 zrkalo.space
 zull.innal.top
 zulll.innal.top
-zv-fm.info
-zv-fm.ru
-zvfm.su
-zvmp3-fm.ru
-zvukobook.com
-zvukovoronka.ru
-zyteli.info
-zytely.info
-zzzerkalo.net
-al.top
 zv-fm.info
 zv-fm.ru
 zvfm.su
