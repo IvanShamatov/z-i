@@ -3642,6 +3642,7 @@ air.pm-168.info
 air.pm-169.info
 air.pm-175.info
 air.pm-177.info
+air.pm-178.info
 air.pm-179.info
 air.pm-181.info
 air.pm-192.info
@@ -9351,7 +9352,6 @@ kinogo-one.ru
 kinogo-onlain.me
 kinogo-onlajn.net
 kinogo-onlayn.net
-kinogo-onli.ru
 kinogo-online.cc
 kinogo-online.ru
 kinogo-online720.net
@@ -12100,7 +12100,6 @@ mostagg.com
 mostagr.com
 mostajg.com
 mostajk.com
-mostaoj.com
 mostaom.com
 mostapz.com
 mostaqq.com
@@ -14252,6 +14251,7 @@ pesnitut.com
 pesnya.net
 pharaonclub.ru
 pharaonkazino1.ru
+pharmsport.top
 phqnan.hobby-samara.ru
 pier-vv.com
 pievulkbon.info
@@ -17896,6 +17896,7 @@ wvy.mp3-tut.biz
 wvz.mp3-tut.biz
 ww1.baskino2.top
 ww1.torrentino.net
+ww2.baskino3.ml
 ww2.torrentino.net
 ww3.torrentino.net
 ww4.torrentino.net
@@ -19495,7 +19496,6 @@ www.mob-azino777.ru
 www.mobator.ru
 www.moobilegames.com
 www.moremarabet.win
-www.mostaoj.com
 www.mostazx.com
 www.mostcep.com
 www.mostegx.com
