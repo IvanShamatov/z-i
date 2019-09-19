@@ -3099,6 +3099,7 @@
 84e64d.olimpfc65.top
 84fa7b.olimpde83.top
 84fc74.olimpb4cc.top
+8544df.olimp2a24.top
 855b75.olimp58e7.top
 8587e5.olimp31d2.top
 85c8a0.olimp1897.top
@@ -5859,7 +5860,6 @@ bk-liga-stavok.ru
 bk-marafon-novyj.info
 bk-marafon-zerkalo.info
 bk-marafon.info
-bk-match.kz
 bk-match.pw
 bk-nizhnij.info
 bk-novyj-sajt-fonbet.space
@@ -7460,6 +7460,7 @@ f439b4.olimpa88c.site
 f44259.olimp38fc.top
 f4454c.olimp4859.top
 f484da.olimpef97.site
+f4b179.olimpb7cd.top
 f4b289.olimpd7c0.top
 f4eb20.olimp2ad7.top
 f52dc3.olimp2a24.top
@@ -8538,7 +8539,7 @@ fonbit.space
 fonbk12.space
 fonbkzerkalo33.space
 fonbkzerkalo68.space
-fonce
+foncler.space
 fonclub.space
 fonfansbet21.space
 fonfansbet54.space
@@ -9893,6 +9894,7 @@ leonbetmos.website
 leonbetmou.website
 leonbetodd.site
 leonbetoy.website
+leonbetpis.website
 leonbetputs.website
 leonbetqaz.xyz
 leonbetred.website
@@ -10597,6 +10599,7 @@ m.bbplay2018.club
 m.bbplay2018.info
 m.bbsport.club
 m.bbsport2018.club
+m.bbsport2018.info
 m.bbsports.club
 m.bbsports.pro
 m.bbsports.today
@@ -11493,7 +11496,6 @@ mf-694.online
 mf-696.online
 mf-697.online
 mf-712.online
-mf-717.
 mf-717.online
 mf-719.online
 mf-724.online
@@ -13499,7 +13501,7 @@ new.winline152.com
 new.winline153.com
 new.winline154.com
 new.winline155.com
-new.wi.com
+new.winline156.com
 new.winline157.com
 new.winline158.com
 new.winline159.com
@@ -14247,6 +14249,7 @@ pda.bbplay2017.space
 pda.bbplay2018.club
 pda.bbplay2018.info
 pda.bbsport.club
+pda.bbsport2018.info
 pda.bbsports.club
 pda.bbsports.pro
 pda.bbsports.today
@@ -15798,7 +15801,6 @@ ru.leoncerpro.com
 ru.leonchargefa.com
 ru.leonctaz.com
 ru.leoncybers.com
-ru.leom
 ru.leondani2.com
 ru.leondimi.com
 ru.leondomainapk.com
@@ -16278,7 +16280,7 @@ serial-club.ru
 serial-one.ru
 serial-tv.pro
 serial-z.online
-serialt
+serial14you.net
 seriall-besplatno.net
 seriall-torrent.net
 serialov.org
@@ -17706,7 +17708,6 @@ winlinebet239.com
 winlinebet240.com
 winlinebet241.com
 winlinebet242.com
-winlinm
 winlinebet243.com
 winlinebet244.com
 winlinebet245.com
@@ -18165,7 +18166,7 @@ www.52azino777.win
 www.53-azino777.win
 www.53azino777.win
 www.54-azino777.win
-wwo777.win
+www.54azino777.win
 www.55-azino777.win
 www.55azino777.win
 www.56-azino777.win
@@ -18519,6 +18520,7 @@ www.bbplay2018.club
 www.bbplay2018.info
 www.bbsport.club
 www.bbsport2018.club
+www.bbsport2018.info
 www.bbsports.club
 www.bbsports.pro
 www.bbsports.today
@@ -18961,7 +18963,6 @@ www.happymarathonbet.win
 www.hd720.tv
 www.hdmyvi.ru
 www.hdrezkka.ru
-www.hru
 www.hdsunduk.ru
 www.himarathon.win
 www.himarathonbet.win
@@ -19336,8 +19337,7 @@ www.ligastavok64.com
 www.ligastavok65.com
 www.ligastavok66.com
 www.ligastavok67.com
-www.ligastavok68.com
-www.ligastavok69.com
+www.ligagastavok69.com
 www.ligastavok70.com
 www.ligastavok71.com
 www.ligastavok72.com
@@ -19743,7 +19743,7 @@ www.sportingbull177.com
 www.sportingbull181.com
 www.sportingbull184.com
 www.sportingbull185.com
-www.sull1922.com
+www.sportingbull1922.com
 www.sportingbull194.com
 www.sportingbull197.com
 www.sportingbull1980.com
@@ -21033,7 +21033,7 @@ zerkalo1x.space
 zerkalo2-fonbet.host
 zerkalo2-fonbet.info
 zerkalo2-leon.host
-zerkalo2-leonbet.hosnbet.host
+zerkalo2-leonbet.host
 zerkalo2-marafon.host
 zerkalo2.date
 zerkalo200.xyz
@@ -21301,4 +21301,6 @@ zvukobook.com
 zvukovoronka.ru
 zyteli.info
 zytely.info
+zzzerkalo.net
+info
 zzzerkalo.net
