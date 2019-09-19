@@ -3642,7 +3642,6 @@ air.pm-168.info
 air.pm-169.info
 air.pm-175.info
 air.pm-177.info
-air.pm-178.info
 air.pm-179.info
 air.pm-181.info
 air.pm-192.info
@@ -6715,7 +6714,6 @@ casino-premium.men
 casino-prikoly.men
 casino-proigrysh.men
 casino-ra.me
-casino-ra.pro
 casino-ra6.com
 casino-rf.men
 casino-rio.men
@@ -16719,7 +16717,6 @@ torentor.ru
 torents.okah.top
 torrent-2.net
 torrent-2018.net
-torrent-baza.org
 torrent-gig.net
 torrent-kino.com
 torrent-lynx.ru
@@ -17310,6 +17307,7 @@ vvv.onlinehockey.club
 vvvbet.site
 vvvolcano.com
 vvvulcan.com
+vvvvvv.blacksqr.ru
 vvy11cany.com
 vvy11ckany.com
 vvyl1can.com
@@ -21288,4 +21286,6 @@ zvukobook.com
 zvukovoronka.ru
 zyteli.info
 zytely.info
+zzzerkalo.net
+o
 zzzerkalo.net
