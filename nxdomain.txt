@@ -3482,7 +3482,6 @@ access.baltgame2018.info
 access.baltgame2018.online
 access.baltgame2018.xyz
 access.baltgame7.club
-access.baltgame7.info
 access.baltgame7.today
 access.baltgames2018.club
 access.baltgames2018.info
@@ -4420,7 +4419,6 @@ baltgame24.club
 baltgame24.co
 baltgame24.life
 baltgame7.club
-baltgame7.info
 baltgame7.today
 baltgames.club
 baltgames.pro
