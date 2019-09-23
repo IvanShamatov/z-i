@@ -5716,6 +5716,10 @@ bk-info-6048.website
 bk-info-6284.website
 bk-info-7159.website
 bk-info-7395.website
+bk-info-752.host
+bk-info-768.host
+bk-info-789.host
+bk-info-795.host
 bk-info-8260.website
 bk-info-8406.website
 bk-info-9371.website
@@ -16420,6 +16424,7 @@ rutracker.com.ua
 rutracker2.org
 rutracker2.ru
 rutracker3.org
+ruvulcan.online
 ryazan.shluhi-tut.com
 rynok.space
 s-rutor.info
