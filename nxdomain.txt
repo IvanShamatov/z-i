@@ -2158,6 +2158,7 @@
 1xxpers105.mobi
 1xxpers106.mobi
 1xxpers107.mobi
+1xxpers109.mobi
 1xxpers110.mobi
 1xxpers22.mobi
 1xxpers44.mobi
@@ -6080,7 +6081,6 @@ bk-fonbetn64.ru
 bk-fonbetn65.ru
 bk-fonbetn66.ru
 bk-fonbetn67.ru
-bk-fonbetn68.ru
 bk-fonbetn9.ru
 bk-fonbets13.ru
 bk-fonbets14.ru
@@ -8286,7 +8286,6 @@ filmorezka.biz
 filmorezka.club
 filmorezka.me
 filmorezka.org
-filmovmir.online
 films-one.ru
 films-online.net
 films-place.net
@@ -9347,6 +9346,7 @@ garage.pub
 garage.run
 garant-board.co
 garnituron.xyz
+gascounter.ru
 gashishekb.ru
 gashkupit.com
 gate.zeon-art.com
@@ -11373,7 +11373,6 @@ m.betsbc-zsav.space
 m.betzenitsport.com
 m.bkwndbt.com
 m.casinopuzslots.com
-m.fonbet-9e5b6.tk
 m.fonsportbet.tk
 m.fonsportbet.xyz
 m.kinokong.ws
@@ -15254,6 +15253,7 @@ pm-159.info
 pm-160.info
 pm-162.info
 pm-164.info
+pm-166.info
 pm-166.online
 pm-167.info
 pm-168.info
@@ -22452,5 +22452,8 @@ zvfm.su
 zvmp3-fm.ru
 zvukovoronka.ru
 zyteli.info
+zytely.info
+zzzerkalo.net
+li.info
 zytely.info
 zzzerkalo.net
