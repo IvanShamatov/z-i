@@ -4162,6 +4162,7 @@ alco-city3.ru
 alco-city3.su
 alco-city4.ru
 alco-city4.su
+alco-dostavka.ru
 alco-express.su
 alco-night24.ru
 alco-nights.com
@@ -8167,6 +8168,7 @@ factor.x-hobby.ru
 fad6d8.olimp6301.site
 faf842.olimpef97.site
 fail-zona.ru
+fanserials.club
 fanserials.expert
 fanserials.realrty
 fanserials.space
@@ -9630,7 +9632,6 @@ hub-bukva.bid
 hui.opentg.us
 hydra-center.host
 hydra-shop.host
-hydra2wab.su
 hydra2wcb.com
 hydra2web.network
 hydra2webru.com
@@ -9700,6 +9701,7 @@ igrovyeautomaty.info
 igrovyeautomaty.org
 igrovyeavtomati.ru
 igrovyeavtomaty-besplatno.com
+igrovyeavtomaty.igratonline.net
 igrovyeavtomaty2.igratonline.net
 igrovyeavtomaty7.igratonline.net
 igrozal.win
@@ -10212,7 +10214,6 @@ kinolad.net
 kinolibrary.ru
 kinolife.info
 kinolike.club
-kinoline.net
 kinolive.pro
 kinolol.site
 kinolol.xyz
@@ -15813,7 +15814,6 @@ refpameh.top
 refpamhx.top
 refpamjn.top
 refpamst.host
-refpamsy.top
 refpamuw.host
 refpamvv.top
 refpamxo.host
@@ -17599,8 +17599,6 @@ staffshop.cc
 stargames-casino.ru
 staroe-zerkalo.info
 starslot.club
-start-play-right-now.com
-start.parimatch-abc.com
 start.parimatch-today4.com
 start.parimatch.ge
 start.pm-256.info
@@ -22528,6 +22526,12 @@ zulll.innal.top
 zv-fm.info
 zv-fm.ru
 zvfm.su
+zvmp3-fm.ru
+zvukovoronka.ru
+zyteli.info
+zytely.info
+zzzerkalo.net
+
 zvmp3-fm.ru
 zvukovoronka.ru
 zyteli.info
