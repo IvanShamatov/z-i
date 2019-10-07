@@ -19869,7 +19869,6 @@ ww.rubit-tracker.org
 ww1.baskino2.top
 ww1.baskino3.ml
 ww1.torrentino.net
-ww2.baskino3.ml
 ww2.torrentino.net
 ww3.torrentino.net
 ww4.torrentino.net
@@ -20968,7 +20967,6 @@ www.freetinygirls.net
 www.freetorrmd.org
 www.freetorrmd.ru
 www.freeview.me
-www.freshkino.com
 www.fskino.ru
 www.fstreker.net
 www.game-azino777.ru
@@ -23103,6 +23101,7 @@ zerkalo-match93.ru
 zerkalo-mb.ru
 zerkalo-mbet.ru
 zerkalo-mel.ru
+zeerkalo-mel.ru
 zerkalo-metod.website
 zerkalo-mobilnaya.bid
 zerkalo-mostbet-bk.ru
@@ -23472,8 +23471,5 @@ zvmp3-fm.ru
 zvukoff-ru.net
 zvukovoronka.ru
 zyteli.info
-zytely.info
-zzzerkalo.net
-fo
 zytely.info
 zzzerkalo.net
