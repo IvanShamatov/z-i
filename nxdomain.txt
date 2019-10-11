@@ -5415,12 +5415,13 @@ bemob.online
 benz-pdas.only.ru.com
 besplatno-2.azartnie-avtomaty.com
 besplatno-igrat-sloty.club
-besplatno.avtomat-vulkan.su
 besplatno.azartnie-avtomaty.com
 besplatno.play-vulcan-slots.ru
 besplatno1.azartnie-avtomaty.com
 besplatno1.play-vulcan-slots.ru
+besplatno2.igrovye-gaminatory.com
 besplatno2.play-vulcan-slots.ru
+besplatno3.igrovye-gaminatory.com
 besplatnoe-kazino.ru
 besplatnye-igrovie-avtomaty.net
 best-bets24.ru
@@ -7053,6 +7054,7 @@ bobfilm-ru.ru
 bobfilm.me
 bobfilm.site
 bobfilm1.info
+bobfilm1.pro
 bobfilms.ru
 bobfilms.site
 bobfilmy.ru
@@ -8097,6 +8099,8 @@ eda6ce.olimp3ed3.top
 edb03e.olimpd6a6.top
 eded4f.olimpcaf3.top
 edicc.eu
+education-centra.com
+education-centrals.com
 ee0772.olimpe24a.top
 ee0be5.olimp0115.top
 ee2d30.olimp27fe.top
@@ -9826,6 +9830,7 @@ igrat-kazino-vulkan.trade
 igrat-onlajn-kazino-igrovye.date
 igrat-vulcan-online.ru
 igrat.igrovoy-avtomat.top
+igrat.igrovye-gaminatory.com
 igratcasino.online
 igratvavtomati.ru
 igrinadengi.top
@@ -10155,7 +10160,6 @@ kino-profi.org
 kino-rip.eu
 kino-serialu.ru
 kino-sp.com
-kino-zal.net
 kino.vodka
 kino1080.biz
 kino2017.net
@@ -10462,6 +10466,7 @@ kinoz-net.ru
 kinozal.one
 kinozall.net
 kinozip.club
+kinozood.net
 kinozz-club.ru
 kinushka.com
 kiprofirkn.ru
@@ -18234,6 +18239,7 @@ seasonvar-seriali.ru
 seasonvar.cx
 seasonvar.men
 secure.bingosky.com
+seedscannabis.store
 segodnya24.men
 segodnyak.info
 segodnyaw.info
@@ -20802,7 +20808,8 @@ www.betcity-zerkalo-7sbv.ru
 www.betcity-zerkalo-7vde.ru
 www.betcity-zerkalo-7zdp.ru
 www.betcity-zerkalo-8asd.ru
-www.betcity-zerkalo-.betcity-zerkalo-8ert.ru
+www.betcity-zerkalo-8edc.ru
+www.betcity-zerkalo-8ert.ru
 www.betcity-zerkalo-8oin.ru
 www.betcity-zerkalo-8pof.ru
 www.betcity-zerkalo-8spg.ru
@@ -23635,4 +23642,6 @@ zvukovoronka.ru
 zyteli.info
 zytely.info
 zzzerkalo.net
-erkalo.net
+i.info
+zytely.info
+zzzerkalo.net
