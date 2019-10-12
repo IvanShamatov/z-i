@@ -2320,6 +2320,8 @@
 1xxst.host
 1xxuk.host
 1xxx.top
+1xxxq.host
+1xxxx.host
 1xxyz.host
 1xycg.top
 1xygx.host
@@ -4337,6 +4339,7 @@ aktualnye-zerkala-bk.trade
 aktualnye-zerkala-bukmekera.date
 aktualnyjadres.men
 al8oufsy80.wap.betcity.ru.com
+alco-78.alcohol.spb.ru
 alco-bar24.me
 alco-bonus1.online
 alco-bonus1.ru
@@ -6904,6 +6907,7 @@ bkinfo826.host
 bkinfo8642.website
 bkinfo937.host
 bkinfo9753.website
+bkitf.clbks.info
 bkjhwbruwbeouwebrouiowefj.nopeer.ru
 bkleon-bet12.ru
 bkleon-mirrors.ru
@@ -11490,6 +11494,7 @@ lohan.2rangeany.idhost.kz
 loki-casino.ru
 lol_a_pochemu_v_telegu_nezahodit.fuckrkn.us
 lolafun.work
+lolaland.to
 longbows.us
 lordfilm.pro
 lostfilm-720com.ogon-voda.ru
@@ -16595,6 +16600,8 @@ rabocheezerkalofon87.space
 rabochij-bk.info
 rabota77wow.ru
 rabotayushhee-segodnya.date
+rabzerkalof.info
+rabzerkaloo.info
 racing.bkfonbet.club
 racing.fonsportbet.tk
 ranbox.name
@@ -16659,6 +16666,7 @@ refpacjo.host
 refpacnc.host
 refpacnk.host
 refpacqu.host
+refpacvr.host
 refpaczi.top
 refpadcc.top
 refpadfz.top
@@ -16707,6 +16715,7 @@ refpagrq.top
 refpagtq.host
 refpagua.top
 refpagup.top
+refpagvu.host
 refpagzf.top
 refpagzg.host
 refpahbl.top
@@ -16753,6 +16762,7 @@ refpalak.xyz
 refpalao.host
 refpalbb.host
 refpaldh.host
+refpalfb.host
 refpalfp.host
 refpalga.host
 refpalgi.host
@@ -16851,6 +16861,7 @@ refpasoq.xyz
 refpaspa.host
 refpaspv.host
 refpasul.host
+refpatdr.host
 refpatdu.host
 refpatip.xyz
 refpatiq.host
@@ -16927,6 +16938,7 @@ refpayda.host
 refpaydm.top
 refpayem.xyz
 refpayhx.host
+refpayie.host
 refpayju.host
 refpaylx.host
 refpayow.top
@@ -19030,6 +19042,7 @@ v14.vulcanclubplay.com
 v15.vulcanclubplay.com
 v16.vulcanclubplay.com
 v17.vulcanclubplay.com
+v18y.com
 v18.vulcanclubplay.com
 v19.vulcanclubplay.com
 v1cano.com
@@ -19505,7 +19518,7 @@ vxod-zerkalo-2017.space
 vxodbk.space
 vy0lccans.com
 vyboronlinecasino.com
-vycgdd.doingtheswirl.com
+vycgdd.doingthe
 vyezdnoe-casino.men
 vyl1ckaim.com
 vyl1ckaim24.com
@@ -20427,6 +20440,7 @@ www.49-azmpp.win
 www.49azino-777.ru
 www.49azino777.win
 www.5-azino777.win
+ww77.win
 www.5-azmpp.win
 www.50-azino777.win
 www.50azino777.win
@@ -21212,7 +21226,7 @@ www.fonbet-8e817.com
 www.fonbet-8faeb.com
 www.fonbet-93881.com
 www.fonbet-9780c.com
-www.fonbet-98a6d.com
+www8a6d.com
 www.fonbet-9c7f5.com
 www.fonbet-a0cd1.com
 www.fonbet-a24c9.com
@@ -22804,6 +22818,7 @@ www3.myzuka.me
 www4.myzuka.me
 www5.myzuka.me
 www6.myzuka.me
+yzuka.me
 www7.myzuka.me
 www8.myzuka.me
 www9.myzuka.me
@@ -22899,6 +22914,7 @@ xsportbet.info
 xxmusic.ru
 xxx-admiral.ru
 xxxyoung-porn.ru
+xzerkalositez.info
 xzerkaloss65.space
 y5mftrki.bid
 y7jvrdp5.stream
@@ -23707,7 +23723,7 @@ zerkalositevhod78.space
 zerkalositevhod90.space
 zerkalositevip99.space
 zerkalosmatch11.space
-zerkalossl.space
+zerkalo
 zerkalostavkagame99.space
 zerkalostavki.date
 zerkaloswinsa33.space
@@ -23784,3 +23800,4 @@ zvukovoronka.ru
 zyteli.info
 zytely.info
 zzzerkalo.net
+kalo.net
