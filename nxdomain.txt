@@ -8725,7 +8725,6 @@ dlux.po-chestnomu.ru
 dmwan.woid.game-server.cc
 docronika.ru
 dofiga-mp3.ru
-doghunter.to
 dogspretty.ru
 dok911.ru
 dok911ru.com
@@ -12265,7 +12264,6 @@ lohan.2rangeany.idhost.kz
 lokesnord.ru
 loki-casino.ru
 lol_a_pochemu_v_telegu_nezahodit.fuckrkn.us
-lolaland.to
 longbows.us
 lostfilm-720com.ogon-voda.ru
 lostfilm-hd720.net
@@ -12289,8 +12287,10 @@ lowcoster.pro
 lowlyshop.ru
 lp-01.fongametime.info
 lp-01.foninfobet.info
+lp-02.fon-infosport.info
 lp-02.fongametime.info
 lp-02.foninfobet.info
+lp-03.fon-infosport.info
 lp-03.fongametime.info
 lp-03.foninfobet.info
 lp-04.fongametime.info
@@ -12300,18 +12300,15 @@ lp-05.fongametime.info
 lp-05.foninfobet.info
 lp-06.foninfobet.info
 lp-07.fon-infosport.info
-lp-17.fon-infosport.info
-lp-18.fon-infosport.info
+lp-11.fon-infosport.info
 lp-25.fon-infosport.info
+lp-31.fon-infosport.info
 lp-37.fon-infosport.info
-lp-38.fon-infosport.info
 lp-39.fon-infosport.info
 lp-42.fon-infosport.info
 lp-43.fon-infosport.info
 lp-46.fon-infosport.info
-lp-49.fon-infosport.info
-lp-54.fon-infosport.info
-lp-56.fon-infosport.info
+lp-51.fon-infosport.info
 lp.championcasino.net
 lpbestsportsbook.com
 lregbukmekersx404.top
@@ -24683,6 +24680,7 @@ zerkalorus35.space
 zerkalorus65.space
 zerkalos-betings11.space
 zerkalosajtarabotayushhee.loan
+zeajtarabotayushhee.loan
 zerkalosayta.space
 zerkalosaytabuki.info
 zerkalosaytabuko.info
