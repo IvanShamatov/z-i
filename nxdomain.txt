@@ -5285,7 +5285,6 @@ avtomaty-igrat-besplatno.com
 avtomaty-igrovye-besplatno.com
 avtomaty-nadengi.info
 avtomaty.igratonline.net
-avtomaty.igrovoy-zal.com
 avtomaty24besplatno.com
 avtomatydengisvyvodom.com
 avtomatyigrovye.online
@@ -7916,6 +7915,7 @@ bonusiazinod.info
 bonuskazino.su
 bonusmem.ru
 bonusotkazino666.info
+bonusotkazino888.info
 bonuspls2.ru
 bonusucasino.info
 bonusvkkazino.fun
@@ -9076,6 +9076,7 @@ ero-piks.com
 eropiks.net
 errors-seeds-nnv.com
 errors-seeds.kz
+errors-seeds.md
 essaygun.org
 eu-music.info
 eu.the-rutor.org
@@ -10800,6 +10801,7 @@ igrovueavtomaty.su
 igrovye-avtomati-besplatno.co
 igrovye-avtomati-joycasino.co
 igrovye-avtomaty-2.com
+igrovye-avtomaty-i-sloty.net
 igrovye-avtomaty-igrat-besplatno.su
 igrovye-avtomaty-kazino.date
 igrovye-avtomaty-new.space
@@ -11165,6 +11167,7 @@ kinobomber4.online
 kinobuso.ru
 kinocat.net
 kinoclub.club
+kinoclub.pro
 kinocom.net
 kinodacha.org
 kinodd.net
@@ -12430,20 +12433,19 @@ lp-02.foninfobet.info
 lp-03.fon-infosport.info
 lp-03.fongametime.info
 lp-03.foninfobet.info
-lp-04.fon-infosport.info
 lp-04.fongametime.info
 lp-04.foninfobet.info
+lp-05.fon-infosport.info
 lp-05.fongametime.info
 lp-05.foninfobet.info
 lp-06.fon-infosport.info
 lp-06.foninfobet.info
-lp-08.fon-infosport.info
-lp-10.fon-infosport.info
+lp-09.fon-infosport.info
 lp-12.fon-infosport.info
 lp-13.fon-infosport.info
-lp-14.fon-infosport.info
 lp-15.fon-infosport.info
 lp-17.fon-infosport.info
+lp-18.fon-infosport.info
 lp-19.fon-infosport.info
 lp-20.fon-infosport.info
 lp-21.fon-infosport.info
@@ -12456,11 +12458,11 @@ lp-34.fon-infosport.info
 lp-35.fon-infosport.info
 lp-37.fon-infosport.info
 lp-38.fon-infosport.info
+lp-39.fon-infosport.info
 lp-40.fon-infosport.info
 lp-44.fon-infosport.info
+lp-46.fon-infosport.info
 lp-47.fon-infosport.info
-lp-48.fon-infosport.info
-lp-49.fon-infosport.info
 lp-51.fon-infosport.info
 lp-52.fon-infosport.info
 lp-55.fon-infosport.info
@@ -17599,8 +17601,11 @@ poker-dom.online
 poker-grant.com
 poker.netbet.ru
 pokerchel.ru
+pokerdom-play.com
 pokerdom-room.co
+pokerdom-ru.com
 pokerdom-ru.online
+pokerdom-vip.com
 pokerdom1.su
 pokerdom14.org
 pokerdom22.org
@@ -19765,6 +19770,7 @@ spb-diplomat.com
 spb.ddpills.com
 spb.rus-diplomi.com
 spbspavka.com
+spectehprava.ru
 speeches.motivateme.in
 spin-free.net
 spinl.info
