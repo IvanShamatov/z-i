@@ -2656,7 +2656,6 @@
 1xwem.host
 1xwfh.xyz
 1xwge.host
-1xwiv.xyz
 1xwjc.host
 1xwki.xyz
 1xwkp.host
@@ -3572,6 +3571,7 @@
 3ba735.olimpef97.site
 3bba0f.olimp161f.top
 3bc3.xyz
+3besplatno.azartnie-avtomaty.com
 3bf8.site
 3bonanzagame.com
 3bukmekera.ru
@@ -8543,7 +8543,6 @@ cfd25d.olimpcaf3.top
 champfonbet.xyz
 cheetah.aussiewebhost.com.au
 chelyabinsk.spravami.com
-chelyabinsknomer.com
 chemp2018zerkalon.host
 chemp2018zerkaloq.host
 chemp2018zerkalox.host
@@ -9092,6 +9091,7 @@ eu-music.info
 eu.the-rutor.org
 eumus.info
 eurobet.club
+ev.muzica.fun
 everumcasino19.ru
 evita-afuh.ru
 ew16zxdv.win
@@ -12446,6 +12446,7 @@ lottolucker.net
 lottolucker.org
 lottolucker.win
 lowcoster.pro
+lp-01.fon-infosport.info
 lp-01.fongametime.info
 lp-01.foninfobet.info
 lp-02.fongametime.info
@@ -12477,6 +12478,8 @@ lp-25.fon-infosport.info
 lp-26.fon-infosport.info
 lp-27.fon-infosport.info
 lp-30.fon-infosport.info
+lp-31.fon-infosport.info
+lp-32.fon-infosport.info
 lp-33.fon-infosport.info
 lp-35.fon-infosport.info
 lp-36.fon-infosport.info
@@ -20932,12 +20935,14 @@ wap.betcity-clad.space
 wap.betcity-ctcc.space
 wap.betcity-dxox.space
 wap.betcity-dyub.space
+wap.betcity-ekia.space
 wap.betcity-fhjq.space
 wap.betcity-fmvs.space
 wap.betcity-fzep.space
 wap.betcity-gska.space
 wap.betcity-guer.space
 wap.betcity-hagn.space
+wap.betcity-hkso.space
 wap.betcity-hxar.space
 wap.betcity-iwud.space
 wap.betcity-izsn.space
@@ -20961,6 +20966,7 @@ wap.betcity-rqpi.space
 wap.betcity-ru.top
 wap.betcity-rus.top
 wap.betcity-ruve.space
+wap.betcity-tmmb.space
 wap.betcity-uaol.space
 wap.betcity-umwe.space
 wap.betcity-vgbq.space
@@ -20972,12 +20978,14 @@ wap.betcity-yomy.space
 wap.betcity-zcxo.space
 wap.betsbc-adep.space
 wap.betsbc-anlk.space
+wap.betsbc-ccro.space
 wap.betsbc-cjsq.space
 wap.betsbc-cvqd.space
 wap.betsbc-efut.space
 wap.betsbc-ehbb.space
 wap.betsbc-eifb.space
 wap.betsbc-fhqa.space
+wap.betsbc-fvoz.space
 wap.betsbc-gljz.space
 wap.betsbc-gzjs.space
 wap.betsbc-isal.space
@@ -21003,6 +21011,7 @@ wap.betsbc-ydts.space
 wap.betsbc-yeph.space
 wap.betsbc-ypkx.space
 wap.betsbc-zcyt.space
+wap.betsbc-zpii.space
 wap.betsbc-zucp.space
 wap.bk-betcity.top
 wap.bkbet.top
@@ -22188,9 +22197,11 @@ www.betcity-cqcn.space
 www.betcity-ctcc.space
 www.betcity-dxox.space
 www.betcity-dyub.space
+www.betcity-ekia.space
 www.betcity-ekia.tk
 www.betcity-fasf.space
 www.betcity-fcei.space
+www.betcity-fhjq.space
 www.betcity-fmvs.space
 www.betcity-fzep.space
 www.betcity-fzep.tk
@@ -22213,6 +22224,7 @@ www.betcity-mirror14.ru
 www.betcity-mirror22.ru
 www.betcity-mirror81.ru
 www.betcity-mirror99.ru
+www.betcity-mjeo.space
 www.betcity-mqnf.space
 www.betcity-msrx.space
 www.betcity-mtps.space
@@ -22231,6 +22243,7 @@ www.betcity-pdsh.space
 www.betcity-peyu.space
 www.betcity-peyu.tk
 www.betcity-qirf.space
+www.betcity-qkpi.space
 www.betcity-raiu.space
 www.betcity-rqpi.space
 www.betcity-rqpi.tk
@@ -22239,6 +22252,7 @@ www.betcity-rus.top
 www.betcity-ruve.space
 www.betcity-tgkb.space
 www.betcity-thg777.ru
+www.betcity-tmmb.space
 www.betcity-top.ru
 www.betcity-uaol.space
 www.betcity-uhpw.space
@@ -22336,6 +22350,7 @@ www.betnano7.com
 www.betonex1.com
 www.betrally.com
 www.bets-on-sport.ru
+www.betsbc-adep.space
 www.betsbc-anlk.space
 www.betsbc-ccro.space
 www.betsbc-ccro.tk
@@ -22346,6 +22361,7 @@ www.betsbc-ehbb.space
 www.betsbc-eifb.space
 www.betsbc-fhqa.space
 www.betsbc-fhqa.tk
+www.betsbc-fvoz.space
 www.betsbc-gljz.space
 www.betsbc-goag.ml
 www.betsbc-goag.tk
@@ -22394,6 +22410,7 @@ www.betsbc-yeph.space
 www.betsbc-ypkx.space
 www.betsbc-zcyt.cf
 www.betsbc-zcyt.space
+www.betsbc-zpii.space
 www.betsbc-zsav.space
 www.betsbc-zucp.space
 www.betsonline-rf.ru
@@ -25251,12 +25268,6 @@ zv-fm.info
 zv-fm.ru
 zvfm.su
 zvmp3-fm.ru
-zvukoff-ru.net
-zvukovoronka.ru
-zyteli.info
-zytely.info
-zzzerkalo.net
-m.ru
 zvukoff-ru.net
 zvukovoronka.ru
 zyteli.info
