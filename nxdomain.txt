@@ -8971,7 +8971,6 @@ comedyportal1.biz
 comedyportal1.xyz
 comedyportal2.biz
 comedyportal2.me
-comkina.ru
 comuk.top
 coolmarathon.win
 coolmbet.win
@@ -12840,7 +12839,6 @@ lp-06.foninfobet.info
 lp-07.fon-infosport.info
 lp-08.fon-infosport.info
 lp-09.fon-infosport.info
-lp-11.fon-infosport.info
 lp-12.fon-infosport.info
 lp-13.fon-infosport.info
 lp-14.fon-infosport.info
@@ -12871,10 +12869,12 @@ lp-41.fon-infosport.info
 lp-42.fon-infosport.info
 lp-43.fon-infosport.info
 lp-44.fon-infosport.info
+lp-45.fon-infosport.info
 lp-46.fon-infosport.info
 lp-47.fon-infosport.info
 lp-48.fon-infosport.info
 lp-49.fon-infosport.info
+lp-50.fon-infosport.info
 lp-51.fon-infosport.info
 lp-52.fon-infosport.info
 lp-53.fon-infosport.info
@@ -21390,7 +21390,6 @@ wap.betcity-ygmu.space
 wap.betcity-yldq.space
 wap.betcity-yomy.space
 wap.betcity-zcxo.space
-wap.betsbc-adep.space
 wap.betsbc-anlk.space
 wap.betsbc-ccro.space
 wap.betsbc-cjsq.space
@@ -21423,7 +21422,6 @@ wap.betsbc-vemb.space
 wap.betsbc-wase.space
 wap.betsbc-ydts.space
 wap.betsbc-yeph.space
-wap.betsbc-ypkx.space
 wap.betsbc-zcyt.space
 wap.betsbc-zpii.space
 wap.betsbc-zucp.space
@@ -22611,7 +22609,6 @@ www.betchan1.com
 www.betcity-alpz.space
 www.betcity-best.ru
 www.betcity-bet.ru
-www.betcity-bfmu.space
 www.betcity-cduy.space
 www.betcity-cehm.space
 www.betcity-cehm.tk
@@ -22687,7 +22684,6 @@ www.betcity-vgbq.space
 www.betcity-vlur.space
 www.betcity-vqjd.space
 www.betcity-wmzf.space
-www.betcity-wotk.space
 www.betcity-xqxg.space
 www.betcity-yeyr.tk
 www.betcity-ygmu.space
@@ -22775,7 +22771,6 @@ www.betrally.com
 www.bets-on-sport.ru
 www.betsbc-adep.space
 www.betsbc-anlk.space
-www.betsbc-ccro.space
 www.betsbc-ccro.tk
 www.betsbc-cjsq.space
 www.betsbc-cvqd.space
@@ -22830,7 +22825,6 @@ www.betsbc-xzzk.space
 www.betsbc-ydts.space
 www.betsbc-ydts.tk
 www.betsbc-yeph.space
-www.betsbc-ypkx.space
 www.betsbc-zcyt.cf
 www.betsbc-zcyt.space
 www.betsbc-zpii.space
@@ -24115,6 +24109,7 @@ www.vulkan-clb.com
 www.vulkan-clb.net
 www.vulkanosport.com
 www.w-ww.the-rutor.org
+www.w.rutor1.org
 www.w.the-rutor.org
 www.w0rdpress.ru
 www.waveview.ru
@@ -24480,6 +24475,7 @@ www.winlinebk8.com
 www.winlinebk9.com
 www.wood-film.ru
 www.world-cup.su
+www.ww.rutor1.org
 www.ww.the-rutor.org
 www.ww.xrutor.org
 www.www1.betcity.ru.com
@@ -25708,6 +25704,8 @@ zvukovoronka.ru
 zyteli.info
 zytely.info
 zzzerkalo.net
-eli.info
+ukoff-ru.net
+zvukovoronka.ru
+zyteli.info
 zytely.info
 zzzerkalo.net
