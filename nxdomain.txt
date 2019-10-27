@@ -12838,6 +12838,7 @@ lp-09.fon-infosport.info
 lp-11.fon-infosport.info
 lp-12.fon-infosport.info
 lp-13.fon-infosport.info
+lp-14.fon-infosport.info
 lp-15.fon-infosport.info
 lp-16.fon-infosport.info
 lp-17.fon-infosport.info
@@ -12851,6 +12852,7 @@ lp-26.fon-infosport.info
 lp-27.fon-infosport.info
 lp-28.fon-infosport.info
 lp-29.fon-infosport.info
+lp-30.fon-infosport.info
 lp-31.fon-infosport.info
 lp-32.fon-infosport.info
 lp-34.fon-infosport.info
@@ -12863,7 +12865,6 @@ lp-41.fon-infosport.info
 lp-42.fon-infosport.info
 lp-43.fon-infosport.info
 lp-44.fon-infosport.info
-lp-45.fon-infosport.info
 lp-46.fon-infosport.info
 lp-47.fon-infosport.info
 lp-48.fon-infosport.info
@@ -25695,10 +25696,6 @@ zvfm.su
 zvmp3-fm.ru
 zvukoff-ru.net
 zvukovoronka.ru
-zyteli.info
-zytely.info
-zzzerkalo.net
-ovoronka.ru
 zyteli.info
 zytely.info
 zzzerkalo.net
