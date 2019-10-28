@@ -12886,20 +12886,16 @@ lp-13.fon-infosport.info
 lp-14.fon-infosport.info
 lp-15.fon-infosport.info
 lp-16.fon-infosport.info
-lp-17.fon-infosport.info
 lp-19.fon-infosport.info
-lp-20.fon-infosport.info
 lp-21.fon-infosport.info
 lp-22.fon-infosport.info
 lp-23.fon-infosport.info
 lp-24.fon-infosport.info
-lp-25.fon-infosport.info
 lp-26.fon-infosport.info
 lp-27.fon-infosport.info
 lp-28.fon-infosport.info
 lp-29.fon-infosport.info
 lp-30.fon-infosport.info
-lp-31.fon-infosport.info
 lp-32.fon-infosport.info
 lp-33.fon-infosport.info
 lp-34.fon-infosport.info
@@ -17309,7 +17305,6 @@ nsportprognoz1.ru
 nsportprognoz2.ru
 nsportprognoz3.ru
 nsportprognoz4.ru
-nsportprognoz5.ru
 nuts.bet
 nviejr4u8799.pw
 nwatobcbk.help.accbetcity.space
@@ -21403,7 +21398,6 @@ wap.betcity-fzep.space
 wap.betcity-gska.space
 wap.betcity-guer.space
 wap.betcity-hagn.space
-wap.betcity-hkso.space
 wap.betcity-hxar.space
 wap.betcity-iwud.space
 wap.betcity-izsn.space
@@ -21420,6 +21414,7 @@ wap.betcity-orkk.space
 wap.betcity-ovww.space
 wap.betcity-pdsh.space
 wap.betcity-peyu.space
+wap.betcity-qirf.space
 wap.betcity-qkpi.space
 wap.betcity-raiu.space
 wap.betcity-rqpi.space
@@ -22017,7 +22012,6 @@ ww-w.the-rutor.org
 ww-ww.the-rutor.org
 ww-www.the-rutor.org
 ww.rubit-tracker.org
-ww2.baskino3.ml
 wwa.mp3-tut.biz
 wwb.mp3-tut.biz
 wwc.mp3-tut.biz
@@ -22713,6 +22707,7 @@ www.betcity-ovww.space
 www.betcity-pdsh.space
 www.betcity-peyu.space
 www.betcity-peyu.tk
+www.betcity-qirf.space
 www.betcity-qkpi.space
 www.betcity-raiu.space
 www.betcity-rqpi.space
@@ -22832,12 +22827,14 @@ www.betsbc-eifb.space
 www.betsbc-fhqa.space
 www.betsbc-fhqa.tk
 www.betsbc-fvoz.space
+www.betsbc-gljz.space
 www.betsbc-goag.ml
 www.betsbc-goag.tk
 www.betsbc-gvow.space
 www.betsbc-gzjs.space
 www.betsbc-isal.space
 www.betsbc-jacy.space
+www.betsbc-jrzm.space
 www.betsbc-khdx.space
 www.betsbc-kosv.space
 www.betsbc-kqii.space
@@ -22845,6 +22842,7 @@ www.betsbc-krtr.space
 www.betsbc-krtr.tk
 www.betsbc-kuql.space
 www.betsbc-loja.space
+www.betsbc-mcmn.space
 www.betsbc-nizd.space
 www.betsbc-omfy.space
 www.betsbc-omfy.tk
@@ -22852,6 +22850,7 @@ www.betsbc-outt.space
 www.betsbc-oyij.tk
 www.betsbc-oyph.space
 www.betsbc-quyz.space
+www.betsbc-qyzw.space
 www.betsbc-riur.space
 www.betsbc-riur.tk
 www.betsbc-sitj.tk
@@ -22861,6 +22860,7 @@ www.betsbc-srkw.space
 www.betsbc-stvm.space
 www.betsbc-tint.space
 www.betsbc-tpma.space
+www.betsbc-ugxi.space
 www.betsbc-ugxi.tk
 www.betsbc-vemb.space
 www.betsbc-wase.tk
@@ -25749,6 +25749,4 @@ zvukoff-ru.net
 zvukovoronka.ru
 zyteli.info
 zytely.info
-zzzerkalo.net
-nfo
 zzzerkalo.net
