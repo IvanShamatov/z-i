@@ -7167,6 +7167,7 @@ bez-deposita-bonus.us
 bez-registracii.win
 bez-zaycev.ru
 bezdep-bonus.ru
+bezdep.casino
 bezdep12bonusinfo.faith
 bezdep14bonusinfo.faith
 bezdep17bonusinfo.faith
@@ -11157,6 +11158,7 @@ hd-kinogo.net
 hd-kinogo.ru
 hd-lostfilm.ru
 hd-rezka.club
+hd-rezka.pro
 hd.zfilm-hd.space
 hd4me.xyz
 hd720.club
@@ -11904,6 +11906,7 @@ kinonix.net
 kinonix.tv
 kinoo-net.ru
 kinoo.su
+kinooscar.pro
 kinopablik.net
 kinoparking.net
 kinopauk.ru
@@ -12964,7 +12967,6 @@ lp-09.fon-infosport.info
 lp-12.fon-infosport.info
 lp-14.fon-infosport.info
 lp-17.fon-infosport.info
-lp-18.fon-infosport.info
 lp-20.fon-infosport.info
 lp-22.fon-infosport.info
 lp-23.fon-infosport.info
@@ -12972,15 +12974,16 @@ lp-24.fon-infosport.info
 lp-28.fon-infosport.info
 lp-31.fon-infosport.info
 lp-32.fon-infosport.info
-lp-33.fon-infosport.info
 lp-35.fon-infosport.info
+lp-38.fon-infosport.info
 lp-39.fon-infosport.info
-lp-40.fon-infosport.info
 lp-41.fon-infosport.info
 lp-42.fon-infosport.info
 lp-44.fon-infosport.info
 lp-45.fon-infosport.info
+lp-47.fon-infosport.info
 lp-48.fon-infosport.info
+lp-50.fon-infosport.info
 lp-51.fon-infosport.info
 lp-52.fon-infosport.info
 lp-54.fon-infosport.info
@@ -16958,7 +16961,6 @@ mytraffmostbet.com
 mz-tracker.org
 mzerkalo.ru
 mzerkalob.ru
-mzvukov.ru
 n-torrents.ru
 n.noph.top
 n9m.61ba.site
@@ -20132,6 +20134,7 @@ rusbet.space
 rusbetting.ru
 ruserialy.ru
 rusmedia-org.ru
+rusru.eu
 russ1.topmuzon.info
 russ10.topmuzon.info
 russ11.topmuzon.info
@@ -23219,6 +23222,7 @@ www.coolmarathon.win
 www.coolmbet.win
 www.coolrotate.win
 www.crack-forum.ru
+www.defencetv.com
 www.deliatv.ru
 www.dev.bec0de.com
 www.diamondworldcasino.com
@@ -26038,6 +26042,4 @@ zvukoff-ru.net
 zvukovoronka.ru
 zyteli.info
 zytely.info
-zzzerkalo.net
-
 zzzerkalo.net
