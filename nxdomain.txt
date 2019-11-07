@@ -13200,9 +13200,7 @@ lp-29.fon-infosport.info
 lp-30.fon-infosport.info
 lp-31.fon-infosport.info
 lp-32.fon-infosport.info
-lp-33.fon-infosport.info
 lp-34.fon-infosport.info
-lp-35.fon-infosport.info
 lp-36.fon-infosport.info
 lp-37.fon-infosport.info
 lp-39.fon-infosport.info
@@ -13213,6 +13211,7 @@ lp-43.fon-infosport.info
 lp-44.fon-infosport.info
 lp-45.fon-infosport.info
 lp-46.fon-infosport.info
+lp-47.fon-infosport.info
 lp-48.fon-infosport.info
 lp-49.fon-infosport.info
 lp-50.fon-infosport.info
