@@ -13210,7 +13210,6 @@ lp-41.fon-infosport.info
 lp-42.fon-infosport.info
 lp-43.fon-infosport.info
 lp-44.fon-infosport.info
-lp-45.fon-infosport.info
 lp-46.fon-infosport.info
 lp-47.fon-infosport.info
 lp-48.fon-infosport.info
@@ -22210,7 +22209,6 @@ wap.betsbc-stvm.space
 wap.betsbc-tint.space
 wap.betsbc-ugxi.space
 wap.betsbc-vemb.space
-wap.betsbc-wase.space
 wap.betsbc-ydts.space
 wap.betsbc-yeph.space
 wap.betsbc-ypkx.space
@@ -23712,12 +23710,15 @@ www.cdnvideo.online
 www.celticcasino.com
 www.cityamcasino.com
 www.clubadmiral.win
+www.clubgmslots.club
+www.clubgmslots.com
 www.coolbestcasino2.com
 www.coolmarathon.win
 www.coolmbet.win
 www.coolrotate.win
 www.defencetv.com
 www.deliatv.ru
+www.deluxe-gms.com
 www.dev.bec0de.com
 www.diamondworldcasino.com
 www.dino-casino.com
