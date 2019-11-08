@@ -9467,6 +9467,7 @@ dmwan.woid.game-server.cc
 doc.proxies.by
 docronika.ru
 dofiga-mp3.ru
+doghunter.to
 dok911.ru
 dok911ru.com
 dokymentalnoe.ru
@@ -13239,7 +13240,6 @@ lp-30.fon-infosport.info
 lp-31.fon-infosport.info
 lp-33.fon-infosport.info
 lp-34.fon-infosport.info
-lp-35.fon-infosport.info
 lp-36.fon-infosport.info
 lp-37.fon-infosport.info
 lp-38.fon-infosport.info
@@ -18186,7 +18186,6 @@ opachirik.com
 opcash.club
 opcash.ltd
 opcash.pro
-open-hide.biz
 openshara.ru
 opentg.us
 opm.8a32.site
@@ -24639,7 +24638,6 @@ www.new-rutor.eu
 www.new-rutor.in
 www.new-rutor.net.pl
 www.new-rutor.org.pl
-www.new-vulkan.ru
 www.newmbet.win
 www.newrutor.net.pl
 www.newrutor.org.pl
