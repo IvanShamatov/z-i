@@ -13249,7 +13249,6 @@ lp-41.fon-infosport.info
 lp-42.fon-infosport.info
 lp-43.fon-infosport.info
 lp-44.fon-infosport.info
-lp-45.fon-infosport.info
 lp-46.fon-infosport.info
 lp-47.fon-infosport.info
 lp-48.fon-infosport.info
@@ -14370,7 +14369,6 @@ media-rotate.com
 media-rs.info
 media-rus.info
 media-tracker.info
-media.theync.com
 mediabirzha.ru
 mediacool.win
 mediarot-newyear.win
@@ -23973,6 +23971,7 @@ www.freebetslots.su
 www.freekaraoke.ru
 www.freeplayautomaty.club
 www.freeriper.com
+www.freeslotsnodeposits.co.uk
 www.freetorrmd.org
 www.freetorrmd.ru
 www.freeview.me
