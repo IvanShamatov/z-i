@@ -5771,7 +5771,6 @@ avtomaty-casino-vulkan.com
 avtomaty-igrat-besplatno.com
 avtomaty-igrovye-besplatno.com
 avtomaty-nadengi.info
-avtomaty.igrovoy-zal.com
 avtomaty24besplatno.com
 avtomatydengisvyvodom.com
 avtomatyigrovye.online
@@ -5790,8 +5789,16 @@ axolotlgold.com
 aywer.ru
 az-casino777.ru
 az-in-o777.ru
+az-ino-mobil.xyz
+az-ino-mobile.xyz
 az-ino777zerkalo.ru
+az-inomobil.xyz
+az-inomobile.xyz
 az-mob.site
+az-mobi.site
+az-mobi.xyz
+az-mobil.site
+az-mobil.xyz
 az-mobile-go.win
 az-mobile.site
 az-mobile.xyz
@@ -5911,6 +5918,8 @@ azino-mobi-777.ru
 azino-mobi-777.win
 azino-mobi.site
 azino-mobi.xyz
+azino-mobil.site
+azino-mobil.xyz
 azino-mobile.info
 azino-mobile.net
 azino-mobile.online
@@ -6052,6 +6061,8 @@ azinomobgo.site
 azinomobgo.xyz
 azinomobi.site
 azinomobi.xyz
+azinomobil.site
+azinomobil.xyz
 azinomobile-777.club
 azinomobile-777.online
 azinomobile-777.site
@@ -6081,6 +6092,10 @@ azinovulkan.net
 azinozerkalos.info
 azj0lzfcxd.srcl.connect.netcdn.bcdl.rocks
 azmnp1.com
+azmobi.site
+azmobi.xyz
+azmobil.site
+azmobil.xyz
 azmobile-go.win
 azmobile.site
 azmpp1.com
@@ -9964,6 +9979,7 @@ filmfirst.ru
 filmi.site
 filmix-online.net
 filmix.city
+filmix.com.ua
 filmix.in.ua
 filmix.tw
 filmix.uk
@@ -11343,7 +11359,6 @@ hd1.baskino3.ml
 hd4me.xyz
 hd720.club
 hd720gid.online
-hdbee.ru
 hdday.ru
 hdfilmi.club
 hdgid.net
@@ -13443,7 +13458,6 @@ m.betcity-tgkb.space
 m.betcity-twtx.space
 m.betcity-uhpw.space
 m.betcity-vqjd.space
-m.betcity-wmzf.space
 m.betsbc-ehuw.space
 m.betsbc-gjxc.space
 m.betsbc-goag.ml
@@ -15162,6 +15176,7 @@ mobgo-azino.site
 mobgo-azino.xyz
 mobgoazino.site
 mobgoazino.xyz
+mobi-az.xyz
 mobi-azino-777.ru
 mobi-azino-777.win
 mobi-azino.site
@@ -15169,11 +15184,23 @@ mobi-azino.xyz
 mobi-azino777.online
 mobi-azino777.ru
 mobi-set.net
+mobiaz.site
+mobiaz.xyz
 mobiazino.site
 mobiazino.xyz
 mobigdz.ru
+mobil-az-ino.xyz
+mobil-az.site
+mobil-az.xyz
+mobil-azino.site
+mobilaz-ino.xyz
+mobilaz.site
+mobilaz.xyz
+mobilazino.site
+mobilazino.xyz
 mobile-777-azino.ru
 mobile-777-azino.win
+mobile-az-ino.xyz
 mobile-az.site
 mobile-az.xyz
 mobile-azi.site
@@ -15634,6 +15661,7 @@ mobile.winlinebk7.com
 mobile.winlinebk8.com
 mobile.winlinebk9.com
 mobile.yourmarathon.win
+mobileaz-ino.xyz
 mobileaz.site
 mobileaz.xyz
 mobileazi.site
@@ -22162,7 +22190,6 @@ wap.betcity-ctcc.space
 wap.betcity-dxox.space
 wap.betcity-dyub.space
 wap.betcity-ekia.space
-wap.betcity-fhjq.space
 wap.betcity-fmvs.space
 wap.betcity-fzep.space
 wap.betcity-gska.space
@@ -22181,7 +22208,6 @@ wap.betcity-nxzn.space
 wap.betcity-oiah.space
 wap.betcity-orit.space
 wap.betcity-orkk.space
-wap.betcity-ovww.space
 wap.betcity-pdsh.space
 wap.betcity-peyu.space
 wap.betcity-qirf.space
@@ -22201,7 +22227,6 @@ wap.betcity-ygmu.space
 wap.betcity-yldq.space
 wap.betcity-yomy.space
 wap.betcity-zcxo.space
-wap.betsbc-adep.space
 wap.betsbc-anlk.space
 wap.betsbc-ccro.space
 wap.betsbc-cjsq.space
@@ -23445,7 +23470,6 @@ www.betcity-cqcn.space
 www.betcity-ctcc.space
 www.betcity-dxox.space
 www.betcity-dyub.space
-www.betcity-ekia.space
 www.betcity-ekia.tk
 www.betcity-fasf.space
 www.betcity-fcei.space
@@ -23493,7 +23517,6 @@ www.betcity-peyu.space
 www.betcity-peyu.tk
 www.betcity-qirf.space
 www.betcity-qkpi.space
-www.betcity-raiu.space
 www.betcity-rqpi.space
 www.betcity-rqpi.tk
 www.betcity-ru.top
@@ -26595,6 +26618,7 @@ zull.innal.top
 zulll.innal.top
 zv-fm.info
 zv-fm.ru
+zvb.life
 zvfm.su
 zvmp3-fm.ru
 zvukicasino.info
