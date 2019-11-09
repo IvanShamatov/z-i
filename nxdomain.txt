@@ -1324,6 +1324,7 @@
 1wetr.xyz
 1weyi.xyz
 1wezy.xyz
+1wfau.me
 1wfaz.me
 1wfbf.me
 1wfdp.me
@@ -1335,6 +1336,7 @@
 1wfuk.xyz
 1wfux.me
 1wfyb.me
+1wgbj.me
 1wgbl.me
 1wgbv.me
 1wghp.xyz
@@ -1916,6 +1918,7 @@
 1wzno.xyz
 1wzqg.me
 1wzun.xyz
+1wzuy.me
 1wzwk.me
 1wzws.me
 1wzyd.me
@@ -13280,7 +13283,6 @@ lp-30.fon-infosport.info
 lp-31.fon-infosport.info
 lp-32.fon-infosport.info
 lp-34.fon-infosport.info
-lp-35.fon-infosport.info
 lp-36.fon-infosport.info
 lp-37.fon-infosport.info
 lp-38.fon-infosport.info
@@ -13290,8 +13292,8 @@ lp-41.fon-infosport.info
 lp-42.fon-infosport.info
 lp-43.fon-infosport.info
 lp-44.fon-infosport.info
-lp-45.fon-infosport.info
 lp-46.fon-infosport.info
+lp-47.fon-infosport.info
 lp-48.fon-infosport.info
 lp-49.fon-infosport.info
 lp-50.fon-infosport.info
@@ -18573,6 +18575,7 @@ playboxhdd.com
 playcasino-x.ru
 playcasinoadh.executiveshelter.com
 playe12.emprendeconlorena.com
+playfortuna-cazino-online.ru
 playfortuna1.com
 playfortuna1cd.com
 playgame1x.com
