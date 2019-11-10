@@ -1269,6 +1269,7 @@
 1wamc.me
 1wamz.xyz
 1wapr.me
+1wapv.me
 1warj.me
 1wasr.me
 1wawp.xyz
@@ -1287,6 +1288,7 @@
 1wbud.xyz
 1wbvf.xyz
 1wbzt.xyz
+1wcah.me
 1wcas.me
 1wcayv.top
 1wcca.me
@@ -1324,6 +1326,7 @@
 1wery.me
 1west.me
 1wetr.xyz
+1weuu.me
 1weyi.xyz
 1wezy.xyz
 1wfau.me
@@ -1772,6 +1775,7 @@
 1wnma.me
 1wnpx.me
 1wnrs.xyz
+1wnvt.me
 1wnxh.me
 1wnyu.me
 1woae.me
@@ -1786,6 +1790,8 @@
 1wonn.me
 1wooh.me
 1wope.me
+1wosq.me
+1wpir.me
 1wpiv.xyz
 1wpkw.me
 1wplh.me
@@ -1919,6 +1925,7 @@
 1wzgx.me
 1wzin.xyz
 1wzls.me
+1wzmz.me
 1wzno.xyz
 1wzqg.me
 1wzun.xyz
@@ -22410,7 +22417,6 @@ wap.betsbc-ydts.space
 wap.betsbc-yeph.space
 wap.betsbc-ypkx.space
 wap.betsbc-zcyt.space
-wap.betsbc-zpii.space
 wap.betsbc-zucp.space
 wap.bk-betcity.top
 wap.bkbet.top
