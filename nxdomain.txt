@@ -13368,8 +13368,6 @@ lp-37.fon-infosport.info
 lp-38.fon-infosport.info
 lp-39.fon-infosport.info
 lp-40.fon-infosport.info
-lp-41.fon-infosport.info
-lp-42.fon-infosport.info
 lp-43.fon-infosport.info
 lp-44.fon-infosport.info
 lp-45.fon-infosport.info
@@ -15667,6 +15665,7 @@ mobile.winlinebet218.com
 mobile.winlinebet219.com
 mobile.winlinebet220.com
 mobile.winlinebet221.com
+mobile.winlinebet222.com
 mobile.winlinebet223.com
 mobile.winlinebet224.com
 mobile.winlinebet225.com
@@ -17896,6 +17895,7 @@ new.winlinebet218.com
 new.winlinebet219.com
 new.winlinebet220.com
 new.winlinebet221.com
+new.winlinebet222.com
 new.winlinebet223.com
 new.winlinebet224.com
 new.winlinebet225.com
@@ -21115,6 +21115,7 @@ smotret-films.info
 smotret-kinogo.ru
 smotret-online.kz
 smotret.film1080.online
+smotri-filmi.in
 smotri-football.ru
 snspbcbk.help.bcaccess.space
 sobetmostbet.com
@@ -22390,7 +22391,6 @@ wap.betcity-ruve.space
 wap.betcity-tmmb.space
 wap.betcity-uaol.space
 wap.betcity-umwe.space
-wap.betcity-wotk.space
 wap.betcity-xqxg.space
 wap.betcity-ygmu.space
 wap.betcity-yldq.space
@@ -22736,6 +22736,7 @@ winlinebet218.com
 winlinebet219.com
 winlinebet220.com
 winlinebet221.com
+winlinebet222.com
 winlinebet223.com
 winlinebet224.com
 winlinebet225.com
@@ -23636,7 +23637,6 @@ www.betchan1.com
 www.betcity-alpz.space
 www.betcity-best.ru
 www.betcity-bfmu.space
-www.betcity-cduy.space
 www.betcity-cehm.space
 www.betcity-cehm.tk
 www.betcity-clad.space
@@ -23685,11 +23685,11 @@ www.betcity-oiah.space
 www.betcity-orit.space
 www.betcity-orkk.space
 www.betcity-orkk.tk
+www.betcity-ovww.space
 www.betcity-pdsh.space
 www.betcity-peyu.space
 www.betcity-peyu.tk
 www.betcity-qirf.space
-www.betcity-qkpi.space
 www.betcity-raiu.space
 www.betcity-rqpi.space
 www.betcity-rqpi.tk
@@ -23709,7 +23709,6 @@ www.betcity-vepw.tk
 www.betcity-vgbq.space
 www.betcity-vlur.space
 www.betcity-vqjd.space
-www.betcity-wmzf.space
 www.betcity-wotk.space
 www.betcity-xqxg.space
 www.betcity-yeyr.tk
@@ -23796,6 +23795,7 @@ www.betnano7.com
 www.betonex1.com
 www.betrally.com
 www.bets-on-sport.ru
+www.betsbc-adep.space
 www.betsbc-anlk.space
 www.betsbc-ccro.space
 www.betsbc-ccro.tk
@@ -25437,6 +25437,7 @@ www.winlinebet218.com
 www.winlinebet219.com
 www.winlinebet220.com
 www.winlinebet221.com
+www.winlinebet222.com
 www.winlinebet223.com
 www.winlinebet224.com
 www.winlinebet225.com
