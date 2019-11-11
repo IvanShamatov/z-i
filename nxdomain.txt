@@ -5850,7 +5850,6 @@ avtomaty-casino-vulkan.com
 avtomaty-igrat-besplatno.com
 avtomaty-igrovye-besplatno.com
 avtomaty-nadengi.info
-avtomaty.igrovoy-zal.com
 avtomaty24besplatno.com
 avtomatydengisvyvodom.com
 avtomatyigrovye.online
@@ -13365,6 +13364,7 @@ lp-04.fongametime.info
 lp-04.foninfobet.info
 lp-05.fongametime.info
 lp-05.foninfobet.info
+lp-06.fon-infosport.info
 lp-06.foninfobet.info
 lp-07.fon-infosport.info
 lp-08.fon-infosport.info
@@ -13374,6 +13374,7 @@ lp-11.fon-infosport.info
 lp-14.fon-infosport.info
 lp-15.fon-infosport.info
 lp-16.fon-infosport.info
+lp-17.fon-infosport.info
 lp-18.fon-infosport.info
 lp-19.fon-infosport.info
 lp-20.fon-infosport.info
@@ -22382,6 +22383,7 @@ wap.betcity-ru.top
 wap.betcity-rus.top
 wap.betcity-ruve.space
 wap.betcity-tmmb.space
+wap.betcity-uaol.space
 wap.betcity-umwe.space
 wap.betcity-vgbq.space
 wap.betcity-wotk.space
