@@ -13394,8 +13394,6 @@ lp-37.fon-infosport.info
 lp-38.fon-infosport.info
 lp-39.fon-infosport.info
 lp-40.fon-infosport.info
-lp-41.fon-infosport.info
-lp-42.fon-infosport.info
 lp-43.fon-infosport.info
 lp-44.fon-infosport.info
 lp-45.fon-infosport.info
@@ -22372,7 +22370,6 @@ wap.betcity-nxzn.space
 wap.betcity-oiah.space
 wap.betcity-orit.space
 wap.betcity-orkk.space
-wap.betcity-ovww.space
 wap.betcity-pdsh.space
 wap.betcity-peyu.space
 wap.betcity-qirf.space
