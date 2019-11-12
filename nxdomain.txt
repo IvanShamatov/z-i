@@ -13421,7 +13421,6 @@ lp-01.foninfobet.info
 lp-02.fon-infosport.info
 lp-02.fongametime.info
 lp-02.foninfobet.info
-lp-03.fon-infosport.info
 lp-03.fongametime.info
 lp-03.foninfobet.info
 lp-04.fongametime.info
@@ -13438,13 +13437,11 @@ lp-10.fon-infosport.info
 lp-11.fon-infosport.info
 lp-12.fon-infosport.info
 lp-13.fon-infosport.info
-lp-14.fon-infosport.info
 lp-16.fon-infosport.info
 lp-17.fon-infosport.info
 lp-18.fon-infosport.info
 lp-19.fon-infosport.info
 lp-22.fon-infosport.info
-lp-23.fon-infosport.info
 lp-24.fon-infosport.info
 lp-25.fon-infosport.info
 lp-26.fon-infosport.info
@@ -13456,6 +13453,7 @@ lp-33.fon-infosport.info
 lp-34.fon-infosport.info
 lp-35.fon-infosport.info
 lp-38.fon-infosport.info
+lp-39.fon-infosport.info
 lp-41.fon-infosport.info
 lp-42.fon-infosport.info
 lp-43.fon-infosport.info
@@ -18631,6 +18629,7 @@ partnernetw.com
 partnersmara.com
 partycasino.ryagenka.ru
 passagio.ru
+patricinha.blog.br
 pbkregnewlive101.pw
 pbkregnewlive505.pw
 pbkregnewlive808.pw
@@ -21278,6 +21277,7 @@ sonnik-casino.men
 sopicmostpart.com
 sopicmpst.com
 sosamba66.ru
+souljaboy.pp.ru
 soundtorr.ru
 sp1054.com
 spartacasino.org
@@ -25056,6 +25056,7 @@ www.playamo3.com
 www.playamo7.com
 www.playamo8.com
 www.playfortuna-mobile.ru
+www.playgms.com
 www.playrussvulcan.ru
 www.pleer.com
 www.pleer.net
@@ -25189,6 +25190,7 @@ www.slavaangel.com
 www.slavaangel.ru
 www.slotchamp.com
 www.slotiazino55.space
+www.slotsgaminator.com
 www.sluver.com
 www.smotri-football.ru
 www.softorr.ru
@@ -25271,6 +25273,7 @@ www.thismovie.ru
 www.tiger-bet25.com
 www.tncne.com
 www.topasnew.ru
+www.topgms.com
 www.tornado.org.ru
 www.torr-nado.ru
 www.torrent-games.net
@@ -25372,9 +25375,11 @@ www.vulcangrand1.com
 www.vulcangrand18.com
 www.vulcangrand20.com
 www.vulcangrand26.com
+www.vulcanigry.com
 www.vulcanprestige4.com
 www.vulkan-clb.com
 www.vulkan-clb.net
+www.vulkan-online-24.net
 www.vulkanosport.com
 www.vulkanwin.bet
 www.w-ww.the-rutor.org
