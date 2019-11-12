@@ -13363,6 +13363,7 @@ lp-03.foninfobet.info
 lp-04.fon-infosport.info
 lp-04.fongametime.info
 lp-04.foninfobet.info
+lp-05.fon-infosport.info
 lp-05.fongametime.info
 lp-05.foninfobet.info
 lp-06.fon-infosport.info
@@ -13372,6 +13373,7 @@ lp-08.fon-infosport.info
 lp-09.fon-infosport.info
 lp-10.fon-infosport.info
 lp-11.fon-infosport.info
+lp-12.fon-infosport.info
 lp-14.fon-infosport.info
 lp-15.fon-infosport.info
 lp-16.fon-infosport.info
@@ -13397,6 +13399,7 @@ lp-37.fon-infosport.info
 lp-38.fon-infosport.info
 lp-39.fon-infosport.info
 lp-40.fon-infosport.info
+lp-41.fon-infosport.info
 lp-43.fon-infosport.info
 lp-45.fon-infosport.info
 lp-46.fon-infosport.info
@@ -25911,6 +25914,7 @@ yregistrationbk505.top
 yregnewbklive303.pw
 z-bet.ru
 z-muzik.net
+z.ganja-seeds.org
 z3d.3bf8.site
 z798ydba.bid
 zagonka.ru
