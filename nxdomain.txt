@@ -13435,14 +13435,11 @@ lp-06.fon-infosport.info
 lp-06.foninfobet.info
 lp-07.fon-infosport.info
 lp-08.fon-infosport.info
-lp-09.fon-infosport.info
 lp-10.fon-infosport.info
-lp-11.fon-infosport.info
 lp-12.fon-infosport.info
 lp-13.fon-infosport.info
 lp-14.fon-infosport.info
 lp-15.fon-infosport.info
-lp-16.fon-infosport.info
 lp-17.fon-infosport.info
 lp-18.fon-infosport.info
 lp-19.fon-infosport.info
@@ -13467,7 +13464,6 @@ lp-39.fon-infosport.info
 lp-40.fon-infosport.info
 lp-41.fon-infosport.info
 lp-42.fon-infosport.info
-lp-43.fon-infosport.info
 lp-45.fon-infosport.info
 lp-46.fon-infosport.info
 lp-47.fon-infosport.info
@@ -13475,8 +13471,6 @@ lp-48.fon-infosport.info
 lp-49.fon-infosport.info
 lp-50.fon-infosport.info
 lp-52.fon-infosport.info
-lp-53.fon-infosport.info
-lp-54.fon-infosport.info
 lp-55.fon-infosport.info
 lp-56.fon-infosport.info
 lp.championcasino.net
@@ -21317,7 +21311,6 @@ sport-time.net
 sport-tv.tvru.su
 sport-zenit.com
 sport.kupiproday.by
-sport.tvru.su
 sport2018n.info
 sport2018s.info
 sport2018x.info
@@ -23875,7 +23868,6 @@ www.betcity-tgkb.space
 www.betcity-thg777.ru
 www.betcity-tmmb.space
 www.betcity-top.ru
-www.betcity-uaol.space
 www.betcity-uhpw.space
 www.betcity-umwe.space
 www.betcity-umwe.tk
@@ -23989,6 +23981,7 @@ www.betsbc-goag.tk
 www.betsbc-gvow.space
 www.betsbc-gzjs.space
 www.betsbc-isal.space
+www.betsbc-isal.tk
 www.betsbc-jacy.space
 www.betsbc-jrzm.space
 www.betsbc-khdx.space
