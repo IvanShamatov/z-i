@@ -13449,7 +13449,6 @@ lp-05.fongametime.info
 lp-05.foninfobet.info
 lp-06.fon-infosport.info
 lp-06.foninfobet.info
-lp-07.fon-infosport.info
 lp-09.fon-infosport.info
 lp-10.fon-infosport.info
 lp-11.fon-infosport.info
@@ -13461,7 +13460,6 @@ lp-17.fon-infosport.info
 lp-18.fon-infosport.info
 lp-22.fon-infosport.info
 lp-23.fon-infosport.info
-lp-24.fon-infosport.info
 lp-25.fon-infosport.info
 lp-26.fon-infosport.info
 lp-27.fon-infosport.info
@@ -13481,6 +13479,7 @@ lp-47.fon-infosport.info
 lp-48.fon-infosport.info
 lp-49.fon-infosport.info
 lp-50.fon-infosport.info
+lp-51.fon-infosport.info
 lp-53.fon-infosport.info
 lp-54.fon-infosport.info
 lp-55.fon-infosport.info
@@ -14602,9 +14601,6 @@ mediacool.win
 mediarot-newyear.win
 medik-store.ru
 medknigi-krd.ru
-medrastvor.com
-medrastvor.net
-medrastvor.online
 medrastvor.org
 medrastvor.today
 medspravki-v-krasnodare.com
@@ -22139,7 +22135,6 @@ vo1lccaim.com
 vo1lkaim.com
 vo1lkkaim.com
 vodamsk.net
-vodamsk.online
 vodamsk.today
 vol1caim.com
 vol1cpay.com
@@ -23995,6 +23990,7 @@ www.betsbc-gzjs.space
 www.betsbc-isal.space
 www.betsbc-isal.tk
 www.betsbc-jacy.space
+www.betsbc-jrzm.space
 www.betsbc-khdx.space
 www.betsbc-kosv.space
 www.betsbc-kqii.space
