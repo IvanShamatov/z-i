@@ -6876,7 +6876,6 @@ beloy-zubr.com
 benarms.net
 benz-pdas.only.ru.com
 bergforcouncilgold.com
-besplatno-2.azartnie-avtomaty.com
 besplatno-igrat-sloty.club
 besplatno.azartnie-avtomaty.com
 besplatno.gaminatory.net
@@ -13506,6 +13505,7 @@ lp-01.foninfobet.info
 lp-02.fon-infosport.info
 lp-02.fongametime.info
 lp-02.foninfobet.info
+lp-03.fon-infosport.info
 lp-03.fongametime.info
 lp-03.foninfobet.info
 lp-04.fon-infosport.info
@@ -13524,10 +13524,10 @@ lp-13.fon-infosport.info
 lp-15.fon-infosport.info
 lp-16.fon-infosport.info
 lp-17.fon-infosport.info
+lp-18.fon-infosport.info
 lp-19.fon-infosport.info
 lp-20.fon-infosport.info
 lp-21.fon-infosport.info
-lp-22.fon-infosport.info
 lp-23.fon-infosport.info
 lp-24.fon-infosport.info
 lp-26.fon-infosport.info
@@ -13538,6 +13538,7 @@ lp-30.fon-infosport.info
 lp-31.fon-infosport.info
 lp-32.fon-infosport.info
 lp-33.fon-infosport.info
+lp-34.fon-infosport.info
 lp-36.fon-infosport.info
 lp-37.fon-infosport.info
 lp-38.fon-infosport.info
@@ -22683,7 +22684,6 @@ wap.betcity-gska.space
 wap.betcity-guer.space
 wap.betcity-hagn.space
 wap.betcity-hkso.space
-wap.betcity-hxar.space
 wap.betcity-iwud.space
 wap.betcity-izsn.space
 wap.betcity-lcqw.space
@@ -22730,6 +22730,7 @@ wap.betsbc-gzjs.space
 wap.betsbc-isal.space
 wap.betsbc-jacy.space
 wap.betsbc-jrzm.space
+wap.betsbc-krtr.space
 wap.betsbc-kuql.space
 wap.betsbc-loja.space
 wap.betsbc-mcmn.space
@@ -22748,7 +22749,6 @@ wap.betsbc-wase.space
 wap.betsbc-ydts.space
 wap.betsbc-yeph.space
 wap.betsbc-ypkx.space
-wap.betsbc-zcyt.space
 wap.betsbc-zpii.space
 wap.betsbc-zucp.space
 wap.bk-betcity.top
@@ -24173,7 +24173,6 @@ www.betsbc-srkw.space
 www.betsbc-stvm.space
 www.betsbc-tint.space
 www.betsbc-tpma.space
-www.betsbc-ugxi.space
 www.betsbc-ugxi.tk
 www.betsbc-vemb.space
 www.betsbc-wase.space
