@@ -12420,6 +12420,7 @@ kinorip.site
 kinorkn.ru
 kinorubik.net
 kinosalon.kz
+kinoserialhd.ru
 kinosha.su
 kinosklad-anime.ru
 kinosklad-kino.ru
@@ -13523,7 +13524,9 @@ lp-06.fon-infosport.info
 lp-06.foninfobet.info
 lp-07.fon-infosport.info
 lp-08.fon-infosport.info
+lp-09.fon-infosport.info
 lp-10.fon-infosport.info
+lp-11.fon-infosport.info
 lp-12.fon-infosport.info
 lp-13.fon-infosport.info
 lp-14.fon-infosport.info
@@ -13548,6 +13551,7 @@ lp-32.fon-infosport.info
 lp-33.fon-infosport.info
 lp-34.fon-infosport.info
 lp-36.fon-infosport.info
+lp-37.fon-infosport.info
 lp-38.fon-infosport.info
 lp-40.fon-infosport.info
 lp-41.fon-infosport.info
@@ -13559,7 +13563,6 @@ lp-47.fon-infosport.info
 lp-48.fon-infosport.info
 lp-49.fon-infosport.info
 lp-50.fon-infosport.info
-lp-51.fon-infosport.info
 lp-52.fon-infosport.info
 lp-54.fon-infosport.info
 lp-55.fon-infosport.info
