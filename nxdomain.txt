@@ -13522,6 +13522,7 @@ lp-05.fongametime.info
 lp-05.foninfobet.info
 lp-06.fon-infosport.info
 lp-06.foninfobet.info
+lp-07.fon-infosport.info
 lp-08.fon-infosport.info
 lp-09.fon-infosport.info
 lp-10.fon-infosport.info
@@ -13535,7 +13536,6 @@ lp-17.fon-infosport.info
 lp-18.fon-infosport.info
 lp-19.fon-infosport.info
 lp-20.fon-infosport.info
-lp-21.fon-infosport.info
 lp-22.fon-infosport.info
 lp-23.fon-infosport.info
 lp-24.fon-infosport.info
@@ -13554,7 +13554,6 @@ lp-38.fon-infosport.info
 lp-40.fon-infosport.info
 lp-41.fon-infosport.info
 lp-42.fon-infosport.info
-lp-44.fon-infosport.info
 lp-45.fon-infosport.info
 lp-46.fon-infosport.info
 lp-47.fon-infosport.info
