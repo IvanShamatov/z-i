@@ -13537,9 +13537,9 @@ lp-15.fon-infosport.info
 lp-16.fon-infosport.info
 lp-18.fon-infosport.info
 lp-19.fon-infosport.info
+lp-20.fon-infosport.info
 lp-22.fon-infosport.info
 lp-25.fon-infosport.info
-lp-26.fon-infosport.info
 lp-27.fon-infosport.info
 lp-30.fon-infosport.info
 lp-32.fon-infosport.info
@@ -13550,7 +13550,6 @@ lp-36.fon-infosport.info
 lp-37.fon-infosport.info
 lp-38.fon-infosport.info
 lp-39.fon-infosport.info
-lp-41.fon-infosport.info
 lp-44.fon-infosport.info
 lp-45.fon-infosport.info
 lp-46.fon-infosport.info
@@ -21262,6 +21261,7 @@ serials.themoviebay.ru
 serials.vip
 serialsone.ru
 serialy-novinki.ru
+seriapedia.com
 service.rkngov.top
 servmix.ru
 servmix2019.xyz
@@ -22322,6 +22322,7 @@ vologda.spravami.com
 voronezh.prostitytki.de
 voronezh2.prostitytki.de
 vosemcasino777.info
+vovcasino777.info
 voylkkans.com
 vps2.helpmego.to
 vps7.timcuk.com
@@ -22692,7 +22693,6 @@ wap.betcity-clad.space
 wap.betcity-ctcc.space
 wap.betcity-dxox.space
 wap.betcity-dyub.space
-wap.betcity-ekia.space
 wap.betcity-fhjq.space
 wap.betcity-fmvs.space
 wap.betcity-fzep.space
@@ -22701,7 +22701,6 @@ wap.betcity-guer.space
 wap.betcity-hagn.space
 wap.betcity-hkso.space
 wap.betcity-hxar.space
-wap.betcity-iwud.space
 wap.betcity-izsn.space
 wap.betcity-lcqw.space
 wap.betcity-mjeo.space
@@ -22743,14 +22742,12 @@ wap.betsbc-ehbb.space
 wap.betsbc-eifb.space
 wap.betsbc-fhqa.space
 wap.betsbc-fvoz.space
-wap.betsbc-gljz.space
 wap.betsbc-gzjs.space
 wap.betsbc-isal.space
 wap.betsbc-jacy.space
 wap.betsbc-jrzm.space
 wap.betsbc-krtr.space
 wap.betsbc-kuql.space
-wap.betsbc-loja.space
 wap.betsbc-mcmn.space
 wap.betsbc-nizd.space
 wap.betsbc-outt.space
@@ -23986,8 +23983,10 @@ www.betcity-alpz.space
 www.betcity-best.ru
 www.betcity-bfmu.space
 www.betcity-cduy.space
+www.betcity-cehm.space
 www.betcity-cehm.tk
 www.betcity-clad.space
+www.betcity-cqcn.space
 www.betcity-ctcc.space
 www.betcity-dxox.space
 www.betcity-dyub.space
@@ -25370,6 +25369,7 @@ www.serial-z.online
 www.seriali.kz
 www.serialpro.net
 www.serials.vip
+www.seriapedia.com
 www.service.rkngov.top
 www.servmix.ru
 www.sex-money-play.net
@@ -26218,7 +26218,6 @@ xn--80adydm6a.online
 xn--80aeacltqofgbdb6bp1l.xn--p1ai
 xn--80ahgffdh1adg.site
 xn--80ahgffdh1adg.xn--80asehdb
-xn--80atei8esa.xn--p1ai
 xn--90aavmfi7b1d.xn--p1ai
 xn--90aavwilfc.xn--p1ai
 xn--90ahankqr9d.xn--80asehdb
