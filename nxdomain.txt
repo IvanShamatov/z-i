@@ -13517,6 +13517,7 @@ lp-02.fongametime.info
 lp-02.foninfobet.info
 lp-03.fongametime.info
 lp-03.foninfobet.info
+lp-04.fon-infosport.info
 lp-04.fongametime.info
 lp-04.foninfobet.info
 lp-05.fon-infosport.info
@@ -13533,6 +13534,7 @@ lp-13.fon-infosport.info
 lp-14.fon-infosport.info
 lp-15.fon-infosport.info
 lp-16.fon-infosport.info
+lp-17.fon-infosport.info
 lp-19.fon-infosport.info
 lp-20.fon-infosport.info
 lp-22.fon-infosport.info
@@ -22753,6 +22755,7 @@ wap.betsbc-jacy.space
 wap.betsbc-jrzm.space
 wap.betsbc-krtr.space
 wap.betsbc-kuql.space
+wap.betsbc-loja.space
 wap.betsbc-mcmn.space
 wap.betsbc-nizd.space
 wap.betsbc-outt.space
@@ -25476,6 +25479,7 @@ www.torr-nado.ru
 www.torrent-games.net
 www.torrent-hub.com
 www.torrent-lynx.ru
+www.torrentdownloads.cm
 www.torrentdownloads.net.pl
 www.torrentiz.org
 www.torrentsget.net
