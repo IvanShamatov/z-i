@@ -13555,8 +13555,10 @@ lp-09.fon-infosport.info
 lp-10.fon-infosport.info
 lp-11.fon-infosport.info
 lp-13.fon-infosport.info
+lp-14.fon-infosport.info
 lp-15.fon-infosport.info
 lp-17.fon-infosport.info
+lp-18.fon-infosport.info
 lp-19.fon-infosport.info
 lp-20.fon-infosport.info
 lp-21.fon-infosport.info
@@ -13566,6 +13568,7 @@ lp-27.fon-infosport.info
 lp-28.fon-infosport.info
 lp-29.fon-infosport.info
 lp-30.fon-infosport.info
+lp-31.fon-infosport.info
 lp-32.fon-infosport.info
 lp-35.fon-infosport.info
 lp-36.fon-infosport.info
@@ -13583,6 +13586,7 @@ lp-50.fon-infosport.info
 lp-51.fon-infosport.info
 lp-53.fon-infosport.info
 lp-54.fon-infosport.info
+lp-55.fon-infosport.info
 lp-56.fon-infosport.info
 lp.championcasino.net
 lpbestsportsbook.com
@@ -20161,7 +20165,6 @@ ru.adleonsite.com
 ru.adleonsmags.com
 ru.adleonsmr2018.com
 ru.adleonspb.com
-ru.adleonspinner.com
 ru.adleonspple.com
 ru.adleonsramo.com
 ru.adleonssia.com
