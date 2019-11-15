@@ -13537,6 +13537,7 @@ lowcoster.pro
 lp-01.fon-infosport.info
 lp-01.fongametime.info
 lp-01.foninfobet.info
+lp-02.fon-infosport.info
 lp-02.fongametime.info
 lp-02.foninfobet.info
 lp-03.fon-infosport.info
@@ -13557,6 +13558,7 @@ lp-11.fon-infosport.info
 lp-13.fon-infosport.info
 lp-14.fon-infosport.info
 lp-15.fon-infosport.info
+lp-16.fon-infosport.info
 lp-17.fon-infosport.info
 lp-18.fon-infosport.info
 lp-19.fon-infosport.info
@@ -13585,9 +13587,7 @@ lp-49.fon-infosport.info
 lp-50.fon-infosport.info
 lp-51.fon-infosport.info
 lp-53.fon-infosport.info
-lp-54.fon-infosport.info
 lp-55.fon-infosport.info
-lp-56.fon-infosport.info
 lp.championcasino.net
 lpbestsportsbook.com
 lregbukmekersx404.top
@@ -22053,7 +22053,6 @@ ua.cybbet.com
 ua.the-rutor.org
 ua.ua.kz.rutrk.maintracker.org
 uabetting.com
-uavkino.info
 ubkregnewlive303.pw
 udacha-777.ru
 udachya777.ru
@@ -25205,7 +25204,6 @@ www.my-music-kiosk.ru
 www.my-skladkino.ru
 www.my-zaycev.net
 www.my2ndfl.com
-www.mybookie.ag
 www.myfrankcasino.ru
 www.mygobetx.com
 www.mymarathon.win
@@ -25481,7 +25479,6 @@ www.spravki-v-novosibirske.ru
 www.spravki-v-omske.ru
 www.spravki-v-ufe.ru
 www.spravki-v-volgograde.ru
-www.spravki-v-voronezhe.ru
 www.spravki54.ru
 www.spravki55.ru
 www.spravki59.ru
