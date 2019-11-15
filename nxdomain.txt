@@ -13571,7 +13571,6 @@ lp-29.fon-infosport.info
 lp-30.fon-infosport.info
 lp-31.fon-infosport.info
 lp-32.fon-infosport.info
-lp-35.fon-infosport.info
 lp-36.fon-infosport.info
 lp-38.fon-infosport.info
 lp-39.fon-infosport.info
@@ -22763,15 +22762,12 @@ wap.betcity-ruve.space
 wap.betcity-tmmb.space
 wap.betcity-uaol.space
 wap.betcity-umwe.space
-wap.betcity-vgbq.space
-wap.betcity-wotk.space
 wap.betcity-xqxg.space
 wap.betcity-ygmu.space
 wap.betcity-yldq.space
 wap.betcity-yomy.space
 wap.betcity-zcxo.space
 wap.betsbc-adep.space
-wap.betsbc-anlk.space
 wap.betsbc-ccro.space
 wap.betsbc-cjsq.space
 wap.betsbc-cvqd.space
@@ -22784,7 +22780,6 @@ wap.betsbc-gljz.space
 wap.betsbc-gzjs.space
 wap.betsbc-isal.space
 wap.betsbc-jacy.space
-wap.betsbc-jrzm.space
 wap.betsbc-krtr.space
 wap.betsbc-kuql.space
 wap.betsbc-loja.space
@@ -22798,7 +22793,6 @@ wap.betsbc-riur.space
 wap.betsbc-srkw.space
 wap.betsbc-stvm.space
 wap.betsbc-tint.space
-wap.betsbc-ugxi.space
 wap.betsbc-vemb.space
 wap.betsbc-wase.space
 wap.betsbc-ydts.space
@@ -24022,7 +24016,6 @@ www.betchan1.com
 www.betcity-alpz.space
 www.betcity-best.ru
 www.betcity-bfmu.space
-www.betcity-cduy.space
 www.betcity-cehm.space
 www.betcity-cehm.tk
 www.betcity-clad.space
@@ -24077,7 +24070,6 @@ www.betcity-pdsh.space
 www.betcity-peyu.space
 www.betcity-peyu.tk
 www.betcity-qirf.space
-www.betcity-qkpi.space
 www.betcity-raiu.space
 www.betcity-rqpi.space
 www.betcity-rqpi.tk
@@ -24097,7 +24089,6 @@ www.betcity-vepw.tk
 www.betcity-vgbq.space
 www.betcity-vlur.space
 www.betcity-vqjd.space
-www.betcity-wmzf.space
 www.betcity-wotk.space
 www.betcity-xqxg.space
 www.betcity-yeyr.tk
