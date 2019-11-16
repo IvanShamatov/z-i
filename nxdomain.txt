@@ -13574,7 +13574,6 @@ lp-11.fon-infosport.info
 lp-12.fon-infosport.info
 lp-13.fon-infosport.info
 lp-14.fon-infosport.info
-lp-15.fon-infosport.info
 lp-16.fon-infosport.info
 lp-17.fon-infosport.info
 lp-18.fon-infosport.info
@@ -13591,7 +13590,6 @@ lp-28.fon-infosport.info
 lp-29.fon-infosport.info
 lp-30.fon-infosport.info
 lp-31.fon-infosport.info
-lp-32.fon-infosport.info
 lp-33.fon-infosport.info
 lp-34.fon-infosport.info
 lp-35.fon-infosport.info
@@ -19857,6 +19855,7 @@ ru-bk60.ru
 ru-joycasino.org
 ru-leonbets.com
 ru-p-oker.com
+ru-passports.com
 ru-pok-er.com
 ru-tor.pro
 ru-tor24.ru
@@ -22319,6 +22318,7 @@ vkino-one.ru
 vkino-tv.pro
 vkino-tv.su
 vkinogo.ru
+vkinotv.net
 vklasse.org
 vklfootball.com
 vkluchitv.org
