@@ -13599,7 +13599,6 @@ lp-03.foninfobet.info
 lp-04.fon-infosport.info
 lp-04.fongametime.info
 lp-04.foninfobet.info
-lp-05.fon-infosport.info
 lp-05.fongametime.info
 lp-05.foninfobet.info
 lp-06.fon-infosport.info
@@ -13625,7 +13624,6 @@ lp-24.fon-infosport.info
 lp-25.fon-infosport.info
 lp-26.fon-infosport.info
 lp-27.fon-infosport.info
-lp-28.fon-infosport.info
 lp-29.fon-infosport.info
 lp-30.fon-infosport.info
 lp-31.fon-infosport.info
@@ -24134,7 +24132,6 @@ www.betcity-mqnf.space
 www.betcity-msrx.space
 www.betcity-mtps.space
 www.betcity-mtps.tk
-www.betcity-myhb.space
 www.betcity-nbfj.space
 www.betcity-ngfy.space
 www.betcity-nmuk.space
@@ -24303,7 +24300,6 @@ www.betsbc-srkw.space
 www.betsbc-stvm.space
 www.betsbc-tint.space
 www.betsbc-tpma.space
-www.betsbc-ugxi.space
 www.betsbc-ugxi.tk
 www.betsbc-vemb.space
 www.betsbc-vlqb.space
