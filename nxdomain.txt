@@ -13608,7 +13608,6 @@ lp-05.foninfobet.info
 lp-06.fon-infosport.info
 lp-06.foninfobet.info
 lp-07.fon-infosport.info
-lp-08.fon-infosport.info
 lp-09.fon-infosport.info
 lp-10.fon-infosport.info
 lp-11.fon-infosport.info
@@ -13647,6 +13646,7 @@ lp-44.fon-infosport.info
 lp-45.fon-infosport.info
 lp-46.fon-infosport.info
 lp-48.fon-infosport.info
+lp-49.fon-infosport.info
 lp-50.fon-infosport.info
 lp-51.fon-infosport.info
 lp-52.fon-infosport.info
@@ -22542,6 +22542,7 @@ vslotycvli.info
 vslotyxpool.info
 vtore24.info
 vtorente-rus.ru
+vtorrent.club
 vtorrente.net
 vu0lkkans.com
 vu0llkans.com
