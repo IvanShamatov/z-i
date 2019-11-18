@@ -5708,6 +5708,7 @@ aln8du3vq4.other.betsbc.online
 aln8du3vq4.tel.betsbc.online
 aln93jnc2n.other.betsbc.online
 aln93jnc2n.tel.betsbc.online
+alt.rutor.pl
 alternativa2018.info
 alternativnyj-adres-zerkalo.date
 alternativnyj-adres.win
@@ -13535,6 +13536,7 @@ live-zerkalos23.space
 live-zerkalos98.space
 live.fon-sportsbet.com
 live.rus.the-rutor.org
+live.rutor.pl
 live1xbet.space
 live357.ru
 livebetzerkaloe.host
@@ -13632,6 +13634,7 @@ lp-11.fon-infosport.info
 lp-12.fon-infosport.info
 lp-13.fon-infosport.info
 lp-15.fon-infosport.info
+lp-19.fon-infosport.info
 lp-20.fon-infosport.info
 lp-22.fon-infosport.info
 lp-23.fon-infosport.info
@@ -13640,7 +13643,6 @@ lp-28.fon-infosport.info
 lp-29.fon-infosport.info
 lp-30.fon-infosport.info
 lp-31.fon-infosport.info
-lp-32.fon-infosport.info
 lp-34.fon-infosport.info
 lp-36.fon-infosport.info
 lp-39.fon-infosport.info
@@ -18032,6 +18034,7 @@ new.mirror1.mirrorolimp2.online
 new.mirror1.olimp24x7.online
 new.mirror2.olimp24x7.online
 new.parimatch-abc.com
+new.rutor.pl
 new.winline-bet1.com
 new.winline-bet10.com
 new.winline-bet2.com
@@ -21226,6 +21229,7 @@ rutor.biz.pl
 rutor.com.pl
 rutor.guru
 rutor.kz
+rutor.pl
 rutor.proxme.download
 rutor.qwaa.ru
 rutor.stream
@@ -22898,6 +22902,7 @@ wap.betsbc-stvm.space
 wap.betsbc-tint.space
 wap.betsbc-ugxi.space
 wap.betsbc-vemb.space
+wap.betsbc-wase.space
 wap.betsbc-ydts.space
 wap.betsbc-yeph.space
 wap.betsbc-ypkx.space
@@ -25490,6 +25495,7 @@ www.rutor-info.info
 www.rutor-new.ru
 www.rutor-serials.info
 www.rutor.com.pl
+www.rutor.pl
 www.rutor1.org
 www.ruttorg.info
 www.rutv.info
