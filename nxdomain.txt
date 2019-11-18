@@ -13774,6 +13774,7 @@ lp-23.fon-infosport.info
 lp-24.fon-infosport.info
 lp-25.fon-infosport.info
 lp-26.fon-infosport.info
+lp-27.fon-infosport.info
 lp-28.fon-infosport.info
 lp-29.fon-infosport.info
 lp-30.fon-infosport.info
@@ -13786,6 +13787,7 @@ lp-36.fon-infosport.info
 lp-37.fon-infosport.info
 lp-38.fon-infosport.info
 lp-39.fon-infosport.info
+lp-40.fon-infosport.info
 lp-41.fon-infosport.info
 lp-42.fon-infosport.info
 lp-43.fon-infosport.info
@@ -23063,7 +23065,6 @@ wap.betcity-ovww.space
 wap.betcity-pdsh.space
 wap.betcity-peyu.space
 wap.betcity-qirf.space
-wap.betcity-qkpi.space
 wap.betcity-raiu.space
 wap.betcity-rqpi.space
 wap.betcity-ru.top
@@ -26610,6 +26611,7 @@ xn--b1agjhjihk1l.xn--p1ai
 xn--b1amqfqcmr2bn.xn--p1ai
 xn--c1acj.xn--80aswg
 xn--c1adwigk.com
+xn--c1aej.name
 xn--c1ajfnfb.club
 xn--c1ajfnfb.online
 xn--c1ajfnfb.pw
