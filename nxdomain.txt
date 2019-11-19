@@ -13825,17 +13825,16 @@ lp-04.foninfobet.info
 lp-05.fongametime.info
 lp-05.foninfobet.info
 lp-06.foninfobet.info
+lp-07.fon-infosport.info
 lp-08.fon-infosport.info
 lp-09.fon-infosport.info
 lp-10.fon-infosport.info
 lp-12.fon-infosport.info
-lp-13.fon-infosport.info
 lp-14.fon-infosport.info
 lp-17.fon-infosport.info
 lp-18.fon-infosport.info
 lp-19.fon-infosport.info
 lp-20.fon-infosport.info
-lp-21.fon-infosport.info
 lp-22.fon-infosport.info
 lp-23.fon-infosport.info
 lp-24.fon-infosport.info
@@ -13848,6 +13847,7 @@ lp-30.fon-infosport.info
 lp-31.fon-infosport.info
 lp-33.fon-infosport.info
 lp-34.fon-infosport.info
+lp-36.fon-infosport.info
 lp-40.fon-infosport.info
 lp-41.fon-infosport.info
 lp-42.fon-infosport.info
@@ -20078,7 +20078,6 @@ rington.pw
 ringtonclub.ru
 riobet-cazino1.ru
 riobet-com.com
-riper.am
 rivalo106.com
 rkn.zfilm-hd.space
 rkna.xyz
@@ -23106,7 +23105,6 @@ wap.betcity-guer.space
 wap.betcity-hagn.space
 wap.betcity-hkso.space
 wap.betcity-hxar.space
-wap.betcity-iwud.space
 wap.betcity-izsn.space
 wap.betcity-lcqw.space
 wap.betcity-mjeo.space
@@ -23135,6 +23133,7 @@ wap.betcity-vgbq.space
 wap.betcity-wotk.space
 wap.betcity-xqxg.space
 wap.betcity-ygmu.space
+wap.betcity-yldq.space
 wap.betcity-yomy.space
 wap.betcity-zcxo.space
 wap.betsbc-adep.space
@@ -24441,10 +24440,10 @@ www.betcity-gska.space
 www.betcity-guer.space
 www.betcity-hagn.space
 www.betcity-hjcv.space
+www.betcity-hkso.space
 www.betcity-hkso.tk
 www.betcity-hxar.space
 www.betcity-hzvy.space
-www.betcity-iwud.space
 www.betcity-izsn.cf
 www.betcity-izsn.space
 www.betcity-jmqf.space
@@ -24489,6 +24488,7 @@ www.betcity-uaol.space
 www.betcity-uhpw.space
 www.betcity-umwe.space
 www.betcity-umwe.tk
+www.betcity-vepw.space
 www.betcity-vepw.tk
 www.betcity-vgbq.space
 www.betcity-vlur.space
@@ -25765,7 +25765,6 @@ www.resheba.ru
 www.reshimzavas.com
 www.rington.info
 www.rington.pw
-www.riper.am
 www.rivalo105.com
 www.rivalo106.com
 www.rivalo108.com
