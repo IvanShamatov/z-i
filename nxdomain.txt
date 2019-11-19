@@ -2168,7 +2168,6 @@
 1xgbu.top
 1xgck.host
 1xgdq.host
-1xgfy.host
 1xggw.top
 1xghd.top
 1xghk.top
@@ -2178,7 +2177,6 @@
 1xgsfz.top
 1xgwn.host
 1xgww.host
-1xgxn.host
 1xgya.top
 1xgyr.host
 1xgzk.top
@@ -5105,7 +5103,6 @@
 9435bf.olimp6b96.top
 943fc3.olimp06e8.top
 944371.olimpd9f7.top
-944973.olimpb3a9.top
 94573f.olimp2a24.top
 946659.olimpc1e5.top
 94689a.olimpe24a.top
@@ -11619,7 +11616,6 @@ geiminator.win
 geiminatorplay.com
 gelezo.ws.md
 gembu.host
-generalfilm.info
 gershwind.com
 gertenemka.ru
 gestinn.eu
@@ -13788,6 +13784,7 @@ lp-06.foninfobet.info
 lp-07.fon-infosport.info
 lp-08.fon-infosport.info
 lp-09.fon-infosport.info
+lp-10.fon-infosport.info
 lp-12.fon-infosport.info
 lp-13.fon-infosport.info
 lp-14.fon-infosport.info
@@ -13811,12 +13808,10 @@ lp-32.fon-infosport.info
 lp-33.fon-infosport.info
 lp-34.fon-infosport.info
 lp-36.fon-infosport.info
-lp-37.fon-infosport.info
 lp-38.fon-infosport.info
 lp-39.fon-infosport.info
 lp-40.fon-infosport.info
 lp-41.fon-infosport.info
-lp-44.fon-infosport.info
 lp-45.fon-infosport.info
 lp-46.fon-infosport.info
 lp-47.fon-infosport.info
@@ -24449,6 +24444,7 @@ www.betcity-wotk.space
 www.betcity-xqxg.space
 www.betcity-yeyr.tk
 www.betcity-ygmu.space
+www.betcity-yldq.space
 www.betcity-yomy.space
 www.betcity-zcxo.space
 www.betcity-zerkalo-1bde.ru
