@@ -13816,7 +13816,6 @@ lp-01.foninfobet.info
 lp-02.fon-infosport.info
 lp-02.fongametime.info
 lp-02.foninfobet.info
-lp-03.fon-infosport.info
 lp-03.fongametime.info
 lp-03.foninfobet.info
 lp-04.fon-infosport.info
@@ -13841,7 +13840,6 @@ lp-22.fon-infosport.info
 lp-23.fon-infosport.info
 lp-25.fon-infosport.info
 lp-26.fon-infosport.info
-lp-27.fon-infosport.info
 lp-28.fon-infosport.info
 lp-29.fon-infosport.info
 lp-30.fon-infosport.info
@@ -13850,7 +13848,6 @@ lp-33.fon-infosport.info
 lp-34.fon-infosport.info
 lp-36.fon-infosport.info
 lp-39.fon-infosport.info
-lp-40.fon-infosport.info
 lp-41.fon-infosport.info
 lp-42.fon-infosport.info
 lp-45.fon-infosport.info
@@ -19842,7 +19839,6 @@ redbox-cazino.ru
 redbox-kazino.ru
 redboxcasino.me
 redboxcasino.su
-redir.1red.xyz
 redkings-casino.men
 redtraffmostsp.com
 refpaakf.top
