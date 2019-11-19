@@ -7060,6 +7060,7 @@ besplatno-igrat-sloty.club
 besplatno.azartnie-avtomaty.com
 besplatno.gaminatory.net
 besplatno.igrovye-gaminatory.com
+besplatno1.azartnie-avtomaty.com
 besplatno2.igrovye-gaminatory.com
 besplatno3.igrovye-gaminatory.com
 besplatnoe-kazino.ru
@@ -9301,8 +9302,12 @@ casino-vulcan-udachi.ryagenka.ru
 casino-vulcan.club
 casino-vulcan.pw
 casino-vulkan-stars.ru
+casino-vulkanb.info
 casino-vulkanf.info
+casino-vulkann.info
 casino-vulkano.info
+casino-vulkanr.info
+casino-vulkans.info
 casino-vulkany.info
 casino-x-win.net
 casino-x.icu
@@ -11662,6 +11667,7 @@ getavantcredit.org
 getbettraf.com
 getbettrafsp.com
 getcasino.fun
+getcasino.info
 getcasino.site
 getmarathon.win
 getmarathonbet.win
@@ -11708,6 +11714,7 @@ givemosttraf.com
 givemosttrafs.com
 glavplatie.ru
 glavstavka.su
+global-video.info
 gmsmultigaminators.ru
 gncash.com
 gnicebukmekery404.top
@@ -13819,7 +13826,6 @@ lp-05.fongametime.info
 lp-05.foninfobet.info
 lp-06.fon-infosport.info
 lp-06.foninfobet.info
-lp-07.fon-infosport.info
 lp-08.fon-infosport.info
 lp-09.fon-infosport.info
 lp-10.fon-infosport.info
@@ -13827,7 +13833,6 @@ lp-12.fon-infosport.info
 lp-13.fon-infosport.info
 lp-14.fon-infosport.info
 lp-15.fon-infosport.info
-lp-16.fon-infosport.info
 lp-17.fon-infosport.info
 lp-18.fon-infosport.info
 lp-19.fon-infosport.info
@@ -13842,7 +13847,6 @@ lp-28.fon-infosport.info
 lp-29.fon-infosport.info
 lp-30.fon-infosport.info
 lp-31.fon-infosport.info
-lp-32.fon-infosport.info
 lp-33.fon-infosport.info
 lp-34.fon-infosport.info
 lp-36.fon-infosport.info
@@ -23733,6 +23737,7 @@ ww-w.the-rutor.org
 ww-ww.the-rutor.org
 ww-www.the-rutor.org
 ww.rubit-tracker.org
+ww1.baskino3.ml
 ww2.baskino3.ml
 ww3.baskino3.ml
 wwa.mp3-tut.biz
