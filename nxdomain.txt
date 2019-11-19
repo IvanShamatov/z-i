@@ -2107,6 +2107,7 @@
 1xbqn.xyz
 1xbqt.top
 1xbtih.top
+1xbtnn.host
 1xbtwt.top
 1xbujq.top
 1xbvdq.top
@@ -13779,7 +13780,6 @@ lp-06.fon-infosport.info
 lp-06.foninfobet.info
 lp-07.fon-infosport.info
 lp-08.fon-infosport.info
-lp-11.fon-infosport.info
 lp-12.fon-infosport.info
 lp-13.fon-infosport.info
 lp-14.fon-infosport.info
@@ -13801,7 +13801,6 @@ lp-29.fon-infosport.info
 lp-31.fon-infosport.info
 lp-32.fon-infosport.info
 lp-33.fon-infosport.info
-lp-34.fon-infosport.info
 lp-35.fon-infosport.info
 lp-36.fon-infosport.info
 lp-37.fon-infosport.info
@@ -13812,13 +13811,10 @@ lp-41.fon-infosport.info
 lp-44.fon-infosport.info
 lp-45.fon-infosport.info
 lp-46.fon-infosport.info
-lp-47.fon-infosport.info
 lp-48.fon-infosport.info
 lp-49.fon-infosport.info
-lp-50.fon-infosport.info
 lp-51.fon-infosport.info
 lp-52.fon-infosport.info
-lp-53.fon-infosport.info
 lp-55.fon-infosport.info
 lp-56.fon-infosport.info
 lp.championcasino.net
@@ -18680,6 +18676,7 @@ nowmosttrafed.com
 nowslettraf.com
 nowsmostpart.com
 ns3.neverfold.ru
+nsk-dostavka54.online
 nskdiplom-at.com
 nskdiplom-att.com
 nsportprognoz.ru
