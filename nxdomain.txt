@@ -4742,9 +4742,13 @@
 777-azino-all.site
 777-azino-mobi.ru
 777-azino-mobi.win
+777-azino-tut.site
+777-azino-tut.xyz
 777-azino.club
 777-azino.su
 777-azinoall.site
+777-azinotut.site
+777-azinotut.xyz
 777-c-azino.ru
 777-k-azino.ru
 777-mobi-azino.ru
@@ -4752,6 +4756,10 @@
 777-mobile-azino.ru
 777-mobile-azino.win
 777-planet-igrovie-avtomati-igrat-zerkalo.azino-777.icu
+777-tut-azino.site
+777-tut-azino.xyz
+777-tutazino.site
+777-tutazino.xyz
 777.azino-777-tri-topora.ru
 777.azino.mobi
 777.bezdep888online.info
@@ -4763,6 +4771,8 @@
 777admiral.pw
 777automatydogry.com
 777azino-all.site
+777azino-tut.site
+777azino-tut.xyz
 777azino.vin
 777azinoall.site
 777azinob.host
@@ -4771,6 +4781,8 @@
 777azinok.host
 777azinoq.info
 777azinor.host
+777azinotut.site
+777azinotut.xyz
 777azinov.info
 777azinow.info
 777azinox.host
@@ -4800,6 +4812,10 @@
 777sloti2o18.info
 777slotsmoney.vip
 777slotspay.com
+777tut-azino.site
+777tut-azino.xyz
+777tutazino.site
+777tutazino.xyz
 777uspehvcasino.faith
 777volcano.club
 777volcano.net
@@ -5514,12 +5530,16 @@ adminandmbet.win
 adminmarathon.win
 adminmarathonand.win
 admiral-club-casino.net
+admiral-club.foot-bol.com
 admiral-club.nlofact.com
+admiral-gameclub.foot-bol.com
 admiral-igrovye-avtomaty.net
+admiral-play.foot-bol.com
 admiral-play.nlofact.com
 admiral-x18.win
 admiral-x30.win
 admiral-xxx-win.ru
+admiral.foot-bol.com
 admiral.nlofact.com
 admiral.plati.top
 admiral.pw
@@ -5528,6 +5548,7 @@ admiral7x.ru
 admiralcasino.games
 admiralcasino.pro
 admiralcasino.zone
+admiralclub.foot-bol.com
 admiralclub.in
 admiralclub.nlofact.com
 admiralclub1.com
@@ -6036,6 +6057,7 @@ azino-777-otzivi.win
 azino-777-play.ru
 azino-777-play.win
 azino-777-sait.ru
+azino-777-tut.site
 azino-777-win.win
 azino-777.icu
 azino-777.ooo
@@ -6045,6 +6067,7 @@ azino-777mobile.club
 azino-777mobile.site
 azino-777mobile.xyz
 azino-777topora.ru
+azino-777tut.site
 azino-axes-bonus.ru
 azino-azino777.ru
 azino-bonus.com
@@ -6081,6 +6104,10 @@ azino-ofsait777.ru
 azino-play-777.ru
 azino-sait.ru
 azino-sait777.ru
+azino-tut-777.site
+azino-tut-777.xyz
+azino-tut777.site
+azino-tut777.xyz
 azino.casino
 azino.su
 azino3-topora.ru
@@ -6113,6 +6140,8 @@ azino777-sait.ru
 azino777-sait777.ru
 azino777-tri-topora.ru
 azino777-turnir.win
+azino777-tut.site
+azino777-tut.xyz
 azino777-vhod.online
 azino777-win.online
 azino777.casin2018z.info
@@ -6165,6 +6194,7 @@ azino777s.fun
 azino777sbonus.info
 azino777t.info
 azino777topora.ru
+azino777tut.site
 azino777vulkana.info
 azino777vulkani.info
 azino777vulkann.info
@@ -6239,6 +6269,10 @@ azinoslot777r.info
 azinoslot777w.info
 azinoslot777y.info
 azinotry777igra76.space
+azinotut-777.site
+azinotut-777.xyz
+azinotut777.site
+azinotut777.xyz
 azinovulkan.net
 azinozerkalos.info
 azj0lzfcxd.srcl.connect.netcdn.bcdl.rocks
@@ -7026,7 +7060,6 @@ besplatno-igrat-sloty.club
 besplatno.azartnie-avtomaty.com
 besplatno.gaminatory.net
 besplatno.igrovye-gaminatory.com
-besplatno1.azartnie-avtomaty.com
 besplatno2.igrovye-gaminatory.com
 besplatno3.igrovye-gaminatory.com
 besplatnoe-kazino.ru
@@ -9379,6 +9412,7 @@ casino777slotu.info
 casino777slotw.info
 casino888turciya.fun
 casinoabsolut.com
+casinoadmiral.foot-bol.com
 casinoair.host
 casinoak777azinow.info
 casinoaktrisa.info
@@ -9568,6 +9602,7 @@ cloud-ptr172.tavu.io
 cloud-ptr174.tavu.io
 cloud-ptr183.tavu.io
 cloud1.cloud.local
+club-admiral.foot-bol.com
 club-slots.com
 club-volcano-vip.com
 club-vulcan-platinum.ryagenka.ru
@@ -9581,6 +9616,7 @@ club777azinoe.info
 club777azinoq.info
 club777azinot.info
 club777azinow.info
+clubadmiral.foot-bol.com
 clubadmiral.one
 clubbkzerkalo55.space
 clubbkzerkalo99.space
@@ -12507,6 +12543,7 @@ kinogo2019.com
 kinogo2019.me
 kinogo222.club
 kinogo2cc.com
+kinogo3-filmi-2018.club
 kinogo3.net
 kinogo333.club
 kinogo4.net
@@ -13751,6 +13788,7 @@ lostfilm.xyz
 lostfilmmix.ru
 lostfilmon.ru
 lostsfilm.ru
+losttorrent.ru
 lotfilm.ru
 lotin.turkiston.info
 loto.freebyte.pro
@@ -13812,6 +13850,7 @@ lp-38.fon-infosport.info
 lp-39.fon-infosport.info
 lp-40.fon-infosport.info
 lp-41.fon-infosport.info
+lp-42.fon-infosport.info
 lp-45.fon-infosport.info
 lp-46.fon-infosport.info
 lp-47.fon-infosport.info
@@ -19283,6 +19322,7 @@ platinum.likecasino.info
 platinumplayonlinecasino.icu
 plationline.org
 platya-kazino.space
+play-admiral.foot-bol.com
 play-azartplay.nlofact.com
 play-casino-free.ru
 play-columb.sport-people.club
@@ -22324,10 +22364,25 @@ tushkan3.me
 tushkan4.me
 tushkan5.me
 tushkan6.me
+tut-777-azino.site
+tut-777azino.site
+tut-777azino.xyz
+tut-azino-777.site
+tut-azino-777.xyz
+tut-azino777.site
+tut-azino777.xyz
 tut-mp3.net
 tut-mp3.ru
 tut-zerkalo.ru
+tut777-azino.site
+tut777-azino.xyz
+tut777azino.site
+tut777azino.xyz
 tut_svoi_text.opentg.us
+tutazino-777.site
+tutazino-777.xyz
+tutazino777.site
+tutazino777.xyz
 tutfilm.top
 tuti.site
 tutorrent.info
@@ -23118,6 +23173,7 @@ wap.betsbc-vemb.space
 wap.betsbc-wase.space
 wap.betsbc-ydts.space
 wap.betsbc-yeph.space
+wap.betsbc-ypkx.space
 wap.betsbc-zcyt.space
 wap.betsbc-zpii.space
 wap.betsbc-zucp.space
@@ -24007,7 +24063,9 @@ www.76-azino777.win
 www.76azino777.win
 www.77-azino777.win
 www.777-azino-mobi.win
+www.777-azino-tut.xyz
 www.777-azino.ru
+www.777-azinotut.xyz
 www.777-c-azino.ru
 www.777-mobi-azino.win
 www.77777azino.win
