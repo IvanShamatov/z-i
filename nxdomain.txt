@@ -13827,7 +13827,6 @@ lp-31.fon-infosport.info
 lp-32.fon-infosport.info
 lp-33.fon-infosport.info
 lp-35.fon-infosport.info
-lp-36.fon-infosport.info
 lp-37.fon-infosport.info
 lp-38.fon-infosport.info
 lp-39.fon-infosport.info
@@ -18902,6 +18901,7 @@ omostraffic.com
 omostrafic.com
 omosttraffic.com
 on.kinokong.ws
+on.kinoline.online
 one-x-bet.com
 onedayadnet.win
 onedaybanner.win
@@ -23248,13 +23248,13 @@ wap.betcity-zcxo.space
 wap.betsbc-adep.space
 wap.betsbc-anlk.space
 wap.betsbc-ccro.space
+wap.betsbc-cjsq.space
 wap.betsbc-cvqd.space
 wap.betsbc-efut.space
 wap.betsbc-ehbb.space
 wap.betsbc-eifb.space
 wap.betsbc-fhqa.space
 wap.betsbc-fvoz.space
-wap.betsbc-gljz.space
 wap.betsbc-gzjs.space
 wap.betsbc-isal.space
 wap.betsbc-jacy.space
@@ -24525,7 +24525,6 @@ www.bet2.pm
 www.betchan1.com
 www.betcity-alpz.space
 www.betcity-best.ru
-www.betcity-bfmu.space
 www.betcity-cduy.space
 www.betcity-cehm.space
 www.betcity-cehm.tk
@@ -24547,7 +24546,6 @@ www.betcity-gska.space
 www.betcity-guer.space
 www.betcity-hagn.space
 www.betcity-hjcv.space
-www.betcity-hkso.space
 www.betcity-hkso.tk
 www.betcity-hxar.space
 www.betcity-hzvy.space
@@ -24602,7 +24600,6 @@ www.betcity-vgbq.space
 www.betcity-vlur.space
 www.betcity-vqjd.space
 www.betcity-wmzf.space
-www.betcity-wotk.space
 www.betcity-xqxg.space
 www.betcity-yeyr.tk
 www.betcity-ygmu.space
@@ -24748,7 +24745,6 @@ www.betsbc-xzzk.space
 www.betsbc-ydts.space
 www.betsbc-ydts.tk
 www.betsbc-yeph.space
-www.betsbc-ypkx.space
 www.betsbc-zcyt.cf
 www.betsbc-zcyt.space
 www.betsbc-zpii.space
