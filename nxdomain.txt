@@ -13811,9 +13811,9 @@ lp-02.foninfobet.info
 lp-03.fon-infosport.info
 lp-03.fongametime.info
 lp-03.foninfobet.info
-lp-04.fon-infosport.info
 lp-04.fongametime.info
 lp-04.foninfobet.info
+lp-05.fon-infosport.info
 lp-05.fongametime.info
 lp-05.foninfobet.info
 lp-06.fon-infosport.info
@@ -13829,7 +13829,6 @@ lp-15.fon-infosport.info
 lp-17.fon-infosport.info
 lp-18.fon-infosport.info
 lp-19.fon-infosport.info
-lp-20.fon-infosport.info
 lp-21.fon-infosport.info
 lp-22.fon-infosport.info
 lp-24.fon-infosport.info
@@ -13848,6 +13847,7 @@ lp-38.fon-infosport.info
 lp-39.fon-infosport.info
 lp-42.fon-infosport.info
 lp-43.fon-infosport.info
+lp-44.fon-infosport.info
 lp-45.fon-infosport.info
 lp-46.fon-infosport.info
 lp-47.fon-infosport.info
@@ -23735,7 +23735,6 @@ ww-ww.the-rutor.org
 ww-www.the-rutor.org
 ww.rubit-tracker.org
 ww1.baskino3.ml
-ww2.baskino3.ml
 ww3.baskino3.ml
 wwa.mp3-tut.biz
 wwb.mp3-tut.biz
