@@ -13822,7 +13822,6 @@ lp-02.foninfobet.info
 lp-03.fon-infosport.info
 lp-03.fongametime.info
 lp-03.foninfobet.info
-lp-04.fon-infosport.info
 lp-04.fongametime.info
 lp-04.foninfobet.info
 lp-05.fon-infosport.info
@@ -13867,6 +13866,7 @@ lp-49.fon-infosport.info
 lp-50.fon-infosport.info
 lp-52.fon-infosport.info
 lp-53.fon-infosport.info
+lp-54.fon-infosport.info
 lp-56.fon-infosport.info
 lp.championcasino.net
 lpbestsportsbook.com
@@ -18829,6 +18829,7 @@ novoezerkalo.men
 novokuznetsk.indi-msk.com
 novokuznetsk.rfgibdd.ru
 novomat.ru
+novomoskovsk.ostanovi-schetchik.ru
 novosibirsk.spravami.com
 novye-zerkala-bk-tut.review
 novyj-sajt-zerkala.bid
