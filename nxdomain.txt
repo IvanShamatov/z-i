@@ -11880,7 +11880,6 @@ hdrezka.icu
 hdrezka.in.ua
 hdrezka.men
 hdrezka.ooo
-hdrezka.space
 hdrezka.top
 hdrezka2.com
 hdrezkaa.ru
@@ -13827,7 +13826,6 @@ lp-04.foninfobet.info
 lp-05.fon-infosport.info
 lp-05.fongametime.info
 lp-05.foninfobet.info
-lp-06.fon-infosport.info
 lp-06.foninfobet.info
 lp-07.fon-infosport.info
 lp-08.fon-infosport.info
@@ -13856,7 +13854,6 @@ lp-31.fon-infosport.info
 lp-32.fon-infosport.info
 lp-33.fon-infosport.info
 lp-35.fon-infosport.info
-lp-37.fon-infosport.info
 lp-38.fon-infosport.info
 lp-39.fon-infosport.info
 lp-40.fon-infosport.info
@@ -13865,13 +13862,15 @@ lp-42.fon-infosport.info
 lp-43.fon-infosport.info
 lp-44.fon-infosport.info
 lp-45.fon-infosport.info
+lp-46.fon-infosport.info
 lp-47.fon-infosport.info
 lp-48.fon-infosport.info
+lp-49.fon-infosport.info
 lp-50.fon-infosport.info
-lp-51.fon-infosport.info
 lp-52.fon-infosport.info
 lp-53.fon-infosport.info
 lp-55.fon-infosport.info
+lp-56.fon-infosport.info
 lp.championcasino.net
 lpbestsportsbook.com
 lregbukmekersx404.top
@@ -17638,12 +17637,16 @@ mp-01.fbmetrix-f3d22.com
 mp-01.fbmetrix-fb14d.com
 mp-01.fbmetrix-fd1a8.com
 mp-01.fbmetrix-fea3f.com
+mp-02.directsmartroute.info
 mp-02.directsmartroute.xyz
 mp-02.fbmetrix-df3f5.com
 mp-02.smartdirectroute.co
+mp-03.directsmartroute.info
 mp-03.directsmartroute.xyz
 mp-03.smartdirectroute.co
+mp-04.directsmartroute.info
 mp-04.directsmartroute.xyz
+mp-05.directsmartroute.info
 mp-05.directsmartroute.xyz
 mp-06.directsmartroute.xyz
 mp.3music.ru
@@ -19664,7 +19667,6 @@ pobedaslots.lesstrana.ru
 pobedaslots.ryagenka.ru
 podkova-bet.com
 podkovabet.club
-point.bitcheese.net
 poirterikos21.ru
 poiskm.nerukami.ru
 poiskmp3.club
@@ -24874,7 +24876,6 @@ www.clickuk.org.
 www.clubadmiral.win
 www.clubgmslots.club
 www.clubgmslots.com
-www.coolbestcasino2.com
 www.coolmarathon.win
 www.coolmbet.win
 www.coolrotate.win
@@ -25140,6 +25141,7 @@ www.hdkino.vip
 www.hdmyvi.ru
 www.hdrezkka.ru
 www.hdsunduk.ru
+www.helvprint.ru
 www.himarathon.win
 www.himarathonbet.win
 www.holland-seeds.org
