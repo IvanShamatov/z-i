@@ -13849,12 +13849,10 @@ lp-18.fon-infosport.info
 lp-19.fon-infosport.info
 lp-20.fon-infosport.info
 lp-21.fon-infosport.info
-lp-22.fon-infosport.info
 lp-24.fon-infosport.info
 lp-25.fon-infosport.info
 lp-26.fon-infosport.info
 lp-27.fon-infosport.info
-lp-28.fon-infosport.info
 lp-29.fon-infosport.info
 lp-30.fon-infosport.info
 lp-31.fon-infosport.info
@@ -13870,7 +13868,6 @@ lp-44.fon-infosport.info
 lp-45.fon-infosport.info
 lp-46.fon-infosport.info
 lp-47.fon-infosport.info
-lp-48.fon-infosport.info
 lp-49.fon-infosport.info
 lp-50.fon-infosport.info
 lp-51.fon-infosport.info
@@ -24637,6 +24634,7 @@ www.betcity-umwe.tk
 www.betcity-vepw.space
 www.betcity-vepw.tk
 www.betcity-vgbq.space
+www.betcity-vlur.space
 www.betcity-vqjd.space
 www.betcity-wmzf.space
 www.betcity-wotk.space
@@ -24787,6 +24785,7 @@ www.betsbc-ydts.tk
 www.betsbc-yeph.space
 www.betsbc-ypkx.space
 www.betsbc-zcyt.cf
+www.betsbc-zcyt.space
 www.betsbc-zpii.space
 www.betsbc-zsav.space
 www.betsbc-zucp.space
