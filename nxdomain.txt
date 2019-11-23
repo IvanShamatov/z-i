@@ -10117,7 +10117,6 @@ dlux.po-chestnomu.ru
 dmwan.woid.game-server.cc
 doc.proxies.by
 docronika.ru
-docs4visa.ru
 dofiga-mp3.ru
 dok911.ru
 dok911ru.com
@@ -14084,6 +14083,7 @@ lottolucker.org
 lottolucker.win
 lovemarathone.win
 lowcoster.pro
+lp-01.fon-infosport.info
 lp-01.fongametime.info
 lp-01.foninfobet.info
 lp-02.fon-infosport.info
@@ -14121,7 +14121,7 @@ lp-32.fon-infosport.info
 lp-33.fon-infosport.info
 lp-34.fon-infosport.info
 lp-36.fon-infosport.info
-lp-37.fon-infosport.info
+lp-38.fon-infosport.info
 lp-40.fon-infosport.info
 lp-41.fon-infosport.info
 lp-43.fon-infosport.info
@@ -14135,6 +14135,7 @@ lp-52.fon-infosport.info
 lp-53.fon-infosport.info
 lp-54.fon-infosport.info
 lp-55.fon-infosport.info
+lp-56.fon-infosport.info
 lp.championcasino.net
 lpbestsportsbook.com
 lregbukmekersx404.top
@@ -23402,6 +23403,7 @@ vsepropoker854.top
 vsepropoker9.xyz
 vsespravkitut.com
 vsetoptorrent.com
+vsetv.online
 vsfilm.ru
 vslotycvli.info
 vslotyxpool.info
@@ -26513,7 +26515,6 @@ www.sportingbullru789.com
 www.spravka-086y.su
 www.spravka-help.org.
 www.spravka-mow99.ru
-www.spravka1.ru
 www.spravki-tyt.ru
 www.spravki-v-cheboksary.ru
 www.spravki-v-novosibirske.ru
