@@ -14066,6 +14066,7 @@ lostfilm-online.ru
 lostfilm.gold
 lostfilm.men
 lostfilm.xyz
+lostfilmhd.net
 lostfilmmix.ru
 lostfilmon.ru
 lostsfilm.ru
@@ -14104,6 +14105,7 @@ lp-09.fon-infosport.info
 lp-10.fon-infosport.info
 lp-11.fon-infosport.info
 lp-12.fon-infosport.info
+lp-13.fon-infosport.info
 lp-14.fon-infosport.info
 lp-15.fon-infosport.info
 lp-16.fon-infosport.info
@@ -14112,6 +14114,7 @@ lp-18.fon-infosport.info
 lp-20.fon-infosport.info
 lp-22.fon-infosport.info
 lp-23.fon-infosport.info
+lp-25.fon-infosport.info
 lp-27.fon-infosport.info
 lp-28.fon-infosport.info
 lp-29.fon-infosport.info
@@ -14127,6 +14130,7 @@ lp-41.fon-infosport.info
 lp-43.fon-infosport.info
 lp-44.fon-infosport.info
 lp-45.fon-infosport.info
+lp-46.fon-infosport.info
 lp-47.fon-infosport.info
 lp-48.fon-infosport.info
 lp-49.fon-infosport.info
