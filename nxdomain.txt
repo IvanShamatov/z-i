@@ -14098,9 +14098,9 @@ lp-01.foninfobet.info
 lp-02.fon-infosport.info
 lp-02.fongametime.info
 lp-02.foninfobet.info
+lp-03.fon-infosport.info
 lp-03.fongametime.info
 lp-03.foninfobet.info
-lp-04.fon-infosport.info
 lp-04.fongametime.info
 lp-04.foninfobet.info
 lp-05.fon-infosport.info
@@ -14120,6 +14120,7 @@ lp-16.fon-infosport.info
 lp-17.fon-infosport.info
 lp-18.fon-infosport.info
 lp-19.fon-infosport.info
+lp-20.fon-infosport.info
 lp-21.fon-infosport.info
 lp-22.fon-infosport.info
 lp-23.fon-infosport.info
@@ -18655,6 +18656,7 @@ new-rutor.net.pl
 new-rutor.pl
 new-rutor.pp.ua
 new-rutor.pro
+new-rutor.tech
 new-rutor24.ru
 new-tracker.org
 new-tushkan.net
@@ -20173,6 +20175,7 @@ promostbet.ru
 promostpartnerlandpic.com
 promzonaclub.ru
 propokerpro.win
+proputan.ru
 prosmotrcasino.info
 prosportt.ru
 prostes.ru
