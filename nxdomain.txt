@@ -14119,8 +14119,11 @@ lp-15.fon-infosport.info
 lp-16.fon-infosport.info
 lp-17.fon-infosport.info
 lp-18.fon-infosport.info
+lp-19.fon-infosport.info
+lp-21.fon-infosport.info
 lp-22.fon-infosport.info
 lp-23.fon-infosport.info
+lp-24.fon-infosport.info
 lp-25.fon-infosport.info
 lp-27.fon-infosport.info
 lp-28.fon-infosport.info
@@ -14146,7 +14149,6 @@ lp-49.fon-infosport.info
 lp-51.fon-infosport.info
 lp-52.fon-infosport.info
 lp-53.fon-infosport.info
-lp-54.fon-infosport.info
 lp-55.fon-infosport.info
 lp-56.fon-infosport.info
 lp.championcasino.net
@@ -24330,7 +24332,6 @@ ww-ww.the-rutor.org
 ww-www.the-rutor.org
 ww.rubit-tracker.org
 ww1.baskino3.ml
-ww2.baskino3.ml
 ww3.baskino3.ml
 wwa.mp3-tut.biz
 wwb.mp3-tut.biz
