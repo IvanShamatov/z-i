@@ -3129,6 +3129,7 @@
 1xzerkalo1.ru
 1xzerkalo14.ru
 1xzerkalo25.ru
+1xzerkaloo.ru
 1xzfq.host
 1xzgb.host
 1xzis.top
@@ -12558,6 +12559,7 @@ hydra-onion.ru
 hydra-russia.onion.ru.com
 hydra.2vveb.com
 hydra.onion.ru.com
+hydra.pm
 hydra2web.com.se
 hydra2web.name
 hydra2web.promo
@@ -12773,7 +12775,6 @@ jol.f9c2.site
 joql.2851ba18f4.xyz
 joshkar-ola.prava-srochno.ru
 joy-casino.top
-joycash.pro
 joycash.ru
 joycasino-24.net
 joycasino-casino.xyz
@@ -17085,6 +17086,7 @@ mobnew.mirror1.mirrorolimp2.online
 mobnew.mirror1.olimp24x7.online
 mobnew.mirror2.olimp24x7.online
 mobnew.zerkalo.mirrorolimp2.online
+moi-kredity.ru
 molot-vulkana.ru
 monchegorsk.prava-srochno.ru
 moneyarea.bet
