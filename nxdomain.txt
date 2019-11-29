@@ -14604,7 +14604,6 @@ lp-01.foninfobet.info
 lp-02.fon-infosport.info
 lp-02.fongametime.info
 lp-02.foninfobet.info
-lp-03.fon-infosport.info
 lp-03.fongametime.info
 lp-03.foninfobet.info
 lp-04.fon-infosport.info
@@ -14625,14 +14624,9 @@ lp-14.fon-infosport.info
 lp-16.fon-infosport.info
 lp-17.fon-infosport.info
 lp-18.fon-infosport.info
-lp-19.fon-infosport.info
-lp-20.fon-infosport.info
-lp-21.fon-infosport.info
 lp-22.fon-infosport.info
 lp-23.fon-infosport.info
-lp-24.fon-infosport.info
 lp-25.fon-infosport.info
-lp-26.fon-infosport.info
 lp-27.fon-infosport.info
 lp-28.fon-infosport.info
 lp-29.fon-infosport.info
@@ -14643,9 +14637,10 @@ lp-33.fon-infosport.info
 lp-35.fon-infosport.info
 lp-36.fon-infosport.info
 lp-37.fon-infosport.info
+lp-38.fon-infosport.info
 lp-40.fon-infosport.info
-lp-41.fon-infosport.info
 lp-42.fon-infosport.info
+lp-43.fon-infosport.info
 lp-44.fon-infosport.info
 lp-45.fon-infosport.info
 lp-47.fon-infosport.info
@@ -14654,7 +14649,6 @@ lp-50.fon-infosport.info
 lp-51.fon-infosport.info
 lp-52.fon-infosport.info
 lp-53.fon-infosport.info
-lp-54.fon-infosport.info
 lp-55.fon-infosport.info
 lp-56.fon-infosport.info
 lp.championcasino.net
@@ -22828,7 +22822,6 @@ servmix.ru
 servmix2019.xyz
 severodvinsk.prava-srochno.ru
 sex-perm.info
-sex-vkontakte.com
 sexdosug59.com
 sexpoputchik.ru
 sf.cccp-rutracker.org
