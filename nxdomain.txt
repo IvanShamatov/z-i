@@ -7511,10 +7511,8 @@ besplatno-igrat-sloty.club
 besplatno.azartnie-avtomaty.com
 besplatno.gaminatory.net
 besplatno.igrovye-gaminatory.com
-besplatno1.azartnie-avtomaty.com
 besplatno2.igrovye-gaminatory.com
 besplatno3.igrovye-gaminatory.com
-besplatno777.azartnie-avtomaty.com
 besplatnoe-kazino.ru
 besplatnye-igrovie-avtomaty.net
 best-2018-casino.info
@@ -14579,7 +14577,9 @@ lp-05.foninfobet.info
 lp-06.fon-infosport.info
 lp-06.foninfobet.info
 lp-07.fon-infosport.info
+lp-08.fon-infosport.info
 lp-09.fon-infosport.info
+lp-10.fon-infosport.info
 lp-13.fon-infosport.info
 lp-14.fon-infosport.info
 lp-15.fon-infosport.info
@@ -14611,6 +14611,7 @@ lp-41.fon-infosport.info
 lp-42.fon-infosport.info
 lp-43.fon-infosport.info
 lp-44.fon-infosport.info
+lp-45.fon-infosport.info
 lp-46.fon-infosport.info
 lp-47.fon-infosport.info
 lp-48.fon-infosport.info
@@ -23781,6 +23782,7 @@ vip.goldsong.fun
 vip.izomusic.ru
 vip.muzlayk.ru
 vip777casino.info
+vip777casinovipx.info
 vipazart.com
 vipazino777.ru
 vipbetline.website
