@@ -2142,6 +2142,7 @@
 1xbetly.mobi
 1xbetmd.mobi
 1xbetmirror.host
+1xbetnre.host
 1xbetru-24x7.space
 1xbetsite.space
 1xbetsport.xyz
@@ -7285,6 +7286,7 @@ bcity-0864.online
 bcity-1123.online
 bcity-1187.online
 bcity-125.site
+bcity-138.site
 bcity-141.online
 bcity-142.online
 bcity-144.online
@@ -7299,6 +7301,7 @@ bcity-178.site
 bcity-179.online
 bcity-182.online
 bcity-184.online
+bcity-185.site
 bcity-190.online
 bcity-192.online
 bcity-195.online
@@ -7306,6 +7309,7 @@ bcity-211.online
 bcity-214.online
 bcity-215.site
 bcity-217.online
+bcity-218.site
 bcity-221.online
 bcity-2234.online
 bcity-225.site
@@ -7321,6 +7325,7 @@ bcity-266.site
 bcity-270.online
 bcity-287.online
 bcity-288.online
+bcity-289.site
 bcity-290.site
 bcity-297.online
 bcity-300.site
@@ -12801,6 +12806,7 @@ himara.win
 himarathon.win
 himarathonbet.win
 himeldelim.info
+himoborot-ms.ru
 himostraf.com
 himostraff.com
 himostrafs.com
