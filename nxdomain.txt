@@ -548,6 +548,7 @@
 1.3bc3.xyz
 1.bestmuzon.me
 1.f4e1.xyz
+1.kinodivo.site
 1.kinoteka.website
 1.lfhd.ru
 1.lostfilm.plus
@@ -13532,7 +13533,6 @@ kinogo-krad.ru
 kinogo-net-baskino-2017.ru
 kinogo-net-co.ru
 kinogo-net-hd.ru
-kinogo-net.online
 kinogo-net.tv
 kinogo-new.co
 kinogo-new.me
@@ -19646,7 +19646,6 @@ netwpartner.com
 new-baskino.club
 new-baskino.ru
 new-baskino.site
-new-bobfilm.club
 new-bobfilm.net
 new-bobfilm.ru
 new-bobfilm.site
@@ -21361,7 +21360,6 @@ redbox-cazino.ru
 redbox-kazino.ru
 redboxcasino.me
 redboxcasino.su
-redir.1red.xyz
 redkings-casino.men
 redtraffmostsp.com
 refpaahp.host
@@ -24641,7 +24639,6 @@ vtore24.info
 vtorente-rus.ru
 vtorrent.club
 vtorrente.net
-vtorrents.club
 vu0lkkans.com
 vu0llkans.com
 vu0llkanz.com
@@ -29661,7 +29658,6 @@ zerlaosayts33.space
 zerlaossaa.space
 zerno-journal.ru
 zerorotate.win
-zerx.club
 zerxfilm.ru
 zf-fm.co
 zf-fm.icu
