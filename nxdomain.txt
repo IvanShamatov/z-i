@@ -3268,9 +3268,7 @@
 1xxpers115.mobi
 1xxpers116.mobi
 1xxpers117.mobi
-1xxpers120.mobi
 1xxpers121.mobi
-1xxpers122.mobi
 1xxpers123.mobi
 1xxpers22.mobi
 1xxpers44.mobi
@@ -6207,8 +6205,6 @@ alexbet.ru
 alfa.123market.ru
 alkhaleejelan.com
 alko-nadom1.ru
-alko-nsk.site
-alko-nsk24.site
 alko74.info
 alko74.online
 alkogol-nsk54.online
@@ -8309,6 +8305,7 @@ bigbetxy.ru
 bigbety.ru
 bigbetz.ru
 bigbro24rc.biz.haus
+bigcinema-tv.com
 bigcinema-tv.info
 bigcinema-tv.ru
 bigcinema.kz
@@ -9482,7 +9479,6 @@ bkzerkalofon55.space
 bkzerkalofon77.space
 bkzerkalorabocheei.host
 bla.world
-black-b.biz
 black-widow12.info
 black-widow777.info
 blackbiz.be
@@ -13551,7 +13547,6 @@ kinogol.ru
 kinogold.net
 kinogold.website
 kinogolik.pw
-kinogoo.online
 kinogorka.com
 kinogorodok.net
 kinogosha.ru
