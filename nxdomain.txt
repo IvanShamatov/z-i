@@ -3269,7 +3269,6 @@
 1xxpers116.mobi
 1xxpers117.mobi
 1xxpers121.mobi
-1xxpers123.mobi
 1xxpers22.mobi
 1xxpers44.mobi
 1xxpers55.mobi
@@ -5700,6 +5699,7 @@ a.apad.top
 a.cdnkino.biz
 a.iceseeds.com
 a.nskxxx.club
+a.o-konople.info
 a.semyanich.ru.com
 a.sexagolik.xyz
 a.ttrcasino.live
@@ -6860,6 +6860,7 @@ b-bets78.top
 b.apad.top
 b.ekaxxx.net
 b.mirkino.club
+b.o-konople.info
 b0449b27dc98caa7ba.c2ef25.781562c135255c8a5b.xyz
 b0449b27dc98caa7ba.c2ef25.a2341e99d0a2f2982f.xyz
 b086dd.olimp876c.site
@@ -7644,6 +7645,7 @@ besplatno-igrat-sloty.club
 besplatno.azartnie-avtomaty.com
 besplatno.gaminatory.net
 besplatno.igrovye-gaminatory.com
+besplatno1.azartnie-avtomaty.com
 besplatno2.igrovye-gaminatory.com
 besplatno3.igrovye-gaminatory.com
 besplatno777.azartnie-avtomaty.com
@@ -9748,6 +9750,7 @@ bzdepx.win
 bzedepx.win
 c-azino-777.ru
 c-azino777.ru
+c.o-konople.info
 c.officeverse.com
 c00c32.olimp2ad7.top
 c023c4.olimpcc44.top
@@ -10496,6 +10499,7 @@ cvetacasino.info
 cwer.me
 d-to.ru
 d.firebro.top
+d.o-konople.info
 d.ww33.top
 d0222a.olimp876c.site
 d04424.olimpaecb.xyz
@@ -10803,6 +10807,7 @@ e-diploms.ru
 e-island.eu
 e-value.eu
 e.ganja-seeds.org
+e.o-konople.info
 e04077.olimpd6a6.top
 e05e00.olimpf4ab.top
 e09a44.olimpcc44.top
@@ -12882,11 +12887,9 @@ hy.hydra2web.im
 hybcmvu.space
 hydra-2019.online
 hydra-hydra.ru
-hydra-market.onion.ru.com
 hydra-onion.ru
 hydra-wiki.com
 hydra.2vveb.com
-hydra.onion.ru.com
 hydra.pm
 hydra2web.com.se
 hydra2web.name
