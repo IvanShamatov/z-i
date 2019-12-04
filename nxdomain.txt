@@ -16171,6 +16171,7 @@ media-rus.info
 media-tracker.info
 mediacool.win
 mediarot-newyear.win
+medicationhouse.rusmarket.com
 medik-store.ru
 medkniga-novosibirsk.ru
 medknizhka-spb.ru
@@ -19583,7 +19584,6 @@ my-azino777.ru
 my-azino888.ru
 my-gdz.ru
 my-hit.audio
-my-kino.ga
 my-lucky-volcano.com
 my-music-kiosk.ru
 my-skladkino.ru
