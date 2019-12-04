@@ -3274,6 +3274,9 @@
 1xxpers115.mobi
 1xxpers116.mobi
 1xxpers117.mobi
+1xxpers121.mobi
+1xxpers122.mobi
+1xxpers123.mobi
 1xxpers22.mobi
 1xxpers44.mobi
 1xxpers55.mobi
@@ -7680,6 +7683,7 @@ besplatno-igrat-sloty.club
 besplatno.azartnie-avtomaty.com
 besplatno.gaminatory.net
 besplatno.igrovye-gaminatory.com
+besplatno1.azartnie-avtomaty.com
 besplatno2.igrovye-gaminatory.com
 besplatno3.igrovye-gaminatory.com
 besplatno777.azartnie-avtomaty.com
@@ -13482,6 +13486,7 @@ kinofree.club
 kinofrukt.net
 kinogadget.net
 kinogames.ru
+kinogb.icu
 kinogb.me
 kinogid-hd.net
 kinogid-super.ru
