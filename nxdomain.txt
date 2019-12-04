@@ -3274,7 +3274,6 @@
 1xxpers115.mobi
 1xxpers116.mobi
 1xxpers117.mobi
-1xxpers121.mobi
 1xxpers22.mobi
 1xxpers44.mobi
 1xxpers55.mobi
@@ -8345,6 +8344,7 @@ bigcinema-tv.ru
 bigcinema.kz
 bigcinema.online
 bigcinema.site
+bighbet.ru
 bigibet.ru
 bigsinema.club
 bigsinema.pw
@@ -10373,7 +10373,6 @@ cdef50.olimp31d2.top
 cdkons.ru
 cdn.kino-v-hd.online
 cdn1.igmpromo.com
-cdnvideo.online
 cdtur.ru
 ce0068.olimp0fe0.top
 ce06b5.olimp1897.top
@@ -12798,7 +12797,6 @@ growerz.biz
 groznyj.prava-srochno.ru
 grtrafmosts.com
 gta-casino.men
-gtco7gr.annesfamily.com
 gubki.tv
 gudcasino.fun
 guf.spinb.info
@@ -13570,7 +13568,6 @@ kinogo.store
 kinogo.unblocked.blue
 kinogo.unblocked.mobi
 kinogo.unblockninja.xyz
-kinogo1.co
 kinogo1.me
 kinogo1.net
 kinogo1.online
@@ -19290,7 +19287,6 @@ mstlff.com
 mstlitt.com
 mstlkr.com
 mstllk.com
-mstllp.com
 mstlmm.com
 mstlof.com
 mstlpk.com
@@ -19470,7 +19466,6 @@ mstzlg.com
 mstzqt.com
 mstzqtt.com
 mstzqw.com
-mstzrt.com
 mstzsf.com
 mstzsz.com
 mstzvv.com
@@ -23359,6 +23354,7 @@ serial-club.ru
 serial-one.ru
 serial-tv.pro
 serial-z.online
+serial.igraprestolov.su
 serial14you.net
 seriali.kz
 serialitut.ru
@@ -23956,6 +23952,7 @@ tennisireal.tj
 test1.plusminus1.com
 test2.plusminus1.com
 test3.plusminus1.com
+testbild-music.com
 tevas.club
 text-pesni.online
 tfile.su
@@ -26301,6 +26298,7 @@ www.bet-me-zerkalo.ru
 www.bet-roulette.net
 www.bet1.pm
 www.bet2.pm
+www.bet365.kiev.ua
 www.betchan1.com
 www.betcity-alpz.space
 www.betcity-best.ru
@@ -26638,7 +26636,6 @@ www.casinojack.xyz
 www.casinomidas.co.nz
 www.casinorating.su
 www.catalogof.ru
-www.cdnvideo.online
 www.celticcasino.com
 www.centervip.net
 www.cigareta.ru
