@@ -12977,6 +12977,7 @@ hydra-onion.ru
 hydra-wiki.com
 hydra.2vveb.com
 hydra.pm
+hydra.vc
 hydra2exghh3rnmc.2-onion.com
 hydra2web.com.se
 hydra2web.name
@@ -23481,6 +23482,7 @@ skfilms.tv
 skk61.biz.haus
 sksibirstroy.ru
 skygadget.ru
+skylight.xxline.ru
 sl0t-v.co
 sl0tvcasino.club
 slava-slots.com
@@ -24526,6 +24528,7 @@ vk-sound.ru
 vk-zerkalo-bk.info
 vkasino.net
 vkino-one.ru
+vkino-tv.ru
 vkino-tv.su
 vkinogo.ru
 vklasse.org
@@ -27981,6 +27984,7 @@ www.vidtorg.ru
 www.vip-club-vulkan.net
 www.vipvideoclub.ru
 www.vk-sound.ru
+www.vkino-tv.ru
 www.vklasse.org
 www.vkmusic.ru
 www.vrutor.eu
