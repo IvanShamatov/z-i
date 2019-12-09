@@ -13298,7 +13298,6 @@ hydr2web.org
 hydra-2019.online
 hydra-hydra.ru
 hydra-onion.ru
-hydra-online.org
 hydra-web-center.com
 hydra-wiki.com
 hydra.2vveb.com
@@ -23748,6 +23747,7 @@ rutor-org-new.ru
 rutor-org-org-org.ru
 rutor-org-org.ru
 rutor-org-the.ru
+rutor-org.com
 rutor-portal.ru
 rutor-ru.info
 rutor-rus.info
