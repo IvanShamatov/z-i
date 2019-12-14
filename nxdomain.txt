@@ -10772,6 +10772,7 @@ cherepovec.diplom-v-ruki.com
 cherepovec.diploms-rf.com
 chita.diplom-v-ruki.com
 chita.diploms-rf.com
+chita.focusplenka.com
 chita.prava-srochno.ru
 chlenov.net
 chm.zbonuslot.idhost.kz
@@ -11873,6 +11874,7 @@ fobet-footbol54.space
 fobettotosk.space
 fobetzercbet.space
 fobetzrkul43.space
+focusplenka.com
 fofonbets2tt.info
 fofonbettingd0k7.win
 fofonbettingfg72.win
@@ -13067,7 +13069,6 @@ getcasino.site
 getmarathon.win
 getmarathonbet.win
 getmosttrafsp.com
-getmpc14.com
 getsometraf.com
 gettrafbet.com
 gettrafbetd.com
@@ -13627,6 +13628,7 @@ iuppiterluna.com
 ivanovo.diploms-rf.com
 ivicasino.top
 izhevsk.diplom-v-ruki.com
+izhevsk.focusplenka.com
 izhevsk.metan-rus.net
 izhevsk.prava-srochno.ru
 izhik.info
@@ -13959,7 +13961,6 @@ kino-serialu.ru
 kino-ttek.ru
 kino-v-hd.online
 kino.1hd1080.info
-kino.red
 kino.vodka
 kino1-filmshou.ru
 kino1080.biz
@@ -14458,7 +14459,6 @@ landspageipok.com
 landspagesdnss.com
 landspagnnleons.com
 landssilfastred.com
-landstv77.com
 lar.jewelzsolutions.net
 laschool.ru
 lastcasino.win
@@ -15473,7 +15473,6 @@ lowcoster.pro
 lp-01.fon-infosport.info
 lp-01.fongametime.info
 lp-01.foninfobet.info
-lp-02.fon-infosport.info
 lp-02.fongametime.info
 lp-02.foninfobet.info
 lp-03.fongametime.info
@@ -15486,13 +15485,10 @@ lp-05.foninfobet.info
 lp-06.fon-infosport.info
 lp-06.foninfobet.info
 lp-08.fon-infosport.info
-lp-09.fon-infosport.info
 lp-10.fon-infosport.info
 lp-12.fon-infosport.info
 lp-13.fon-infosport.info
-lp-14.fon-infosport.info
 lp-15.fon-infosport.info
-lp-16.fon-infosport.info
 lp-17.fon-infosport.info
 lp-18.fon-infosport.info
 lp-20.fon-infosport.info
@@ -15502,14 +15498,12 @@ lp-23.fon-infosport.info
 lp-24.fon-infosport.info
 lp-25.fon-infosport.info
 lp-26.fon-infosport.info
-lp-28.fon-infosport.info
 lp-29.fon-infosport.info
 lp-30.fon-infosport.info
-lp-31.fon-infosport.info
 lp-32.fon-infosport.info
 lp-33.fon-infosport.info
+lp-34.fon-infosport.info
 lp-35.fon-infosport.info
-lp-36.fon-infosport.info
 lp-37.fon-infosport.info
 lp-38.fon-infosport.info
 lp-39.fon-infosport.info
@@ -15519,8 +15513,6 @@ lp-42.fon-infosport.info
 lp-43.fon-infosport.info
 lp-45.fon-infosport.info
 lp-46.fon-infosport.info
-lp-47.fon-infosport.info
-lp-48.fon-infosport.info
 lp-50.fon-infosport.info
 lp-51.fon-infosport.info
 lp-52.fon-infosport.info
@@ -20983,6 +20975,7 @@ omostrafic.com
 omosttraffic.com
 omsk.diplom-v-ruki.com
 omsk.diploms-rf.com
+omsk.focusplenka.com
 omsk.ostanovi-schetchik.ru
 omsk.prava-srochno.ru
 omstore.biz.haus
@@ -24317,6 +24310,7 @@ sobetmostbet.com
 sobetmostbets.com
 soccer.m.betsbc.space
 soccer.web.betsbc.space
+sochi.focusplenka.com
 sochi.ostanovi-schetchik.ru
 softorr.ru
 sokrytoe.org
@@ -24341,6 +24335,7 @@ sparta24.biz.haus
 spartacasino.org
 spb-2ndfl.com
 spb.diploms-rf.com
+spb.focusplenka.com
 spb.intimtown.in
 spb.ros-diplomii.com
 spb.telki.sx
@@ -24512,6 +24507,7 @@ spravki48.ru
 spravki62.ru
 spravki64.ru
 spravki69.ru
+spravki7.ru
 spravki70.ru
 spravkiplyus.ru
 springforum.ru
@@ -25028,6 +25024,7 @@ twist777casino.info
 twistcasinoz.com
 twwbcpssd.space
 tytmarket.ru
+tyumen.focusplenka.com
 tyumen.prava-srochno.ru
 u.shishkin-semena.pub
 u1lccan.com
@@ -25339,6 +25336,7 @@ vladikdiplom.info
 vladimir.ostanovi-schetchik.ru
 vladivostok.diplomclike.com
 vladivostok.diploms-rf.com
+vladivostok.focusplenka.com
 vlc24.casino
 vlcrime.net
 vlf.vulcans-fives.com
@@ -25391,6 +25389,7 @@ volga-casino.men
 volgograd.cyber-magnit.ru
 volgograd.diplomclike.com
 volgograd.diploms-rf.com
+volgograd.focusplenka.com
 volgograd.ostanovi-schetchik.ru
 vollcfuns.com
 vollkan.com
@@ -25723,7 +25722,6 @@ vvulkan.info
 vvv.hauskasino.com
 vvv.muzica.fun
 vvv.onlinehockey.club
-vvvbet.site
 vvvolcano.com
 vvvulcan.com
 vvvvvv.26-a.ru
@@ -26413,7 +26411,6 @@ ww-www.the-rutor.org
 ww.filmhd1080.net
 ww.rubit-tracker.org
 ww1.baskino-2018.online
-ww1.baskino3.ml
 ww1.pesni-tut.online
 ww2.baskino-2018.online
 ww2.baskino3.ml
@@ -27788,7 +27785,6 @@ www.kino-klub.org
 www.kino-live.red
 www.kino-panda.net
 www.kino-serialu.ru
-www.kino.red
 www.kino2go.net
 www.kino777.ru
 www.kinoclub.biz
@@ -29410,7 +29406,6 @@ xbetfonbet11.space
 xbetfonbet33.space
 xbetrus.info
 xbetting.info
-xcash.me
 xcasin0.com
 xcasino.kz
 xcasino2.com
@@ -29528,6 +29523,7 @@ xzerkaloss65.space
 y5mftrki.bid
 y7jvrdp5.stream
 yabeda.org
+yakutsk.focusplenka.com
 yakutsk.prava-srochno.ru
 yandex.go-2.link
 yapidar.info
