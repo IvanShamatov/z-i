@@ -15939,7 +15939,6 @@ lp-20.fon-infosport.info
 lp-21.fon-infosport.info
 lp-22.fon-infosport.info
 lp-23.fon-infosport.info
-lp-24.fon-infosport.info
 lp-25.fon-infosport.info
 lp-26.fon-infosport.info
 lp-27.fon-infosport.info
@@ -15953,6 +15952,7 @@ lp-34.fon-infosport.info
 lp-35.fon-infosport.info
 lp-36.fon-infosport.info
 lp-38.fon-infosport.info
+lp-39.fon-infosport.info
 lp-40.fon-infosport.info
 lp-41.fon-infosport.info
 lp-42.fon-infosport.info
@@ -22770,6 +22770,7 @@ redboxcasino.me
 redboxcasino.su
 redboxcasino2.ru
 redir.1red.xyz
+redir.melbet-life.site
 redire.1red.xyz
 redirect.1red.xyz
 redirect.1xbukmer.ru
@@ -26152,6 +26153,7 @@ volcano-box.co
 volcano-russia.su
 volcanoepxparts.com
 volcanogame.xyz
+volcanos.co
 volfbetting.space
 volga-casino.men
 volgograd.focusplenka.com
