@@ -16242,6 +16242,7 @@ lp-14.fon-infosport.info
 lp-15.fon-infosport.info
 lp-16.fon-infosport.info
 lp-17.fon-infosport.info
+lp-19.fon-infosport.info
 lp-20.fon-infosport.info
 lp-21.fon-infosport.info
 lp-22.fon-infosport.info
@@ -16259,9 +16260,8 @@ lp-37.fon-infosport.info
 lp-38.fon-infosport.info
 lp-39.fon-infosport.info
 lp-40.fon-infosport.info
-lp-41.fon-infosport.info
-lp-42.fon-infosport.info
 lp-43.fon-infosport.info
+lp-44.fon-infosport.info
 lp-45.fon-infosport.info
 lp-46.fon-infosport.info
 lp-47.fon-infosport.info
@@ -25048,7 +25048,6 @@ rupoke-r.com
 rus-betcity.top
 rus-betzerkalo78.space
 rus-media-org.info
-rus-pornhub.com
 rus-rutor.info
 rus-tor.life
 rus-tor.xyz
