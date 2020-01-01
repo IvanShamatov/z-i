@@ -13848,6 +13848,7 @@ hd.kinosmak.online
 hd.zfilm.cc
 hd1.baskino-2018.online
 hd1.baskino-hd1080.online
+hd1.baskino3.ml
 hd1me.xyz
 hd2.baskino-hd1080.online
 hd3.baskino-2018.online
@@ -27777,6 +27778,7 @@ ww1.baskino-2018.online
 ww1.baskino3.ml
 ww1.pesni-tut.online
 ww2.baskino-2018.online
+ww2.baskino3.ml
 ww2.pesni-tut.online
 ww3.baskino3.ml
 wwe.musicz.ws
@@ -29211,6 +29213,7 @@ www.kinokong.co.ua
 www.kinokrad.in.ua
 www.kinokrad.ru
 www.kinomalina.net
+www.kinomir.ml
 www.kinomirkz.net
 www.kinomixs.ru
 www.kinonax.com
@@ -29739,6 +29742,7 @@ www.mbetyesbig.win
 www.mbkplusrotate.win
 www.mediacool.win
 www.mediarot-newyear.win
+www.mediplus.ru
 www.medspravkastavropol.com
 www.megaklapper.com
 www.megapsn.ru
