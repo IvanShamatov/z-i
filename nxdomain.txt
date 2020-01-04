@@ -8192,7 +8192,6 @@ berityt.biz.klad.shop
 besplatno-2.azartnie-avtomaty.com
 besplatno-igrat-sloty.club
 besplatno-knigi.com
-besplatno.azartnie-avtomaty.com
 besplatno.gaminatory.net
 besplatno.igrovye-gaminatory.com
 besplatno1.azartnie-avtomaty.com
@@ -14456,6 +14455,7 @@ karman-tv.net
 karman-tv.ru
 karmen2casino2.info
 karty-kazino.space
+kartykazino.info
 karusoky.ru
 kashintsevo.ru
 kasino-baby3.win
@@ -14621,6 +14621,9 @@ kazinobro.info
 kazinobum.info
 kazinocentr.info
 kazinochechnya.info
+kazinocherri.info
+kazinocherte.info
+kazinocherti.info
 kazinochisle.info
 kazinochita.info
 kazinocom.info
@@ -14634,6 +14637,7 @@ kazinodrift.info
 kazinodubaj.info
 kazinoelena.info
 kazinoflash.info
+kazinoflint.info
 kazinofox.info
 kazinofrank.info
 kazinogejms.info
@@ -14704,6 +14708,7 @@ kazinosa.info
 kazinosamyx.info
 kazinosan.info
 kazinosheron.info
+kazinoslova.info
 kazinosms.info
 kazinoso.info
 kazinosol.info
@@ -14712,7 +14717,9 @@ kazinosom.info
 kazinossbonusom.fun
 kazinossha.info
 kazinostar.info
+kazinostars.info
 kazinostixi.info
+kazinostoun.info
 kazinosuperslot55.fun
 kazinosv.info
 kazinotakzhe.info
@@ -15192,6 +15199,7 @@ kinosup.biz
 kinosurf.online
 kinotaun.ru
 kinotel.net
+kinotel.org
 kinotel.ru
 kinotop.me
 kinotophd.club
@@ -15279,6 +15287,7 @@ kso.1.2a4f.xyz
 ktovkino.online
 kubakazino.info
 kubiki5cazino5.info
+kubokkazino.info
 kukla63.info
 kunoserial.ru
 kupit-alcohol.alco-78.ru
@@ -16480,6 +16489,7 @@ lxf7.betaeval.com
 lyckyadvice.ru
 lyubitelgoldcasino.info
 lyublyukazino.info
+lyubojkazino.info
 m-azino-777.ru
 m-azino777.info
 m-city.biz.klad.shop
@@ -16941,6 +16951,7 @@ mall-dom.rus-betcity.com
 maloe-zerkalobk.host
 maloekazino.info
 mamaitalia.ru
+mankikazino.info
 mara-apr12-a.win
 mara-apr12-b.win
 mara-apr12-c.win
@@ -22468,6 +22479,7 @@ pagesmbet.win
 pam-pam.biz.klad.shop
 pam-pam24.biz.klad.shop
 panbetmarathon.win
+pandafilms.pro
 pant.biz.klad.shop
 panther24.biz.klad.shop
 parasino15.com
@@ -23227,6 +23239,7 @@ prostitutki-v-stavropole.com
 prostitutki-v-yaroslavle.date
 prostitutkibelgoroda24.date
 prostitutkibryanska132.bid
+prostitutkicheboksary24.com
 prostitutkicheboksary365.com
 prostitutkiivanovo24.info
 prostitutkikazani116.date
@@ -25164,21 +25177,12 @@ ru.winline.info
 ru.xadmiral.com
 ru.xxcasinoclub.ru
 ru1.azino7777.win
-ru1.mp3crazy.org
 ru1.primemusic.club
 ru1.quasargaming.com
 ru1.rump3.info
 ru1.slotwin.ru
-ru10.mp3crazy.org
-ru12.mp3crazy.org
 ru12.xmusic.name
 ru123.iplayer.info
-ru13.mp3crazy.org
-ru14.mp3crazy.org
-ru15.mp3crazy.org
-ru16.mp3crazy.org
-ru17.mp3crazy.org
-ru18.mp3crazy.org
 ru1x-24x7.pw
 ru1xbet-s.date
 ru1xbet-s.xyz
@@ -25186,23 +25190,14 @@ ru1xbet1.com
 ru1xbets.xyz
 ru2.marvarid.su
 ru2.maxadmiral.net
-ru2.mp3crazy.org
 ru2.rump3.info
 ru2.slotwin.ru
-ru3.casinobra.me
-ru3.mp3crazy.org
 ru3.rump3.info
-ru4.mp3crazy.org
 ru4.rump3.info
-ru5.mp3crazy.org
 ru5.rump3.info
-ru6.mp3crazy.org
 ru6.rump3.info
-ru7.mp3crazy.org
 ru7.rump3.info
-ru8.mp3crazy.org
 ru8.rump3.info
-ru9.mp3crazy.org
 ru999leon.net
 rubet7.com
 rubetcity.top
@@ -26581,8 +26576,10 @@ upcasinopowazino777.info
 upcasinoptjazino777.info
 upcasinoqnyvulkan777.info
 upcasinorqmvulkan777.info
+upcasinouhmvulkan888.info
 upcasinouxuvulkan24.info
 upcasinovkwvulkan.info
+upcasinowgaazino.info
 upcasinox777nn.info
 upcasinoxmoazino.info
 upcasinozmevulkan888.info
@@ -26887,6 +26884,7 @@ vlcrime.net
 vlf.vulcans-fives.com
 vlifte.online
 vlk-casino2.com
+vlk.casino
 vlk.vulcans-fives.com
 vlk.vulkans-fors.com
 vlk1.vulkans-fors.com
@@ -30245,6 +30243,7 @@ www.rufilm.tv
 www.ruletkasistemy.com
 www.rumosreg.ru
 www.rus-rutor.info
+www.rusianvulcan.org
 www.russ.the-rutor.org
 www.russkie-filmi.ru
 www.russs.the-rutor.org
@@ -32055,7 +32054,6 @@ zerkalo196.xyz
 zerkalo197.xyz
 zerkalo198.xyz
 zerkalo199.xyz
-zerkalo1bet.ru
 zerkalo1winru.ru
 zerkalo1x.online
 zerkalo1x.space
