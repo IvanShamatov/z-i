@@ -5489,6 +5489,7 @@
 777.casino-max-profit.top
 777.casino-winr.info
 777.casino-wint.info
+777.igrovoy-zal.com
 777.kasino-pharaon.com
 777.top-casinoq.info
 7772e4.olimp9249.top
@@ -10213,6 +10214,7 @@ bobfilm-ru.ru
 bobfilm-tv.club
 bobfilm.online
 bobfilm.site
+bobfilm1.co
 bobfilm1.info
 bobfilms.site
 bobfilmy.ru
@@ -16419,7 +16421,6 @@ lovegame.info
 lovemarathone.win
 lovezihan.com
 lowcoster.pro
-lp-01.fon-infosport.info
 lp-01.fongametime.info
 lp-01.foninfobet.info
 lp-02.fon-infosport.info
@@ -16438,15 +16439,15 @@ lp-06.foninfobet.info
 lp-07.fon-infosport.info
 lp-08.fon-infosport.info
 lp-09.fon-infosport.info
-lp-10.fon-infosport.info
 lp-11.fon-infosport.info
 lp-13.fon-infosport.info
 lp-14.fon-infosport.info
 lp-15.fon-infosport.info
+lp-16.fon-infosport.info
+lp-17.fon-infosport.info
 lp-18.fon-infosport.info
 lp-20.fon-infosport.info
 lp-22.fon-infosport.info
-lp-23.fon-infosport.info
 lp-24.fon-infosport.info
 lp-25.fon-infosport.info
 lp-26.fon-infosport.info
@@ -16468,6 +16469,7 @@ lp-43.fon-infosport.info
 lp-46.fon-infosport.info
 lp-47.fon-infosport.info
 lp-49.fon-infosport.info
+lp-50.fon-infosport.info
 lp-51.fon-infosport.info
 lp-53.fon-infosport.info
 lp-54.fon-infosport.info
