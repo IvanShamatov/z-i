@@ -6608,6 +6608,7 @@ air.parimatch-mirror7.com
 air.parimatch-mirror8.com
 air.parimatch-today4.com
 air.parimatchnow5.com
+air.parimatchsite8.com
 air.parimatchtoday7.com
 air.pm-116.info
 air.pm-117.info
@@ -16664,6 +16665,7 @@ lp-12.fon-infosport.info
 lp-13.fon-infosport.info
 lp-14.fon-infosport.info
 lp-15.fon-infosport.info
+lp-16.fon-infosport.info
 lp-17.fon-infosport.info
 lp-18.fon-infosport.info
 lp-19.fon-infosport.info
@@ -29469,6 +29471,7 @@ www.betcity-umwe.space
 www.betcity-umwe.tk
 www.betcity-vepw.space
 www.betcity-vepw.tk
+www.betcity-vgbq.space
 www.betcity-vlur.space
 www.betcity-vqjd.space
 www.betcity-wmzf.space
