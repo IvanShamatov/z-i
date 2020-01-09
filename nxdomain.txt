@@ -6606,6 +6606,7 @@ air.parimatch-mirror8.com
 air.parimatch-site10.com
 air.parimatch-today4.com
 air.parimatchnow5.com
+air.parimatchsite2.com
 air.parimatchsite8.com
 air.parimatchtoday7.com
 air.pm-116.info
