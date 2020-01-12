@@ -12037,6 +12037,7 @@ dmwan.woid.game-server.cc
 dobroco.ru
 docdip.one
 docronika.ru
+document.ml
 dofiga-mp3.ru
 doghunter.to
 dok911.ru
@@ -14477,6 +14478,7 @@ hydraruzxpnew4af.7onion.com
 hydraruzxpnew4af.d-onion.com
 hydraruzxpnew4af.onion.bz
 hydraruzxpnew4af.onion.com.de
+hydraruzxpnew4af.onion.gs
 hydraruzxpnnew4afonion.com
 hydrasite.host
 hydraweb.center
