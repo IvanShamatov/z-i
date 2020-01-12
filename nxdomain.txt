@@ -12701,7 +12701,6 @@ film-online.website
 film-online.win
 film.1hd1080.info
 film.ekranka.top
-film.tf
 film720.org
 filmario.net
 filmask.ru
@@ -27663,7 +27662,6 @@ vagrius.ru
 vagriuslib.ru
 vakivus.ru
 valuebet.ru
-variants.dp.ua
 vash-medlist.com
 vavada.pro
 vavada.site
@@ -29052,6 +29050,7 @@ ww-ww.the-rutor.org
 ww-www.the-rutor.org
 ww.filmhd1080.net
 ww.rubit-tracker.org
+ww1.baskino3.ml
 ww1.pesni-tut.online
 ww2.baskino3.ml
 ww2.pesni-tut.online
@@ -32212,7 +32211,6 @@ xcasinosxvslot.info
 xdv.eaf7.site
 xemul.ru
 xezg9pibc.www1.betcity.ru.com
-xgan.win
 xgn.liga365.com
 xill-casino.men
 xillcasino.info
