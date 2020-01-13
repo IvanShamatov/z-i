@@ -8369,6 +8369,7 @@ berityt.biz.klad.shop
 besplatno-2.azartnie-avtomaty.com
 besplatno-igrat-sloty.club
 besplatno-knigi.com
+besplatno.azartnie-avtomaty.com
 besplatno.gaminatory.net
 besplatno.igrovye-gaminatory.com
 besplatno1.azartnie-avtomaty.com
@@ -30515,7 +30516,6 @@ www.kinokong.co.ua
 www.kinokrad.in.ua
 www.kinokrad.ru
 www.kinomalina.net
-www.kinomir.ml
 www.kinomirkz.net
 www.kinomixs.ru
 www.kinonax.com
