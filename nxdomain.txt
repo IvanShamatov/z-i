@@ -15938,6 +15938,7 @@ kupit-spravka-v-habarovske.ru
 kupit-spravka-v-irkutske.ru
 kupit-spravka-v-kaliningrade.ru
 kupit-spravka-v-penze.ru
+kupit-spravka-v-surgute.ru
 kupit-spravka-vo-vladimire.ru
 kupit-spravku-v-basseyn.com
 kupit.medknigki-omsk.ru
@@ -28273,6 +28274,7 @@ vkino-one.ru
 vkino-tv.ru
 vkino-tv.su
 vkinogo.ru
+vkinopoiskah.ru
 vklfootball.com
 vkluchitv.org
 vkluchitv24.org
@@ -32881,7 +32883,6 @@ zarutor3.info
 zarutor4.info
 zasobyanina.ru
 zaspravkou.org
-zatochka-moskva.ru
 zavisimost-casino.men
 zaycev-fun.online
 zaycev-net.fun
