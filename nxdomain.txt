@@ -1402,6 +1402,7 @@
 1wbud.xyz
 1wbue.xyz
 1wbvf.xyz
+1wbzm.xyz
 1wbzt.xyz
 1wcah.me
 1wcas.me
@@ -1442,16 +1443,20 @@
 1wdvv.xyz
 1wdzm.xyz
 1webw.me
+1webx.xyz
 1wecb.xyz
 1weea.xyz
 1weei.xyz
 1wefl.me
 1wegv.me
+1wehi.xyz
 1weib.xyz
 1wejd.me
+1wejj.xyz
 1weki.me
 1wekw.live
 1welb.me
+1wele.xyz
 1wemx.xyz
 1wenc.me
 1weno.me
@@ -1889,6 +1894,7 @@
 1wjda.me
 1wjdb.xyz
 1wjdd.xyz
+1wjgm.xyz
 1wjmr.me
 1wjns.xyz
 1wjod.live
@@ -1901,6 +1907,7 @@
 1wjwu.me
 1wjyk.me
 1wjyn.me
+1wkai.xyz
 1wkdl.me
 1wkef.xyz
 1wkfk.xyz
@@ -1913,6 +1920,7 @@
 1wkra.xyz
 1wkue.me
 1wkuh.xyz
+1wkuo.xyz
 1wkvs.xyz
 1wlbr.me
 1wlde.me
@@ -1941,11 +1949,14 @@
 1wmrg.xyz
 1wmsi.xyz
 1wmsu.xyz
+1wmtw.xyz
 1wmvia.xyz
 1wmwps.xyz
 1wmwr.xyz
 1wmxo.xyz
 1wmxu.me
+1wmzn.xyz
+1wmzy.xyz
 1wndu.xyz
 1wnes.me
 1wnews.us
@@ -1981,11 +1992,13 @@
 1wonc.me
 1wone.xyz
 1wonn.me
+1wons.xyz
 1wooh.me
 1wope.me
 1woqi.xyz
 1wosq.me
 1wpgd.xyz
+1wpig.xyz
 1wpii.xyz
 1wpir.me
 1wpiv.xyz
@@ -2013,10 +2026,12 @@
 1wqiq.xyz
 1wqlez.xyz
 1wqlp.me
+1wqnr.xyz
 1wqou.me
 1wqpzl.top
 1wqqb.xyz
 1wqxt.me
+1wqyl.xyz
 1wrcd.xyz
 1wris.xyz
 1wrkr.me
@@ -2045,10 +2060,12 @@
 1wsna.xyz
 1wsoi.me
 1wsow.xyz
+1wsoz.xyz
 1wspl.live
 1wspybl6c.srcc.connect.netcdn.bcdl.rocks
 1wsrk.xyz
 1wsrx.me
+1wssn.xyz
 1wsvb.live
 1wswq.xyz
 1wswv.me
@@ -2084,6 +2101,7 @@
 1wufk.me
 1wugi.xyz
 1wugo.me
+1wuig.xyz
 1wuin.xyz
 1wuit.xyz
 1wuje.me
@@ -2126,9 +2144,11 @@
 1wwcx.me
 1wwcy.me
 1wwgi.xyz
+1wwgl.xyz
 1wwgo.xyz
 1wwha.me
 1wwix.xyz
+1wwkr.xyz
 1wwnt.me
 1wwpk.xyz
 1wwvc.xyz
@@ -6824,6 +6844,7 @@ alkazino.info
 alkhaleejelan.com
 alko-nadom2.ru
 alko-new.ru
+alko-nsk54.site
 alkoclub24.club
 alkoykt.com
 all-azino-777.xyz
@@ -12505,6 +12526,7 @@ egger-money.site
 egger-money.xyz
 eholot-obzor.ru
 ekaterinburg.silmag123.ru
+ekb-diplom.com
 ekb-spravka.com
 ekb-spravka.org
 ekbspravki.online
@@ -12922,6 +12944,7 @@ filmixe.ru
 filmixru.ru
 filmku.ru
 filmo4ok.ru
+filmobox.ru
 filmodron.net
 filmorezka.biz
 filmorezka.club
@@ -14561,7 +14584,6 @@ hd.kinosmak.online
 hd.zfilm.cc
 hd1.baskino-hd.top
 hd1.baskino-hd1080.online
-hd1.baskino3.ml
 hd1080.biz
 hd1me.xyz
 hd2.baskino-hd.top
@@ -15280,6 +15302,7 @@ kazinoalma.info
 kazinoalmaz.info
 kazinoaltyn.info
 kazinoam.info
+kazinoandroid.info
 kazinoapk.info
 kazinoarbuz.info
 kazinoaza.info
@@ -30921,6 +30944,7 @@ www.domashke.net
 www.domovenokedic.ru
 www.dosug777.com
 www.dosugkras.com
+www.downloadpoker.ru
 www.drift-casino.ru
 www.drutor.eu
 www.drutor.org.pl
@@ -30965,6 +30989,7 @@ www.filmask.ru
 www.filmfirst.ru
 www.filmix.in.ua
 www.filmku.ru
+www.filmobox.ru
 www.filmodron.net
 www.films-one.ru
 www.films-online.net
