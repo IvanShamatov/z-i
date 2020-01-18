@@ -7143,7 +7143,6 @@ avtomaty-igrovye-besplatno.com
 avtomaty-nadengi.info
 avtomaty-now.com
 avtomaty-online.pro
-avtomaty.igrovoy-zal.com
 avtomaty24besplatno.com
 avtomaty777w.info
 avtomaty777y.info
@@ -17322,6 +17321,7 @@ lp-08.fon-infosport.info
 lp-09.fon-infosport.info
 lp-11.fon-infosport.info
 lp-12.fon-infosport.info
+lp-13.fon-infosport.info
 lp-16.fon-infosport.info
 lp-17.fon-infosport.info
 lp-18.fon-infosport.info
@@ -17339,6 +17339,7 @@ lp-37.fon-infosport.info
 lp-40.fon-infosport.info
 lp-41.fon-infosport.info
 lp-42.fon-infosport.info
+lp-43.fon-infosport.info
 lp-44.fon-infosport.info
 lp-45.fon-infosport.info
 lp-46.fon-infosport.info
