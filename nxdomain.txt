@@ -17537,7 +17537,6 @@ lp-19.fon-infosport.info
 lp-20.fon-infosport.info
 lp-21.fon-infosport.info
 lp-22.fon-infosport.info
-lp-23.fon-infosport.info
 lp-24.fon-infosport.info
 lp-25.fon-infosport.info
 lp-26.fon-infosport.info
@@ -17555,14 +17554,12 @@ lp-37.fon-infosport.info
 lp-38.fon-infosport.info
 lp-39.fon-infosport.info
 lp-40.fon-infosport.info
-lp-41.fon-infosport.info
 lp-42.fon-infosport.info
 lp-43.fon-infosport.info
 lp-44.fon-infosport.info
 lp-45.fon-infosport.info
 lp-46.fon-infosport.info
 lp-47.fon-infosport.info
-lp-48.fon-infosport.info
 lp-49.fon-infosport.info
 lp-50.fon-infosport.info
 lp-51.fon-infosport.info
@@ -26787,6 +26784,7 @@ ru.leonmybets.com
 ru.leonnetent.com
 ru.leonnotes.com
 ru.leonnpng.com
+ru.leonoblast.com
 ru.leonolds.com
 ru.leonolga.com
 ru.leononlslot.com
