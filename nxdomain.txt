@@ -2036,6 +2036,7 @@
 1wqqb.xyz
 1wqxt.me
 1wqyl.xyz
+1wqyy.xyz
 1wrcd.xyz
 1wris.xyz
 1wrkr.me
@@ -2174,6 +2175,7 @@
 1wxxd.me
 1wxzj.me
 1wyac.me
+1wyai.xyz
 1wyak.xyz
 1wyfo.xyz
 1wyfv.me
@@ -12361,7 +12363,6 @@ docdip.one
 docronika.ru
 document.ml
 dofiga-mp3.ru
-doghunter.to
 dok911.ru
 dok911ru.com
 doktordry.ru
@@ -15628,6 +15629,7 @@ kazinopechki.info
 kazinopelas.info
 kazinopirat.info
 kazinopiter.info
+kazinoplatina.info
 kazinoplay.info
 kazinoplayamo.info
 kazinoplyushki.info
@@ -17529,12 +17531,10 @@ lp-04.foninfobet.info
 lp-05.fon-infosport.info
 lp-05.fongametime.info
 lp-05.foninfobet.info
-lp-06.fon-infosport.info
 lp-06.foninfobet.info
 lp-07.fon-infosport.info
 lp-08.fon-infosport.info
-lp-09.fon-infosport.info
-lp-11.fon-infosport.info
+lp-10.fon-infosport.info
 lp-12.fon-infosport.info
 lp-13.fon-infosport.info
 lp-14.fon-infosport.info
@@ -17551,7 +17551,6 @@ lp-25.fon-infosport.info
 lp-26.fon-infosport.info
 lp-27.fon-infosport.info
 lp-28.fon-infosport.info
-lp-29.fon-infosport.info
 lp-30.fon-infosport.info
 lp-31.fon-infosport.info
 lp-32.fon-infosport.info
