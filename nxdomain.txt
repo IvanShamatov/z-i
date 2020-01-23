@@ -3505,6 +3505,7 @@
 1xtfcf.host
 1xtfvc.host
 1xtgx.host
+1xtgy.xyz
 1xtitileape.xyz
 1xtitilejwf.xyz
 1xtitilemfm.xyz
@@ -5767,6 +5768,7 @@
 777.casino-max-profit.top
 777.casino-winr.info
 777.casino-wint.info
+777.igrovoy-zal.com
 777.kasino-pharaon.com
 777.top-casinoq.info
 7772e4.olimp9249.top
@@ -6393,7 +6395,6 @@ a-zart.com
 a-zino-777.ru
 a.1xbet-hot.info
 a.1xbet-ter.site
-a.1xbett.site
 a.anvoneplay.pro
 a.cdnkino.biz
 a.film-mix1.online
@@ -6942,6 +6943,7 @@ air.pm-116.info
 air.pm-117.info
 air.pm-125.info
 air.pm-136.info
+air.pm-139.info
 air.pm-155.info
 air.pm-157.info
 air.pm-158.info
@@ -17961,12 +17963,10 @@ lp-25.fon-infosport.info
 lp-26.fon-infosport.info
 lp-27.fon-infosport.info
 lp-28.fon-infosport.info
-lp-29.fon-infosport.info
 lp-30.fon-infosport.info
 lp-31.fon-infosport.info
 lp-32.fon-infosport.info
 lp-33.fon-infosport.info
-lp-34.fon-infosport.info
 lp-35.fon-infosport.info
 lp-36.fon-infosport.info
 lp-37.fon-infosport.info
@@ -17980,7 +17980,6 @@ lp-44.fon-infosport.info
 lp-45.fon-infosport.info
 lp-46.fon-infosport.info
 lp-47.fon-infosport.info
-lp-48.fon-infosport.info
 lp-49.fon-infosport.info
 lp-50.fon-infosport.info
 lp-51.fon-infosport.info
@@ -25221,6 +25220,7 @@ pm-126.online
 pm-129.online
 pm-132.site
 pm-136.info
+pm-139.info
 pm-15.website
 pm-154.info
 pm-155.info
@@ -25247,6 +25247,7 @@ pm-179.info
 pm-181.info
 pm-182.info
 pm-183.info
+pm-185.info
 pm-189.info
 pm-192.info
 pm-199.online
@@ -25779,6 +25780,7 @@ r2.marvarid.su
 r3.cybbet.com
 r3.hdrezka-online.ru
 r3.marvarid.su
+r3.topmuzon.info
 r4.hdrezka-online.ru
 r4.marvarid.su
 r5.hdrezka-online.ru
