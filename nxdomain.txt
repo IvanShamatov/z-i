@@ -7071,7 +7071,6 @@ alco-domik.name
 alco-dostavka.live
 alco-lavka.mobi
 alco-town154.ru
-alco-vip.online
 alco5.icu
 alco777store.club
 alcobike.ru
@@ -24374,6 +24373,7 @@ omostrafic.com
 omosttraffic.com
 omsk.focusplenka.com
 on-movie.net
+on.1hd1080.info
 on.kinokong.ws
 on.kinoline.online
 on.serialhit.ru
