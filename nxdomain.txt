@@ -18251,7 +18251,9 @@ lp-37.fon-infosport.info
 lp-39.fon-infosport.info
 lp-40.fon-infosport.info
 lp-41.fon-infosport.info
+lp-42.fon-infosport.info
 lp-44.fon-infosport.info
+lp-45.fon-infosport.info
 lp-47.fon-infosport.info
 lp-49.fon-infosport.info
 lp-51.fon-infosport.info
@@ -35635,6 +35637,7 @@ xn--hydr2webs-t1a.com
 xn--hydra2wb-9cb.com
 xn--hydra2wb-q1a.com
 xn--hydra2wb-z30d.com
+xn--hydra2we-c5b.com
 xn--k1aghg.online
 xn--lealrc-x6a.com
 xn--n1adbge.tech
