@@ -2267,6 +2267,7 @@
 1x-315.site
 1x-317.online
 1x-323.online
+1x-3267.space
 1x-329.online
 1x-342.site
 1x-354.online
@@ -2275,6 +2276,7 @@
 1x-380.online
 1x-404.site
 1x-405.online
+1x-4165.space
 1x-434.site
 1x-438.online
 1x-440.online
@@ -9591,6 +9593,7 @@ bg24.biz.haus
 bg24.biz.klad.shop
 bgbog.dk
 bibifm.at
+bibliofile.su
 bifegiloke.ru
 big-anime.ru
 big-bet.ru
@@ -11166,6 +11169,7 @@ brat38.biz.klad.shop
 bratva333casino.loan
 bravica.org
 brazzers-hdx.pro
+brextkino.ru
 brickleberry.biz.haus
 brickleberry.biz.klad.shop
 brigadakazino.info
@@ -12684,6 +12688,7 @@ dimitrovgrad.prostitutki.sexy
 dimix.eu
 dipdok-help.com
 dipejkazino.info
+dipllom-mer.info
 diplom-96.com
 diplom-attestat-spb.ru
 diplom-iz-vuza.net
@@ -18157,13 +18162,17 @@ lp-05.fongametime.info
 lp-05.foninfobet.info
 lp-06.fon-infosport.info
 lp-06.foninfobet.info
+lp-07.fon-infosport.info
+lp-09.fon-infosport.info
 lp-10.fon-infosport.info
+lp-11.fon-infosport.info
 lp-12.fon-infosport.info
 lp-13.fon-infosport.info
 lp-14.fon-infosport.info
 lp-17.fon-infosport.info
 lp-18.fon-infosport.info
 lp-19.fon-infosport.info
+lp-20.fon-infosport.info
 lp-21.fon-infosport.info
 lp-22.fon-infosport.info
 lp-23.fon-infosport.info
@@ -18179,13 +18188,11 @@ lp-34.fon-infosport.info
 lp-36.fon-infosport.info
 lp-38.fon-infosport.info
 lp-39.fon-infosport.info
-lp-40.fon-infosport.info
 lp-41.fon-infosport.info
 lp-42.fon-infosport.info
 lp-44.fon-infosport.info
 lp-45.fon-infosport.info
 lp-46.fon-infosport.info
-lp-48.fon-infosport.info
 lp-49.fon-infosport.info
 lp-51.fon-infosport.info
 lp-52.fon-infosport.info
@@ -21228,7 +21235,6 @@ mobile.winlinebet99.com
 mobile.winlinebk1.com
 mobile.winlinebk10.com
 mobile.winlinebk3.com
-mobile.winlinebk4.com
 mobile.winlinebk5.com
 mobile.winlinebk6.com
 mobile.winlinebk7.com
@@ -24466,6 +24472,7 @@ novoezerkalo.men
 novokuzneck.diplom-kurerom.com
 novokuznetsk.prostitutki-13.com
 novomat.ru
+novostikazino.info
 novye-bezdepozitnye-bonusy.info
 novye-bonusy-kazino-2018.info
 novye-bonusy-kazino.info
@@ -24482,6 +24489,7 @@ nowmosttrafed.com
 nowslettraf.com
 nowsmostpart.com
 ns3.neverfold.ru
+nsk-dips.ru
 nsportprognoz.ru
 nsportprognoz1.ru
 nsportprognoz2.ru
@@ -29844,6 +29852,7 @@ t9ju4o8jm.srcl.connect.netcdn.bcdl.rocks
 t9ju4ot8o.srcl.connect.netcdn.bcdl.rocks
 tabak-sigi.com
 tabakplus.ru
+tabakur77.net
 tabletmovie.net
 tabucasino.com
 taganrog.prostitutki-13.com
