@@ -12732,6 +12732,8 @@ diplommastaka.com
 diplommshop.online
 diplompro.online
 diplompro.site
+diplompro24.online
+diplompro24.site
 diplomrus.online
 diploms-help.biz
 diploms-msk.com
@@ -18234,7 +18236,6 @@ lp-39.fon-infosport.info
 lp-41.fon-infosport.info
 lp-42.fon-infosport.info
 lp-44.fon-infosport.info
-lp-45.fon-infosport.info
 lp-46.fon-infosport.info
 lp-49.fon-infosport.info
 lp-53.fon-infosport.info
@@ -28812,6 +28813,7 @@ rusale.net
 rusbet.space
 rusbetting.ru
 ruscasino.online
+rusdoc24.site
 rusdocs.site
 rusdocss.site
 rusdocument.biz
