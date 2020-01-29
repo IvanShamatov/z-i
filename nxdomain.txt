@@ -2286,6 +2286,7 @@
 1x-438.online
 1x-440.online
 1x-461.online
+1x-4676.space
 1x-470.online
 1x-471.online
 1x-500.site
@@ -6424,7 +6425,6 @@ a-spas.ru
 a-zino-777.ru
 a.1xbet-hot.info
 a.1xbet-ter.site
-a.1xbett.site
 a.anvoneplay.pro
 a.cdnkino.biz
 a.film-mix1.online
@@ -18237,7 +18237,7 @@ lp-05.fongametime.info
 lp-05.foninfobet.info
 lp-06.fon-infosport.info
 lp-06.foninfobet.info
-lp-08.fon-infosport.info
+lp-09.fon-infosport.info
 lp-10.fon-infosport.info
 lp-12.fon-infosport.info
 lp-13.fon-infosport.info
@@ -18258,7 +18258,6 @@ lp-29.fon-infosport.info
 lp-30.fon-infosport.info
 lp-32.fon-infosport.info
 lp-35.fon-infosport.info
-lp-37.fon-infosport.info
 lp-38.fon-infosport.info
 lp-40.fon-infosport.info
 lp-41.fon-infosport.info
@@ -26562,7 +26561,6 @@ recyclemediaplay.win
 red-pingvin-kazino-bonus.frebonus-top-2018.info
 red.1red.xyz
 red.melbet-ru.site
-red.melbets.site
 red.vulkanbit.win
 redbox-casino.ru
 redbox-cazino.ru
@@ -35851,6 +35849,7 @@ xn--80abwhqgr.xn--p1ai
 xn--80adydm6a.online
 xn--80agbguqgbgcq.com
 xn--80ahgffdh1adg.site
+xn--80ahgffdh1adg.su
 xn--90aavmfi7b1d.xn--p1ai
 xn--90aavwilfc.xn--p1ai
 xn--90ahankqr9d.xn--80asehdb
