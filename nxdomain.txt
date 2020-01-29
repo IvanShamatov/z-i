@@ -18241,6 +18241,7 @@ lp-16.fon-infosport.info
 lp-17.fon-infosport.info
 lp-19.fon-infosport.info
 lp-20.fon-infosport.info
+lp-21.fon-infosport.info
 lp-22.fon-infosport.info
 lp-23.fon-infosport.info
 lp-26.fon-infosport.info
@@ -18251,7 +18252,6 @@ lp-31.fon-infosport.info
 lp-32.fon-infosport.info
 lp-34.fon-infosport.info
 lp-35.fon-infosport.info
-lp-36.fon-infosport.info
 lp-37.fon-infosport.info
 lp-38.fon-infosport.info
 lp-40.fon-infosport.info
@@ -24838,7 +24838,6 @@ oformit-med-spravki-habarovsk.ru
 oformit-med-spravki-kaluga.ru
 oformit-med-spravki-kirov.ru
 oformit-med-spravki-orenburg.ru
-oformit-med-spravki-rostov.ru
 oformit-med-spravki-stavropol.ru
 oformit-med-spravki-vladivostok.ru
 oformit-med-spravki-voronezh.ru
@@ -37116,6 +37115,7 @@ zirrex.ru
 zizxuvq.elevationdocs.com
 zkfm.ru
 zkinfo.ru
+zlatapraha64.ru
 zlatoust.diplomiks-online.com
 zlotykazino777.info
 zmk-music.ru
