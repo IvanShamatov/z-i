@@ -17055,6 +17055,7 @@ kupit-spravku.store
 kupit.gimsrf-prava.com
 kupitdiplom-nnovgorod.com
 kupitdiplom-vsamare.com
+kupitdiploms-rus.com
 kupite-stroiudo.com
 kupitgims.com.
 kupitspravku.xyz
@@ -18264,7 +18265,6 @@ lp-22.fon-infosport.info
 lp-23.fon-infosport.info
 lp-25.fon-infosport.info
 lp-26.fon-infosport.info
-lp-27.fon-infosport.info
 lp-28.fon-infosport.info
 lp-29.fon-infosport.info
 lp-30.fon-infosport.info
@@ -18278,7 +18278,6 @@ lp-39.fon-infosport.info
 lp-41.fon-infosport.info
 lp-43.fon-infosport.info
 lp-44.fon-infosport.info
-lp-45.fon-infosport.info
 lp-46.fon-infosport.info
 lp-49.fon-infosport.info
 lp-50.fon-infosport.info
@@ -20653,6 +20652,7 @@ mirror69.ru
 mirror73.ru
 mirror75.ru
 mirror81.ru
+mirror82.ru
 mirror9.ru
 mirror91.ru
 mirrormarathon.win
@@ -33547,6 +33547,7 @@ www.bkwinline120.com
 www.bkwinline123.com
 www.bkwinline126.com
 www.bkwinline127.com
+www.bkwinline134.com
 www.bkwinline137.com
 www.bkwinline143.com
 www.bkwinline21.com
