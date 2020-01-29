@@ -7052,6 +7052,7 @@ air.pm-472.info
 air.pm-474.info
 air.pm-475.info
 air.pm-500.info
+air.pm-587.info
 air.pm-599.info
 air.pm-681.info
 air.pm-702.info
@@ -18272,7 +18273,6 @@ lp-50.fon-infosport.info
 lp-51.fon-infosport.info
 lp-52.fon-infosport.info
 lp-54.fon-infosport.info
-lp-55.fon-infosport.info
 lp-56.fon-infosport.info
 lp.championcasino.net
 lpbestsportsbook.com
@@ -34733,6 +34733,7 @@ www.playrussvulcan.ru
 www.pleer.com
 www.pleer.net
 www.plusrotate.win
+www.pm-587.info
 www.pm-802.info
 www.pmbts-bk.ru
 www.pmtch-bets.ru
@@ -35529,6 +35530,7 @@ www.youtor.ru
 www.z-bet57.top
 www.zagonka.ru
 www.zaklad.ch
+www.zamuti.cc
 www.zaspravkou.org
 www.zaycev-tut.ru
 www.zaycev.win
