@@ -18287,7 +18287,6 @@ lp-24.fon-infosport.info
 lp-25.fon-infosport.info
 lp-26.fon-infosport.info
 lp-27.fon-infosport.info
-lp-28.fon-infosport.info
 lp-29.fon-infosport.info
 lp-30.fon-infosport.info
 lp-31.fon-infosport.info
@@ -29209,6 +29208,7 @@ rusdocument.site
 rusdopingkrasnoyarsk.ru
 ruseeds.biz
 ruseeds.live
+ruseeds.store
 rusgeisha.site
 ruskazino.info
 ruskino.org
@@ -33483,7 +33483,6 @@ www.betfaironline.eu
 www.betformara.win
 www.betformrth.win
 www.betgoldcasino.com
-www.betjambo.com
 www.betlatina.ag
 www.betnano7.com
 www.betonex1.com
